@@ -35,6 +35,22 @@ Abre o browser em `http://localhost:8501`, escolhe as fontes na sidebar e
 clica em **Sondar mercado hoje**. As ideias geradas aparecem em 3 cartoes;
 o botao *Guardar ideia* persiste-as em `ideas.db`.
 
+## Deploy publico (gratis) - Streamlit Community Cloud
+
+1. Vai a **https://share.streamlit.io** e faz login com o GitHub (`jfcorreiarodrigues`).
+2. Clica em **"Create app"** -> **"Deploy from GitHub"** e escolhe:
+   - Repository: `jfcorreiarodrigues/ideas`
+   - Branch: `claude/app-idea-radar-UkGD5` (ou `main` depois de fazer merge)
+   - Main file path: `app.py`
+3. Em **"Advanced settings" -> Secrets**, cola:
+   ```toml
+   GEMINI_API_KEY = "a-tua-chave"
+   ```
+4. Clica **Deploy**. Em ~2 min tens o URL publico (algo como
+   `https://ideas-<hash>.streamlit.app`).
+
+A app detecta automaticamente a chave via `st.secrets`, sem codigo extra.
+
 ## Fontes de tendencias
 
 - **Hacker News** - top stories via API publica (recomendado para builders).

@@ -307,11 +307,17 @@ def main() -> None:
     # --- Sidebar: configuracao -------------------------------------------------
     st.sidebar.header("Configuracao")
     provider = st.sidebar.selectbox("Provider LLM", ["Gemini", "OpenAI"], index=0)
+    key_name = "GEMINI_API_KEY" if provider == "Gemini" else "OPENAI_API_KEY"
+    # Prioridade: st.secrets (Streamlit Cloud) > variavel de ambiente > input manual.
+    default_key = ""
+    try:
+        default_key = st.secrets.get(key_name, "")
+    except Exception:
+        pass
+    default_key = default_key or os.getenv(key_name, "")
     if provider == "Gemini":
-        default_key = os.getenv("GEMINI_API_KEY", "")
         model = st.sidebar.text_input("Modelo", value="gemini-2.5-flash")
     else:
-        default_key = os.getenv("OPENAI_API_KEY", "")
         model = st.sidebar.text_input("Modelo", value="gpt-4o-mini")
     api_key = st.sidebar.text_input("API key", value=default_key, type="password")
 

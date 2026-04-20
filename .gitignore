@@ -4,3 +4,4 @@ __pycache__/
 ideas.db
 .env
 .streamlit/secrets.toml
+!.streamlit/secrets.toml.example
