@@ -10,6 +10,8 @@ from __future__ import annotations
 
 import json
 import os
+import re
+import time
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -215,6 +217,44 @@ def _build_prompt(trends: list[str], avoid_names: list[str]) -> str:
     )
 
 
+def _extract_retry_delay(exc: Exception, default: float = 60.0) -> float:
+    """Extrai segundos de espera sugeridos pelo erro (Gemini/OpenAI)."""
+    msg = str(exc)
+    m = re.search(r"retry in ([0-9]+(?:\.[0-9]+)?)s", msg) or re.search(
+        r"retry_delay[^0-9]*seconds:\s*([0-9]+)", msg
+    )
+    if m:
+        return float(m.group(1))
+    return default
+
+
+def _is_rate_limit(exc: Exception) -> bool:
+    name = type(exc).__name__
+    msg = str(exc).lower()
+    return (
+        "resourceexhausted" in name.lower()
+        or "ratelimit" in name.lower()
+        or "429" in msg
+        or "quota" in msg
+        or "rate limit" in msg
+    )
+
+
+def _call_with_retry(fn, *, max_attempts: int = 3, cap_seconds: float = 75.0):
+    """Tenta executar fn(); se apanhar 429, espera o delay sugerido e repete."""
+    for attempt in range(1, max_attempts + 1):
+        try:
+            return fn()
+        except Exception as exc:  # noqa: BLE001
+            if not _is_rate_limit(exc) or attempt == max_attempts:
+                raise
+            delay = min(_extract_retry_delay(exc, default=60.0) + 2, cap_seconds)
+            print(
+                f"[llm] Rate limit (tentativa {attempt}/{max_attempts}) - a esperar {delay:.0f}s"
+            )
+            time.sleep(delay)
+
+
 def generate_ideas_gemini(
     trends: list[str], api_key: str, model: str, avoid_names: list[str] | None = None
 ) -> list[Idea]:
@@ -223,7 +263,7 @@ def generate_ideas_gemini(
     genai.configure(api_key=api_key)
     llm = genai.GenerativeModel(model)
     prompt = _build_prompt(trends, avoid_names or [])
-    response = llm.generate_content(prompt)
+    response = _call_with_retry(lambda: llm.generate_content(prompt))
     return _parse_ideas_payload(response.text, trends_context="\n".join(trends))
 
 
@@ -234,10 +274,12 @@ def generate_ideas_openai(
         raise RuntimeError("openai nao instalado.")
     client = OpenAI(api_key=api_key)
     prompt = _build_prompt(trends, avoid_names or [])
-    response = client.chat.completions.create(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-        response_format={"type": "json_object"},
+    response = _call_with_retry(
+        lambda: client.chat.completions.create(
+            model=model,
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"},
+        )
     )
     return _parse_ideas_payload(
         response.choices[0].message.content,
