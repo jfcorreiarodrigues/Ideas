@@ -1,41 +1,63 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T08:21:56+00:00",
+  "generated_at": "2026-04-21T13:50:13+00:00",
   "trends": [
-    "John Ternus to become Apple CEO",
-    "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-    "Less human AI agents, please",
-    "A Roblox cheat and one AI tool brought down Vercel's platform",
-    "Louis Zocchi, inventor of the d100, has died",
-    "The Beauty of Bonsai Styles",
-    "How to make a fast dynamic language interpreter",
-    "Salmon exposed to cocaine and its main byproduct roam more widely",
-    "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-    "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving"
+    "[tech] Laws of Software Engineering",
+    "[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "[tech] John Ternus to become Apple CEO",
+    "[tech] A type-safe, realtime collaborative Graph Database in a CRDT",
+    "[tech] Tim Cook's Impeccable Timing",
+    "[tech] The abandoned war: Why no one is stopping the genocide in Sudan",
+    "[tech] Tindie store under \"scheduled maintenance\" for days",
+    "[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany"
   ],
   "ideas": [
     {
-      "name": "AI Agent Manager",
-      "problem": "A proliferação de agentes de IA para diversas tarefas pode levar a complexidade e desorganização. Os usuários precisam de uma forma centralizada e intuitiva para gerenciar, monitorar e otimizar o desempenho desses agentes.",
-      "monetization": "SaaS B2B com planos escalonados baseados em número de agentes e funcionalidades (ex: Freemium com plano pago a partir de $19/mês).",
-      "theme": "AI Agent Tools",
-      "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "name": "Tindie Store Manager",
+      "problem": "Pequenos vendedores no Tindie enfrentam dificuldades com a manutenção agendada prolongada e a falta de comunicação. Uma ferramenta que monitora o status da loja, notifica sobre problemas e oferece um painel de controle centralizado seria útil.",
+      "monetization": "SaaS B2B 19.99USD/mes por loja",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "created_at": ""
     },
     {
-      "name": "Bonsai Cultivation Coach",
-      "problem": "A arte do bonsai exige conhecimento especializado sobre estilos, cuidados e técnicas de poda que muitos iniciantes e entusiastas têm dificuldade em dominar. A falta de orientação personalizada pode levar a plantas saudáveis, mas esteticamente insatisfatórias.",
-      "monetization": "Freemium com conteúdo premium pago (ex: guias avançados, planos de tratamento personalizados) e IAP para consultas virtuais com especialistas.",
-      "theme": "Hobbyist Guidance",
-      "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "name": "Collaborative Graph Editor",
+      "problem": "Desenvolvedores e designers que trabalham em projetos complexos e interconectados, como bancos de dados de grafos ou fluxos de trabalho, precisam de uma ferramenta de colaboração em tempo real. Editor de grafos em tempo real com controle de versão.",
+      "monetization": "Freemium com planos pagos a partir de 49.99USD/mes para equipas",
+      "theme": "Productivity",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "created_at": ""
     },
     {
-      "name": "Fairness API",
-      "problem": "Garantir a imparcialidade e equidade em sistemas de IA é um desafio crescente, especialmente com a adoção de LLMs. Desenvolvedores e empresas necessitam de ferramentas para avaliar, auditar e mitigar vieses em seus modelos.",
-      "monetization": "API as a Service (PaaS) com precificação baseada no volume de chamadas e complexidade da análise, com planos corporativos customizados.",
-      "theme": "AI Ethics",
-      "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "name": "Open Hardware Finder",
+      "problem": "Entusiastas e profissionais que procuram hardware aberto e sustentável lutam para encontrar uma plataforma centralizada. Um agregador de projetos de hardware aberto com filtros por tipo, licença e local de fabrico.",
+      "monetization": "Marketplace para fabricantes venderem diretamente, com uma taxa de 8% por transação",
+      "theme": "Niche Consumer",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "created_at": ""
+    },
+    {
+      "name": "Ethical Tech Audits",
+      "problem": "Empresas de tecnologia que lutam com a implantação ética de novas funcionalidades e a conformidade com regulamentações emergentes necessitam de ferramentas para avaliar o impacto. Uma plataforma que automatiza a análise de viés em algoritmos e a conformidade com leis.",
+      "monetization": "SaaS B2B com pacotes de auditoria a partir de 1999USD",
+      "theme": "Tech Ethics",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "created_at": ""
+    },
+    {
+      "name": "Video Editing Companion",
+      "problem": "Criadores de conteúdo que usam editores de vídeo baseados em navegador, mas precisam de uma forma mais eficiente de gerenciar e organizar seus projetos sem uploads. Um companheiro que oferece um inventário local de projetos, ferramentas de transcodificação offline e sincronização segura.",
+      "monetization": "Freemium com funcionalidades avançadas de organização e transcodificação por 9.99USD/mes",
+      "theme": "Creator Economy",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "created_at": ""
+    },
+    {
+      "name": "Sudan Crisis Monitor",
+      "problem": "Indivíduos e organizações que buscam informações confiáveis e atualizadas sobre crises humanitárias, como a do Sudão, e querem entender as causas e potenciais soluções. Um aplicativo que agrega notícias verificadas, análises de especialistas e chamadas para ação.",
+      "monetization": "Doações voluntárias, parcerias com ONGs (taxa de serviço para campanhas)",
+      "theme": "Social Impact",
+      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "created_at": ""
     }
   ]
