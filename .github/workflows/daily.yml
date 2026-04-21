@@ -32,6 +32,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LLM_PROVIDER: gemini
           LLM_MODEL: gemini-2.5-flash-lite
+          NUM_IDEAS: "6"
         run: python daily_job.py
 
       - name: Commit & push updated data

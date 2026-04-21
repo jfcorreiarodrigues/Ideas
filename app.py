@@ -154,7 +154,7 @@ def render_favorites_sidebar() -> None:
 # ---------------------------------------------------------------------------
 
 
-def tab_today(provider: str, api_key: str, model: str) -> None:
+def tab_today(provider: str, api_key: str, model: str, num_ideas: int, sources: dict[str, bool]) -> None:
     latest = load_latest()
     if latest:
         st.caption(
@@ -169,29 +169,32 @@ def tab_today(provider: str, api_key: str, model: str) -> None:
             "Sondar mercado agora", type="primary", use_container_width=True
         )
     with col_info:
-        st.caption(
-            "Usa as fontes default (HN + r/startups) e evita ideias ja propostas."
-        )
+        active = ", ".join(k for k, v in sources.items() if v) or "nenhuma"
+        st.caption(f"Fontes activas: **{active}** - evita ideias ja propostas.")
 
     if trigger:
         if not api_key:
             st.error("Define a API key na sidebar (ou configura-a nos Secrets do Streamlit Cloud).")
             return
+        if not any(sources.values()):
+            st.error("Seleciona pelo menos uma fonte na sidebar.")
+            return
         with st.spinner("A agregar tendencias..."):
-            from radar_core import default_sources
-            trends = aggregate_trends(default_sources())
+            trends = aggregate_trends(sources)
         if not trends:
             st.error("Nao foi possivel obter tendencias.")
             return
-        with st.expander(f"Top {len(trends)} tendencias", expanded=False):
+        with st.expander(f"{len(trends)} tendencias recolhidas", expanded=False):
             for t in trends:
                 st.write(f"- {t}")
 
         history = load_history()
-        avoid = past_idea_names(history, limit=60)
-        with st.spinner(f"A pedir ao {provider} para gerar ideias frescas..."):
+        avoid = past_idea_names(history, limit=80)
+        with st.spinner(f"A pedir ao {provider} {num_ideas} ideias frescas..."):
             try:
-                ideas = generate_ideas(provider, trends, api_key, model, avoid_names=avoid)
+                ideas = generate_ideas(
+                    provider, trends, api_key, model, avoid_names=avoid, num_ideas=num_ideas
+                )
             except Exception as exc:
                 st.error(f"Falha ao gerar ideias: {exc}")
                 return
@@ -249,7 +252,7 @@ def main() -> None:
     # Sidebar: config
     st.sidebar.header("Configuracao")
     provider = st.sidebar.selectbox("Provider LLM", ["Gemini", "OpenAI"], index=0)
-    default_model = "gemini-2.5-flash" if provider == "Gemini" else "gpt-4o-mini"
+    default_model = "gemini-2.5-flash-lite" if provider == "Gemini" else "gpt-4o-mini"
     model = st.sidebar.text_input("Modelo", value=default_model)
 
     api_key, has_secret = resolve_api_key(provider)
@@ -263,11 +266,25 @@ def main() -> None:
             help="Configura nos Secrets do Streamlit Cloud para persistir entre sessoes.",
         )
 
+    num_ideas = st.sidebar.slider("Ideias por sondagem", 3, 10, 6)
+
+    st.sidebar.subheader("Fontes de tendencias")
+    sources = {
+        "hacker_news": st.sidebar.checkbox("Hacker News (tech)", value=True),
+        "reddit_startups": st.sidebar.checkbox("Reddit /r/startups", value=True),
+        "indie_hackers": st.sidebar.checkbox("Indie Hackers", value=True),
+        "everyday_problems": st.sidebar.checkbox(
+            "Problemas do dia-a-dia (5 subreddits)", value=True
+        ),
+        "product_hunt": st.sidebar.checkbox("Product Hunt", value=False),
+        "google_trends": st.sidebar.checkbox("Google Trends", value=False),
+    }
+
     render_favorites_sidebar()
 
     tab1, tab2 = st.tabs(["Hoje", "Historico por tema"])
     with tab1:
-        tab_today(provider, api_key, model)
+        tab_today(provider, api_key, model, num_ideas, sources)
     with tab2:
         tab_history()
 

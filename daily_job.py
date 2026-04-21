@@ -27,7 +27,7 @@ def main() -> int:
     provider = os.getenv("LLM_PROVIDER", "gemini").lower()
     if provider == "gemini":
         api_key = os.getenv("GEMINI_API_KEY", "")
-        model = os.getenv("LLM_MODEL", "gemini-2.5-flash")
+        model = os.getenv("LLM_MODEL", "gemini-2.5-flash-lite")
     else:
         api_key = os.getenv("OPENAI_API_KEY", "")
         model = os.getenv("LLM_MODEL", "gpt-4o-mini")
@@ -35,7 +35,8 @@ def main() -> int:
         print(f"[daily] Falta API key para provider '{provider}'.", file=sys.stderr)
         return 1
 
-    print(f"[daily] provider={provider} model={model}")
+    num_ideas = int(os.getenv("NUM_IDEAS", "6"))
+    print(f"[daily] provider={provider} model={model} num_ideas={num_ideas}")
     trends = aggregate_trends(default_sources())
     if not trends:
         print("[daily] Sem tendencias - a abortar.", file=sys.stderr)
@@ -43,10 +44,12 @@ def main() -> int:
     print(f"[daily] {len(trends)} tendencias recolhidas.")
 
     history = load_history()
-    avoid = past_idea_names(history, limit=60)
+    avoid = past_idea_names(history, limit=80)
     print(f"[daily] A evitar {len(avoid)} nomes do historico.")
 
-    ideas = generate_ideas(provider, trends, api_key, model, avoid_names=avoid)
+    ideas = generate_ideas(
+        provider, trends, api_key, model, avoid_names=avoid, num_ideas=num_ideas
+    )
     ideas = dedupe_against_history(ideas, history)
     if not ideas:
         print("[daily] Todas as ideias geradas eram duplicadas. A abortar.", file=sys.stderr)
