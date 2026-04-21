@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-04-21",
+    "generated_at": "2026-04-21T08:21:56+00:00",
+    "trends": [
+      "John Ternus to become Apple CEO",
+      "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "Less human AI agents, please",
+      "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "Louis Zocchi, inventor of the d100, has died",
+      "The Beauty of Bonsai Styles",
+      "How to make a fast dynamic language interpreter",
+      "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+      "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving"
+    ],
+    "ideas": [
+      {
+        "name": "AI Agent Manager",
+        "problem": "A proliferação de agentes de IA para diversas tarefas pode levar a complexidade e desorganização. Os usuários precisam de uma forma centralizada e intuitiva para gerenciar, monitorar e otimizar o desempenho desses agentes.",
+        "monetization": "SaaS B2B com planos escalonados baseados em número de agentes e funcionalidades (ex: Freemium com plano pago a partir de $19/mês).",
+        "theme": "AI Agent Tools",
+        "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "created_at": ""
+      },
+      {
+        "name": "Bonsai Cultivation Coach",
+        "problem": "A arte do bonsai exige conhecimento especializado sobre estilos, cuidados e técnicas de poda que muitos iniciantes e entusiastas têm dificuldade em dominar. A falta de orientação personalizada pode levar a plantas saudáveis, mas esteticamente insatisfatórias.",
+        "monetization": "Freemium com conteúdo premium pago (ex: guias avançados, planos de tratamento personalizados) e IAP para consultas virtuais com especialistas.",
+        "theme": "Hobbyist Guidance",
+        "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "created_at": ""
+      },
+      {
+        "name": "Fairness API",
+        "problem": "Garantir a imparcialidade e equidade em sistemas de IA é um desafio crescente, especialmente com a adoção de LLMs. Desenvolvedores e empresas necessitam de ferramentas para avaliar, auditar e mitigar vieses em seus modelos.",
+        "monetization": "API as a Service (PaaS) com precificação baseada no volume de chamadas e complexidade da análise, com planos corporativos customizados.",
+        "theme": "AI Ethics",
+        "trends_context": "John Ternus to become Apple CEO\nAnthropic says OpenClaw-style Claude CLI usage is allowed again\nLess human AI agents, please\nA Roblox cheat and one AI tool brought down Vercel's platform\nLouis Zocchi, inventor of the d100, has died\nThe Beauty of Bonsai Styles\nHow to make a fast dynamic language interpreter\nSalmon exposed to cocaine and its main byproduct roam more widely\nShow HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness\nQwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "created_at": ""
+      }
+    ]
+  }
+]
