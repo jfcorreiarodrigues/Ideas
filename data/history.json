@@ -104,5 +104,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "generated_at": "2026-04-22T08:24:31+00:00",
+    "trends": [
+      "[tech] Making RAM at Home [video]",
+      "[tech] ChatGPT Images 2.0",
+      "[tech] Acetaminophen vs. ibuprofen",
+      "[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+      "[tech] Laws of Software Engineering",
+      "[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+      "[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "[tech] SpaceX says it has agreement to acquire Cursor for $60B"
+    ],
+    "ideas": [
+      {
+        "name": "Glaucoma Lens Monitor",
+        "problem": "Pessoas com glaucoma precisam de monitorização contínua da pressão intraocular. Esta app, ligada a lentes de contacto microfluídicas, alertaria o utilizador e o médico sobre níveis anormais.",
+        "monetization": "SaaS B2C - Subscrição mensal para acesso a dados e relatórios, com opção premium para integração médica (ex: 9.99USD/mês).",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      },
+      {
+        "name": "Mars Molecule Explorer",
+        "problem": "Entusiastas de ciência e estudantes têm dificuldade em visualizar e compreender os compostos orgânicos descobertos em Marte. A app apresentaria modelos 3D interativos e informações detalhadas sobre as moléculas.",
+        "monetization": "Freemium com IAP para conteúdos avançados e simulações (ex: 2.99USD por pack de moléculas).",
+        "theme": "Science Education",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      },
+      {
+        "name": "RAM Builder Guide",
+        "problem": "Entusiastas de hardware que desejam construir ou reparar componentes de RAM em casa carecem de guias visuais e interativos. A app forneceria tutoriais passo a passo, listas de materiais e diagnósticos de problemas.",
+        "monetization": "Venda de guias premium e acesso a fóruns de suporte (ex: 19.99USD por guia detalhado).",
+        "theme": "DIY Tech",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      },
+      {
+        "name": "Software Laws Helper",
+        "problem": "Engenheiros de software precisam de consultar e aplicar princípios de engenharia de software de forma consistente. Esta app atuaria como um guia interativo de leis e padrões de engenharia, com exemplos práticos.",
+        "monetization": "SaaS B2B - Licença para equipas de desenvolvimento (ex: 5USD/utilizador/mês).",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      },
+      {
+        "name": "RX Pain Manager",
+        "problem": "Consumidores precisam de uma forma simples de comparar a eficácia e os efeitos secundários de analgésicos comuns como paracetamol e ibuprofeno para gerir dores do dia-a-dia.",
+        "monetization": "Freemium - Acesso básico a comparações; IAP para registo de histórico de uso e alertas de interações (ex: 1.99USD).",
+        "theme": "Consumer Health",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      },
+      {
+        "name": "SpaceX Acquisition Watch",
+        "problem": "Investidores e entusiastas de tecnologia procuram antecipar e compreender grandes aquisições no setor espacial e de tecnologia. A app forneceria notícias, análises e projeções sobre potenciais aquisições.",
+        "monetization": "Subscrição Premium - Acesso a análises aprofundadas e alertas de negociação (ex: 14.99USD/mês).",
+        "theme": "Investment Insights",
+        "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
+        "created_at": ""
+      }
+    ]
   }
 ]

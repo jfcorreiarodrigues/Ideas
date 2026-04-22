@@ -1,63 +1,63 @@
 {
-  "date": "2026-04-21",
-  "generated_at": "2026-04-21T13:50:13+00:00",
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T08:24:31+00:00",
   "trends": [
+    "[tech] Making RAM at Home [video]",
+    "[tech] ChatGPT Images 2.0",
+    "[tech] Acetaminophen vs. ibuprofen",
+    "[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
     "[tech] Laws of Software Engineering",
-    "[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-    "[tech] John Ternus to become Apple CEO",
-    "[tech] A type-safe, realtime collaborative Graph Database in a CRDT",
-    "[tech] Tim Cook's Impeccable Timing",
-    "[tech] The abandoned war: Why no one is stopping the genocide in Sudan",
-    "[tech] Tindie store under \"scheduled maintenance\" for days",
-    "[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany"
+    "[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+    "[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+    "[tech] SpaceX says it has agreement to acquire Cursor for $60B"
   ],
   "ideas": [
     {
-      "name": "Tindie Store Manager",
-      "problem": "Pequenos vendedores no Tindie enfrentam dificuldades com a manutenção agendada prolongada e a falta de comunicação. Uma ferramenta que monitora o status da loja, notifica sobre problemas e oferece um painel de controle centralizado seria útil.",
-      "monetization": "SaaS B2B 19.99USD/mes por loja",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "Glaucoma Lens Monitor",
+      "problem": "Pessoas com glaucoma precisam de monitorização contínua da pressão intraocular. Esta app, ligada a lentes de contacto microfluídicas, alertaria o utilizador e o médico sobre níveis anormais.",
+      "monetization": "SaaS B2C - Subscrição mensal para acesso a dados e relatórios, com opção premium para integração médica (ex: 9.99USD/mês).",
+      "theme": "Health Tracking",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     },
     {
-      "name": "Collaborative Graph Editor",
-      "problem": "Desenvolvedores e designers que trabalham em projetos complexos e interconectados, como bancos de dados de grafos ou fluxos de trabalho, precisam de uma ferramenta de colaboração em tempo real. Editor de grafos em tempo real com controle de versão.",
-      "monetization": "Freemium com planos pagos a partir de 49.99USD/mes para equipas",
-      "theme": "Productivity",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "Mars Molecule Explorer",
+      "problem": "Entusiastas de ciência e estudantes têm dificuldade em visualizar e compreender os compostos orgânicos descobertos em Marte. A app apresentaria modelos 3D interativos e informações detalhadas sobre as moléculas.",
+      "monetization": "Freemium com IAP para conteúdos avançados e simulações (ex: 2.99USD por pack de moléculas).",
+      "theme": "Science Education",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     },
     {
-      "name": "Open Hardware Finder",
-      "problem": "Entusiastas e profissionais que procuram hardware aberto e sustentável lutam para encontrar uma plataforma centralizada. Um agregador de projetos de hardware aberto com filtros por tipo, licença e local de fabrico.",
-      "monetization": "Marketplace para fabricantes venderem diretamente, com uma taxa de 8% por transação",
-      "theme": "Niche Consumer",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "RAM Builder Guide",
+      "problem": "Entusiastas de hardware que desejam construir ou reparar componentes de RAM em casa carecem de guias visuais e interativos. A app forneceria tutoriais passo a passo, listas de materiais e diagnósticos de problemas.",
+      "monetization": "Venda de guias premium e acesso a fóruns de suporte (ex: 19.99USD por guia detalhado).",
+      "theme": "DIY Tech",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     },
     {
-      "name": "Ethical Tech Audits",
-      "problem": "Empresas de tecnologia que lutam com a implantação ética de novas funcionalidades e a conformidade com regulamentações emergentes necessitam de ferramentas para avaliar o impacto. Uma plataforma que automatiza a análise de viés em algoritmos e a conformidade com leis.",
-      "monetization": "SaaS B2B com pacotes de auditoria a partir de 1999USD",
-      "theme": "Tech Ethics",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "Software Laws Helper",
+      "problem": "Engenheiros de software precisam de consultar e aplicar princípios de engenharia de software de forma consistente. Esta app atuaria como um guia interativo de leis e padrões de engenharia, com exemplos práticos.",
+      "monetization": "SaaS B2B - Licença para equipas de desenvolvimento (ex: 5USD/utilizador/mês).",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     },
     {
-      "name": "Video Editing Companion",
-      "problem": "Criadores de conteúdo que usam editores de vídeo baseados em navegador, mas precisam de uma forma mais eficiente de gerenciar e organizar seus projetos sem uploads. Um companheiro que oferece um inventário local de projetos, ferramentas de transcodificação offline e sincronização segura.",
-      "monetization": "Freemium com funcionalidades avançadas de organização e transcodificação por 9.99USD/mes",
-      "theme": "Creator Economy",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "RX Pain Manager",
+      "problem": "Consumidores precisam de uma forma simples de comparar a eficácia e os efeitos secundários de analgésicos comuns como paracetamol e ibuprofeno para gerir dores do dia-a-dia.",
+      "monetization": "Freemium - Acesso básico a comparações; IAP para registo de histórico de uso e alertas de interações (ex: 1.99USD).",
+      "theme": "Consumer Health",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     },
     {
-      "name": "Sudan Crisis Monitor",
-      "problem": "Indivíduos e organizações que buscam informações confiáveis e atualizadas sobre crises humanitárias, como a do Sudão, e querem entender as causas e potenciais soluções. Um aplicativo que agrega notícias verificadas, análises de especialistas e chamadas para ação.",
-      "monetization": "Doações voluntárias, parcerias com ONGs (taxa de serviço para campanhas)",
-      "theme": "Social Impact",
-      "trends_context": "[tech] Laws of Software Engineering\n[tech] Show HN: VidStudio, a browser based video editor that doesn't upload your files\n[tech] John Ternus to become Apple CEO\n[tech] A type-safe, realtime collaborative Graph Database in a CRDT\n[tech] Tim Cook's Impeccable Timing\n[tech] The abandoned war: Why no one is stopping the genocide in Sudan\n[tech] Tindie store under \"scheduled maintenance\" for days\n[tech] MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "name": "SpaceX Acquisition Watch",
+      "problem": "Investidores e entusiastas de tecnologia procuram antecipar e compreender grandes aquisições no setor espacial e de tecnologia. A app forneceria notícias, análises e projeções sobre potenciais aquisições.",
+      "monetization": "Subscrição Premium - Acesso a análises aprofundadas e alertas de negociação (ex: 14.99USD/mês).",
+      "theme": "Investment Insights",
+      "trends_context": "[tech] Making RAM at Home [video]\n[tech] ChatGPT Images 2.0\n[tech] Acetaminophen vs. ibuprofen\n[tech] Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma\n[tech] Laws of Software Engineering\n[tech] Diverse organic molecules on Mars revealed by the first SAM TMAH experiment\n[tech] XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?\n[tech] SpaceX says it has agreement to acquire Cursor for $60B",
       "created_at": ""
     }
   ]
