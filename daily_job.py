@@ -16,6 +16,7 @@ from radar_core import (
     aggregate_trends,
     default_sources,
     dedupe_against_history,
+    filter_actionable,
     generate_ideas,
     load_history,
     past_idea_names,
@@ -36,7 +37,10 @@ def main() -> int:
         return 1
 
     num_ideas = int(os.getenv("NUM_IDEAS", "6"))
-    print(f"[daily] provider={provider} model={model} num_ideas={num_ideas}")
+    min_score = int(os.getenv("MIN_ACTIONABILITY", "3"))
+    # Pede um extra ao LLM para compensar ideias removidas pelo filtro.
+    requested = num_ideas + 2
+    print(f"[daily] provider={provider} model={model} requested={requested} min_score={min_score}")
     trends = aggregate_trends(default_sources())
     if not trends:
         print("[daily] Sem tendencias - a abortar.", file=sys.stderr)
@@ -48,17 +52,23 @@ def main() -> int:
     print(f"[daily] A evitar {len(avoid)} nomes do historico.")
 
     ideas = generate_ideas(
-        provider, trends, api_key, model, avoid_names=avoid, num_ideas=num_ideas
+        provider, trends, api_key, model, avoid_names=avoid, num_ideas=requested
     )
+    before_filter = len(ideas)
+    ideas = filter_actionable(ideas, min_score=min_score)
+    dropped = before_filter - len(ideas)
+    if dropped:
+        print(f"[daily] {dropped} ideias descartadas por score < {min_score}.")
     ideas = dedupe_against_history(ideas, history)
+    ideas = ideas[:num_ideas]
     if not ideas:
-        print("[daily] Todas as ideias geradas eram duplicadas. A abortar.", file=sys.stderr)
+        print("[daily] Sem ideias acionaveis apos filtros. A abortar.", file=sys.stderr)
         return 3
 
     run = persist_run(trends, ideas)
     print(f"[daily] Gravadas {len(ideas)} ideias para {run['date']}.")
     for i in ideas:
-        print(f"  - [{i.theme}] {i.name}")
+        print(f"  - [{i.theme}] {i.name} (score {i.actionability_score}, effort {i.effort})")
     return 0
 
 
