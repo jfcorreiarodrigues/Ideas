@@ -232,5 +232,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T08:55:38+00:00",
+    "trends": [
+      "[tech] DeepSeek v4",
+      "[tech] Composition Shouldn't be this Hard",
+      "[tech] Why I Write (1946)",
+      "[tech] An update on recent Claude Code quality reports",
+      "[tech] GPT-5.5",
+      "[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "[tech] Show HN: Gova – The declarative GUI framework for Go"
+    ],
+    "ideas": [
+      {
+        "name": "SecureVault Family",
+        "problem": "Famílias precisam de uma forma segura e simples de gerir contrasendas compartilhadas para serviços essenciais (streaming, pagamentos, etc.), garantindo acesso controlado.",
+        "monetization": "SaaS Familiar 9.99USD/mes com plano gratuito limitado.",
+        "theme": "Password Management Family",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      },
+      {
+        "name": "Crafty Inventory Pro",
+        "problem": "Pequenos artesãos e lojas de nicho lutam para rastrear inventário de materiais e produtos acabados, levando a perdas e vendas perdidas.",
+        "monetization": "SaaS B2B 29USD/mes por utilizador com upgrade para funcionalidades avançadas.",
+        "theme": "Small Business Inventory",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Reviewer",
+        "problem": "Desenvolvedores frequentemente perdem tempo revisando código manualmente em busca de erros simples ou inconsistências, atrasando o ciclo de desenvolvimento.",
+        "monetization": "SaaS Dev-Tool 19USD/mes por utilizador.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      },
+      {
+        "name": "Pet Health Tracker",
+        "problem": "Donos de animais de estimação precisam de um local centralizado para registrar vacinas, consultas veterinárias, histórico de saúde e lembretes de medicamentos para seus pets.",
+        "monetization": "Freemium + IAP 4.99USD para recursos premium (alertas avançados, histórico ilimitado).",
+        "theme": "Pet Wellness",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      },
+      {
+        "name": "Local Event Discoverer",
+        "problem": "Pessoas procuram ativamente por eventos locais e atividades de lazer, mas a informação está dispersa e difícil de encontrar de forma organizada.",
+        "monetization": "Marketplace 10% fee de bilhetes vendidos + listagens premium para organizadores.",
+        "theme": "Community Events",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      },
+      {
+        "name": "Budget Companion",
+        "problem": "Indivíduos e jovens adultos têm dificuldade em criar e manter orçamentos realistas, acompanhar despesas e definir metas financeiras claras.",
+        "monetization": "Freemium com funcionalidades básicas gratuitas; assinatura premium de 2.99USD/mes para relatórios detalhados e planejamento de metas.",
+        "theme": "Personal Finance",
+        "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+        "created_at": ""
+      }
+    ]
   }
 ]
