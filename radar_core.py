@@ -62,6 +62,28 @@ EVERYDAY_SUBREDDITS = {
     "personalfinance": "dinheiro/consumo",
 }
 
+# Tese editorial: 2026 = ano das apps AI-native; 2027 = ano dos robots.
+# Estas tres fontes alimentam o radar com sinal denso sobre os tres temas.
+AI_FRONTIER_SUBREDDITS = {
+    "LocalLLaMA": "modelos locais e open-weights",
+    "singularity": "hype + breakthroughs AI",
+    "MachineLearning": "papers e SOTA",
+    "artificial": "noticias AI generalistas",
+}
+
+VIBE_CODING_SUBREDDITS = {
+    "ChatGPTCoding": "fluxos de coding com LLMs",
+    "cursor": "IDE agentico",
+    "ClaudeAI": "casos de uso Claude / Code",
+    "AI_Agents": "agentes autonomos e tooling",
+}
+
+ROBOTICS_SUBREDDITS = {
+    "robotics": "hardware + control",
+    "automate": "automacao industrial e domestica",
+    "Embodied": "embodied AI / humanoides",
+}
+
 
 # ---------------------------------------------------------------------------
 # Modelos
@@ -74,6 +96,8 @@ class Idea:
     problem: str
     monetization: str
     theme: str = "Geral"
+    category: str = ""  # AI-Native App | Vibe-Coded MicroSaaS | Robotics-Adjacent | ...
+    thesis_fit: str = ""  # Como encaixa na tese 2026/2027
     trends_context: str = ""
     created_at: str = ""
 
@@ -132,12 +156,11 @@ def fetch_indie_hackers(limit: int = 10) -> list[str]:
     return [entry.title for entry in feed.entries[:limit]]
 
 
-def fetch_everyday_problems(per_sub: int = 4) -> list[str]:
-    """Combina multiplos subreddits focados em problemas utilitarios."""
+def _fetch_subreddit_bundle(subs: dict[str, str], per_sub: int) -> list[str]:
     if feedparser is None:
         raise RuntimeError("feedparser nao instalado.")
     titles: list[str] = []
-    for sub, label in EVERYDAY_SUBREDDITS.items():
+    for sub in subs:
         try:
             feed = feedparser.parse(f"https://www.reddit.com/r/{sub}/hot/.rss")
             for entry in feed.entries[:per_sub]:
@@ -145,6 +168,26 @@ def fetch_everyday_problems(per_sub: int = 4) -> list[str]:
         except Exception as exc:
             print(f"[trends] r/{sub} falhou: {exc}")
     return titles
+
+
+def fetch_everyday_problems(per_sub: int = 4) -> list[str]:
+    """Combina multiplos subreddits focados em problemas utilitarios."""
+    return _fetch_subreddit_bundle(EVERYDAY_SUBREDDITS, per_sub)
+
+
+def fetch_ai_frontier(per_sub: int = 4) -> list[str]:
+    """Sinal denso sobre o estado-da-arte de AI (papers, modelos, benchmarks)."""
+    return _fetch_subreddit_bundle(AI_FRONTIER_SUBREDDITS, per_sub)
+
+
+def fetch_vibe_coding(per_sub: int = 4) -> list[str]:
+    """Workflows agenticos, IDEs LLM-first, tooling de builders."""
+    return _fetch_subreddit_bundle(VIBE_CODING_SUBREDDITS, per_sub)
+
+
+def fetch_robotics(per_sub: int = 4) -> list[str]:
+    """Hardware, automacao, embodied AI - prepara o radar para 2027."""
+    return _fetch_subreddit_bundle(ROBOTICS_SUBREDDITS, per_sub)
 
 
 def fetch_google_trends(limit: int = 10) -> list[str]:
@@ -161,10 +204,23 @@ def fetch_google_trends(limit: int = 10) -> list[str]:
 
 
 def aggregate_trends(
-    sources: dict[str, bool], per_source: int = 8, total_cap: int = 20
+    sources: dict[str, bool], per_source: int = 8, total_cap: int = 24
 ) -> list[str]:
     """Agrega tendencias. Prefixo entre parentesis indica a categoria."""
     buckets: list[list[str]] = []
+    # Tres primeiras fontes alimentam directamente a tese editorial.
+    if sources.get("ai_frontier"):
+        buckets.append(
+            [f"[ai] {t}" for t in _safe("ai_frontier", fetch_ai_frontier, per_source // 2 or 3)]
+        )
+    if sources.get("vibe_coding"):
+        buckets.append(
+            [f"[vibe] {t}" for t in _safe("vibe_coding", fetch_vibe_coding, per_source // 2 or 3)]
+        )
+    if sources.get("robotics"):
+        buckets.append(
+            [f"[robot] {t}" for t in _safe("robotics", fetch_robotics, per_source // 2 or 3)]
+        )
     if sources.get("hacker_news"):
         buckets.append(
             [f"[tech] {t}" for t in _safe("hacker_news", fetch_hacker_news, per_source)]
@@ -216,42 +272,82 @@ def aggregate_trends(
 # ---------------------------------------------------------------------------
 
 
-PROMPT_TEMPLATE = """Analisa as seguintes tendencias capturadas hoje (cada linha
-comeca com [categoria], onde as categorias podem ser: tech, startup, launch,
-indie, r/<subreddit>, consumer):
+PROMPT_TEMPLATE = """Es um analista que ajuda um empreendedor a apostar nas tres
+ondas que estao a redefinir o mercado AGORA:
+
+  TESE EDITORIAL
+  - 2026 e o ano das APPS AI-NATIVE: distribuicao via LLM, agentes, copilots
+    embebidos em fluxos reais. Quem nao tem AI no core, perde.
+  - 2027 sera o ano dos ROBOTS: humanoides, embodied AI, automacao fisica
+    (cozinha, logistica, casa, cuidados). Plays "robot-adjacent" hoje
+    posicionam a empresa para essa onda.
+  - VIBE CODING (programar com agentes - Cursor, Claude Code, Codex) baixa o
+    custo de construir software para perto de zero. O moat passa a ser
+    distribuicao, dados proprios, ou hardware/integracao com mundo fisico.
+
+Tendencias capturadas hoje (cada linha comeca com [categoria]: ai, vibe,
+robot, tech, startup, launch, indie, r/<subreddit>, consumer):
 
 {trends}
 
 {avoid_block}
 
-Gera {n} ideias de apps mobile ou webapps altamente monetizaveis.
+Gera {n} IDEIAS EMPREENDEDORAS (nao precisam de ser todas SaaS) ancoradas
+nesta tese. Cada ideia DEVE explicar o "thesis_fit" - como encaixa em
+2026-apps / 2027-robots / vibe-coding-leverage.
 
-Requisitos de DIVERSIDADE (criticos):
-- NO MAXIMO 1 ideia pode ser uma meta-ferramenta de AI/LLM/developer-tools.
-  As restantes devem resolver problemas utilitarios concretos de consumidores,
-  pequenos negocios, nichos profissionais ou tarefas do dia-a-dia.
-- Distribui as ideias por pelo menos {min_themes} temas diferentes.
-- Prefere trends com prefixo [r/...] e [consumer] como inspiracao para as
-  ideias nao-tech; usa [tech]/[indie] apenas como contexto macro.
-- Evita duplicar padroes (ex: "AI coach para X" em varias ideias).
+Requisitos CRITICOS de archetypes (categorias):
+- Distribui as {n} ideias por PELO MENOS {min_themes} archetypes diferentes
+  da lista abaixo. NAO deixes mais que 2 ideias na mesma categoria.
+- AI-Native App: produto consumer ou prosumer onde o LLM/agente E o produto,
+  nao um "+AI" colado a uma SaaS classica.
+- Vibe-Coded MicroSaaS: nicho tao especifico que so e viavel agora que dois
+  builders constroem em fim-de-semana com agentes - moat = velocidade e
+  distribuicao em comunidade.
+- Robotics-Adjacent: software, dados, fleet ops, simuladores, marketplaces,
+  manutencao, treino para robots/drones/embodied AI - aposta para 2027.
+- AI-Augmented Service / Agency: servico humano potenciado por agentes
+  (margens altas, ticket alto, defendido por know-how + relacionamento).
+- Hardware/Companion Device: pequeno hardware (badge, sensor, dongle) com
+  AI no loop - "AI pin done right" para um nicho.
+- AI-Native Marketplace: marketplace onde o matching/qualidade so e possivel
+  com agentes (ex: tasks, dados, talento, modelos).
+- Infoproduct/Community: cohort, playbook ou comunidade paga que monetiza a
+  curva de aprendizagem destas tres ondas.
 
-Cada ideia deve ter um "theme" de 1-3 palavras reutilizavel
-(ex: "FinTech Consumer", "Small Business Ops", "Health Tracking",
-"Parenting", "Productivity", "Creator Economy", "AI Dev Tools").
+Outros requisitos:
+- PELO MENOS 1 ideia tem de ser robotics/embodied-adjacent.
+- PELO MENOS 1 ideia tem de explorar vibe coding como alavanca (build-fast,
+  ship-fast, distribuicao via comunidade de developers).
+- EVITA "AI coach para X", "AI chatbot para Y", "tool generico para
+  developers" - se a ideia funcionaria igual em 2022, RECUSA.
+- Prefere problemas com cliente pagante claro, nao "consumer free".
+- Usa as trends [ai]/[vibe]/[robot] como sinal forte; [tech]/[startup] como
+  pano de fundo macro; [r/...] como pulso real.
 
 Retorna estritamente JSON valido:
 {{
   "ideas": [
-    {{"name": "...", "theme": "...", "problem": "...", "monetization": "..."}}
+    {{
+      "name": "...",
+      "category": "AI-Native App|Vibe-Coded MicroSaaS|Robotics-Adjacent|AI-Augmented Service|Hardware Companion|AI-Native Marketplace|Infoproduct/Community",
+      "theme": "...",
+      "thesis_fit": "...",
+      "problem": "...",
+      "monetization": "..."
+    }}
   ]
 }}
 
 Regras de formato:
 - "name" curto e memoravel (max 4 palavras).
-- "problem" em 1-2 frases concretas, descrevendo o utilizador alvo.
-- "monetization" especifica (ex: "SaaS B2B 29USD/mes por utilizador",
-  "Freemium + IAP 4.99USD", "Marketplace 10% fee").
-- "theme" reutiliza labels existentes quando fizer sentido.
+- "category" tem de ser EXACTAMENTE um dos labels acima.
+- "theme" 1-3 palavras (ex: "Dev Velocity", "Warehouse Robots",
+  "Creator Ops", "Embodied Health", "Agentic Finance").
+- "thesis_fit" 1 frase: porque e que esta ideia so faz sentido nesta janela.
+- "problem" 1-2 frases concretas com utilizador alvo nomeado.
+- "monetization" especifica (ex: "SaaS 99USD/mes/seat", "agency retainer
+  5-15kUSD/mes", "30% fee marketplace", "hardware 199USD + 9USD/mes").
 - NAO repitas ideias semelhantes as listadas em "evita ideias".
 - Nao incluas texto fora do JSON.
 """
@@ -274,6 +370,8 @@ def _parse_ideas_payload(raw: str, trends_context: str) -> list[Idea]:
             problem=item["problem"],
             monetization=item["monetization"],
             theme=item.get("theme", "Geral"),
+            category=item.get("category", ""),
+            thesis_fit=item.get("thesis_fit", ""),
             trends_context=trends_context,
         )
         for item in payload.get("ideas", [])
@@ -287,7 +385,7 @@ def _build_prompt(trends: list[str], avoid_names: list[str], num_ideas: int = 6)
         )
     else:
         avoid_block = ""
-    min_themes = max(3, min(num_ideas - 1, 5))
+    min_themes = max(4, min(num_ideas - 1, 6))
     return PROMPT_TEMPLATE.format(
         trends="\n- " + "\n- ".join(trends),
         avoid_block=avoid_block,
@@ -449,19 +547,24 @@ def persist_run(trends: list[str], ideas: list[Idea]) -> dict:
     return run
 
 
-def cluster_by_theme(ideas: list[dict]) -> dict[str, list[dict]]:
+def cluster_by_theme(ideas: list[dict], key: str = "category") -> dict[str, list[dict]]:
+    """Agrupa por `key` (default: category, fallback: theme/Geral)."""
     clusters: dict[str, list[dict]] = {}
     for idea in ideas:
-        clusters.setdefault(idea.get("theme", "Geral"), []).append(idea)
+        bucket = idea.get(key) or idea.get("theme") or "Geral"
+        clusters.setdefault(bucket, []).append(idea)
     return dict(sorted(clusters.items(), key=lambda kv: -len(kv[1])))
 
 
 def default_sources() -> dict[str, bool]:
     return {
+        "ai_frontier": True,
+        "vibe_coding": True,
+        "robotics": True,
         "hacker_news": True,
         "reddit_startups": True,
-        "indie_hackers": True,
-        "everyday_problems": True,
+        "indie_hackers": False,
+        "everyday_problems": False,
         "product_hunt": False,
         "google_trends": False,
     }

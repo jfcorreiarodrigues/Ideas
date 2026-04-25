@@ -53,6 +53,8 @@ def init_db() -> None:
                 problem TEXT NOT NULL,
                 monetization TEXT NOT NULL,
                 theme TEXT,
+                category TEXT,
+                thesis_fit TEXT,
                 trends_context TEXT,
                 created_at TEXT NOT NULL
             )
@@ -61,19 +63,26 @@ def init_db() -> None:
         cols = {row[1] for row in conn.execute("PRAGMA table_info(ideas)").fetchall()}
         if "theme" not in cols:
             conn.execute("ALTER TABLE ideas ADD COLUMN theme TEXT")
+        if "category" not in cols:
+            conn.execute("ALTER TABLE ideas ADD COLUMN category TEXT")
+        if "thesis_fit" not in cols:
+            conn.execute("ALTER TABLE ideas ADD COLUMN thesis_fit TEXT")
 
 
 def save_favorite(idea: Idea) -> None:
     idea.created_at = datetime.utcnow().isoformat(timespec="seconds")
     with sqlite3.connect(DB_PATH) as conn:
         conn.execute(
-            "INSERT INTO ideas (name, problem, monetization, theme, trends_context, created_at)"
-            " VALUES (?, ?, ?, ?, ?, ?)",
+            "INSERT INTO ideas (name, problem, monetization, theme, category,"
+            " thesis_fit, trends_context, created_at)"
+            " VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 idea.name,
                 idea.problem,
                 idea.monetization,
                 idea.theme,
+                idea.category,
+                idea.thesis_fit,
                 idea.trends_context,
                 idea.created_at,
             ),
@@ -111,8 +120,16 @@ def resolve_api_key(provider: str) -> tuple[str, bool]:
 
 def render_idea_card(idea: Idea, key_suffix: str) -> None:
     with st.container(border=True):
-        st.caption(f"Tema: {idea.theme}")
+        chips = []
+        if idea.category:
+            chips.append(f"`{idea.category}`")
+        if idea.theme:
+            chips.append(f"_{idea.theme}_")
+        if chips:
+            st.caption(" · ".join(chips))
         st.subheader(idea.name)
+        if idea.thesis_fit:
+            st.markdown(f"**Tese 2026/2027**  \n{idea.thesis_fit}")
         st.markdown(f"**Problema**  \n{idea.problem}")
         st.markdown(f"**Monetizacao**  \n{idea.monetization}")
         if st.button("Guardar ideia", key=f"save-{key_suffix}"):
@@ -137,10 +154,13 @@ def render_favorites_sidebar() -> None:
         st.sidebar.caption("Ainda nao guardaste nenhuma ideia.")
         return
     for row in saved:
-        label = f"{row['name']}"
-        if row.get("theme"):
-            label = f"[{row['theme']}] {label}"
+        label = row["name"]
+        prefix = row.get("category") or row.get("theme")
+        if prefix:
+            label = f"[{prefix}] {label}"
         with st.sidebar.expander(label):
+            if row.get("thesis_fit"):
+                st.write(f"**Tese:** {row['thesis_fit']}")
             st.write(f"**Problema:** {row['problem']}")
             st.write(f"**Monetizacao:** {row['monetization']}")
             st.caption(f"Guardada em {row['created_at']}")
@@ -222,13 +242,17 @@ def tab_history() -> None:
     total_ideas = sum(len(r.get("ideas", [])) for r in history)
     st.caption(f"{len(history)} sondagens - {total_ideas} ideias geradas ate hoje.")
 
-    # Filtro por tema agregado.
     all_ideas = [idea for run in history for idea in run.get("ideas", [])]
-    themes = sorted({i.get("theme", "Geral") for i in all_ideas})
-    selected = st.multiselect("Filtrar por tema", themes, default=themes)
 
-    filtered = [i for i in all_ideas if i.get("theme", "Geral") in selected]
-    st.markdown(f"**{len(filtered)} ideias** em {len(selected)} temas.")
+    def _bucket(idea: dict) -> str:
+        return idea.get("category") or idea.get("theme") or "Geral"
+
+    buckets = sorted({_bucket(i) for i in all_ideas})
+    selected = st.multiselect(
+        "Filtrar por archetype/tema", buckets, default=buckets
+    )
+    filtered = [i for i in all_ideas if _bucket(i) in selected]
+    st.markdown(f"**{len(filtered)} ideias** em {len(selected)} categorias.")
     st.divider()
     render_clustered(filtered, prefix="history")
 
@@ -240,13 +264,16 @@ def tab_history() -> None:
 
 def main() -> None:
     st.set_page_config(
-        page_title="Radar de Ideias de Apps", page_icon="*", layout="wide"
+        page_title="Radar AI · Vibe Coding · Robots", page_icon="*", layout="wide"
     )
     init_db()
 
-    st.title("Radar de Ideias de Apps")
+    st.title("Radar de Ideias: AI · Vibe Coding · Robots")
     st.caption(
-        "Sonda automaticamente tendencias do dia e transforma-as em ideias monetizaveis."
+        "Tese: 2026 e o ano das apps AI-native, 2027 sera o ano dos robots, "
+        "vibe coding muda quem ganha. Em vez de pegar em trends aleatorios e "
+        "fazer SaaS, este radar so propoe jogadas que so fazem sentido nesta "
+        "janela."
     )
 
     # Sidebar: config
@@ -269,12 +296,22 @@ def main() -> None:
     num_ideas = st.sidebar.slider("Ideias por sondagem", 3, 10, 6)
 
     st.sidebar.subheader("Fontes de tendencias")
+    st.sidebar.caption("Tese editorial em primeiro:")
     sources = {
-        "hacker_news": st.sidebar.checkbox("Hacker News (tech)", value=True),
+        "ai_frontier": st.sidebar.checkbox(
+            "AI frontier (LocalLLaMA, ML, singularity)", value=True
+        ),
+        "vibe_coding": st.sidebar.checkbox(
+            "Vibe coding (Cursor, ClaudeAI, Agents)", value=True
+        ),
+        "robotics": st.sidebar.checkbox(
+            "Robotics & embodied AI", value=True
+        ),
+        "hacker_news": st.sidebar.checkbox("Hacker News (macro tech)", value=True),
         "reddit_startups": st.sidebar.checkbox("Reddit /r/startups", value=True),
-        "indie_hackers": st.sidebar.checkbox("Indie Hackers", value=True),
+        "indie_hackers": st.sidebar.checkbox("Indie Hackers", value=False),
         "everyday_problems": st.sidebar.checkbox(
-            "Problemas do dia-a-dia (5 subreddits)", value=True
+            "Problemas dia-a-dia (5 subreddits)", value=False
         ),
         "product_hunt": st.sidebar.checkbox("Product Hunt", value=False),
         "google_trends": st.sidebar.checkbox("Google Trends", value=False),

@@ -1,9 +1,26 @@
-# Radar de Ideias de Apps
+# Radar de Ideias: AI · Vibe Coding · Robots
 
-Dashboard Streamlit que agrega tendencias diarias (Hacker News, Reddit
-`/r/startups`, Product Hunt, Google Trends) e pede a um LLM (Gemini ou OpenAI)
-para as transformar em 3 ideias de apps monetizaveis. Podes guardar as
-melhores num SQLite local (`ideas.db`) para revisitar mais tarde.
+Dashboard Streamlit opinionado: em vez de pegar em trends aleatorios e
+gerar SaaS genericos, sonda fontes alinhadas com uma tese editorial e
+pede ao LLM ideias empreendedoras que so fazem sentido nesta janela.
+
+**Tese editorial:**
+- **2026 = ano das apps AI-native** (LLM/agente como produto, nao como
+  feature colada).
+- **2027 = ano dos robots** (humanoides, embodied AI, automacao fisica) -
+  jogadas "robot-adjacent" hoje posicionam para essa onda.
+- **Vibe coding** (Cursor, Claude Code, Codex) torna o software comodity;
+  o moat passa a ser distribuicao, dados ou hardware.
+
+Cada ideia gerada e classificada num archetype (AI-Native App, Vibe-Coded
+MicroSaaS, Robotics-Adjacent, AI-Augmented Service, Hardware Companion,
+AI-Native Marketplace, Infoproduct/Community) e tem um campo `thesis_fit`
+a explicar porque so faz sentido nesta janela.
+
+Fontes default: `r/LocalLLaMA`, `r/MachineLearning`, `r/singularity`,
+`r/ChatGPTCoding`, `r/cursor`, `r/ClaudeAI`, `r/AI_Agents`, `r/robotics`,
+`r/automate`, `r/Embodied` + Hacker News + `r/startups`. Podes ligar/desligar
+qualquer uma na sidebar.
 
 ## Instalacao
 
