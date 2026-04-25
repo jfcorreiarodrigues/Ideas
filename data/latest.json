@@ -1,63 +1,63 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T08:55:38+00:00",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T07:59:32+00:00",
   "trends": [
-    "[tech] DeepSeek v4",
-    "[tech] Composition Shouldn't be this Hard",
-    "[tech] Why I Write (1946)",
-    "[tech] An update on recent Claude Code quality reports",
-    "[tech] GPT-5.5",
-    "[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-    "[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "[tech] Show HN: Gova – The declarative GUI framework for Go"
+    "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper",
+    "[tech] Google plans to invest up to $40B in Anthropic",
+    "[tech] A 3D Body from Eight Questions – No Photo, No GPU",
+    "[tech] Paraloid B-72",
+    "[tech] Humpback whales are forming super-groups",
+    "[tech] Turbo Vision 2.0 – a modern port",
+    "[tech] My audio interface has SSH enabled by default",
+    "[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung"
   ],
   "ideas": [
     {
-      "name": "SecureVault Family",
-      "problem": "Famílias precisam de uma forma segura e simples de gerir contrasendas compartilhadas para serviços essenciais (streaming, pagamentos, etc.), garantindo acesso controlado.",
-      "monetization": "SaaS Familiar 9.99USD/mes com plano gratuito limitado.",
-      "theme": "Password Management Family",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+      "name": "Otimizador de Rede Doméstica",
+      "problem": "Utilizadores domésticos lutam com a configuração e otimização de redes Wi-Fi e dispositivos conectados, levando a velocidades lentas e problemas de conectividade. Este app diagnostica e oferece soluções fáceis para melhorar o desempenho da rede em casa.",
+      "monetization": "Freemium com recursos avançados de diagnóstico e otimização automática via assinatura mensal (5.99 USD/mês).",
+      "theme": "Tech Consumer",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "created_at": ""
     },
     {
-      "name": "Crafty Inventory Pro",
-      "problem": "Pequenos artesãos e lojas de nicho lutam para rastrear inventário de materiais e produtos acabados, levando a perdas e vendas perdidas.",
-      "monetization": "SaaS B2B 29USD/mes por utilizador com upgrade para funcionalidades avançadas.",
-      "theme": "Small Business Inventory",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+      "name": "Assistente de Transcrições Legais",
+      "problem": "Advogados e assistentes jurídicos gastam tempo valioso a transcrever áudio de depoimentos, reuniões e chamadas. Esta ferramenta usa processamento de linguagem natural para gerar transcrições precisas e pesquisáveis, com opções de marcação e edição.",
+      "monetization": "SaaS B2B com planos baseados em volume de horas transcritas, a partir de 49 USD/mês para pequenos escritórios.",
+      "theme": "Nicho Profissional Legal",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "created_at": ""
     },
     {
-      "name": "AI Code Reviewer",
-      "problem": "Desenvolvedores frequentemente perdem tempo revisando código manualmente em busca de erros simples ou inconsistências, atrasando o ciclo de desenvolvimento.",
-      "monetization": "SaaS Dev-Tool 19USD/mes por utilizador.",
+      "name": "Localizador de Ferramentas Locais",
+      "problem": "Pessoas precisam de ferramentas específicas para projetos pontuais, mas não querem comprá-las. Este app conecta proprietários de ferramentas com vizinhos que precisam alugar por curtos períodos, facilitando o compartilhamento e economizando dinheiro.",
+      "monetization": "Marketplace com taxa de 15% sobre cada transação de aluguel.",
+      "theme": "Serviços Comunitários",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
+      "created_at": ""
+    },
+    {
+      "name": "Gerador de Textos de Marketing",
+      "problem": "Pequenos empreendedores e criadores de conteúdo frequentemente enfrentam bloqueio criativo ao escrever descrições de produtos, posts para redes sociais ou e-mails promocionais. Esta ferramenta, alimentada por LLMs, gera texto adaptado a diferentes plataformas e objetivos.",
+      "monetization": "Freemium com limite de gerações diárias, planos pagos a partir de 19 USD/mês para gerações ilimitadas e modelos avançados.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "created_at": ""
     },
     {
-      "name": "Pet Health Tracker",
-      "problem": "Donos de animais de estimação precisam de um local centralizado para registrar vacinas, consultas veterinárias, histórico de saúde e lembretes de medicamentos para seus pets.",
-      "monetization": "Freemium + IAP 4.99USD para recursos premium (alertas avançados, histórico ilimitado).",
-      "theme": "Pet Wellness",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+      "name": "Agenda de Saúde do Pet",
+      "problem": "Donos de animais de estimação esquecem datas importantes como vacinas, consultas veterinárias, ou medicações para seus pets. Este app permite agendar e receber lembretes, além de armazenar histórico de saúde e despesas.",
+      "monetization": "Freemium com funcionalidades básicas, assinatura premium (3.99 USD/mês) para histórico ilimitado, alertas personalizados e multi-pet.",
+      "theme": "Pet Care",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "created_at": ""
     },
     {
-      "name": "Local Event Discoverer",
-      "problem": "Pessoas procuram ativamente por eventos locais e atividades de lazer, mas a informação está dispersa e difícil de encontrar de forma organizada.",
-      "monetization": "Marketplace 10% fee de bilhetes vendidos + listagens premium para organizadores.",
-      "theme": "Community Events",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
-      "created_at": ""
-    },
-    {
-      "name": "Budget Companion",
-      "problem": "Indivíduos e jovens adultos têm dificuldade em criar e manter orçamentos realistas, acompanhar despesas e definir metas financeiras claras.",
-      "monetization": "Freemium com funcionalidades básicas gratuitas; assinatura premium de 2.99USD/mes para relatórios detalhados e planejamento de metas.",
-      "theme": "Personal Finance",
-      "trends_context": "[tech] DeepSeek v4\n[tech] Composition Shouldn't be this Hard\n[tech] Why I Write (1946)\n[tech] An update on recent Claude Code quality reports\n[tech] GPT-5.5\n[tech] US special forces soldier arrested after allegedly winning $400k on Maduro raid\n[tech] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign\n[tech] Show HN: Gova – The declarative GUI framework for Go",
+      "name": "Curador de Conteúdo de Nicho",
+      "problem": "Entusiastas de hobbies específicos (ex: jardinagem, aeromodelismo, artesanato) procuram organizar e descobrir conteúdo relevante (artigos, tutoriais, vídeos) de forma eficiente, sem se perderem em feeds genéricos.",
+      "monetization": "Assinatura premium (7.99 USD/mês) para acesso a curadoria avançada, recursos de organização e fóruns exclusivos.",
+      "theme": "Hobbyist Tools",
+      "trends_context": "[tech] New 10 GbE USB adapters are cooler, smaller, cheaper\n[tech] Google plans to invest up to $40B in Anthropic\n[tech] A 3D Body from Eight Questions – No Photo, No GPU\n[tech] Paraloid B-72\n[tech] Humpback whales are forming super-groups\n[tech] Turbo Vision 2.0 – a modern port\n[tech] My audio interface has SSH enabled by default\n[tech] \"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "created_at": ""
     }
   ]
