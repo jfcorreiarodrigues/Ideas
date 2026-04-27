@@ -1,63 +1,63 @@
 {
-  "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:11:20+00:00",
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T09:13:17+00:00",
   "trends": [
-    "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code",
-    "[tech] Amateur armed with ChatGPT solves an Erdős problem",
-    "[tech] Why has there been so little progress on Alzheimer's disease?",
-    "[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)",
-    "[tech] Tell HN: An app is silently installing itself on my iPhone every day",
-    "[tech] USB Cheat Sheet (2022)",
-    "[tech] GnuPG – post-quantum crypto landing in mainline",
-    "[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)"
+    "[tech] It's OK to abandon your side-project",
+    "[tech] Flipdiscs",
+    "[tech] I bought Friendster for $30k – Here's what I'm doing with it",
+    "[tech] AI should elevate your thinking, not replace it",
+    "[tech] TurboQuant: A first-principles walkthrough",
+    "[tech] Self-updating screenshots",
+    "[tech] The Prompt API",
+    "[tech] Bob Odenkirk would like to remind you that life is a meaningless farce"
   ],
   "ideas": [
     {
-      "name": "SecureData Cloud Sync",
-      "problem": "Utilizadores de iPhone preocupam-se com a instalação silenciosa de apps e a segurança dos seus dados. Esta app oferece um serviço seguro e transparente para sincronizar e gerir ficheiros essenciais com encriptação de ponta a ponta.",
-      "monetization": "Freemium com plano pago a partir de 4.99USD/mes para armazenamento adicional e funcionalidades avançadas.",
-      "theme": "Consumer Data Privacy",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
-      "created_at": ""
-    },
-    {
-      "name": "Code Snippet Vault",
-      "problem": "Desenvolvedores frequentemente perdem tempo a procurar ou recriar snippets de código úteis. Esta ferramenta, inspirada na ideia de como o código pode ser resolvido por amadores com IA, permite organizar, pesquisar e partilhar snippets de código de forma eficiente.",
-      "monetization": "SaaS B2B com planos a partir de 15USD/utilizador/mes.",
+      "name": "Prompt Engineer Pro",
+      "problem": "Desenvolvedores e criadores de conteúdo lutam para criar prompts eficazes para modelos de linguagem. Esta ferramenta ajuda a testar, refinar e organizar prompts para obter os melhores resultados de IA.",
+      "monetization": "SaaS B2B 19-49USD/mes por utilizador, dependendo do nível de funcionalidades e uso de API.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
       "created_at": ""
     },
     {
-      "name": "Quantum Crypto Guard",
-      "problem": "Com a evolução da criptografia (como GnuPG a aterrar em mainline), pequenos negócios e indivíduos precisam de uma forma acessível para entender e implementar proteção contra futuras ameaças quânticas. Esta app oferece guias e ferramentas simplificadas para preparar a segurança digital.",
-      "monetization": "SaaS B2B e B2C com planos de subscrição anuais a partir de 99USD.",
-      "theme": "Tech Security",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "name": "Friendster Archive Viewer",
+      "problem": "Pessoas que usavam o Friendster e outras redes sociais antigas desejam revisitar seus perfis e memórias. Este aplicativo permite fazer upload de backups de perfis e visualizar o conteúdo de forma organizada.",
+      "monetization": "Freemium com limite de uploads, IAP de 2.99USD para uploads ilimitados e funcionalidades premium (ex: busca avançada).",
+      "theme": "Social Nostalgia",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
       "created_at": ""
     },
     {
-      "name": "Health Research Navigator",
-      "problem": "O progresso lento em doenças como Alzheimer frustra muitos. Esta app agrega e apresenta de forma compreensível investigações científicas recentes, ensaios clínicos e recursos para leigos interessados em avanços na saúde.",
-      "monetization": "Assinatura anual para acesso completo a conteúdos premium e relatórios de tendências (49USD/ano).",
-      "theme": "Health Discovery",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "name": "Side Project Manager",
+      "problem": "Muitos profissionais têm vários projetos paralelos que lutam para gerenciar e priorizar. Este app ajuda a rastrear progresso, gerenciar tarefas e manter a motivação para projetos pessoais.",
+      "monetization": "Freemium com funcionalidades básicas, assinatura premium de 7.99USD/mes para recursos avançados (ex: quadros Kanban, integração com ferramentas de desenvolvimento).",
+      "theme": "Creator Productivity",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
       "created_at": ""
     },
     {
-      "name": "Manufacturing Process Tracker",
-      "problem": "A capacidade de fabricar bens está em declínio no Ocidente. Pequenas fábricas e artesãos precisam de uma ferramenta simples para gerir o seu processo de produção, inventário e controlo de qualidade, inspirada pela necessidade de 'fazer coisas'.",
-      "monetization": "SaaS B2B com planos a partir de 20USD/mês por estabelecimento.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "name": "AI Thinking Assistant",
+      "problem": "Profissionais que necessitam de pensamento analítico e criativo (ex: consultores, investigadores) querem uma ferramenta que os ajude a explorar ideias sem substituir seu próprio raciocínio. O app fornece prompts estruturados e ferramentas de visualização de ideias.",
+      "monetization": "SaaS B2B 25USD/mes por utilizador, com descontos para equipas.",
+      "theme": "Cognitive Enhancement",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
       "created_at": ""
     },
     {
-      "name": "Floating Point Visualizer",
-      "problem": "Conceitos técnicos complexos como 'Floating Point' (exposto em 2019) são difíceis de dominar. Esta app cria visualizações interativas e exercícios práticos para ajudar estudantes e profissionais a compreenderem estes fundamentos da computação.",
-      "monetization": "Freemium com módulos avançados a serem adquiridos via IAP (preços variados por módulo).",
-      "theme": "Educational Tech",
-      "trends_context": "[tech] The West Forgot How to Make Things. Now It's Forgetting How to Code\n[tech] Amateur armed with ChatGPT solves an Erdős problem\n[tech] Why has there been so little progress on Alzheimer's disease?\n[tech] Exposing Floating Point – Bartosz Ciechanowski (2019)\n[tech] Tell HN: An app is silently installing itself on my iPhone every day\n[tech] USB Cheat Sheet (2022)\n[tech] GnuPG – post-quantum crypto landing in mainline\n[tech] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+      "name": "Local Artisan Marketplace",
+      "problem": "Pequenos artesãos e criadores independentes têm dificuldade em alcançar um público mais amplo e vender seus produtos únicos online. Este marketplace conecta compradores com vendedores locais e regionais de produtos artesanais.",
+      "monetization": "Marketplace com taxa de 12% por transação e opções de listagem premium para vendedores.",
+      "theme": "Niche Commerce",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "created_at": ""
+    },
+    {
+      "name": "TurboQuant Quant Tracker",
+      "problem": "Investidores e traders que usam estratégias quantitativas precisam de uma maneira fácil de rastrear e analisar o desempenho de seus modelos e fluxos de trabalho. O app oferece visualizações claras e ferramentas de análise para modelos quantitativos.",
+      "monetization": "SaaS B2B 50-150USD/mes por utilizador, com diferentes níveis de acesso a dados e funcionalidades de análise.",
+      "theme": "Quant Finance Tools",
+      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
       "created_at": ""
     }
   ]
