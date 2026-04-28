@@ -1,63 +1,63 @@
 {
-  "date": "2026-04-27",
-  "generated_at": "2026-04-27T09:13:17+00:00",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T09:14:24+00:00",
   "trends": [
-    "[tech] It's OK to abandon your side-project",
-    "[tech] Flipdiscs",
-    "[tech] I bought Friendster for $30k – Here's what I'm doing with it",
-    "[tech] AI should elevate your thinking, not replace it",
-    "[tech] TurboQuant: A first-principles walkthrough",
-    "[tech] Self-updating screenshots",
-    "[tech] The Prompt API",
-    "[tech] Bob Odenkirk would like to remind you that life is a meaningless farce"
+    "[tech] GTFOBins",
+    "[tech] Talkie: a 13B vintage language model from 1930",
+    "[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "[tech] Can You Find the Comet?",
+    "[tech] Is my blue your blue?",
+    "[tech] Pgrx: Build Postgres Extensions with Rust",
+    "[tech] High Performance Git",
+    "[tech] WASM is not quite a stack machine"
   ],
   "ideas": [
     {
-      "name": "Prompt Engineer Pro",
-      "problem": "Desenvolvedores e criadores de conteúdo lutam para criar prompts eficazes para modelos de linguagem. Esta ferramenta ajuda a testar, refinar e organizar prompts para obter os melhores resultados de IA.",
-      "monetization": "SaaS B2B 19-49USD/mes por utilizador, dependendo do nível de funcionalidades e uso de API.",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "GTFO Installer",
+      "problem": "Developers using GTFOBins to find command-line solutions often struggle with manual installation and configuration of these tools. This app automates the setup of various Linux utilities for quick adoption.",
+      "monetization": "SaaS B2B 15USD/mes por utilizador",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     },
     {
-      "name": "Friendster Archive Viewer",
-      "problem": "Pessoas que usavam o Friendster e outras redes sociais antigas desejam revisitar seus perfis e memórias. Este aplicativo permite fazer upload de backups de perfis e visualizar o conteúdo de forma organizada.",
-      "monetization": "Freemium com limite de uploads, IAP de 2.99USD para uploads ilimitados e funcionalidades premium (ex: busca avançada).",
-      "theme": "Social Nostalgia",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "Vintage Talkie Companion",
+      "problem": "Enthusiasts interested in the history of AI, particularly language models, find it difficult to access and experiment with older models like Talkie. This app provides an interactive simulation and educational platform for these vintage models.",
+      "monetization": "Freemium + IAP 2.99USD para recursos avançados",
+      "theme": "AI History",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     },
     {
-      "name": "Side Project Manager",
-      "problem": "Muitos profissionais têm vários projetos paralelos que lutam para gerenciar e priorizar. Este app ajuda a rastrear progresso, gerenciar tarefas e manter a motivação para projetos pessoais.",
-      "monetization": "Freemium com funcionalidades básicas, assinatura premium de 7.99USD/mes para recursos avançados (ex: quadros Kanban, integração com ferramentas de desenvolvimento).",
-      "theme": "Creator Productivity",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "Comet Spotting Log",
+      "problem": "Amateur astronomers and stargazers want to track and log sightings of celestial objects like comets. This app allows users to log observations, share them, and receive notifications for upcoming visible comets.",
+      "monetization": "Freemium + Publicações Patrocinadas de Equipamento",
+      "theme": "Astronomy Consumer",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     },
     {
-      "name": "AI Thinking Assistant",
-      "problem": "Profissionais que necessitam de pensamento analítico e criativo (ex: consultores, investigadores) querem uma ferramenta que os ajude a explorar ideias sem substituir seu próprio raciocínio. O app fornece prompts estruturados e ferramentas de visualização de ideias.",
-      "monetization": "SaaS B2B 25USD/mes por utilizador, com descontos para equipas.",
-      "theme": "Cognitive Enhancement",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "Color Perception App",
+      "problem": "Individuals with varying color perception or visual impairments need a reliable way to identify and differentiate colors in their environment. This app uses the device camera to identify and name colors in real-time, offering customizable palettes and accessibility features.",
+      "monetization": "Freemium + IAP 3.99USD para recursos avançados de personalização",
+      "theme": "Accessibility Consumer",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     },
     {
-      "name": "Local Artisan Marketplace",
-      "problem": "Pequenos artesãos e criadores independentes têm dificuldade em alcançar um público mais amplo e vender seus produtos únicos online. Este marketplace conecta compradores com vendedores locais e regionais de produtos artesanais.",
-      "monetization": "Marketplace com taxa de 12% por transação e opções de listagem premium para vendedores.",
-      "theme": "Niche Commerce",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "Rust Postgres Extensions",
+      "problem": "Developers building custom PostgreSQL extensions often find the process complex and error-prone. This app provides a simplified workflow and code generation tools for creating high-performance extensions using Rust.",
+      "monetization": "SaaS B2B 25USD/mes por licença de desenvolvimento",
+      "theme": "Developer Productivity",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     },
     {
-      "name": "TurboQuant Quant Tracker",
-      "problem": "Investidores e traders que usam estratégias quantitativas precisam de uma maneira fácil de rastrear e analisar o desempenho de seus modelos e fluxos de trabalho. O app oferece visualizações claras e ferramentas de análise para modelos quantitativos.",
-      "monetization": "SaaS B2B 50-150USD/mes por utilizador, com diferentes níveis de acesso a dados e funcionalidades de análise.",
-      "theme": "Quant Finance Tools",
-      "trends_context": "[tech] It's OK to abandon your side-project\n[tech] Flipdiscs\n[tech] I bought Friendster for $30k – Here's what I'm doing with it\n[tech] AI should elevate your thinking, not replace it\n[tech] TurboQuant: A first-principles walkthrough\n[tech] Self-updating screenshots\n[tech] The Prompt API\n[tech] Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "name": "High Perf Git Manager",
+      "problem": "Git users, especially those working with large repositories, experience performance bottlenecks. This tool optimizes Git operations, offering visual feedback and actionable insights for faster workflows.",
+      "monetization": "SaaS B2B 19USD/mes por utilizador",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
       "created_at": ""
     }
   ]

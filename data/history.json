@@ -488,5 +488,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-04-28",
+    "generated_at": "2026-04-28T09:14:24+00:00",
+    "trends": [
+      "[tech] GTFOBins",
+      "[tech] Talkie: a 13B vintage language model from 1930",
+      "[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "[tech] Can You Find the Comet?",
+      "[tech] Is my blue your blue?",
+      "[tech] Pgrx: Build Postgres Extensions with Rust",
+      "[tech] High Performance Git",
+      "[tech] WASM is not quite a stack machine"
+    ],
+    "ideas": [
+      {
+        "name": "GTFO Installer",
+        "problem": "Developers using GTFOBins to find command-line solutions often struggle with manual installation and configuration of these tools. This app automates the setup of various Linux utilities for quick adoption.",
+        "monetization": "SaaS B2B 15USD/mes por utilizador",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      },
+      {
+        "name": "Vintage Talkie Companion",
+        "problem": "Enthusiasts interested in the history of AI, particularly language models, find it difficult to access and experiment with older models like Talkie. This app provides an interactive simulation and educational platform for these vintage models.",
+        "monetization": "Freemium + IAP 2.99USD para recursos avançados",
+        "theme": "AI History",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      },
+      {
+        "name": "Comet Spotting Log",
+        "problem": "Amateur astronomers and stargazers want to track and log sightings of celestial objects like comets. This app allows users to log observations, share them, and receive notifications for upcoming visible comets.",
+        "monetization": "Freemium + Publicações Patrocinadas de Equipamento",
+        "theme": "Astronomy Consumer",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      },
+      {
+        "name": "Color Perception App",
+        "problem": "Individuals with varying color perception or visual impairments need a reliable way to identify and differentiate colors in their environment. This app uses the device camera to identify and name colors in real-time, offering customizable palettes and accessibility features.",
+        "monetization": "Freemium + IAP 3.99USD para recursos avançados de personalização",
+        "theme": "Accessibility Consumer",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      },
+      {
+        "name": "Rust Postgres Extensions",
+        "problem": "Developers building custom PostgreSQL extensions often find the process complex and error-prone. This app provides a simplified workflow and code generation tools for creating high-performance extensions using Rust.",
+        "monetization": "SaaS B2B 25USD/mes por licença de desenvolvimento",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      },
+      {
+        "name": "High Perf Git Manager",
+        "problem": "Git users, especially those working with large repositories, experience performance bottlenecks. This tool optimizes Git operations, offering visual feedback and actionable insights for faster workflows.",
+        "monetization": "SaaS B2B 19USD/mes por utilizador",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] GTFOBins\n[tech] Talkie: a 13B vintage language model from 1930\n[tech] Microsoft and OpenAI end their exclusive and revenue-sharing deal\n[tech] Can You Find the Comet?\n[tech] Is my blue your blue?\n[tech] Pgrx: Build Postgres Extensions with Rust\n[tech] High Performance Git\n[tech] WASM is not quite a stack machine",
+        "created_at": ""
+      }
+    ]
   }
 ]
