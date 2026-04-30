@@ -1,75 +1,75 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T09:05:19+00:00",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T09:07:25+00:00",
   "trends": [
-    "[tech] Ghostty is leaving GitHub",
+    "[tech] Where the goblins came from",
     "[startup] Share your startup - quarterly post",
     "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
-    "[tech] Bugs Rust won't catch",
+    "[tech] Noctua releases official 3D CAD models for its cooling fans",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[r/SomebodyMakeThis] Please help",
-    "[tech] HardenedBSD Is Now Officially on Radicle",
-    "[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote",
-    "[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?",
-    "[tech] Tell HN: An update from the new Tindie team",
-    "[startup] Founder with some traction - how to approach VCs? I will not promote.",
-    "[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱",
-    "[tech] How ChatGPT serves ads",
-    "[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.",
-    "[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?",
-    "[tech] Before GitHub",
-    "[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.",
-    "[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it",
-    "[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-    "[startup] I think my ideas are too big for me(I will not promote)"
+    "[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?",
+    "[tech] Zed 1.0",
+    "[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote",
+    "[r/SomebodyMakeThis] I have an idea. I need your help to validate it.",
+    "[tech] The Zig project's rationale for their anti-AI contribution policy",
+    "[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)",
+    "[r/SomebodyMakeThis] Android SMS filter based on message context",
+    "[tech] Craig Venter has died",
+    "[startup] Need Advice on Equity Structure. I Will Not Promote.",
+    "[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?",
+    "[tech] Copy Fail",
+    "[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)",
+    "[r/AppIdeas] How do you plan trips?",
+    "[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "[startup] How to estimated the expected return on startup equity. I will not promote"
   ],
   "ideas": [
     {
-      "name": "Executive Roast Bot",
-      "problem": "Executivos e líderes corporativos querem uma forma divertida e inofensiva de serem satirizados, enquanto equipes de RH e eventos corporativos buscam atividades de team-building únicas e envolventes.",
-      "monetization": "Freemium com recursos premium pagos (ex: personalização avançada, temas específicos, agendamento de eventos) por 9.99 USD/mês.",
+      "name": "Fridge Minder",
+      "problem": "Consumers struggle to keep track of groceries, leading to waste and unnecessary purchases. This app scans your fridge contents and suggests what to buy, optimizing shopping lists.",
+      "monetization": "Freemium with premium features like recipe suggestions based on current inventory and automated reordering for $4.99/month.",
+      "theme": "Consumer Grocery",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Trip Planner Pro",
+      "problem": "Individuals find planning multi-destination trips complex and time-consuming. This app simplifies itinerary creation, booking integration, and collaborative planning for groups.",
+      "monetization": "Subscription-based SaaS for individuals ($9.99/month) and travel agencies ($49.99/month with team features).",
+      "theme": "Travel Planning",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Equity Advisor",
+      "problem": "Startup founders and employees often face confusion regarding equity structures and expected returns. This tool provides clear visualizations and calculators for complex equity scenarios.",
+      "monetization": "One-time purchase for basic calculators ($29.99), subscription for advanced modeling and expert consultation access ($99/month).",
+      "theme": "Startup Finance",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Creator Asset Hub",
+      "problem": "Content creators often need to source and manage various digital assets (stock photos, music, templates) for their work. This platform aggregates high-quality, curated assets with flexible licensing options.",
+      "monetization": "Subscription tiers for access to asset libraries ($19/month for basic, $49/month for premium) and marketplace commissions (15% on individual asset sales).",
       "theme": "Creator Economy",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
       "created_at": ""
     },
     {
-      "name": "Habit Builder Pro",
-      "problem": "Indivíduos lutam para formar e manter hábitos saudáveis ou produtivos, necessitando de um sistema inteligente que se adapte ao seu comportamento e ofereça feedback acionável.",
-      "monetization": "Freemium com recursos avançados de análise e gamificação por 4.99 USD/mês.",
-      "theme": "Personal Productivity",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
+      "name": "Vibe Code Helper",
+      "problem": "Developers increasingly encounter simple UI/UX ideas that could be quickly prototyped with code but lack the motivation or time. This tool generates boilerplate code snippets for common frontend components based on natural language descriptions.",
+      "monetization": "Freemium with limited daily generations, unlimited generations and advanced component options for $15/month.",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
       "created_at": ""
     },
     {
-      "name": "AI Porn Manager",
-      "problem": "Criadores de conteúdo e desenvolvedores de IA geram grandes volumes de conteúdo de IA, mas carecem de uma ferramenta centralizada para organizar, categorizar e gerenciar eficazmente suas criações.",
-      "monetization": "SaaS B2B, com planos escalonados baseados em volume de armazenamento e funcionalidades, a partir de 19 USD/mês.",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "FOSS Monetizer",
-      "problem": "Desenvolvedores de software FOSS buscam estratégias de monetização sustentáveis sem comprometer a natureza aberta de seus projetos, precisando de ferramentas para integrar pagamentos e suporte de forma transparente.",
-      "monetization": "Comissão de 5-15% sobre doações e vendas de recursos premium/assinaturas.",
-      "theme": "Creator Economy",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "App Idea Validator",
-      "problem": "Empreendedores e inovadores frequentemente criam aplicativos com base em suposições, precisando de uma plataforma para validar a viabilidade de suas ideias com o público-alvo real antes de investir recursos significativos.",
-      "monetization": "Freemium com limites de validação; planos pagos a partir de 29 USD/mês para maior alcance e análise.",
-      "theme": "Entrepreneurial Tools",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "AI Agency Navigator",
-      "problem": "Empresas e indivíduos que buscam contratar agências de automação e IA precisam de um diretório confiável e transparente, com avaliações verificadas e informações sobre o desempenho e especialização de cada agência.",
-      "monetization": "Taxa de listagem para agências e/ou comissão sobre contratos fechados através da plataforma.",
-      "theme": "Startup Services",
-      "trends_context": "[tech] Ghostty is leaving GitHub\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bugs Rust won't catch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Please help\n[tech] HardenedBSD Is Now Officially on Radicle\n[startup] I built an n8n-first automation/AI agency. Great start, hard middle, exiting now. I will not promote\n[r/SomebodyMakeThis] I built a dumb site to roast executives. It flopped. Should I kill it or pivot it into something better?\n[tech] Tell HN: An update from the new Tindie team\n[startup] Founder with some traction - how to approach VCs? I will not promote.\n[r/SomebodyMakeThis] I built a habit tracker app that works by learning user behaviour🌱\n[tech] How ChatGPT serves ads\n[startup] What would you choose in early startup stages, move fast, validate and risk AI slop, or go considerably slower but have cleaner and scalable code? I will not promote.\n[r/AppIdeas] AI porn generator/best AI porn generator: We have 30+ tools but no way to manage them. Is this the real gap?\n[tech] Before GitHub\n[startup] I have built a note-taking app to be FOSS, but now I'm considering monetization. I will not promote.\n[r/AppIdeas] Drop your App idea and people tell you if they'd actually use it\n[tech] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage\n[startup] I think my ideas are too big for me(I will not promote)",
+      "name": "Local Business Helper",
+      "problem": "Small businesses struggle with managing customer feedback and identifying reasons for customer churn. This app provides a simplified interface for collecting, analyzing, and acting on customer feedback.",
+      "monetization": "SaaS B2B: $20/month for basic feedback collection, $50/month for advanced analytics and reporting.",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] Where the goblins came from\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Noctua releases official 3D CAD models for its cooling fans\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] anyone else notice half the \"somebody make this\" posts here are now things you could vibe code yourself in 20 minutes?\n[tech] Zed 1.0\n[startup] Anyone else feel paralyzed by AI moving so fast you can't decide what to build? I will not promote\n[r/SomebodyMakeThis] I have an idea. I need your help to validate it.\n[tech] The Zig project's rationale for their anti-AI contribution policy\n[startup] Selling Vested Employee Stock Options of Series A Startup (I will not promote)\n[r/SomebodyMakeThis] Android SMS filter based on message context\n[tech] Craig Venter has died\n[startup] Need Advice on Equity Structure. I Will Not Promote.\n[r/AppIdeas] an app that scans your fridge and only orders the groceries you're missing — does this exist?\n[tech] Copy Fail\n[startup] I spent 3 months convinced I knew why users were leaving. I was completely wrong. (I will not promote)\n[r/AppIdeas] How do you plan trips?\n[tech] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs\n[startup] How to estimated the expected return on startup equity. I will not promote",
       "created_at": ""
     }
   ]
