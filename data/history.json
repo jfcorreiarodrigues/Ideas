@@ -704,5 +704,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T08:53:49+00:00",
+    "trends": [
+      "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Auto Polo",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] A digital space that only exists at night",
+      "[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "[startup] Dropped from cap table, anyone have experience with this? [i will not promote]",
+      "[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood",
+      "[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote",
+      "[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it",
+      "[tech] Opus 4.7 knows the real Kelsey",
+      "[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)",
+      "[r/AppIdeas] my messaging app has the worst possible value proposition",
+      "[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "[startup] Recognize early sales answered fewer questions than I expected（I will not promote)",
+      "[r/AppIdeas] my full stack — what I actually pay to run this thing every month",
+      "[tech] Softmax, can you derive the Jacobian? And should you care?",
+      "[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote."
+    ],
+    "ideas": [
+      {
+        "name": "Nightscape Ambiance Builder",
+        "problem": "Utilizadores que procuram uma experiência digital imersiva e específica para o período noturno, seja para relaxamento, foco ou entretenimento, sem ter que depender de aplicativos genéricos de som ou iluminação.",
+        "monetization": "Freemium com funcionalidades avançadas de personalização e bibliotecas de som exclusivas via IAP (5.99 USD/mes ou 29.99 USD/ano).",
+        "theme": "Digital Ambiance Consumer",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Mood Playlist Generator",
+        "problem": "Pessoas que desejam criar playlists de música dinâmicas e adaptadas ao seu estado de espírito atual, mas acham tedioso e demorado selecionar manualmente cada música.",
+        "monetization": "Freemium com limite de playlists diárias/mensais; assinatura premium (3.99 USD/mes) para playlists ilimitadas e recursos de compartilhamento avançados.",
+        "theme": "AI Music Consumer",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Walk Loop Innovator",
+        "problem": "Indivíduos que se sentem entediados com as rotas de caminhada habituais e procuram formas inovadoras e gamificadas de descobrir novos percursos e pontos de interesse na sua área local.",
+        "monetization": "Download gratuito com pacotes de rotas temáticas premium (2.99-9.99 USD por pacote) e funcionalidades de gamificação avançadas via assinatura (1.99 USD/mes).",
+        "theme": "Urban Exploration Consumer",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "AI Personality Decoder",
+        "problem": "Desenvolvedores que trabalham com modelos de linguagem e querem uma ferramenta para analisar e compreender mais profundamente a 'personalidade' ou estilo de resposta de um modelo específico, para fins de ajuste fino ou depuração.",
+        "monetization": "SaaS B2B baseado em uso com créditos por análise, a partir de 10 USD por mês para desenvolvedores individuais e planos empresariais escaláveis.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Early Sales Insights",
+        "problem": "Fundadores de startups que estão a recolher feedback inicial de vendas e querem uma plataforma para organizar, analisar e identificar padrões e insights acionáveis de forma eficiente, sem perder tempo com planilhas manuais.",
+        "monetization": "SaaS B2B com níveis de preço baseados no número de utilizadores e volume de dados processados, a partir de 49 USD/mês.",
+        "theme": "Startup Operations",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Non-Tech Founder AI",
+        "problem": "Pessoas sem formação técnica que desejam construir ou participar em startups de tecnologia, mas necessitam de orientação clara sobre as melhores habilidades a adquirir e as ferramentas de IA mais eficazes para utilizar sem programação.",
+        "monetization": "Conteúdo premium via assinatura (19.99 USD/mês) com acesso a tutoriais, webinars exclusivos e uma comunidade privada; consultoria individual (preço sob consulta).",
+        "theme": "Startup Enablement",
+        "trends_context": "[tech] How Mark Klein told the EFF about Room 641A [book excerpt]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Auto Polo\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A digital space that only exists at night\n[tech] New copy of earliest poem in English, written 1,3k years ago, discovered in Rome\n[startup] Dropped from cap table, anyone have experience with this? [i will not promote]\n[r/SomebodyMakeThis] An app that looks at your photo and builds a playlist based on the mood\n[tech] For Linux kernel vulnerabilities, there is no heads-up to distributions\n[startup] Best skills to learn as a non-technical person who wants to build or join a startup? I will not promote\n[r/SomebodyMakeThis] I got bored of my walks always being the same loop, so I built something to fix it\n[tech] Opus 4.7 knows the real Kelsey\n[startup] What I’ve learned watching non-technical founders build with AI (Part 2) (i will not promote)\n[r/AppIdeas] my messaging app has the worst possible value proposition\n[tech] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library\n[startup] Recognize early sales answered fewer questions than I expected（I will not promote)\n[r/AppIdeas] my full stack — what I actually pay to run this thing every month\n[tech] Softmax, can you derive the Jacobian? And should you care?\n[startup] Today I onboard 17 users (builders)manually. All in the same room. It was intense but we learnt. I will not promote.",
+        "created_at": ""
+      }
+    ]
   }
 ]
