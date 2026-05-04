@@ -932,5 +932,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-04",
+    "generated_at": "2026-05-04T09:11:40+00:00",
+    "trends": [
+      "[tech] Humanoid Robot Actuators",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Using “underdrawings” for accurate text and numbers",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race",
+      "[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)",
+      "[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features",
+      "[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "[startup] What is the best way to find startups that work in finance? I will not promote",
+      "[r/SomebodyMakeThis] AI playlist creation from my description",
+      "[tech] Texico: Learn the principles of programming without even touching a computer",
+      "[startup] Do startup principles actually work for physical products? (i will not promote)",
+      "[r/AppIdeas] UI/UX feedback for my dating app",
+      "[tech] Discovering hard disk physical geometry through microbenchmarking (2019)",
+      "[startup] Finance vs. Consulting path to startup? I will not promote",
+      "[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot",
+      "[tech] From CVS to Git, thirty years of source control",
+      "[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]"
+    ],
+    "ideas": [
+      {
+        "name": "Supercar Creator",
+        "problem": "Streamers and content creators struggle to make their speed tests and technical demonstrations engaging. This app allows them to overlay real-time performance data onto visually exciting supercar racing graphics, turning mundane tests into compelling content.",
+        "monetization": "Freemium with Pro features at $9.99/month (higher quality graphics, more overlay options).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "SaaS Clarity Guide",
+        "problem": "Early-stage SaaS founders often get caught up in feature creep, neglecting core clarity. This app provides frameworks, checklists, and case studies focused on simplifying product messaging and value proposition for better market adoption.",
+        "monetization": "One-time purchase for templates and guides ($49), with optional premium consultation add-on.",
+        "theme": "Startup Strategy",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Mesh Network Builder",
+        "problem": "Individuals and small communities need reliable, decentralized communication networks for remote areas or situations where traditional infrastructure fails. This app assists in designing, configuring, and managing LoRa mesh networks, optimizing bandwidth and coverage.",
+        "monetization": "SaaS B2B for professional installations ($50/month/network), Freemium for personal projects with limited nodes.",
+        "theme": "IoT Infrastructure",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Finance Startup Finder",
+        "problem": "Individuals looking to invest in or work with finance-focused startups face challenges in identifying viable companies amidst the noise. This platform aggregates and categorizes innovative finance startups, providing curated insights and trend analysis.",
+        "monetization": "Subscription for advanced analytics and early access reports ($29/month), Affiliate partnerships with select startups.",
+        "theme": "FinTech Consumer",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Dating App Insights",
+        "problem": "Independent dating app developers need expert feedback on their UI/UX to improve user engagement and retention. This service offers structured feedback sessions and actionable recommendations based on best practices and user psychology.",
+        "monetization": "Per-app analysis fee ($199), tiered packages for ongoing support.",
+        "theme": "Consumer App UX",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Physical Product MVP",
+        "problem": "Founders transitioning from tech startups to physical products are unsure how to validate their ideas and build MVPs. This app offers a structured approach to hardware product development, focusing on lean principles and iterative prototyping for physical goods.",
+        "monetization": "Subscription-based access to guides and workshops ($39/month), Marketplace for prototyping services.",
+        "theme": "Startup Strategy",
+        "trends_context": "[tech] Humanoid Robot Actuators\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Using “underdrawings” for accurate text and numbers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Speed tests are boring… so I turned mine into a supercar race\n[tech] BYOMesh – New LoRa mesh radio offers 100x the bandwidth\n[startup] If your goal is getting rich, a tech startup probably isn’t the way (I will not promote)\n[r/SomebodyMakeThis] Building Arthact changed how I think about early SaaS: clarity beats features\n[tech] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro\n[startup] What is the best way to find startups that work in finance? I will not promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] Texico: Learn the principles of programming without even touching a computer\n[startup] Do startup principles actually work for physical products? (i will not promote)\n[r/AppIdeas] UI/UX feedback for my dating app\n[tech] Discovering hard disk physical geometry through microbenchmarking (2019)\n[startup] Finance vs. Consulting path to startup? I will not promote\n[r/AppIdeas] Where should you invest in the coming 25 years? Check the screenshot\n[tech] From CVS to Git, thirty years of source control\n[startup] Hardware startup (ex) founders, I need your help pls [I will not promote]",
+        "created_at": ""
+      }
+    ]
   }
 ]
