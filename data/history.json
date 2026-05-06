@@ -1084,5 +1084,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-06",
+    "generated_at": "2026-05-06T09:15:20+00:00",
+    "trends": [
+      "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] StarFighter 16-Inch",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] An app to track what accounts you have with your email",
+      "[tech] CARA 2.0 – “I Built a Better Robot Dog”",
+      "[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).",
+      "[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)",
+      "[tech] Batteries Not Included, or Required, for These Smart Home Sensors",
+      "[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote",
+      "[r/SomebodyMakeThis] AI playlist creation from my description",
+      "[tech] DNSSEC disruption affecting .de domains – Resolved",
+      "[startup] The Mom Test failed me through 2 startups - I will not promote",
+      "[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later",
+      "[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)",
+      "[r/AppIdeas] Finding accounts you've made with your email",
+      "[tech] Knitting bullshit",
+      "[startup] anyone else currently drowning in SOC 2 prep? | i will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Conta Mestra",
+        "problem": "Utilizadores frequentemente perdem o controlo sobre as contas online que criaram. Esta aplicação permite consolidar e gerir todas as suas contas digitais a partir de um único local, facilitando a recuperação de senhas e a desativação de contas esquecidas.",
+        "monetization": "Freemium com funcionalidade básica gratuita; subscrição premium de 4.99 USD/mês para gestão avançada de senhas e histórico de contas.",
+        "theme": "Consumer Security",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Domínio Fácil",
+        "problem": "Pequenos empresários e criadores individuais precisam de domínios web e contas Cloudflare para estabelecerem a sua presença online, mas o processo pode ser técnico. Esta aplicação simplifica a criação de contas e compra de domínios, integrando-se diretamente com serviços de hospedagem.",
+        "monetization": "Comissão sobre a venda de domínios e parcerias com provedores de hospedagem, além de uma taxa única de configuração para PMEs.",
+        "theme": "Small Business Setup",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "DNA Negócios",
+        "problem": "Muitos fundadores de startups sentem-se perdidos nas fases iniciais e em processos de aceleração. Esta plataforma analisa os dados de pedidos para aceleradoras (como YC) e oferece insights acionáveis sobre os padrões que realmente importam, ajudando a refinar propostas e estratégias.",
+        "monetization": "SaaS B2B com planos a partir de 29 USD/mês para acesso a análises detalhadas e ferramentas de refino de pitch.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Robô Doméstico",
+        "problem": "A integração de dispositivos inteligentes em casa pode ser complexa, especialmente com a gestão de baterias e energia. Esta aplicação foca-se em simplificar a configuração e monitorização de sensores smart home, fornecendo alertas proativos sobre a necessidade de substituição ou recarga de baterias, ou mesmo sugerindo alternativas sem necessidade de pilhas.",
+        "monetization": "App única de 9.99 USD com atualizações futuras incluídas, e um modelo de freemium com sugestões básicas gratuitas.",
+        "theme": "Smart Home Utility",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Doguinho 2.0",
+        "problem": "Entusiastas e inovadores na área de robótica procuram plataformas para testar e partilhar as suas criações. Inspirado por avanços em robôs cães, este aplicativo oferece um ambiente simulado para testar algoritmos de navegação e comportamento, além de um fórum para partilha de hardware e software.",
+        "monetization": "Modelo de subscrição para acesso premium às ferramentas de simulação e funcionalidades avançadas. Possível marketplace para componentes de robótica.",
+        "theme": "Robotics Consumer",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Trilho Mental",
+        "problem": "Pessoas lutam para identificar e gerir o que drena a sua energia mental e foco, indo além das listas de tarefas tradicionais. Esta aplicação usa um sistema de rastreamento intuitivo e gamificado para ajudar utilizadores a reconhecer padrões de 'dreno cerebral' e a desenvolver estratégias personalizadas para melhorar o bem-estar cognitivo.",
+        "monetization": "Freemium com funcionalidades básicas de rastreamento; subscrição de 7.99 USD/mês para acesso a programas de intervenção personalizados e análises aprofundadas.",
+        "theme": "Mental Wellness",
+        "trends_context": "[tech] Agents can now create Cloudflare accounts, buy domains, and deploy\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] StarFighter 16-Inch\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] An app to track what accounts you have with your email\n[tech] CARA 2.0 – “I Built a Better Robot Dog”\n[startup] 3 years into building a startup. Here’s what no one warns you about (I will not promote).\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] Batteries Not Included, or Required, for These Smart Home Sensors\n[startup] I read every YC Request for Startups since 2016. The pattern nobody talks about is embarrassingly obvious in hindsight. - I will not Promote\n[r/SomebodyMakeThis] AI playlist creation from my description\n[tech] DNSSEC disruption affecting .de domains – Resolved\n[startup] The Mom Test failed me through 2 startups - I will not promote\n[r/AppIdeas] SaveIt - app to save links from your phone's share sheet and actually find them later\n[tech] Accelerating Gemma 4: faster inference with multi-token prediction drafters\n[startup] Just been rejected by an accelerator: they received 35,000 applications for only 35 spots. You have better odds getting into Harvard. (I will not promote)\n[r/AppIdeas] Finding accounts you've made with your email\n[tech] Knitting bullshit\n[startup] anyone else currently drowning in SOC 2 prep? | i will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
