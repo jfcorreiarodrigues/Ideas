@@ -1160,5 +1160,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-07",
+    "generated_at": "2026-05-07T09:25:37+00:00",
+    "trends": [
+      "[tech] Valve releases Steam Controller CAD files under Creative Commons license",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?",
+      "[tech] Appearing productive in the workplace",
+      "[startup] I raised $1mil. I will not promote.",
+      "[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?",
+      "[tech] Permacomputing Principles",
+      "[startup] Why am I always running after people?? (I will not promote)",
+      "[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)",
+      "[tech] SQLite Is a Library of Congress Recommended Storage Format",
+      "[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.",
+      "[r/AppIdeas] Yo are you working on your app idea? 🤔",
+      "[tech] Diskless Linux boot using ZFS, iSCSI and PXE",
+      "[startup] Focus on the unsexy problems - I will not promote",
+      "[r/AppIdeas] Badminton/Tennis Tracker App",
+      "[tech] Vibe coding and agentic engineering are getting closer than I'd like",
+      "[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Mind Drain Tracker",
+        "problem": "Pessoas sentem que sua energia mental é drenada por tarefas ou preocupações invisíveis. Este app ajuda a identificar e visualizar essas fontes de esgotamento.",
+        "monetization": "Freemium com funcionalidade avançada de análise e relatórios personalizados por $4.99/mês.",
+        "theme": "Mental Wellness",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Floating Phone Buddy",
+        "problem": "Usuários que desejam mais conveniência ao usar seus smartphones em certas situações (cozinhar, assistir vídeos). Um acessório inteligente que se prende e se move com o telefone.",
+        "monetization": "Venda de hardware com margem de lucro, potencialmente com modelos premium.",
+        "theme": "Gadget Utility",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Unsexy Problem Solver",
+        "problem": "Pequenos negócios e freelancers lidam com tarefas administrativas repetitivas e não glamorosas que consomem tempo. Uma plataforma para automatizar esses processos.",
+        "monetization": "SaaS B2B com planos a partir de $19/mês por funcionalidade automatizada.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Consumer GPU Optimizer",
+        "problem": "Entusiastas de tecnologia e criadores de conteúdo que desejam maximizar o desempenho de suas GPUs para tarefas intensivas como treinamento de LLMs ou renderização.",
+        "monetization": "Software premium único por $39.99, com atualizações futuras opcionais.",
+        "theme": "Tech Productivity",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Creator Showcase",
+        "problem": "Artistas e criadores independentes locais lutam para ganhar visibilidade e se conectar com seu público na comunidade. Um marketplace e plataforma de eventos focados em criadores locais.",
+        "monetization": "Marketplace com taxa de 15% sobre vendas de produtos/serviços e ingressos para eventos.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Productive Presence Coach",
+        "problem": "Profissionais que precisam melhorar a percepção de sua produtividade no ambiente de trabalho, seja remoto ou presencial. Um guia interativo com dicas e estratégias personalizadas.",
+        "monetization": "Assinatura mensal de $9.99 para acesso a todos os módulos e coaching virtual.",
+        "theme": "Workplace Productivity",
+        "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
