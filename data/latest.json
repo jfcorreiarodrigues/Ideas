@@ -1,75 +1,75 @@
 {
-  "date": "2026-05-07",
-  "generated_at": "2026-05-07T09:25:37+00:00",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T08:17:40+00:00",
   "trends": [
-    "[tech] Valve releases Steam Controller CAD files under Creative Commons license",
+    "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data",
     "[startup] Share your startup - quarterly post",
     "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
-    "[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs",
-    "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?",
-    "[tech] Appearing productive in the workplace",
-    "[startup] I raised $1mil. I will not promote.",
-    "[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?",
-    "[tech] Permacomputing Principles",
-    "[startup] Why am I always running after people?? (I will not promote)",
-    "[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)",
-    "[tech] SQLite Is a Library of Congress Recommended Storage Format",
-    "[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.",
-    "[r/AppIdeas] Yo are you working on your app idea? 🤔",
-    "[tech] Diskless Linux boot using ZFS, iSCSI and PXE",
-    "[startup] Focus on the unsexy problems - I will not promote",
-    "[r/AppIdeas] Badminton/Tennis Tracker App",
-    "[tech] Vibe coding and agentic engineering are getting closer than I'd like",
-    "[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote"
+    "[tech] Maybe you shouldn't install new software for a bit",
+    "[startup] Feedback Friday",
+    "[r/SomebodyMakeThis] Instagram Dopperlanger",
+    "[tech] Cloudflare to cut about 20% workforce",
+    "[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)",
+    "[r/SomebodyMakeThis] Just an idea-",
+    "[tech] Rumors of my death are slightly exaggerated",
+    "[startup] best places to find co founders? (i will not promote)",
+    "[r/SomebodyMakeThis] What’s one thing you wish you started earlier?",
+    "[tech] Dirtyfrag: Universal Linux LPE",
+    "[startup] Antler VC i will not promote",
+    "[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem",
+    "[tech] The map that keeps Burning Man honest",
+    "[startup] 18, Conflicted, need some guidance please. I will not promote",
+    "[r/AppIdeas] 1950s movie application",
+    "[tech] Pinocchio is weirder than you remembered",
+    "[startup] What to ask when trying to join early stage startups? (I will not promote)"
   ],
   "ideas": [
     {
-      "name": "Mind Drain Tracker",
-      "problem": "Pessoas sentem que sua energia mental é drenada por tarefas ou preocupações invisíveis. Este app ajuda a identificar e visualizar essas fontes de esgotamento.",
-      "monetization": "Freemium com funcionalidade avançada de análise e relatórios personalizados por $4.99/mês.",
-      "theme": "Mental Wellness",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Floating Phone Buddy",
-      "problem": "Usuários que desejam mais conveniência ao usar seus smartphones em certas situações (cozinhar, assistir vídeos). Um acessório inteligente que se prende e se move com o telefone.",
-      "monetization": "Venda de hardware com margem de lucro, potencialmente com modelos premium.",
-      "theme": "Gadget Utility",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Unsexy Problem Solver",
-      "problem": "Pequenos negócios e freelancers lidam com tarefas administrativas repetitivas e não glamorosas que consomem tempo. Uma plataforma para automatizar esses processos.",
-      "monetization": "SaaS B2B com planos a partir de $19/mês por funcionalidade automatizada.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Consumer GPU Optimizer",
-      "problem": "Entusiastas de tecnologia e criadores de conteúdo que desejam maximizar o desempenho de suas GPUs para tarefas intensivas como treinamento de LLMs ou renderização.",
-      "monetization": "Software premium único por $39.99, com atualizações futuras opcionais.",
-      "theme": "Tech Productivity",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Local Creator Showcase",
-      "problem": "Artistas e criadores independentes locais lutam para ganhar visibilidade e se conectar com seu público na comunidade. Um marketplace e plataforma de eventos focados em criadores locais.",
-      "monetization": "Marketplace com taxa de 15% sobre vendas de produtos/serviços e ingressos para eventos.",
+      "name": "Creator's Archive",
+      "problem": "Creators often struggle to organize and showcase their past work across various platforms, leading to lost opportunities for collaboration and new projects. This app helps them consolidate and present their portfolio effectively.",
+      "monetization": "Freemium with premium features for advanced analytics and larger storage, starting at $9.99/month.",
       "theme": "Creator Economy",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
       "created_at": ""
     },
     {
-      "name": "Productive Presence Coach",
-      "problem": "Profissionais que precisam melhorar a percepção de sua produtividade no ambiente de trabalho, seja remoto ou presencial. Um guia interativo com dicas e estratégias personalizadas.",
-      "monetization": "Assinatura mensal de $9.99 para acesso a todos os módulos e coaching virtual.",
-      "theme": "Workplace Productivity",
-      "trends_context": "[tech] Valve releases Steam Controller CAD files under Creative Commons license\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What’s something so useful it’s weird that no one has built it yet?\n[tech] Appearing productive in the workplace\n[startup] I raised $1mil. I will not promote.\n[r/SomebodyMakeThis] I’m working on a floating smartphone idea — is it useful or pointless?\n[tech] Permacomputing Principles\n[startup] Why am I always running after people?? (I will not promote)\n[r/SomebodyMakeThis] A way to see what’s draining your brain (not just your to-do list)\n[tech] SQLite Is a Library of Congress Recommended Storage Format\n[startup] Senior Dev building my first SaaS: How much \"legal\" do I need before validation? - i will not promote.\n[r/AppIdeas] Yo are you working on your app idea? 🤔\n[tech] Diskless Linux boot using ZFS, iSCSI and PXE\n[startup] Focus on the unsexy problems - I will not promote\n[r/AppIdeas] Badminton/Tennis Tracker App\n[tech] Vibe coding and agentic engineering are getting closer than I'd like\n[startup] How are indie hackers managing all the “non-code” parts of products? - I will not promote",
+      "name": "School Data Guard",
+      "problem": "Educational institutions are vulnerable to data breaches, putting sensitive student and staff information at risk. This tool provides schools with an affordable, easy-to-use system for data protection and threat monitoring.",
+      "monetization": "SaaS B2B, tiered pricing based on school size, starting at $199/month.",
+      "theme": "Cybersecurity Consumer",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Biotech Deal Advisor",
+      "problem": "Early-stage biotech founders often face complex and opaque funding offers, making it difficult to understand equity implications and negotiate fair terms. This platform provides clear insights and actionable advice for such scenarios.",
+      "monetization": "Subscription service for founders and advisors, $49/month.",
+      "theme": "Startup Finance",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Nostalgia App Curator",
+      "problem": "Users want to rediscover and experience media from past decades but find it fragmented across various streaming services and archives. This app aggregates and recommends content from specific eras, offering a curated viewing experience.",
+      "monetization": "Freemium with premium subscription for ad-free viewing and exclusive content access, $5.99/month.",
+      "theme": "Consumer Media",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Startup Co-Founder Match",
+      "problem": "Aspiring entrepreneurs struggle to find compatible and skilled co-founders who share their vision and work ethic. This app uses detailed profiles and matching algorithms to facilitate meaningful connections.",
+      "monetization": "One-time matchmaking fee of $75 per successful connection, with a premium tier for enhanced visibility.",
+      "theme": "Startup Networking",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Linux Permissions Helper",
+      "problem": "Managing file permissions in Linux can be complex and error-prone, especially for users new to the system or dealing with intricate setups. This utility simplifies the process of understanding and setting LPE (Local Privilege Escalation) controls.",
+      "monetization": "One-time purchase of $19.99 for the desktop application.",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] Canvas is down as ShinyHunters threatens to leak schools’ data\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Maybe you shouldn't install new software for a bit\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Instagram Dopperlanger\n[tech] Cloudflare to cut about 20% workforce\n[startup] Series A Biotech Offer Refuses to Disclose Equity Percentage - Advice (I will not promote)\n[r/SomebodyMakeThis] Just an idea-\n[tech] Rumors of my death are slightly exaggerated\n[startup] best places to find co founders? (i will not promote)\n[r/SomebodyMakeThis] What’s one thing you wish you started earlier?\n[tech] Dirtyfrag: Universal Linux LPE\n[startup] Antler VC i will not promote\n[r/AppIdeas] \"Best\" ai porn sites/generators and not one of them solves the actual workflow problem\n[tech] The map that keeps Burning Man honest\n[startup] 18, Conflicted, need some guidance please. I will not promote\n[r/AppIdeas] 1950s movie application\n[tech] Pinocchio is weirder than you remembered\n[startup] What to ask when trying to join early stage startups? (I will not promote)",
       "created_at": ""
     }
   ]
