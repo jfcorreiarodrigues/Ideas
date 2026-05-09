@@ -1312,5 +1312,73 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-09",
+    "generated_at": "2026-05-09T08:24:01+00:00",
+    "trends": [
+      "[tech] A recent experience with ChatGPT 5.5 Pro",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] All my clients wanted a carousel, now it's an AI chatbot",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof",
+      "[tech] Google broke reCAPTCHA for de-googled Android users",
+      "[startup] Startups in the AI Mental Health space? (I will not promote)",
+      "[r/SomebodyMakeThis] [ Removed by Reddit ]",
+      "[tech] Using Claude Code: The unreasonable effectiveness of HTML",
+      "[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)",
+      "[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch",
+      "[tech] OpenAI’s WebRTC problem",
+      "[startup] I still write code by hand. Am I holding my startup back? [I will not promote]",
+      "[r/AppIdeas] Would you play a real-world version of Paper.io?",
+      "[tech] Mythical Man Month",
+      "[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote",
+      "[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal",
+      "[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "[startup] Customer research - how to? i will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Invoice Automator AI",
+        "problem": "Pequenos negócios e freelancers gastam tempo valioso a criar e gerir faturas manualmente. Muitos procuram soluções simples e gratuitas que evitem subscrições complexas.",
+        "monetization": "Freemium com funcionalidades avançadas pagas (ex: integrações com contabilidade, automação de pagamentos) a 19.99 USD/mês.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] A recent experience with ChatGPT 5.5 Pro\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] All my clients wanted a carousel, now it's an AI chatbot\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof\n[tech] Google broke reCAPTCHA for de-googled Android users\n[startup] Startups in the AI Mental Health space? (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] Using Claude Code: The unreasonable effectiveness of HTML\n[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)\n[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch\n[tech] OpenAI’s WebRTC problem\n[startup] I still write code by hand. Am I holding my startup back? [I will not promote]\n[r/AppIdeas] Would you play a real-world version of Paper.io?\n[tech] Mythical Man Month\n[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote\n[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal\n[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push\n[startup] Customer research - how to? i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Companion",
+        "problem": "Desenvolvedores de software, especialmente os que trabalham com HTML, encontram desafios na otimização e refatoração de código para uma melhor performance e manutenção. Ferramentas que simplifiquem este processo são altamente valorizadas.",
+        "monetization": "SaaS B2B com planos escalonados baseados no número de utilizadores e funcionalidades (ex: 29 USD/mês por utilizador para equipas pequenas).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] A recent experience with ChatGPT 5.5 Pro\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] All my clients wanted a carousel, now it's an AI chatbot\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof\n[tech] Google broke reCAPTCHA for de-googled Android users\n[startup] Startups in the AI Mental Health space? (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] Using Claude Code: The unreasonable effectiveness of HTML\n[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)\n[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch\n[tech] OpenAI’s WebRTC problem\n[startup] I still write code by hand. Am I holding my startup back? [I will not promote]\n[r/AppIdeas] Would you play a real-world version of Paper.io?\n[tech] Mythical Man Month\n[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote\n[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal\n[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push\n[startup] Customer research - how to? i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Artisan Showcase",
+        "problem": "Consumidores que procuram produtos artesanais únicos e locais muitas vezes têm dificuldade em encontrá-los, e artesãos locais procuram um canal eficaz para alcançar clientes.",
+        "monetization": "Marketplace com uma comissão de 15% por venda realizada através da plataforma, mais opções de destaque pagas para artesãos.",
+        "theme": "Local Commerce",
+        "trends_context": "[tech] A recent experience with ChatGPT 5.5 Pro\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] All my clients wanted a carousel, now it's an AI chatbot\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof\n[tech] Google broke reCAPTCHA for de-googled Android users\n[startup] Startups in the AI Mental Health space? (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] Using Claude Code: The unreasonable effectiveness of HTML\n[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)\n[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch\n[tech] OpenAI’s WebRTC problem\n[startup] I still write code by hand. Am I holding my startup back? [I will not promote]\n[r/AppIdeas] Would you play a real-world version of Paper.io?\n[tech] Mythical Man Month\n[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote\n[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal\n[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push\n[startup] Customer research - how to? i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "EV Solar Charger",
+        "problem": "Proprietários de veículos elétricos que vivem em áreas com acesso limitado a pontos de carregamento ou que procuram reduzir a sua dependência da rede elétrica gostariam de uma solução de carregamento mais autónoma.",
+        "monetization": "Venda direta do hardware de carregamento solar integrado (preço premium) e uma subscrição opcional para monitorização avançada e otimização de energia (9.99 USD/mês).",
+        "theme": "Sustainable Tech",
+        "trends_context": "[tech] A recent experience with ChatGPT 5.5 Pro\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] All my clients wanted a carousel, now it's an AI chatbot\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof\n[tech] Google broke reCAPTCHA for de-googled Android users\n[startup] Startups in the AI Mental Health space? (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] Using Claude Code: The unreasonable effectiveness of HTML\n[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)\n[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch\n[tech] OpenAI’s WebRTC problem\n[startup] I still write code by hand. Am I holding my startup back? [I will not promote]\n[r/AppIdeas] Would you play a real-world version of Paper.io?\n[tech] Mythical Man Month\n[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote\n[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal\n[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push\n[startup] Customer research - how to? i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Mental Health Support",
+        "problem": "Indivíduos a procurar apoio para a saúde mental, especialmente aqueles que não estão prontos para terapia tradicional ou que necessitam de ferramentas de autoajuda acessíveis, procuram plataformas que ofereçam recursos e suporte.",
+        "monetization": "Freemium com conteúdo premium e acesso a recursos especializados (meditação guiada, exercícios de CBT) a 7.99 USD/mês.",
+        "theme": "Health Wellness",
+        "trends_context": "[tech] A recent experience with ChatGPT 5.5 Pro\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] All my clients wanted a carousel, now it's an AI chatbot\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Electric vehicles that top up there charge with built in solar panels on the roof\n[tech] Google broke reCAPTCHA for de-googled Android users\n[startup] Startups in the AI Mental Health space? (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] Using Claude Code: The unreasonable effectiveness of HTML\n[startup] Content Idea: Stories from founders who didn't make it. Worth doing? (I will not promote)\n[r/SomebodyMakeThis] I made the dumbest possible invoice maker — free, no ads, no upsell, no catch\n[tech] OpenAI’s WebRTC problem\n[startup] I still write code by hand. Am I holding my startup back? [I will not promote]\n[r/AppIdeas] Would you play a real-world version of Paper.io?\n[tech] Mythical Man Month\n[startup] Are VCs off the table if you dont want to sell / ipo your company? I will not promote\n[r/AppIdeas] Built something for me and my partner… not sure if this is useful or just personal\n[tech] EU calls VPNs \"a loophole that needs closing\" in age verification push\n[startup] Customer research - how to? i will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
