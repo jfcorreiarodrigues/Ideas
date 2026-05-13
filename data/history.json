@@ -1584,5 +1584,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-13",
+    "generated_at": "2026-05-13T09:34:54+00:00",
+    "trends": [
+      "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Restore full BambuNetwork support for Bambu Lab printers",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Ai-powered rescue animal matching",
+      "[tech] The vi family",
+      "[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)",
+      "[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.",
+      "[tech] Googlebook",
+      "[startup] Raising for a technically hard and risky startup (I will not promote)",
+      "[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones",
+      "[tech] New stainless steel can survive conditions needed for green hydrogen production",
+      "[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote",
+      "[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?",
+      "[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "[startup] I was about to publish my app but saw someone did it before me<i will not promote>",
+      "[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them",
+      "[tech] SecurityBaseline.eu",
+      "[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)"
+    ],
+    "ideas": [
+      {
+        "name": "Rescue Match AI",
+        "problem": "Muitos animais resgatados não encontram lares adequados devido à dificuldade em combinar características e necessidades específicas. Ajuda potenciais adotantes a encontrar o animal de estimação perfeito com base em personalidade, estilo de vida e requisitos.",
+        "monetization": "Freemium com recursos premium para organizações de resgate e adoção (ex: destaque de perfis, ferramentas de gestão).",
+        "theme": "Pet Adoption",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      },
+      {
+        "name": "Daily Health Challenges",
+        "problem": "Pessoas lutam para manter a motivação em rotinas de saúde e bem-estar. Permite que amigos criem e adaptem desafios diários de saúde, aumentando o engajamento e a responsabilidade mútua.",
+        "monetization": "Freemium com pacotes de desafios temáticos e competições pagas (IAP).",
+        "theme": "Health & Wellness",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      },
+      {
+        "name": "Embarrassing Startup Ideas",
+        "problem": "Empreendedores iniciantes muitas vezes subestimam ou ignoram ideias aparentemente 'embaraçosas' que podem ter grande potencial. Fornece uma plataforma para compartilhar, discutir e refinar ideias de startups não convencionais e potencialmente lucrativas.",
+        "monetization": "Marketplace de ideias com comissão sobre parcerias ou investimentos facilitados, e recursos premium para empreendedores.",
+        "theme": "Startup Ideation",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      },
+      {
+        "name": "Hydrogen Can Tracker",
+        "problem": "A produção de hidrogénio verde requer condições específicas e materiais resistentes, e o monitoramento da durabilidade desses materiais é crucial. Um aplicativo para rastrear e analisar o desempenho e a vida útil de contentores de aço inoxidável em ambientes de produção de hidrogénio verde.",
+        "monetization": "SaaS B2B para empresas de energia e manufatura, com planos de assinatura baseados no número de pontos de monitoramento.",
+        "theme": "Green Tech Monitoring",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      },
+      {
+        "name": "Vim Family Manager",
+        "problem": "A família de editores 'vi' (vim, neovim, etc.) tem uma curva de aprendizado acentuada e muitos usuários buscam otimizar sua experiência. Uma ferramenta de gestão e aprendizagem para a família de editores vi, oferecendo configurações otimizadas, tutoriais interativos e um sistema de plugins curado.",
+        "monetization": "Assinatura freemium para acesso a recursos avançados e suporte prioritário.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      },
+      {
+        "name": "E-commerce Project Flip",
+        "problem": "Projetos de e-commerce totalmente desenvolvidos que não avançam deixam empreendedores com ativos subutilizados. Um marketplace focado em vender ou licenciar websites de e-commerce concluídos, mas não lançados ou abandonados, conectando vendedores a compradores e investidores.",
+        "monetization": "Comissão sobre vendas de projetos e serviços de avaliação/auditoria de projetos.",
+        "theme": "Small Business Liquidity",
+        "trends_context": "[tech] Deterministic Fully-Static Whole-Binary Translation Without Heuristics\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Restore full BambuNetwork support for Bambu Lab printers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Ai-powered rescue animal matching\n[tech] The vi family\n[startup] Do founders who succeeded while working a full-time or part-time job exist? (I will not promote)\n[r/SomebodyMakeThis] I feel like there are still so many apps missing that people would actually use daily.\n[tech] Googlebook\n[startup] Raising for a technically hard and risky startup (I will not promote)\n[r/SomebodyMakeThis] Maybe the best startup ideas are embarrassing ones\n[tech] New stainless steel can survive conditions needed for green hydrogen production\n[startup] I used to believe execution mattered more than ideas. Now I’m not sure. I will not promote\n[r/AppIdeas] What’s an app you wish existed but nobody has built properly yet?\n[tech] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model\n[startup] I was about to publish my app but saw someone did it before me<i will not promote>\n[r/AppIdeas] App I'm building - daily health cards where friends can make your challenges harder before you complete them\n[tech] SecurityBaseline.eu\n[startup] [I will not promote]. What do people usually do with fully developed e-commerce websites after a project/business doesn’t move forward? (Drastically failed)",
+        "created_at": ""
+      }
+    ]
   }
 ]
