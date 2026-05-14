@@ -1660,5 +1660,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-14",
+    "generated_at": "2026-05-14T09:26:32+00:00",
+    "trends": [
+      "[tech] Claude for Small Business",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok",
+      "[tech] Scorched Earth 2000 – Web",
+      "[startup] Deep tech founders, what is your real blocker right now? (I will not promote)",
+      "[r/SomebodyMakeThis] Duo with ai",
+      "[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "[startup] Growing, from the perspective of a non-technical person (I will not promote)",
+      "[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business",
+      "[tech] What the Hell Was Going on with Cigarette Ads in the 70s?",
+      "[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]",
+      "[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵",
+      "[tech] Setting up a free *.city.state.us locality domain (2025)",
+      "[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)",
+      "[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?",
+      "[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "[startup] Seed funding I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Local Business Hub",
+        "problem": "Small businesses struggle to manage online presence, local listings, and customer reviews across multiple platforms. This app centralizes these tasks for owners who lack extensive technical expertise.",
+        "monetization": "SaaS B2B $49/month for basic features, $99/month for advanced analytics and integrations.",
+        "theme": "Small Business Growth",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Event Planner",
+        "problem": "Individuals and small organizations often feel overwhelmed planning events, from concept to execution. This AI-powered tool assists in budgeting, vendor sourcing, guest management, and timeline creation, inspired by the 'Accidentally built an AI Shark Tank' idea.",
+        "monetization": "Freemium with core features free, premium tiers ($19.99/month, $49.99/month) unlock advanced AI suggestions, integrations, and larger event capacities.",
+        "theme": "Event Management AI",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Classic OS Enabler",
+        "problem": "Enthusiasts and professionals wish to run older operating systems (like Windows 7) on modern hardware for compatibility or aesthetic reasons, but face complex installation and configuration hurdles. This app simplifies the process, drawing inspiration from 'Classic 7 is a Windows 10 LTSC mod'.",
+        "monetization": "One-time purchase $29.99 for the core utility, optional premium support packages $9.99/month.",
+        "theme": "Tech Nostalgia",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Community Domain Manager",
+        "problem": "Small towns or communities looking to establish a local online identity with custom domains (e.g., *.city.state.us) find the setup and management process daunting. This app simplifies domain registration, DNS management, and basic website hosting for these entities.",
+        "monetization": "SaaS B2G $79/month per domain registration and management, tiered pricing for larger community networks.",
+        "theme": "Local Tech Utility",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Deep Tech Blockers",
+        "problem": "Deep tech founders often face unique, complex blockers (technical, regulatory, funding) that are difficult to articulate or find solutions for. This platform provides a curated, anonymous space for founders to share their specific challenges and receive targeted, expert advice.",
+        "monetization": "Subscription for advanced access to curated expert networks and community forums ($49/month), with optional paid consultation services.",
+        "theme": "Startup Support",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Content Curator",
+        "problem": "Creators in highly specific niches (e.g., vintage computing, specific historical eras, rare crafts) struggle to find and organize relevant content and inspiration across the web. This app offers advanced AI-powered scraping and categorization for niche content discovery, inspired by the 'What the Hell Was Going on with Cigarette Ads in the 70s?' trend.",
+        "monetization": "Freemium: basic curation and storage free, premium ($9.99/month) unlocks advanced AI analysis, collaboration features, and unlimited storage.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Claude for Small Business\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] Scorched Earth 2000 – Web\n[startup] Deep tech founders, what is your real blocker right now? (I will not promote)\n[r/SomebodyMakeThis] Duo with ai\n[tech] Linux gaming is faster because Windows APIs are becoming Linux kernel features\n[startup] Growing, from the perspective of a non-technical person (I will not promote)\n[r/SomebodyMakeThis] Accidentally built an AI Shark Tank while running my event planning business\n[tech] What the Hell Was Going on with Cigarette Ads in the 70s?\n[startup] how do you cope with uncertainty when your startup starts falling apart? [i will not promote]\n[r/AppIdeas] Jammify — A Free Spotify Premium-Like Music Experience 🎵\n[tech] Setting up a free *.city.state.us locality domain (2025)\n[startup] Does a quiet waitlist actually tell you anything, or is it just noise until launch? （I will not promote)\n[r/AppIdeas] QUESTION: DO YOU UNDERSTAND WORTH OF THIS UNDERESTIMATED?\n[tech] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble\n[startup] Seed funding I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
