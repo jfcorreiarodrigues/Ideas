@@ -1736,5 +1736,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-15",
+    "generated_at": "2026-05-15T09:37:52+00:00",
+    "trends": [
+      "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work",
+      "[tech] Building ML framework with Rust and Category Theory",
+      "[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)",
+      "[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok",
+      "[tech] A few words on DS4",
+      "[startup] HR got offended and left the call because I asked about revenue? I will not promote",
+      "[r/SomebodyMakeThis] Duo with ai",
+      "[tech] Solar-based sleep patterns compared to modern norms",
+      "[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.",
+      "[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.",
+      "[tech] Details of the Daring Airdrop at Tristan Da Cunha",
+      "[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)",
+      "[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!",
+      "[tech] UK government replaces Palantir software with internally-built refugee system",
+      "[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Budgeting Notes App",
+        "problem": "Muitas pessoas lutam para organizar suas finanças devido à complexidade das ferramentas tradicionais. Usuários que preferem anotações manuais para organizar suas vidas agora podem transformar essas notas em orçamentos práticos.",
+        "monetization": "Freemium com recursos avançados de importação e análise via assinatura mensal (5.99 USD/mês).",
+        "theme": "Personal Finance",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Diabetes AI Coach",
+        "problem": "Indivíduos com diabetes precisam de um acompanhamento constante e personalizado para gerenciar seus níveis de glicose. O GlycemicGPT oferece uma solução de código aberto para um gerenciamento de saúde proativo e baseado em dados.",
+        "monetization": "Freemium com recursos de integração de dispositivos de monitoramento contínuo e insights personalizados via assinatura (9.99 USD/mês).",
+        "theme": "Health Management",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Startup HR Conflict",
+        "problem": "Startups frequentemente enfrentam desafios na comunicação interna e na gestão de expectativas entre fundadores e funcionários. Esta ferramenta auxilia na criação de um ambiente de trabalho mais transparente e construtivo, prevenindo conflitos e promovendo alinhamento.",
+        "monetization": "SaaS B2B com planos escalonados baseados no número de funcionários (a partir de 49 USD/mês).",
+        "theme": "Small Business HR",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Creator Social Automation",
+        "problem": "Criadores de conteúdo nas redes sociais gastam tempo excessivo respondendo a mensagens repetitivas em plataformas como Instagram, Facebook e TikTok. Uma ferramenta que automatiza respostas básicas permite que eles se concentrem na criação e no engajamento significativo.",
+        "monetization": "Assinatura mensal para automação de mensagens e templates (19.99 USD/mês) com um plano gratuito limitado.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Productivity App Audit",
+        "problem": "Profissionais e estudantes estão cada vez mais sobrecarregados com o excesso de aplicativos de produtividade, que ironicamente diminuem sua eficiência. Uma plataforma que audita e otimiza o uso de apps pode reintroduzir o foco e a clareza.",
+        "monetization": "Assinatura premium para relatórios detalhados e recomendações personalizadas (7.99 USD/mês).",
+        "theme": "Productivity Tools",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Dev Framework",
+        "problem": "Desenvolvedores que utilizam Rust e buscam construir frameworks de Machine Learning enfrentam desafios na performance e na complexidade da programação. Uma solução otimizada com teoria de categorias pode simplificar e acelerar esse processo.",
+        "monetization": "Licença de uso comercial para o framework e suporte premium (modelo baseado em projetos ou assinatura anual).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Removing the modem and GPS from my 2024 RAV4 hybrid\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: GlycemicGPT – Open-source AI-powered diabetes management\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I think ‘productivity apps’ accidentally became work\n[tech] Building ML framework with Rust and Category Theory\n[startup] Maybe some startup advice is too universal, especially “don’t build, just sell first” (i will not promote)\n[r/SomebodyMakeThis] Automatic message on insta facebook and tiktok\n[tech] A few words on DS4\n[startup] HR got offended and left the call because I asked about revenue? I will not promote\n[r/SomebodyMakeThis] Duo with ai\n[tech] Solar-based sleep patterns compared to modern norms\n[startup] Y Combinator just released their \"Requests for Startups\" - what problems and startups they want to fund. i will not promote.\n[r/AppIdeas] I’m a digital hoarder and I think I’ve found the cure.\n[tech] Details of the Daring Airdrop at Tristan Da Cunha\n[startup] Looking for an experienced Mobile/PWA dev. (I will not promote)\n[r/AppIdeas] Idea💡--> Notes Can become Budgets. Bringing the simplest way of Budgeting to digital world!\n[tech] UK government replaces Palantir software with internally-built refugee system\n[startup] How much did SOC 2 cost your startup (audit + tooling)? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
