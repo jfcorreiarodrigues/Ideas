@@ -1952,5 +1952,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-18",
+    "generated_at": "2026-05-18T10:57:00+00:00",
+    "trends": [
+      "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Where Are the Vibecoded Photoshops?",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room",
+      "[tech] GenCAD",
+      "[startup] I got stabbed in the back by my co-founders. I will not promote.",
+      "[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts",
+      "[tech] Multiple commencement speakers booed for AI comments during graduation speeches",
+      "[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote",
+      "[r/SomebodyMakeThis] I built this app for watching movies and TV series.",
+      "[tech] Crystals found inside wreckage from the first nuclear bomb test",
+      "[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.",
+      "[r/AppIdeas] Everything you wanted to save for later",
+      "[tech] It is time to give up the dualism introduced by the debate on consciousness",
+      "[startup] what weeks of anxiety taught me (i will not promote)",
+      "[r/AppIdeas] what app idea gets copied instantly these days",
+      "[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Zonas de Arrefecimento Inteligentes",
+        "problem": "Utilizadores com ventoinhas de oscilação tradicionais desperdiçam energia e arrefecimento em áreas não ocupadas. Esta app permite definir zonas específicas para arrefecimento, otimizando o conforto e a eficiência energética em casa.",
+        "monetization": "Freemium com funcionalidade de zonas premium: 2.99USD/mês ou 29.99USD/ano.",
+        "theme": "Consumer Smart Home",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Mensagens Significativas",
+        "problem": "As mensagens de texto atuais muitas vezes carecem de profundidade e conexão emocional. Esta plataforma ajuda os utilizadores a criar e enviar mensagens mais ponderadas e impactantes, fortalecendo relacionamentos.",
+        "monetization": "Assinatura premium para modelos avançados e temas: 1.99USD/mês.",
+        "theme": "Social Communication",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Testador de Apps Guardadas",
+        "problem": "Utilizadores acumulam inúmeros artigos e links 'guardados para mais tarde' sem nunca os revisitarem ou utilizarem. Esta app ajuda a organizar, priorizar e até a testar ativamente essas 'coisas guardadas', promovendo a ação.",
+        "monetization": "Freemium com limite de itens guardados, com opção de assinatura ilimitada por 3.99USD/mês.",
+        "theme": "Consumer Productivity",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Otimizador de Outreach",
+        "problem": "Fundadores de startups gastam tempo e recursos valiosos na prospecção de investidores sem ter clareza sobre o que funciona. Esta ferramenta analisa e otimiza estratégias de outreach, fornecendo dados e sugestões para melhorar as taxas de sucesso.",
+        "monetization": "SaaS B2B com planos escalonados: 49USD/mês (1 fundador), 99USD/mês (equipa).",
+        "theme": "Startup Operations",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Navegador de Filmes",
+        "problem": "Assistir a filmes e séries pode ser frustrante com a fragmentação de plataformas e a dificuldade em encontrar conteúdo relevante. Esta app oferece uma experiência unificada para descobrir, organizar e gerir o que ver, com recomendações personalizadas.",
+        "monetization": "Freemium com anúncios, opção de remoção de anúncios e funcionalidades de recomendação avançadas por 4.99USD (compra única).",
+        "theme": "Consumer Entertainment",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Verificador de Ideias Copiadas",
+        "problem": "Desenvolvedores e empreendedores frequentemente se deparam com a incerteza se uma ideia de app já foi amplamente explorada. Esta ferramenta utiliza IA para analisar tendências de mercado e identificar ideias com alto risco de replicação, auxiliando na validação e diferenciação.",
+        "monetization": "API de acesso e relatórios personalizados: Preços variados por volume e complexidade.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] The foundations of a provably secure operating system (PSOS) (1979) [pdf]\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Where Are the Vibecoded Photoshops?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Smart fan that only oscillates between selected cooling zones instead of rotating across the whole room\n[tech] GenCAD\n[startup] I got stabbed in the back by my co-founders. I will not promote.\n[r/SomebodyMakeThis] I’m building a side project to test if people want more meaningful messages than normal texts\n[tech] Multiple commencement speakers booed for AI comments during graduation speeches\n[startup] I think “build in public” is slowly turning into founders pitching to other founders 😅, I will not promote\n[r/SomebodyMakeThis] I built this app for watching movies and TV series.\n[tech] Crystals found inside wreckage from the first nuclear bomb test\n[startup] Tracked 300+ investor outreach for our seed. heres what worked. i will not promote.\n[r/AppIdeas] Everything you wanted to save for later\n[tech] It is time to give up the dualism introduced by the debate on consciousness\n[startup] what weeks of anxiety taught me (i will not promote)\n[r/AppIdeas] what app idea gets copied instantly these days\n[tech] I turned a $80 RK3562 Android tablet into a Debian Linux workstation\n[startup] New job reporting to a CMO - what should I know and game plan (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
