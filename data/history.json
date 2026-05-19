@@ -2028,5 +2028,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-19",
+    "generated_at": "2026-05-19T10:31:26+00:00",
+    "trends": [
+      "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] The last six months in LLMs in five minutes",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] meme shirt designs - should i make this?",
+      "[tech] Peter Neumann has died",
+      "[startup] What is up with the absolute slop from YC these days?(i will not promote)",
+      "[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?",
+      "[tech] Polypad",
+      "[startup] What’s wrong with Colgate? I will not promote",
+      "[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!",
+      "[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+      "[startup] Raising VC in the USA (EU Founder) (I will not promote)",
+      "[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account",
+      "[tech] Click (2016)",
+      "[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote",
+      "[r/AppIdeas] Created an app readiness scorecard for product ideas",
+      "[tech] The lasting influence of Netscape Time",
+      "[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Insurance Hold Manager",
+        "problem": "Consumers spend excessive time on hold with insurance, healthcare, and government agencies. This app automates queue management and provides estimated wait times based on crowdsourced data.",
+        "monetization": "Freemium with premium features like callback scheduling and wait time predictions for 2.99 USD/month.",
+        "theme": "Consumer Utilities",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Pro Wrestler Talent",
+        "problem": "Independent pro wrestlers struggle to find consistent booking opportunities and manage their schedules. This platform connects wrestlers with promoters and event organizers, streamlining the booking process.",
+        "monetization": "Commission-based model for bookings (5-10% of event fee), with premium listings for wrestlers.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Subscription Tracker Pro",
+        "problem": "Users lose track of numerous subscriptions and recurring payments, leading to unnecessary expenses. This app offers secure subscription tracking without requiring bank login or account creation, focusing on manual input and intelligent reminders.",
+        "monetization": "One-time purchase of 4.99 USD for full features, with optional cloud backup for 1.99 USD.",
+        "theme": "FinTech Consumer",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Legal Advisor",
+        "problem": "Early-stage startups, especially those with EU founders operating in the US, face significant challenges in navigating complex legal and VC landscapes. This tool provides curated legal resources, template agreements, and connections to experienced legal advisors for startups.",
+        "monetization": "SaaS B2B, tiered pricing from 49 USD/month for basic resources to 199 USD/month for advisor connections and template packages.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Product Idea Scorecard",
+        "problem": "Aspiring entrepreneurs struggle to objectively assess the viability of their product ideas. This app provides a structured framework and data-driven scorecard to evaluate market potential, feasibility, and competitive landscape.",
+        "monetization": "Freemium with limited scorecards, subscription for unlimited use and advanced analytics at 19.99 USD/month.",
+        "theme": "Startup Validation",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Context Analyzer",
+        "problem": "Developers working with Large Language Models (LLMs) need tools to efficiently understand and debug model behavior across different contexts and timeframes. This meta-tool analyzes LLM outputs, flags inconsistencies, and summarizes key developments over specified periods.",
+        "monetization": "SaaS B2D, tiered pricing based on API usage and features, starting at 99 USD/month.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The last six months in LLMs in five minutes\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] meme shirt designs - should i make this?\n[tech] Peter Neumann has died\n[startup] What is up with the absolute slop from YC these days?(i will not promote)\n[r/SomebodyMakeThis] Anyone else genuinely angry about how much time we lose on hold with insurance/healthcare/government?\n[tech] Polypad\n[startup] What’s wrong with Colgate? I will not promote\n[r/SomebodyMakeThis] I'm a Pro Wrestler and need your help!\n[tech] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone\n[startup] Raising VC in the USA (EU Founder) (I will not promote)\n[r/AppIdeas] I made a subscription tracker that doesn't need your bank login or an account\n[tech] Click (2016)\n[startup] What is the most important thing in acquiring a legal advisor for a startup? *I will not promote\n[r/AppIdeas] Created an app readiness scorecard for product ideas\n[tech] The lasting influence of Netscape Time\n[startup] Thinking about building my own ecommerce platform tired of client store limitations(i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
