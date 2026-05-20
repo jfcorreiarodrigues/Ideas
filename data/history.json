@@ -2104,5 +2104,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-20",
+    "generated_at": "2026-05-20T10:17:11+00:00",
+    "trends": [
+      "[tech] Everything in C is undefined behavior",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Gemini 3.5 Flash",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam",
+      "[tech] FiveThirtyEight articles on the Internet Archive",
+      "[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote",
+      "[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com",
+      "[tech] I’ve built a virtual museum with nearly every operating system you can think of",
+      "[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)",
+      "[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful",
+      "[tech] Infomaniak transitions to a foundation model to protect user data privacy",
+      "[startup] How stupid is it to measure SaaS with TRL? (I will not promote)",
+      "[r/AppIdeas] Will you use AI for cold calling?",
+      "[tech] Japan is gripped by mass allergies. A 1950s project is to blame",
+      "[startup] How to capitalise on hype? ( I promise I will not promote)",
+      "[r/AppIdeas] App for tracking all of my hobbies?",
+      "[tech] Show HN: The AI Quant Desk for Onchain Finance",
+      "[startup] Would you use this (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "AI Scam Identifier",
+        "problem": "Consumidores recebem e-mails e textos diariamente que podem ser golpes. Esta ferramenta usa IA para analisar e alertar sobre potenciais fraudes, protegendo utilizadores desatentos.",
+        "monetization": "Freemium com limite de verificações, assinatura premium para verificações ilimitadas e proteção em tempo real (4.99 USD/mês).",
+        "theme": "Consumer Security",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Hobby Project Planner",
+        "problem": "Pessoas com múltiplos hobbies frequentemente perdem o controlo do progso de seus projetos pessoais, materiais e cronogramas. Uma aplicação para organizar e planejar a execução de projetos de hobby, desde a concepção até a conclusão.",
+        "monetization": "Freemium com limite de projetos, assinatura paga para projetos ilimitados e funcionalidades avançadas de colaboração (2.99 USD/mês).",
+        "theme": "Hobby Productivity",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Virtual Museum OS",
+        "problem": "Entusiastas de tecnologia e estudantes têm dificuldade em experimentar sistemas operacionais antigos de forma acessível e organizada. Um museu virtual interativo que permite explorar e interagir com uma vasta coleção de sistemas operacionais históricos.",
+        "monetization": "Acesso gratuito para navegação básica, assinatura para acesso a conteúdos exclusivos, emuladores completos e visitas guiadas virtuais (7.99 USD/mês).",
+        "theme": "Tech History",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Meeting Assistant",
+        "problem": "Profissionais perdem tempo valioso em reuniões e na tarefa de resumir e distribuir atas. Uma ferramenta de IA que participa de reuniões virtuais, gera resumos precisos e identifica ações a serem tomadas.",
+        "monetization": "SaaS B2B com planos escalonados baseados no número de reuniões e utilizadores (a partir de 49 USD/mês para pequenas equipas).",
+        "theme": "Productivity AI",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Quant Finance",
+        "problem": "Investidores quantitativos no espaço on-chain precisam de ferramentas sofisticadas para analisar dados e tomar decisões informadas. Uma plataforma que combina análise on-chain com modelos quantitativos para otimizar estratégias de investimento.",
+        "monetization": "Assinatura mensal com diferentes níveis de acesso a dados e ferramentas analíticas (a partir de 99 USD/mês).",
+        "theme": "FinTech AI",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Data Privacy Foundation",
+        "problem": "Utilizadores estão cada vez mais preocupados com a privacidade de seus dados online e como as empresas os utilizam. Uma ferramenta que auxilia utilizadores a gerenciar suas configurações de privacidade em diversas plataformas e a entender políticas de dados.",
+        "monetization": "Freemium com análise básica de privacidade, assinatura paga para monitoramento contínuo e sugestões personalizadas de segurança (3.99 USD/mês).",
+        "theme": "Consumer Privacy",
+        "trends_context": "[tech] Everything in C is undefined behavior\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Gemini 3.5 Flash\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built a small AI tool that checks if a text or email is a scam\n[tech] FiveThirtyEight articles on the Internet Archive\n[startup] Offered \"Founding Engineer\" (3.5% Equity) at Pre-Seed Startup. How should I structure this to minimize taxes (ISOs vs RSAs)? I will not promote\n[r/SomebodyMakeThis] Somebody needs to build a CLI for Monday.com\n[tech] I’ve built a virtual museum with nearly every operating system you can think of\n[startup] Jealous of every $1M ARR post I see and I hate that I feel this way (i will not promote)\n[r/SomebodyMakeThis] Built a working mockup of an AI that attends meetings on your behalf — free to try, want to know if this is actually useful\n[tech] Infomaniak transitions to a foundation model to protect user data privacy\n[startup] How stupid is it to measure SaaS with TRL? (I will not promote)\n[r/AppIdeas] Will you use AI for cold calling?\n[tech] Japan is gripped by mass allergies. A 1950s project is to blame\n[startup] How to capitalise on hype? ( I promise I will not promote)\n[r/AppIdeas] App for tracking all of my hobbies?\n[tech] Show HN: The AI Quant Desk for Onchain Finance\n[startup] Would you use this (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
