@@ -2256,5 +2256,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-22",
+    "generated_at": "2026-05-22T10:15:04+00:00",
+    "trends": [
+      "[tech] Project Hail Mary – Stellar Navigation Chart",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Slumber a TUI HTTP Client",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?",
+      "[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "[startup] What to learn? I will not promote",
+      "[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you",
+      "[tech] The surprising story behind the first British person in space",
+      "[startup] Women that work in startups- what do you wear to work? (I will not promote)",
+      "[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant",
+      "[tech] Cleve Moler has died",
+      "[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end",
+      "[r/AppIdeas] 6 minute brain exercise app!!!",
+      "[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote",
+      "[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas",
+      "[tech] The memory shortage is causing a repricing of consumer electronics",
+      "[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "AI Customer Support",
+        "problem": "Pequenas empresas lutam para oferecer suporte ao cliente 24/7 e lidar com chamadas repetitivas e demoradas. Um assistente AI pode gerir estas interações de forma eficiente, libertando os recursos humanos.",
+        "monetization": "SaaS B2B com planos escalonados baseados no volume de interações e funcionalidades (e.g., $49/mês para 500 interações, $199/mês para interações ilimitadas e integração com CRM).",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Daily Life Simplifier",
+        "problem": "Muitos utilizadores sentem-se sobrecarregados com tarefas quotidianas e desejam soluções simples e inovadoras que tornem a vida mais fácil. Esta app agregaria e recomendaria ferramentas e truques práticos para otimizar rotinas.",
+        "monetization": "Freemium com funcionalidades premium desbloqueáveis por subscrição mensal (e.g., $2.99/mês) para acesso a guias detalhados, checklists personalizados e sugestões avançadas.",
+        "theme": "Consumer Utility",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Legal Assistant",
+        "problem": "Profissionais em startups ou autónomos enfrentam dificuldades em navegar complexidades legais, especialmente quando estão em situações de crise financeira ou imigratória. Uma ferramenta AI pode fornecer orientação inicial e direcionar para recursos adequados.",
+        "monetization": "Modelo de subscrição com diferentes níveis (e.g., $19/mês para consultas básicas, $49/mês para acesso a modelos de documentos e sessões de Q&A com advogados parceiros).",
+        "theme": "Legal Tech",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Creator Showcase",
+        "problem": "Criadores independentes procuram formas de destacar o seu trabalho e conectar-se com um público interessado em projetos únicos e inovadores. Uma plataforma dedicada permitiria showcases temáticos e curadoria de talentos.",
+        "monetization": "Marketplace com uma taxa de 15% sobre as vendas de produtos ou serviços promovidos, e opções de destaque pago para criadores (e.g., $9.99 por semana).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Learning Path",
+        "problem": "Indivíduos que buscam aprender novas competências em tecnologia ou outras áreas sentem-se perdidos sobre quais caminhos seguir e quais recursos priorizar. Um assistente AI pode criar planos de estudo personalizados com base nos objetivos do utilizador.",
+        "monetization": "SaaS com subscrição mensal (e.g., $15/mês) que oferece acesso a planos de estudo personalizados, curadoria de cursos e ferramentas de acompanhamento de progresso.",
+        "theme": "Professional Development",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Space Navigator",
+        "problem": "Entusiastas de astronomia e exploradores de dados científicos procuram visualizações avançadas e ferramentas interativas para explorar dados espaciais complexos, como cartas de navegação estelar. Esta ferramenta oferece uma interface intuitiva e visualizações dinâmicas.",
+        "monetization": "Freemium com funcionalidades de visualização avançada e acesso a datasets premium disponíveis através de uma compra única (e.g., $9.99) ou subscrição anual (e.g., $49/ano).",
+        "theme": "Niche Tech",
+        "trends_context": "[tech] Project Hail Mary – Stellar Navigation Chart\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Slumber a TUI HTTP Client\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What’s one product you wish existed that would genuinely make daily life easier?\n[tech] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs\n[startup] What to learn? I will not promote\n[r/SomebodyMakeThis] SMT: an AI assistant that handles annoying customer support calls for you\n[tech] The surprising story behind the first British person in space\n[startup] Women that work in startups- what do you wear to work? (I will not promote)\n[r/SomebodyMakeThis] I built an AI tutor, but users are asking for an assistant\n[tech] Cleve Moler has died\n[startup] [I will not promote] Agentic AI Legal Tech Startup, feeling like at a dead end\n[r/AppIdeas] 6 minute brain exercise app!!!\n[tech] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD\n[startup] When Is the Right Time to Bring on a Co-Founder? I will not promote\n[r/AppIdeas] Thinking of building an AI app that just generates other AI app ideas\n[tech] The memory shortage is causing a repricing of consumer electronics\n[startup] My startup collapsed abroad, my visa expires in 11 days, and I have $0. Facing a brutal Catch-22, homelessness back home, and deteriorating health. I am desperate for perspective. (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
