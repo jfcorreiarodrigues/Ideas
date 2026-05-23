@@ -2332,5 +2332,73 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-23",
+    "generated_at": "2026-05-23T08:57:09+00:00",
+    "trends": [
+      "[tech] Shipping a laptop to a refugee camp in Uganda",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Why Japanese companies do so many different things",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] Super Mario World - Definitive Edition",
+      "[tech] The quadratic sandwich",
+      "[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)",
+      "[r/SomebodyMakeThis] SpotZone (3DS Homebrew)",
+      "[tech] Project Glasswing: An Initial Update",
+      "[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote",
+      "[r/SomebodyMakeThis] Sito webbb",
+      "[tech] Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "[startup] (I will not promote) Questions about Tetr",
+      "[r/AppIdeas] I have an app idea",
+      "[tech] Blood Pumping Mechanism of the Hoof (2020)",
+      "[startup] (i will not promote)Questions about Tetr",
+      "[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”",
+      "[tech] Microsoft starts canceling Claude Code licenses",
+      "[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?"
+    ],
+    "ideas": [
+      {
+        "name": "Creator Brand Kit",
+        "problem": "Small creators struggle to maintain brand consistency across platforms and marketing materials. This app helps them centralize and generate brand assets.",
+        "monetization": "Freemium with premium templates and asset generation features for $9.99/month.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Shipping a laptop to a refugee camp in Uganda\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Why Japanese companies do so many different things\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Super Mario World - Definitive Edition\n[tech] The quadratic sandwich\n[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)\n[r/SomebodyMakeThis] SpotZone (3DS Homebrew)\n[tech] Project Glasswing: An Initial Update\n[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote\n[r/SomebodyMakeThis] Sito webbb\n[tech] Kindle loyalists scramble as Amazon turns page on old e-readers\n[startup] (I will not promote) Questions about Tetr\n[r/AppIdeas] I have an app idea\n[tech] Blood Pumping Mechanism of the Hoof (2020)\n[startup] (i will not promote)Questions about Tetr\n[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”\n[tech] Microsoft starts canceling Claude Code licenses\n[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?",
+        "created_at": ""
+      },
+      {
+        "name": "Tech Adoption Guide",
+        "problem": "Many consumers are overwhelmed by new technology and unsure which devices or software best suit their needs, especially older e-readers or specific device ecosystems. This app provides personalized recommendations and setup guides.",
+        "monetization": "Affiliate links to recommended products and premium in-depth guides for $4.99 each.",
+        "theme": "Consumer Tech Adoption",
+        "trends_context": "[tech] Shipping a laptop to a refugee camp in Uganda\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Why Japanese companies do so many different things\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Super Mario World - Definitive Edition\n[tech] The quadratic sandwich\n[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)\n[r/SomebodyMakeThis] SpotZone (3DS Homebrew)\n[tech] Project Glasswing: An Initial Update\n[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote\n[r/SomebodyMakeThis] Sito webbb\n[tech] Kindle loyalists scramble as Amazon turns page on old e-readers\n[startup] (I will not promote) Questions about Tetr\n[r/AppIdeas] I have an app idea\n[tech] Blood Pumping Mechanism of the Hoof (2020)\n[startup] (i will not promote)Questions about Tetr\n[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”\n[tech] Microsoft starts canceling Claude Code licenses\n[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?",
+        "created_at": ""
+      },
+      {
+        "name": "Community Project Board",
+        "problem": "Individuals with great ideas for community improvement or creative projects often lack a platform to find collaborators or gather feedback from like-minded people. This app facilitates idea sharing and team formation for community-driven initiatives.",
+        "monetization": "Optional premium features for project promotion and enhanced collaboration tools for $7.99/month.",
+        "theme": "Community Projects",
+        "trends_context": "[tech] Shipping a laptop to a refugee camp in Uganda\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Why Japanese companies do so many different things\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Super Mario World - Definitive Edition\n[tech] The quadratic sandwich\n[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)\n[r/SomebodyMakeThis] SpotZone (3DS Homebrew)\n[tech] Project Glasswing: An Initial Update\n[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote\n[r/SomebodyMakeThis] Sito webbb\n[tech] Kindle loyalists scramble as Amazon turns page on old e-readers\n[startup] (I will not promote) Questions about Tetr\n[r/AppIdeas] I have an app idea\n[tech] Blood Pumping Mechanism of the Hoof (2020)\n[startup] (i will not promote)Questions about Tetr\n[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”\n[tech] Microsoft starts canceling Claude Code licenses\n[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?",
+        "created_at": ""
+      },
+      {
+        "name": "DIY Home Repair Hub",
+        "problem": "Homeowners often face minor repair issues but lack the confidence or knowledge to fix them, leading to unnecessary professional service calls. This app offers interactive guides and video tutorials for common household fixes.",
+        "monetization": "Freemium with basic guides, unlocking advanced troubleshooting and expert consultations for $19.99/year.",
+        "theme": "Home Maintenance",
+        "trends_context": "[tech] Shipping a laptop to a refugee camp in Uganda\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Why Japanese companies do so many different things\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Super Mario World - Definitive Edition\n[tech] The quadratic sandwich\n[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)\n[r/SomebodyMakeThis] SpotZone (3DS Homebrew)\n[tech] Project Glasswing: An Initial Update\n[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote\n[r/SomebodyMakeThis] Sito webbb\n[tech] Kindle loyalists scramble as Amazon turns page on old e-readers\n[startup] (I will not promote) Questions about Tetr\n[r/AppIdeas] I have an app idea\n[tech] Blood Pumping Mechanism of the Hoof (2020)\n[startup] (i will not promote)Questions about Tetr\n[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”\n[tech] Microsoft starts canceling Claude Code licenses\n[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?",
+        "created_at": ""
+      },
+      {
+        "name": "Cross-Platform Sync Manager",
+        "problem": "Developers building applications that require seamless data synchronization across multiple platforms and devices face complex integration challenges. This tool simplifies the process of managing and implementing robust synchronization logic.",
+        "monetization": "SaaS B2B tiered pricing starting at $49/month per developer, with enterprise options.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Shipping a laptop to a refugee camp in Uganda\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Why Japanese companies do so many different things\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Super Mario World - Definitive Edition\n[tech] The quadratic sandwich\n[startup] Quit job 8 months ago, runway getting thin. Help? (I will not promote)\n[r/SomebodyMakeThis] SpotZone (3DS Homebrew)\n[tech] Project Glasswing: An Initial Update\n[startup] Is it normal to change commercial strategy wildly after a bad VC meeting? I will not promote\n[r/SomebodyMakeThis] Sito webbb\n[tech] Kindle loyalists scramble as Amazon turns page on old e-readers\n[startup] (I will not promote) Questions about Tetr\n[r/AppIdeas] I have an app idea\n[tech] Blood Pumping Mechanism of the Hoof (2020)\n[startup] (i will not promote)Questions about Tetr\n[r/AppIdeas] I found the ultimate solution to “Who washes the dishes?”\n[tech] Microsoft starts canceling Claude Code licenses\n[startup] [I will not promote] Starting a UGC program for the first time: how do you get creators to actually care about your brand?",
+        "created_at": ""
+      }
+    ]
   }
 ]
