@@ -2476,5 +2476,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-25",
+    "generated_at": "2026-05-25T11:03:44+00:00",
+    "trends": [
+      "[tech] Magnifica Humanitas (Encyclical Letter)",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Hay fever sunglasses",
+      "[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "[startup] Is everyone just an AI expert now? I will not promote.",
+      "[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...",
+      "[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)",
+      "[r/SomebodyMakeThis] IDEA NAME: GeoGossip",
+      "[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.",
+      "[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing",
+      "[tech] Migrating from Go to Rust",
+      "[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]",
+      "[r/AppIdeas] App idea: turn phone searches into reminders before you forget them",
+      "[tech] Bytecode VMs in surprising places (2024)",
+      "[startup] What habits changed your life as an entrepreneur? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "SomnoZen",
+        "problem": "Individuals suffering from obstructive sleep apnea are seeking non-invasive and natural treatment alternatives. Didgeridoo playing, as suggested by past research, offers a novel approach for users seeking relief from snoring and breathing difficulties during sleep.",
+        "monetization": "Freemium with premium content (guided playing sessions, sleep tracking integration) at 7.99 USD/month.",
+        "theme": "Health Sleep",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "GeoGossip Local",
+        "problem": "Users want to discover and share interesting local spots, events, and hidden gems beyond typical review sites. 'GeoGossip' allows for the creation and discovery of hyper-local, community-driven insights for everyday explorers.",
+        "monetization": "Location-based advertising for local businesses (pay-per-click/impression), premium features for businesses (enhanced profiles, event promotion) at 49 USD/month.",
+        "theme": "Local Discovery",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AppReminder Now",
+        "problem": "People often forget important tasks or information they discover through phone searches. This app automatically captures search queries and converts them into actionable reminders before they are lost.",
+        "monetization": "Freemium with advanced features like cloud sync across devices and recurring reminders at 3.99 USD/month.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "HayFever Shield",
+        "problem": "People suffering from hay fever need a practical and stylish solution to block pollen from entering their eyes. Specialized sunglasses offer a direct, user-friendly approach to alleviating seasonal allergies.",
+        "monetization": "Direct e-commerce sales of specialized eyewear, with potential for subscription model for replacement lenses or complementary products.",
+        "theme": "Health Consumer",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Task Check",
+        "problem": "Startup founders and employees often struggle to differentiate between truly valuable tasks and busywork, leading to inefficient resource allocation. This tool provides a framework and prompts to ensure focus on high-impact activities.",
+        "monetization": "SaaS B2B subscription for teams at 19 USD/user/month, with a free tier for solo founders.",
+        "theme": "Startup Productivity",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "DeepSeek Code Assist",
+        "problem": "Developers working with large codebases require efficient and cost-effective native coding agents to improve productivity and reduce errors. DeepSeek native coding agent offers high caching and low cost for complex development tasks.",
+        "monetization": "Pay-as-you-go API usage based on tokens processed, with tiered subscription plans for teams offering higher usage limits and dedicated support (e.g., 99 USD/month for 100,000 tokens).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Magnifica Humanitas (Encyclical Letter)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Hay fever sunglasses\n[tech] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff\n[startup] Is everyone just an AI expert now? I will not promote.\n[r/SomebodyMakeThis] Esto es para los que quieren empezar un negocio...\n[tech] Show HN: Audiomass – a free, open-source multitrack audio editor for the web\n[startup] Should I join a startup for the first time (senior engineer)? (I will not promote)\n[r/SomebodyMakeThis] IDEA NAME: GeoGossip\n[tech] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost\n[startup] Founding a tech startup to get rich is like becoming an actor to get rich. I will not promote.\n[r/AppIdeas] i made my app free for 6 months and it almost killed the whole thing\n[tech] Migrating from Go to Rust\n[startup] What question(s) do you ask yourself to check that you’re working on a valuable task, not just busywork? [I will not promote]\n[r/AppIdeas] App idea: turn phone searches into reminders before you forget them\n[tech] Bytecode VMs in surprising places (2024)\n[startup] What habits changed your life as an entrepreneur? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
