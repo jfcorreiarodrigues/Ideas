@@ -2552,5 +2552,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-26",
+    "generated_at": "2026-05-26T10:40:15+00:00",
+    "trends": [
+      "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends",
+      "[tech] Using AI to write better code more slowly",
+      "[startup] How do you deal with a failing start up? I will not promote",
+      "[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich",
+      "[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]",
+      "[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING",
+      "[tech] Flatpak Will Depend on Systemd",
+      "[startup] Just came into an inheritance, and I'd like to build from it. I will not promote",
+      "[r/AppIdeas] A app I can’t find and would love someone to make",
+      "[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)",
+      "[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?",
+      "[tech] How Shamir's Secret Sharing Works",
+      "[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]"
+    ],
+    "ideas": [
+      {
+        "name": "Habit Builder AI",
+        "problem": "Users struggle to break destructive habits and build new healthy ones. An AI personalized coach that learns unique user trends can provide tailored guidance and support.",
+        "monetization": "Freemium with premium AI coaching features at $9.99/month.",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      },
+      {
+        "name": "Cold Pizza Delivery",
+        "problem": "Individuals seeking a quick, convenient meal option want ready-to-eat chilled pizza that can be consumed cold like a packaged sandwich, eliminating cooking time.",
+        "monetization": "Per-item sales with subscription options for regular delivery, priced at $7.99 per pizza.",
+        "theme": "Consumer Convenience",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      },
+      {
+        "name": "Song Decoder AI",
+        "problem": "Musicians and enthusiasts desire a tool that can decode songs, analyzing their structure, melody, and harmony, similar to a 'Netflix of song decoding'.",
+        "monetization": "Subscription-based access at $19.99/month for advanced analysis tools.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      },
+      {
+        "name": "Investment Angel Guard",
+        "problem": "Founders raising investment from angels often encounter red flags that can jeopardize their startup. A platform that identifies and explains these red flags provides crucial guidance.",
+        "monetization": "One-time report purchase for $49.99, or a premium subscription for ongoing advisory at $29.99/month.",
+        "theme": "Startup Funding",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      },
+      {
+        "name": "AI Social Chat",
+        "problem": "Managing social media can feel overwhelming with complex dashboards. This app offers a chat-based interface for social media management, making it intuitive and conversational.",
+        "monetization": "SaaS B2B with tiered pricing based on social media accounts managed, starting at $25/month.",
+        "theme": "Productivity",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      },
+      {
+        "name": "Code Explorer II",
+        "problem": "Developers are looking for AI tools that can assist in writing better code, even if it means a more deliberate and slower process, to improve code quality and understanding.",
+        "monetization": "SaaS B2B with usage-based pricing or tiered plans for teams, starting at $30/developer/month.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] I built an app that helps users quit and break destructive habits and build new healthy ones with an Ai personalized coached that learn your unique trends\n[tech] Using AI to write better code more slowly\n[startup] How do you deal with a failing start up? I will not promote\n[r/SomebodyMakeThis] Ready cooked chilled pizza that you can eat cold like a packaged sandwich\n[tech] Taking a walk may lead to more creativity than sitting, study finds (2014)\n[startup] Do “accountability partners” work for you? How do you do it? [I will not promote]\n[r/SomebodyMakeThis] THE NETFLIX OF SONG DECODING\n[tech] Flatpak Will Depend on Systemd\n[startup] Just came into an inheritance, and I'd like to build from it. I will not promote\n[r/AppIdeas] A app I can’t find and would love someone to make\n[tech] Earthion: A New Mega Drive-Style Shoot-Em-Up\n[startup] What are some red flags to watch out for when raising investment from angels? (I will not promote)\n[r/AppIdeas] What if social media management was just a chat conversation instead of a dashboard?\n[tech] How Shamir's Secret Sharing Works\n[startup] How are you actually managing multiple AI agents in your workflow? Feels chaotic rn [I WILL NOT PROMOTE]",
+        "created_at": ""
+      }
+    ]
   }
 ]
