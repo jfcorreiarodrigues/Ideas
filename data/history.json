@@ -2704,5 +2704,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-28",
+    "generated_at": "2026-05-28T10:43:42+00:00",
+    "trends": [
+      "[tech] YouTube to automatically label AI-generated videos",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] A Eureka machine that thinks like nature and explores what AI cannot",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Here is a free recovery-phrase vault",
+      "[tech] I analysed 20 years of my chats",
+      "[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)",
+      "[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?",
+      "[tech] I think Anthropic and OpenAI have found product-market fit",
+      "[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]",
+      "[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?",
+      "[tech] Hallucinate – Massively Multiplayer Online Rave",
+      "[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE",
+      "[r/AppIdeas] To all the managers and engineers out there!!!",
+      "[tech] SimCity 3k in 4k (2025)",
+      "[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote",
+      "[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"",
+      "[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader",
+      "[startup] I feel lost with my life (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Repetitive Task Solver",
+        "problem": "Users are tired of performing annoying, repetitive tasks daily. This app identifies and automates these micro-tasks, freeing up mental energy.",
+        "monetization": "Freemium with premium automation templates and advanced AI analysis for $7.99/month.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Chrome Extension Wishlist",
+        "problem": "Developers are looking for inspiration for their next side project. This platform aggregates user-submitted 'wishlist' ideas for Chrome extensions, connecting creators with demand.",
+        "monetization": "Marketplace for extension templates and premium access to trending ideas for $19.99/month.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Cost Monitor",
+        "problem": "Developers building AI products are terrified of runaway API costs. This tool provides real-time monitoring and predictive analytics for AI API expenditures, offering cost-saving recommendations.",
+        "monetization": "SaaS B2B starting at $49/month per project, with tiered pricing based on usage.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Recovery Phrase Vault",
+        "problem": "Users need a secure and accessible way to store their cryptocurrency recovery phrases. This app offers an encrypted, offline vault with multi-factor authentication for ultimate security.",
+        "monetization": "One-time purchase of $29.99 for premium features and cloud backup sync.",
+        "theme": "Security Consumer",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Video Detector",
+        "problem": "With the rise of AI-generated content, consumers need a reliable way to identify synthetic videos. This tool analyzes video metadata and visual cues to flag AI-generated content.",
+        "monetization": "Freemium with limited daily scans, premium subscription at $4.99/month for unlimited scans and detailed reports.",
+        "theme": "Media Consumer",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Niche SaaS Multiplier",
+        "problem": "Startup founders are unsure about achievable exit multiples for SaaS businesses in niche markets. This app provides data-driven insights and case studies on successful niche SaaS exits.",
+        "monetization": "Subscription-based access to the database and analysis tools for $99/month.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] YouTube to automatically label AI-generated videos\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] A Eureka machine that thinks like nature and explores what AI cannot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Here is a free recovery-phrase vault\n[tech] I analysed 20 years of my chats\n[startup] How realistic is a 10x multiple for SaaS exits these days? (I will not promote)\n[r/SomebodyMakeThis] I’m a developer looking for my next side project. What Chrome extension do you wish existed?\n[tech] I think Anthropic and OpenAI have found product-market fit\n[startup] I copied a successful startup for a niche and made $1k faster than my last \"original\" idea [I will not promote]\n[r/SomebodyMakeThis] What annoying repetitive problem do you still not have a good tool for?\n[tech] Hallucinate – Massively Multiplayer Online Rave\n[startup] Need advice on gaining first users for AI SaaS - I WILL NOT PROMOTE\n[r/AppIdeas] To all the managers and engineers out there!!!\n[tech] SimCity 3k in 4k (2025)\n[startup] Building an AI product and terrified of runaway API costs. What have you been burned by? I will not promote\n[r/AppIdeas] A Browser-Based Office Suite That \"Simply Works\"\n[tech] The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader\n[startup] I feel lost with my life (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
