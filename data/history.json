@@ -2780,5 +2780,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-29",
+    "generated_at": "2026-05-29T10:37:51+00:00",
+    "trends": [
+      "[tech] Claude Opus 4.8",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] What if life were just a sequence of projects?",
+      "[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)",
+      "[r/SomebodyMakeThis] [ Removed by Reddit ]",
+      "[tech] I made a million dollar product from my dorm room (2025)",
+      "[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE",
+      "[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?",
+      "[tech] Volkswagen blocks Home Assistant by requiring client assertion",
+      "[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)",
+      "[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat",
+      "[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "[startup] Decision (I will not promote)",
+      "[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)",
+      "[tech] Italians and Dutch share the same gestural instinct for teaching",
+      "[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Budget Buddy Share",
+        "problem": "Casais lutam para gerenciar finanças compartilhadas sem transparência forçada. Esta app permite controle granular sobre quais despesas são visíveis para cada parceiro.",
+        "monetization": "Freemium com recursos avançados (relatórios detalhados, metas compartilhadas) por assinatura mensal de 4.99 USD.",
+        "theme": "Consumer Finance",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Creator Network",
+        "problem": "Criadores independentes e pequenos negócios locais têm dificuldade em encontrar e colaborar uns com os outros. Esta plataforma facilita a descoberta de talentos locais para projetos e parcerias.",
+        "monetization": "Taxa de comissão de 5% sobre projetos fechados através da plataforma e planos premium para destaque de perfis.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Lego Collection Tracker",
+        "problem": "Colecionadores de Lego, especialmente os de alto valor, precisam de uma forma segura e organizada para catalogar e gerenciar seus itens. O roubo de coleções é uma preocupação.",
+        "monetization": "Assinatura única de 19.99 USD para funcionalidades completas de catalogação, valorização e seguro. Integração com seguradoras como opcional.",
+        "theme": "Hobby Management",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Project Sequence Visualizer",
+        "problem": "Pessoas que encaram a vida como uma série de projetos (artistas, empreendedores, estudantes) precisam visualizar e organizar suas jornadas de forma intuitiva. A abstração de \"projetos de vida\" é complexa.",
+        "monetization": "Modelo Freemium: acesso básico gratuito, assinatura mensal de 7.99 USD para recursos avançados de visualização, colaboração e integração com calendários/tarefas.",
+        "theme": "Productivity Tools",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "E-commerce Niche Validator",
+        "problem": "Lojas de e-commerce buscam validar a utilidade de novas ideias de produtos ou funcionalidades antes de investir pesadamente. Necessitam de feedback rápido e direcionado.",
+        "monetization": "Assinatura B2B com diferentes níveis de acesso e volume de validações, começando em 49 USD/mês para pequenas lojas.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Real-time LLM Optimizer",
+        "problem": "Desenvolvedores de LLM precisam otimizar a inferência em GPUs padrão para obter alta performance (tokens/s) sem hardware especializado. Ferramentas de configuração e ajustes são escassas.",
+        "monetization": "SaaS com licenciamento por volume de inferência ou por número de desenvolvedores ativos, com planos a partir de 99 USD/mês.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Claude Opus 4.8\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Bricks and Minifigs Stole a Man's $200k Lego Collection\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What if life were just a sequence of projects?\n[tech] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request\n[startup] Anyone else running two things at once? The one you love always loses to the one that pays. (I will not promote)\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] I made a million dollar product from my dorm room (2025)\n[startup] When do you stop giving away free access and start charging? Trying to figure out the founding member to paid transition I WILL NOT PROMOTE\n[r/SomebodyMakeThis] Building a couples budget app that lets you choose WHAT to share (not forced transparency) — would you use this?\n[tech] Volkswagen blocks Home Assistant by requiring client assertion\n[startup] How do early-stage fintech founders break the sponsor bank/BaaS ↔ fundraising chicken-and-egg problem? (I will not promote)\n[r/AppIdeas] Do you remember Telegram’s “People Nearby” feature? I made something similar: Broken Chat\n[tech] Claude Code – Everything You Can Configure That the Docs Don't Tell You\n[startup] Decision (I will not promote)\n[r/AppIdeas] Building v0.2 is a completely different engineering game than v0.1 (First-time software dev)\n[tech] Italians and Dutch share the same gestural instinct for teaching\n[startup] Help me validate an idea: would this actually be useful for ecommerce stores? (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
