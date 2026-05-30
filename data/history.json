@@ -2856,5 +2856,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-05-30",
+    "generated_at": "2026-05-30T09:08:45+00:00",
+    "trends": [
+      "[tech] Algebraic Effects for the Rest of Us",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] SQLite is all you need for durable workflows",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average",
+      "[tech] Snowboard Kids 2 is 100% Decompiled",
+      "[startup] Why do the majority of startups sound so useless? I will not promote",
+      "[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents",
+      "[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate",
+      "[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote",
+      "[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.",
+      "[tech] Notes from the Mistral AI Now Summit",
+      "[startup] Do i get the non tech job or wait for tech jobs? - i will not promote",
+      "[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games",
+      "[tech] What It Takes to Preserve Floppy Disks",
+      "[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)",
+      "[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It",
+      "[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "[startup] Lost and Need Direction ( I will not promote )"
+    ],
+    "ideas": [
+      {
+        "name": "Cost Tracker Pro",
+        "problem": "Individuals struggle to accurately track personal expenses related to specific events or time periods, beyond simple averages. This app provides granular tracking for things like electricity, gas, or other recurring costs tied to personal usage patterns.",
+        "monetization": "Freemium with premium features for detailed historical analysis and reporting (e.g., $2.99/month).",
+        "theme": "Consumer Utilities",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      },
+      {
+        "name": "AI Agent Hub",
+        "problem": "Developers and users of AI agents lack a centralized platform to share, discover, and manage different AI agents and their capabilities. This would function like a Stack Overflow for AI agents.",
+        "monetization": "SaaS for enterprise users with advanced agent management and integration features ($50/month/team), and a marketplace for agent developers (revenue share).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      },
+      {
+        "name": "Skill Builder Games",
+        "problem": "Creators and individuals looking to improve cognitive skills need engaging, short-form daily exercises beyond simple brain games. This app offers a 6-minute daily routine focused on specific cognitive areas through interactive games.",
+        "monetization": "Subscription service for access to all games and progress tracking ($3.99/month).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      },
+      {
+        "name": "Floppy Disk Archive",
+        "problem": "Preserving legacy data and software from obsolete media like floppy disks is a significant technical challenge for archivists, developers, and enthusiasts. This app simplifies the process of identifying, cataloging, and potentially emulating floppy disk contents.",
+        "monetization": "One-time purchase for advanced scanning and emulation tools ($29.99), with optional cloud storage plans for archived data.",
+        "theme": "Tech Preservation",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      },
+      {
+        "name": "ColorMix Studio",
+        "problem": "3D printing enthusiasts often face limitations in achieving multi-color prints without complex setups. This open-source tool integrates with slicer software to enable easier and more accessible multi-color printing designs.",
+        "monetization": "Open-source with optional premium support and advanced plugin integrations for professional users ($19.99/year).",
+        "theme": "3D Printing Tools",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Idea Validator",
+        "problem": "Aspiring entrepreneurs often question the viability of their startup ideas, especially when facing common skepticism or lacking direction. This app offers tools and community feedback to help validate and refine early-stage startup concepts.",
+        "monetization": "Freemium with access to basic validation tools and community forums, with paid tiers for in-depth market analysis reports and expert consultations ($10/month for basic reports).",
+        "theme": "Startup Guidance",
+        "trends_context": "[tech] Algebraic Effects for the Rest of Us\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] SQLite is all you need for durable workflows\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A personal gas/electricity calculator for how much a partiular event or period of time cost you personally, not just an average\n[tech] Snowboard Kids 2 is 100% Decompiled\n[startup] Why do the majority of startups sound so useless? I will not promote\n[r/SomebodyMakeThis] Someone should make a StackOverflow for AI Agents\n[tech] 'Mind-blowing': Iron-rich immune cells help homing pigeons navigate\n[startup] Don’t quit your job to start a business unless your energy tank is full - I will not promote\n[r/SomebodyMakeThis] The Idea in your head right now? Build it this weekend.\n[tech] Notes from the Mistral AI Now Summit\n[startup] Do i get the non tech job or wait for tech jobs? - i will not promote\n[r/AppIdeas] I built Mathletiq — a 6-minute daily brain exercise through games\n[tech] What It Takes to Preserve Floppy Disks\n[startup] Changed my mind about something I was super idealistic about for my startup, have you? (i will not promote)\n[r/AppIdeas] Would You Use This App? Looking for Brutally Honest Feedback Before I Build It\n[tech] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer\n[startup] Lost and Need Direction ( I will not promote )",
+        "created_at": ""
+      }
+    ]
   }
 ]
