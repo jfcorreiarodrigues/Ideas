@@ -3008,5 +3008,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-01",
+    "generated_at": "2026-06-01T12:28:43+00:00",
+    "trends": [
+      "[tech] A 10 year old Xeon is all you need",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Nvidia announces new AI chip for personal computers",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?",
+      "[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote",
+      "[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?",
+      "[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "[startup] What did/do you do to earn money while building your business? [I will not promote]",
+      "[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?",
+      "[tech] When AI Crosses the Line: The Matplotlib Incident",
+      "[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)",
+      "[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!",
+      "[tech] Chuwi Minibook X",
+      "[startup] Seeking advice, first time starting a business alone (I will not promote)",
+      "[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800",
+      "[tech] two strangers. one call. no names",
+      "[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]"
+    ],
+    "ideas": [
+      {
+        "name": "Anxiety Box Companion",
+        "problem": "Individuals experiencing anxiety often struggle with grounding techniques. This app provides a digital extension to physical tools, offering guided exercises and mood tracking for users of anxiety boxes.",
+        "monetization": "Freemium with premium guided sessions and analytics at $3.99/month.",
+        "theme": "Mental Health Support",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Setup Cost",
+        "problem": "New entrepreneurs launching physical product startups face significant upfront costs for licenses and initial setup. This app helps new founders track and forecast these expenses, identifying potential cost-saving opportunities.",
+        "monetization": "One-time purchase of $19.99 for forecasting tools and license guides.",
+        "theme": "Startup Finance",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Creative Idea Spark",
+        "problem": "Many individuals report feeling more creative after engaging with inspiring ideas. This app curates user-submitted creative prompts and concepts from various sources, fostering idea generation for creators and entrepreneurs.",
+        "monetization": "Subscription at $4.99/month for advanced filtering and community interaction features.",
+        "theme": "Creative Productivity",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Personal AI Chip",
+        "problem": "With the rise of personal AI, consumers want to leverage powerful AI on their devices without relying solely on cloud processing. This app helps users understand and optimize AI capabilities on their personal computers.",
+        "monetization": "Content-driven, potentially affiliate marketing for compatible hardware and software.",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Habit Tracker Cards",
+        "problem": "Users seeking to build habits often find traditional tracking methods unengaging. This app utilizes a gamified approach with 'cards' and 'jars' for visual progress, making habit formation more interactive.",
+        "monetization": "Freemium with advanced customization options and progress reports for $2.99/month.",
+        "theme": "Personal Development",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "HTTP Trace Go",
+        "problem": "Developers working with Go's net/http library need efficient ways to trace and debug HTTP requests. This tool simplifies the process of understanding request flows and identifying bottlenecks.",
+        "monetization": "Open-source with optional paid support and advanced debugging features for teams at $10/user/month.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] A 10 year old Xeon is all you need\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Nvidia announces new AI chip for personal computers\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Is it just me or do you guys also come up with significantly more creative ideas after looking at ideas from this subreddit?\n[tech] Tracing HTTP Requests with Go's net/HTTP/httptrace\n[startup] Moved back to Barcelona to launch my startup and the setup costs are killing me - i will not promote\n[r/SomebodyMakeThis] What problem you guys would solve if money, talent and time weren't a problem ?\n[tech] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)\n[startup] What did/do you do to earn money while building your business? [I will not promote]\n[r/SomebodyMakeThis] I built a small \"anxiety box\" tool for grounding anxious thoughts - would this be useful to anyone else?\n[tech] When AI Crosses the Line: The Matplotlib Incident\n[startup] Progress and Returning to Startup Unicorn Senses (i will not promote)\n[r/AppIdeas] Is this app i can put on app store or not this is habbit tracking app with cards, jars put water daily etc what you think!\n[tech] Chuwi Minibook X\n[startup] Seeking advice, first time starting a business alone (I will not promote)\n[r/AppIdeas] [SELLING] Startup Marketplace SaaS – Full Codebase + Supabase – $800\n[tech] two strangers. one call. no names\n[startup] Starting a d2c food brand. Which FSSAI license do I need [I will not promote]",
+        "created_at": ""
+      }
+    ]
   }
 ]
