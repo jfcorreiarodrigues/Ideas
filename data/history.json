@@ -3084,5 +3084,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-02",
+    "generated_at": "2026-06-02T11:11:10+00:00",
+    "trends": [
+      "[tech] Why Janet? (2023)",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?",
+      "[tech] CSS-Native Parallax Effect",
+      "[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)",
+      "[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?",
+      "[tech] The newest Instagram “exploit” is the goofiest I've seen",
+      "[startup] 100+ hrs work week with no days off - I will not promote",
+      "[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.",
+      "[tech] Muxcard, a dyi credit card size computer",
+      "[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)",
+      "[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".",
+      "[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "[startup] To get initial 10 users for SaaS - I will not promote",
+      "[r/AppIdeas] Thoughts on a Vision for Life app?",
+      "[tech] macOS needs its grid back",
+      "[startup] [i will not promote] What do you think of this idea"
+    ],
+    "ideas": [
+      {
+        "name": "Pausas Criativas Guiadas",
+        "problem": "Profissionais criativos frequentemente sofrem de bloqueio criativo e esgotamento. Este app oferece micro-pausas temáticas e guiadas para rejuvenescer a mente e estimular novas ideias.",
+        "monetization": "Freemium com acesso a mais pausas e conteúdos premium por assinatura mensal de 5.99 USD.",
+        "theme": "Produtividade Criativa",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      },
+      {
+        "name": "Guia de Obras DIY",
+        "problem": "Pessoas sem experiência em construção ou reforma desejam realizar pequenos projetos em casa, mas sentem-se inseguras sobre os passos e materiais necessários.",
+        "monetization": "Compra única de guias específicos por projeto (19.99 USD cada) ou assinatura anual de 49.99 USD para acesso ilimitado.",
+        "theme": "Casa e Reforma",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      },
+      {
+        "name": "Gerador de Encontros Aleatórios",
+        "problem": "Indivíduos que buscam novas conexões sociais, seja para amizade ou interesses comuns, muitas vezes acham difícil iniciar conversas ou encontrar pessoas com objetivos semelhantes.",
+        "monetization": "Freemium com funcionalidades básicas de match e chat. Assinatura premium (7.99 USD/mês) para filtros avançados e mensagens ilimitadas.",
+        "theme": "Social Espontâneo",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      },
+      {
+        "name": "Orçamento Colaborativo Familiar",
+        "problem": "Famílias lutam para gerenciar um orçamento conjunto de forma transparente, com múltiplos membros contribuindo e gastando, levando a desentendimentos e falta de controle.",
+        "monetization": "SaaS familiar com planos mensais a partir de 9.99 USD para até 5 membros, com funcionalidades extras em planos superiores.",
+        "theme": "Finanças Familiares",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      },
+      {
+        "name": "Monitor de Ideias em Notas",
+        "problem": "Muitos utilizadores guardam listas de ideias em aplicativos de notas genéricos, perdendo o contexto e a capacidade de priorizar ou desenvolver essas ideias.",
+        "monetization": "Freemium. Funcionalidades básicas gratuitas. Assinatura Pro (3.99 USD/mês) para categorização avançada, tagging e acompanhamento de progresso.",
+        "theme": "Gestão de Ideias",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      },
+      {
+        "name": "Playground de Protocolos",
+        "problem": "Desenvolvedores precisam de um ambiente interativo e visual para testar e entender protocolos de comunicação complexos sem a necessidade de configurar ambientes de desenvolvimento completos.",
+        "monetization": "SaaS para desenvolvedores com planos mensais baseados em uso e funcionalidades (a partir de 15 USD/mês para uso básico).",
+        "theme": "Dev Tools",
+        "trends_context": "[tech] Why Janet? (2023)\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Has anyone ever had their idea get MADE after posting on this sub?\n[tech] CSS-Native Parallax Effect\n[startup] Why does the European work ethic have such a bad rep in the US? (i will not promote)\n[r/SomebodyMakeThis] Is it just me or do you also have a list of invention ideas sitting on your notes app?\n[tech] The newest Instagram “exploit” is the goofiest I've seen\n[startup] 100+ hrs work week with no days off - I will not promote\n[r/SomebodyMakeThis] An anonymous space where you can either talk to a stranger instantly or just release a thought into the sky. No account, no signup, nothing. Just open it and you're in.\n[tech] Muxcard, a dyi credit card size computer\n[startup] I think i have an amazing idea until i try putting it into pitch form (I will not promote)\n[r/AppIdeas] Built a calendar protocol that exposes to an MCP server. I can say things like \"I'am felling overwhelmed shift around my agenda\".\n[tech] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?\n[startup] To get initial 10 users for SaaS - I will not promote\n[r/AppIdeas] Thoughts on a Vision for Life app?\n[tech] macOS needs its grid back\n[startup] [i will not promote] What do you think of this idea",
+        "created_at": ""
+      }
+    ]
   }
 ]
