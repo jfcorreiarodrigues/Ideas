@@ -3160,5 +3160,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-03",
+    "generated_at": "2026-06-03T11:49:58+00:00",
+    "trends": [
+      "[tech] Hacking your PC using your speaker without ever touching it",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Every Byte Matters",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?",
+      "[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote",
+      "[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?",
+      "[tech] 1-Click GitHub Token Stealing via a VSCode Bug",
+      "[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote",
+      "[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.",
+      "[tech] Mathematicians issue warning as AI rapidly gains ground",
+      "[startup] How to communicate my value proposition? I will not promote",
+      "[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots",
+      "[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "[startup] Update: Investor offered 1m for 25% - I will not promote",
+      "[r/AppIdeas] Skulle du använda min app?",
+      "[tech] Use your Nvidia GPU's VRAM as swap space on Linux",
+      "[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Anonymous Bottle Chat",
+        "problem": "Usuários buscam conexões genuínas e sem pressão social, trocando mensagens efêmeras como em uma garrafa ao mar.",
+        "monetization": "Freemium com opções de 'boost' para maior visibilidade de mensagens e recursos adicionais de personalização por IAP.",
+        "theme": "Social Discovery",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Sleep Productivity Tuner",
+        "problem": "Pessoas com sono irregular desejam otimizar seus dias, transformando noites mal dormidas em períodos de alta performance, com base em seus dados de sono.",
+        "monetization": "Assinatura mensal para acesso a planos de otimização personalizados e relatórios avançados. IAP para programas de sono guiado.",
+        "theme": "Health & Wellness",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Device Mockup Studio",
+        "problem": "Criadores de conteúdo e desenvolvedores precisam de uma maneira fácil e acessível para gerar mockups de alta qualidade de seus aplicativos e sites em diferentes dispositivos.",
+        "monetization": "SaaS B2C com planos de assinatura mensais ou anuais, com diferentes níveis de recursos e exportação em alta resolução.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Product Research Compass",
+        "problem": "Consumidores em 2026 precisam de uma ferramenta intuitiva que agregue e sintetize informações de diversas fontes para auxiliar em suas decisões de compra de forma eficiente.",
+        "monetization": "Freemium com limites de pesquisa diária. Assinatura premium para pesquisas ilimitadas, alertas personalizados e análise aprofundada de tendências.",
+        "theme": "Consumer Insights",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Landing Page Auditor",
+        "problem": "Pequenos negócios e startups frequentemente lançam landing pages que não convertem, necessitando de um diagnóstico rápido e acionável antes do lançamento oficial.",
+        "monetization": "Pagamento único por auditoria ou planos de assinatura para auditorias recorrentes e acompanhamento de métricas.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Clojure REPL Companion",
+        "problem": "Desenvolvedores de Clojure que utilizam reMarkable 2 buscam uma experiência de REPL mais natural e integrada para codificação em movimento, semelhante à escrita manual.",
+        "monetization": "Venda única do aplicativo ou modelo freemium com funcionalidades avançadas em assinatura.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Hacking your PC using your speaker without ever touching it\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Every Byte Matters\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Would you use an anonymous \"message in a bottle\" app?\n[tech] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2\n[startup] Am I making a mistake partnering 60/40 with my close friend who has no industry experience? I will not promote\n[r/SomebodyMakeThis] How Are Consumers Researching Products in 2026?\n[tech] 1-Click GitHub Token Stealing via a VSCode Bug\n[startup] Is there a reason for the \"I am making X startup, watch me\" videos? I will not promote\n[r/SomebodyMakeThis] i found a solution on how to use your sleep data more efficiently and turn your bad days of sleep into really productive days.\n[tech] Mathematicians issue warning as AI rapidly gains ground\n[startup] How to communicate my value proposition? I will not promote\n[r/AppIdeas] Ultimate App for Making Beautiful Device Mockups & Screenshots\n[tech] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)\n[startup] Update: Investor offered 1m for 25% - I will not promote\n[r/AppIdeas] Skulle du använda min app?\n[tech] Use your Nvidia GPU's VRAM as swap space on Linux\n[startup] Thinking of building a free tool that audits your landing page before launch, would you use it? I Will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
