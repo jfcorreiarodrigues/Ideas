@@ -3236,5 +3236,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-04",
+    "generated_at": "2026-06-04T10:32:42+00:00",
+    "trends": [
+      "[tech] UK media fails to disclose defence sector links in nearly 60% of cases",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Doom Scrolling without Purpose",
+      "[tech] They’re made out of weights",
+      "[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)",
+      "[r/SomebodyMakeThis] Reaction channel for \"home inspection\"",
+      "[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote",
+      "[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?",
+      "[tech] Elixir v1.20: Now a gradually typed language",
+      "[startup] Best email marketing service for small businesses \"i will not promote\"",
+      "[r/AppIdeas] Personalized prayer generation and daily prayer habits builder",
+      "[tech] Gemma 4 12B: A unified, encoder-free multimodal model",
+      "[startup] Getting my foot in the startup world (I will not promote)",
+      "[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.",
+      "[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "[startup] Startup Marketing Capital - I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Prayer Habit Builder",
+        "problem": "Individuals struggle to maintain consistent prayer routines and find personalized prayer content. This app helps users build daily prayer habits and generates tailored prayer prompts.",
+        "monetization": "Freemium with premium features for advanced customization and offline access (e.g., $4.99/month).",
+        "theme": "Faithful Living",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Inspection Demo AI",
+        "problem": "Home inspectors need to efficiently document and report on property inspections. This tool uses AI to analyze home inspection footage, identify potential issues, and generate preliminary reports.",
+        "monetization": "SaaS B2B for inspectors ($50/month per inspector, includes unlimited report generations).",
+        "theme": "Real Estate Tech",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Chat Sanity Check",
+        "problem": "Professionals question the current utility and authenticity of LinkedIn recommendations. This app allows users to input recommendation text and receive an AI-driven analysis of its sincerity and potential biases.",
+        "monetization": "Freemium with limited checks per month; unlimited checks for $9.99/month.",
+        "theme": "Professional Networking",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Defense Disclosure",
+        "problem": "Journalists and media outlets sometimes fail to disclose significant links to the defense sector in their reporting. This tool analyzes news articles for mentions of defense companies and cross-references them with ownership or funding data.",
+        "monetization": "SaaS B2B for news organizations and investigative journalists ($199/month for team access).",
+        "theme": "Media Integrity",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Maker Showcase Hub",
+        "problem": "Independent creators need a dedicated platform to showcase their projects and connect with potential collaborators or customers, beyond general forums. This app aggregates monthly creator showcases from various subreddits, allowing users to discover new makers.",
+        "monetization": "Featured listings for creators ($20 per featured month), optional affiliate links for sold products (5% commission).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Hacker AI Detector",
+        "problem": "Developers and security professionals want to test the vulnerabilities of applications against advanced AI hacking techniques without significant manual effort. This platform simulates LLM-driven attacks on user-provided vulnerable apps, reporting on potential exploits.",
+        "monetization": "Pay-per-test model based on app complexity and test duration ($10 - $100 per test), or a subscription for unlimited tests ($199/month).",
+        "theme": "Cybersecurity Tools",
+        "trends_context": "[tech] UK media fails to disclose defence sector links in nearly 60% of cases\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] They’re made out of weights\n[startup] 4 months in I have 3 paying customers & 80% margins. Should I raise? No idea where to start. (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes\n[startup] Anyone building in healthcare / medtech / life sciences in the US? I will Not Promote\n[r/SomebodyMakeThis] Be honest, would you let AI sit in your demo calls?\n[tech] Elixir v1.20: Now a gradually typed language\n[startup] Best email marketing service for small businesses \"i will not promote\"\n[r/AppIdeas] Personalized prayer generation and daily prayer habits builder\n[tech] Gemma 4 12B: A unified, encoder-free multimodal model\n[startup] Getting my foot in the startup world (I will not promote)\n[r/AppIdeas] Is anyone else realizing that LinkedIn recommendations are basically useless now? I’m trying to build a workaround and need a sanity check.\n[tech] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it\n[startup] Startup Marketing Capital - I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
