@@ -3312,5 +3312,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-05",
+    "generated_at": "2026-06-05T10:39:53+00:00",
+    "trends": [
+      "[tech] Changing How We Develop Ladybird",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Tracing a powerful GNSS interference source over Europe",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] I will become your partner and invest money for the project",
+      "[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.",
+      "[r/SomebodyMakeThis] Doom Scrolling without Purpose",
+      "[tech] databow: a Rust CLI to query any database with an ADBC driver",
+      "[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)",
+      "[r/SomebodyMakeThis] Reaction channel for \"home inspection\"",
+      "[tech] Meta enables ADB on deprecated Portal devices [video]",
+      "[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.",
+      "[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.",
+      "[tech] C++: The Documentary",
+      "[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)",
+      "[r/AppIdeas] What fantasy football tools do you actually use every week?",
+      "[tech] Fine-tuning an LLM to write docs like it's 1995",
+      "[startup] I will not promote - how to learn sales, as a founder?"
+    ],
+    "ideas": [
+      {
+        "name": "Gym Workout Navigator",
+        "problem": "Gym-goers waste time waiting for equipment. This app reroutes workouts in real-time based on equipment availability.",
+        "monetization": "Freemium with premium features like personalized workout plans and advanced analytics (e.g., 4.99 USD/month).",
+        "theme": "Fitness Productivity",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      },
+      {
+        "name": "Angel SAFE Advisor",
+        "problem": "Early-stage founders often struggle with the complexities of angel investment rounds (SAFE notes). This app provides guidance and best practices.",
+        "monetization": "Subscription-based access to guides, templates, and expert Q&A (e.g., 29 USD/month).",
+        "theme": "Startup Finance",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      },
+      {
+        "name": "Hacker API Auditor",
+        "problem": "Startups are vulnerable to API abuse, leading to financial loss and user lockout. This app helps identify and mitigate API security risks.",
+        "monetization": "SaaS B2B with tiered pricing based on API usage and feature set (e.g., starting at 99 USD/month).",
+        "theme": "Startup Security",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      },
+      {
+        "name": "Remote Hire Specialist",
+        "problem": "US/UK startups need efficient ways to hire remote key personnel (e.g., COS). This app connects them with vetted remote talent pools and hiring tools.",
+        "monetization": "Recruitment fee per successful hire (e.g., 15% of first year's salary) or subscription for talent pool access.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      },
+      {
+        "name": "Creator's Market Hub",
+        "problem": "Independent creators need a unified platform to showcase their work and connect with potential partners or investors. This app aggregates showcases from various platforms.",
+        "monetization": "Marketplace commission on deals facilitated through the platform (e.g., 5% of deal value).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Documentation Assistant",
+        "problem": "Developers need to generate documentation that adheres to specific historical styles or standards. This LLM-powered tool assists in creating documentation in a chosen retro style.",
+        "monetization": "Usage-based pricing for API access or tiered subscription plans for advanced features (e.g., 19 USD/month for heavy users).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Changing How We Develop Ladybird\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Tracing a powerful GNSS interference source over Europe\n[startup] Feedback Friday\n[r/SomebodyMakeThis] I will become your partner and invest money for the project\n[tech] Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity\n[startup] Google just killed my ~$1M ARR startup because a hacker abused THEIR API design. 100k users locked out, 1M+ photos frozen, and they billed me for it. i will not promote.\n[r/SomebodyMakeThis] Doom Scrolling without Purpose\n[tech] databow: a Rust CLI to query any database with an ADBC driver\n[startup] Shipped my first testing prototype to a real client yesterday! (I will not promote)\n[r/SomebodyMakeThis] Reaction channel for \"home inspection\"\n[tech] Meta enables ADB on deprecated Portal devices [video]\n[startup] About to run my first angel SAFE round, what do you wish you'd known before you started? I will not promote.\n[r/AppIdeas] I just got an idea of “Google Maps for gym workouts” — it reroutes your workout in real time to avoid waiting. Roast my idea.\n[tech] C++: The Documentary\n[startup] How do early-stage startups in US/UK hire remote COS (I will not promote)\n[r/AppIdeas] What fantasy football tools do you actually use every week?\n[tech] Fine-tuning an LLM to write docs like it's 1995\n[startup] I will not promote - how to learn sales, as a founder?",
+        "created_at": ""
+      }
+    ]
   }
 ]
