@@ -3388,5 +3388,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-06",
+    "generated_at": "2026-06-06T09:17:33+00:00",
+    "trends": [
+      "[tech] How LLMs work",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] The intracies of modern camera lens repair (2024)",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence",
+      "[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote",
+      "[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?",
+      "[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "[startup] Observation on this subreddit [I will not promote]",
+      "[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions",
+      "[tech] GrapheneOS user reported to authorities for using GrapheneOS",
+      "[startup] How to validate a business? I will not promote",
+      "[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free",
+      "[tech] Social Cache Busting",
+      "[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)",
+      "[r/AppIdeas] Record Player to Spotify automatically",
+      "[tech] Astronauts told to return to ISS after sheltering over air leak repairs",
+      "[startup] [I will not promote] How Did You Build Trust in a New Model/Category?"
+    ],
+    "ideas": [
+      {
+        "name": "Corporate Transparency Tracker",
+        "problem": "Utilizadores comuns têm dificuldade em entender a propriedade, riqueza e influência de empresas. Este app visa consolidar e apresentar esta informação de forma clara e acessível.",
+        "monetization": "Freemium com funcionalidades avançadas de pesquisa e alertas por subscrição (9.99USD/mes).",
+        "theme": "Consumer Governance",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      },
+      {
+        "name": "Cross-Platform Playlist Sync",
+        "problem": "Músicos e criadores de conteúdo gerenciam playlists em múltiplas plataformas (Spotify, YouTube, etc.) e desejam sincronizá-las facilmente para gerenciar seu trabalho e engajamento.",
+        "monetization": "Subscrição mensal para funcionalidades de sincronização automática (4.99USD/mes).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      },
+      {
+        "name": "Expert Prediction Verifier",
+        "problem": "Indivíduos interessados em previsões de especialistas (mercado financeiro, tecnologia, etc.) não têm uma forma centralizada de rastrear a precisão e o histórico dessas previsões.",
+        "monetization": "Acesso premium a dados históricos detalhados e análises por subscrição (7.99USD/mes).",
+        "theme": "Consumer Insights",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      },
+      {
+        "name": "GrapheneOS Privacy Guardian",
+        "problem": "Utilizadores de sistemas operacionais focados em privacidade como GrapheneOS enfrentam riscos de serem reportados indevidamente. Este app oferece um guia de boas práticas e um sistema de alerta para potenciais problemas.",
+        "monetization": "Freemium com um módulo de orientação avançada por compra única (19.99USD).",
+        "theme": "Privacy Tech",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      },
+      {
+        "name": "Worldbuilder Army Planner",
+        "problem": "Escritores e criadores de mundos que precisam de exércitos realistas para suas histórias (pré-modernos) carecem de ferramentas para simular composição, táticas e logística.",
+        "monetization": "Compra única para desbloquear módulos avançados de simulação (24.99USD).",
+        "theme": "Niche Hobby Tools",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      },
+      {
+        "name": "LLM API Orchestrator",
+        "problem": "Desenvolvedores que utilizam múltiplos LLMs para construir aplicações complexas precisam de uma interface unificada para gerenciar, testar e otimizar interações entre diferentes modelos e APIs.",
+        "monetization": "SaaS B2B com níveis de uso variando de 49USD a 299USD por mês.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] How LLMs work\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] The intracies of modern camera lens repair (2024)\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Someone Should Build This: “Who Owns What?” – A Transparency App for Corporate Ownership, Wealth, and Influence\n[tech] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic\n[startup] Struggling to find PMF two years in and \"pivot fatigue\" is getting real... I will not promote\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight\n[startup] Observation on this subreddit [I will not promote]\n[r/SomebodyMakeThis] A Program the Tracks “Expert” Predictions\n[tech] GrapheneOS user reported to authorities for using GrapheneOS\n[startup] How to validate a business? I will not promote\n[r/AppIdeas] Looking for founders (and vibe coders) who want real feedback on their AI tools — for free\n[tech] Social Cache Busting\n[startup] How does OpenAI and Anthropic produce their video animation videos (and so fast??) (i will not promote)\n[r/AppIdeas] Record Player to Spotify automatically\n[tech] Astronauts told to return to ISS after sheltering over air leak repairs\n[startup] [I will not promote] How Did You Build Trust in a New Model/Category?",
+        "created_at": ""
+      }
+    ]
   }
 ]
