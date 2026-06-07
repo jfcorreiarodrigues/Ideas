@@ -3464,5 +3464,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-07",
+    "generated_at": "2026-06-07T09:55:20+00:00",
+    "trends": [
+      "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?",
+      "[tech] I design with Claude more than Figma now",
+      "[startup] I will not promote. Newsletter still in the game?",
+      "[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?",
+      "[tech] Valve P2P networking broken for more than 2 months",
+      "[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)",
+      "[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais",
+      "[tech] Win16 Memory Management",
+      "[startup] Best resources for info on distribution and customer acquisition (I will not promote)",
+      "[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)",
+      "[tech] Field of clones: How horse replicas came to dominate polo",
+      "[startup] Places to learn about CAC and distribution (I will not promote)",
+      "[r/AppIdeas] Doomsi : doomscroller chrome extension",
+      "[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "[startup] I have 100k to spend on marketing the next 3 months - I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Travel Local Meetup",
+        "problem": "Viajantes muitas vezes desejam conhecer pessoas locais antes ou durante suas viagens para obter recomendações autênticas e experiências imersivas. O público-alvo são viajantes que buscam conexões significativas.",
+        "monetization": "Freemium com recursos premium (mais opções de filtro, destaque de perfil) por 7.99 USD/mês ou 49.99 USD/ano.",
+        "theme": "Travel Consumer",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Playlist Merger",
+        "problem": "Consumidores de música usam múltiplas plataformas de streaming (Spotify, YouTube Music) e desejam consolidar suas playlists existentes em um único local para acesso e gerenciamento simplificados. O público-alvo são ouvintes de música em várias plataformas.",
+        "monetization": "Freemium com limite de playlists; assinatura paga (4.99 USD/mês) para playlists ilimitadas e sincronização automática.",
+        "theme": "Media Consumer",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Creator's Showcase",
+        "problem": "Criadores independentes (indie) em nichos específicos lutam para encontrar uma plataforma dedicada para exibir seus trabalhos, receber feedback e conectar-se com um público interessado. O público-alvo são artistas, designers e desenvolvedores indie.",
+        "monetization": "Marketplace com taxa de 15% sobre vendas de produtos/serviços e opções de assinatura para destaque.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Creative Curation",
+        "problem": "Desenvolvedores e designers que utilizam ferramentas de IA (como Claude) para criar conteúdo precisam de uma forma de gerenciar, organizar e refinar seus prompts e resultados de forma eficiente. O público-alvo são profissionais que usam LLMs para criação.",
+        "monetization": "SaaS B2B com planos de 20 USD/mês para indivíduos e 100 USD/mês para equipes, com base no uso e recursos.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business Acquisition",
+        "problem": "Pequenos negócios com orçamentos limitados de marketing precisam de estratégias e ferramentas eficazes para aquisição de clientes e distribuição, sem gastar centenas de milhares de dólares. O público-alvo são empreendedores e donos de pequenas empresas.",
+        "monetization": "Conteúdo premium (guias, templates, webinars) e consultoria por hora (150 USD/hora).",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Speculative Compression Suite",
+        "problem": "Desenvolvedores que trabalham com grandes volumes de dados ou sistemas de cache especulativo precisam de ferramentas avançadas para otimizar a compressão de dados e reduzir o uso de memória. O público-alvo são engenheiros de software e pesquisadores de sistemas.",
+        "monetization": "Software de código aberto com opções de suporte comercial pago e licenças empresariais (a partir de 500 USD).",
+        "theme": "Developer Utilities",
+        "trends_context": "[tech] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speculative KV coding: losslessly compressing KV cache by up to ~4×\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Would you use an app that lets you meet locals before you travel?\n[tech] I design with Claude more than Figma now\n[startup] I will not promote. Newsletter still in the game?\n[r/SomebodyMakeThis] Blend playlist across Youtube and Spotify?\n[tech] Valve P2P networking broken for more than 2 months\n[startup] Is it feasible to pursue an idea that is far removed from your area of expertise? (I will not promote)\n[r/SomebodyMakeThis] I have a an idea I started doing it on various free ais\n[tech] Win16 Memory Management\n[startup] Best resources for info on distribution and customer acquisition (I will not promote)\n[r/AppIdeas] From 0 to 25 Paid Subscribers for My Android App (noisefix)\n[tech] Field of clones: How horse replicas came to dominate polo\n[startup] Places to learn about CAC and distribution (I will not promote)\n[r/AppIdeas] Doomsi : doomscroller chrome extension\n[tech] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering\n[startup] I have 100k to spend on marketing the next 3 months - I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
