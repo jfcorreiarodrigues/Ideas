@@ -3540,5 +3540,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-08",
+    "generated_at": "2026-06-08T11:49:02+00:00",
+    "trends": [
+      "[tech] The Cypherpunk Library",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Dopamine Fracking",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] Where do I find client for a website",
+      "[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "[startup] Stop posting “$1M ARR” a month after launch - i will not promote",
+      "[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.",
+      "[tech] A Family Project (2022)",
+      "[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?",
+      "[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡",
+      "[tech] Building from zero after addiction, prison, and a felony",
+      "[startup] I will not promote - Why most AI strategies collapse after the pilot phase",
+      "[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?",
+      "[tech] APC–2 – A professional record cutter for producing original playback discs",
+      "[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one",
+      "[tech] How much of Thermo Fisher's antibody data has been manipulated?",
+      "[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.",
+      "[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?"
+    ],
+    "ideas": [
+      {
+        "name": "Wall Calendar Peace",
+        "problem": "Users want a simple, distraction-free digital wall calendar that displays the entire month visually, without event overlays or account syncing. Targeting individuals and families seeking a clutter-free overview of their schedule.",
+        "monetization": "Freemium with advanced customization options (themes, font sizes) as a one-time purchase or subscription.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      },
+      {
+        "name": "Tire Tread Swapper",
+        "problem": "Cyclists and e-bike owners desire customizable, easily replaceable treads for their thick tube tires, offering different grip levels or stylish colors without needing to replace the entire tire. Addresses the need for modularity and personalization in cycling gear.",
+        "monetization": "Direct-to-consumer sales of tread modules with a recurring revenue model for new designs and materials.",
+        "theme": "Cycling Accessories",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      },
+      {
+        "name": "Eye Break Assistant",
+        "problem": "Individuals who spend long hours in front of screens, including office workers and remote professionals, struggle with eye strain and fatigue. This app automates short, mandatory eye breaks to prevent discomfort and promote ocular health.",
+        "monetization": "Freemium with advanced analytics, customizable break types, and integration with other wellness apps as a subscription.",
+        "theme": "Health Tech",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      },
+      {
+        "name": "All-in-One Audio",
+        "problem": "Users consume a variety of audio and written content (TV, radio, audiobooks, books, poems) across different platforms and struggle to manage them efficiently. This app centralizes access and playback for a seamless listening and reading experience.",
+        "monetization": "Subscription-based access to premium features like offline downloads, curated content, and advanced playback controls.",
+        "theme": "Media Consumption",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      },
+      {
+        "name": "Data Breach Disclosure",
+        "problem": "Consumers and businesses are increasingly concerned about the lag time and lack of transparency in data breach disclosures. This tool aggregates and analyzes reported breaches, providing timely and clear information to users.",
+        "monetization": "Subscription service for businesses offering real-time alerts and detailed breach analysis; a simplified free version for consumers.",
+        "theme": "Cybersecurity Transparency",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      },
+      {
+        "name": "AI Strategy Navigator",
+        "problem": "Companies often struggle to transition AI pilot projects into successful, scaled strategies, leading to collapse after the initial phase. This tool provides frameworks, best practices, and predictive analytics to guide AI strategy implementation and sustainability.",
+        "monetization": "SaaS B2B with tiered pricing based on company size and features, offering consulting and integration services.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] The Cypherpunk Library\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Dopamine Fracking\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] Where do I find client for a website\n[tech] 1k Data Breaches Later, the Disclosure Lag Is Worse\n[startup] Stop posting “$1M ARR” a month after launch - i will not promote\n[r/SomebodyMakeThis] A big wall calendar software or site. That's literally like a wall calendar no events, no festivals, no asking for updates or connecting an account. I want to see the whole calendar in peace.\n[tech] A Family Project (2022)\n[startup] i will not promote - How many of you have Cold Emailing as a part of your GTM?\n[r/SomebodyMakeThis] For bikes/ebikes: Thick tube tires with no tread, and \"easily\" (comparatively) replaceable treads, that cover over the tubes, & optionally stylish colors♡\n[tech] Building from zero after addiction, prison, and a felony\n[startup] I will not promote - Why most AI strategies collapse after the pilot phase\n[r/AppIdeas] Would you use an app that makes 20-second eye breaks automatic?\n[tech] APC–2 – A professional record cutter for producing original playback discs\n[r/AppIdeas] TV, Radio, Audiobooks, Books, and Poems all in one\n[tech] How much of Thermo Fisher's antibody data has been manipulated?\n[startup] I will not promote and advice needed: I built a B2B SaaS product for Indian retail brands. I've been visiting stores, but hitting a wall with corporate.\n[r/AppIdeas] Building an app that fixes crowded gyms before I spend 8 weeks on it - would you use this?",
+        "created_at": ""
+      }
+    ]
   }
 ]
