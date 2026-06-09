@@ -3616,5 +3616,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-09",
+    "generated_at": "2026-06-09T10:26:53+00:00",
+    "trends": [
+      "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] GentleOS – Classic operating system with a lovely retro GUI",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] What do u guys think about an ai family assistant??",
+      "[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+      "[startup] How to promote a startup? (I will not promote)",
+      "[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping",
+      "[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)",
+      "[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App",
+      "[tech] Apple reveals new AI architecture built around Google Gemini models",
+      "[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote",
+      "[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.",
+      "[tech] Thi.ng – open-source building blocks for computational design and art",
+      "[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)",
+      "[r/AppIdeas] should i build this idea? or is it saturated niche",
+      "[tech] Eagle Computer: The rise and fall of an early PC clone",
+      "[startup] Bookkeeping, payroll compliance services (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Body Scan Stylist",
+        "problem": "Usuários que compram roupas online frequentemente têm dificuldade em determinar o caimento correto, resultando em devoluções e insatisfação. Esta aplicação usa a tecnologia de escaneamento corporal para fornecer recomendações de tamanho personalizadas de varejistas parceiros.",
+        "monetization": "Freemium com recursos avançados de análise de estilo e recomendações personalizadas por assinatura (4.99 USD/mês). Comissão de afiliados sobre as compras realizadas através da plataforma.",
+        "theme": "Fashion Consumer",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Family Assistant",
+        "problem": "Famílias modernas lutam para gerenciar agendas, lembretes de tarefas e comunicação entre os membros. Esta aplicação centraliza o planejamento familiar, desde horários de atividades extracurriculares até listas de compras compartilhadas, com insights preditivos baseados em IA.",
+        "monetization": "SaaS B2C com plano gratuito limitado e assinatura premium (7.99 USD/mês) para recursos de IA avançada e armazenamento ilimitado.",
+        "theme": "Family Productivity",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Retro OS Emulator",
+        "problem": "Entusiastas de tecnologia e designers buscam reviver a experiência de sistemas operacionais clássicos para fins educacionais, de design ou pura nostalgia, mas a configuração e acesso a esses sistemas são complexos. Uma plataforma web simplificada para emular e interagir com sistemas operacionais retrô.",
+        "monetization": "Freemium com emulação básica gratuita e planos pagos (5.99 USD/mês) para emuladores mais avançados, salvamento de estado e acesso a bibliotecas de ROMs.",
+        "theme": "Nostalgia Tech",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Plant Care Lock",
+        "problem": "Jardineiros amadores e entusiastas de plantas muitas vezes enfrentam desafios em manter suas plantas em um estado ideal de crescimento e vitalidade, com resultados inconsistentes. Esta ferramenta usa dados científicos e monitoramento ambiental para fornecer guias precisos e intervenções para manter as plantas jovens e saudáveis.",
+        "monetization": "Modelo de assinatura para acesso a guias avançados, relatórios de saúde da planta e recomendações personalizadas (3.99 USD/mês). Possível integração com sensores IoT para monitoramento em tempo real.",
+        "theme": "Horticulture Consumer",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "OpenCV Vision Suite",
+        "problem": "Desenvolvedores que trabalham com visão computacional precisam de ferramentas robustas e atualizadas para implementar soluções avançadas em tempo real. Este é um conjunto de APIs e bibliotecas que aproveitam o OpenCV 5 para acelerar o desenvolvimento de aplicações de visão computacional.",
+        "monetization": "Licenciamento para uso comercial de APIs específicas (preços variados por API e volume). Modelo de assinatura para acesso a atualizações contínuas e suporte premium (19.99 USD/mês).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Accelerator Lite",
+        "problem": "Muitos empreendedores iniciantes desejam acesso a orientação e recursos de aceleração, mas programas tradicionais podem ser caros ou inacessíveis. Uma plataforma online gratuita que conecta fundadores a mentores, recursos educacionais e um modelo de networking simplificado.",
+        "monetization": "Parcerias com empresas de serviços para startups (ex: contabilidade, jurídicos) para comissões de indicação. Possível modelo de destaque para aceleradoras e fundos de investimento em busca de startups.",
+        "theme": "Startup Ecosystem",
+        "trends_context": "[tech] Microsoft's open source tools were hacked to steal passwords of AI developers\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] GentleOS – Classic operating system with a lovely retro GUI\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What do u guys think about an ai family assistant??\n[tech] Forever Young: how one molecule can lock plants in a youthful state.(2025)\n[startup] How to promote a startup? (I will not promote)\n[r/SomebodyMakeThis] Body scan 3D camera that gives measurements for clothes shopping\n[tech] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision\n[startup] I want to build a free startup accelerator for founders. Talk me out of it. (i will not promote)\n[r/SomebodyMakeThis] Full-Stack Developer Looking for a Side Project Idea Before I Accidentally Build Another Todo App\n[tech] Apple reveals new AI architecture built around Google Gemini models\n[startup] Got term sheet for $1.5M CAD at $15M CAD valuation - have some questions - I will not promote\n[r/AppIdeas] It could be silly. It could be just for me. It could ultimately be a playground for creeps… But! AI is now accessible enough to let me make my car app idea.\n[tech] Thi.ng – open-source building blocks for computational design and art\n[startup] Picking between Fondo vs Pilot vs Outsourced Services (I will not promote)\n[r/AppIdeas] should i build this idea? or is it saturated niche\n[tech] Eagle Computer: The rise and fall of an early PC clone\n[startup] Bookkeeping, payroll compliance services (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
