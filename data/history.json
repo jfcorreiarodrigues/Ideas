@@ -3768,5 +3768,73 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-11",
+    "generated_at": "2026-06-11T11:17:19+00:00",
+    "trends": [
+      "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] AI agent runs amok in Fedora and elsewhere",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?",
+      "[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)",
+      "[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?",
+      "[tech] Web Browsers on Video Game Consoles",
+      "[startup] Why are you a builder? A founder etc? I will not promote",
+      "[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants",
+      "[tech] πFS",
+      "[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP",
+      "[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.",
+      "[tech] Anthropic requires 30 day data retention for Fable and Mythos",
+      "[startup] Looking for Startup-related events in the Seattle area (I will not promote)",
+      "[r/AppIdeas] A market place",
+      "[tech] Build a Basic AI Agent from Scratch: Long Task Planning",
+      "[startup] Looking for startup events in the Seattle area (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Skill Swap Connect",
+        "problem": "Indivíduos com habilidades específicas desejam aprender novas competências sem custos elevados, mas enfrentam dificuldade em encontrar parceiros de troca fiáveis e organizados. Pessoas que querem ensinar e aprender novas habilidades de forma mútua.",
+        "monetization": "Freemium com opção de assinatura premium para funcionalidades avançadas de matchmaking e agendamento (5.99 USD/mês).",
+        "theme": "Consumer Skill Exchange",
+        "trends_context": "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] AI agent runs amok in Fedora and elsewhere\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?\n[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable\n[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)\n[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?\n[tech] Web Browsers on Video Game Consoles\n[startup] Why are you a builder? A founder etc? I will not promote\n[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants\n[tech] πFS\n[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP\n[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.\n[tech] Anthropic requires 30 day data retention for Fable and Mythos\n[startup] Looking for Startup-related events in the Seattle area (I will not promote)\n[r/AppIdeas] A market place\n[tech] Build a Basic AI Agent from Scratch: Long Task Planning\n[startup] Looking for startup events in the Seattle area (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Fable Guard",
+        "problem": "Empresas que utilizam modelos de IA como os da Anthropic precisam de garantir a conformidade com requisitos de retenção de dados e políticas de privacidade. Desenvolvedores e empresas que implementam soluções de IA com requisitos de dados específicos.",
+        "monetization": "SaaS B2B com planos escalonados baseados no volume de dados e funcionalidades de auditoria (a partir de 99 USD/mês).",
+        "theme": "Data Compliance Tech",
+        "trends_context": "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] AI agent runs amok in Fedora and elsewhere\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?\n[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable\n[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)\n[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?\n[tech] Web Browsers on Video Game Consoles\n[startup] Why are you a builder? A founder etc? I will not promote\n[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants\n[tech] πFS\n[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP\n[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.\n[tech] Anthropic requires 30 day data retention for Fable and Mythos\n[startup] Looking for Startup-related events in the Seattle area (I will not promote)\n[r/AppIdeas] A market place\n[tech] Build a Basic AI Agent from Scratch: Long Task Planning\n[startup] Looking for startup events in the Seattle area (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Drone Nav Optimizer",
+        "problem": "A necessidade de navegação precisa e autónoma para drones militares e civis é crescente, mas a tecnologia atual requer otimização baseada em cenários reais. Aplicações militares e de vigilância que necessitam de navegação avançada.",
+        "monetization": "Licenciamento de tecnologia B2B e serviços de consultoria para integração (preço sob consulta).",
+        "theme": "Tech Navigation AI",
+        "trends_context": "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] AI agent runs amok in Fedora and elsewhere\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?\n[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable\n[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)\n[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?\n[tech] Web Browsers on Video Game Consoles\n[startup] Why are you a builder? A founder etc? I will not promote\n[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants\n[tech] πFS\n[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP\n[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.\n[tech] Anthropic requires 30 day data retention for Fable and Mythos\n[startup] Looking for Startup-related events in the Seattle area (I will not promote)\n[r/AppIdeas] A market place\n[tech] Build a Basic AI Agent from Scratch: Long Task Planning\n[startup] Looking for startup events in the Seattle area (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Investor Match",
+        "problem": "Fundadores de startups em fase inicial lutam para encontrar investidores que se alinhem com a sua visão e nicho de mercado. Empreendedores que procuram capital e investidores que buscam oportunidades alinhadas com os seus interesses.",
+        "monetization": "Modelo de sucesso fee (percentagem sobre o investimento fechado) ou assinatura premium para acesso a contactos diretos.",
+        "theme": "Startup Finance",
+        "trends_context": "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] AI agent runs amok in Fedora and elsewhere\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?\n[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable\n[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)\n[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?\n[tech] Web Browsers on Video Game Consoles\n[startup] Why are you a builder? A founder etc? I will not promote\n[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants\n[tech] πFS\n[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP\n[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.\n[tech] Anthropic requires 30 day data retention for Fable and Mythos\n[startup] Looking for Startup-related events in the Seattle area (I will not promote)\n[r/AppIdeas] A market place\n[tech] Build a Basic AI Agent from Scratch: Long Task Planning\n[startup] Looking for startup events in the Seattle area (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Consumer App Builder",
+        "problem": "Pessoas com ideias de aplicações para consumidores não têm conhecimento técnico para as desenvolver, e as soluções atuais são demasiado complexas ou caras. Criadores sem experiência em programação que querem lançar apps simples.",
+        "monetization": "Freemium com limites de funcionalidades e um plano pago (19.99 USD/mês) para desenvolvimento e publicação de um número ilimitado de apps.",
+        "theme": "No-Code Consumer",
+        "trends_context": "[tech] Pokémon Go Scans Trained the Navigation Tech for Military Drones\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] AI agent runs amok in Fedora and elsewhere\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] What's the a website or app you've wanted to build but never could?\n[tech] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable\n[startup] Anyone given up on startups? What do you do? What do you think about? (I will not promote)\n[r/SomebodyMakeThis] First time posting a video for my SaaS. Did it with I have. What do you think?\n[tech] Web Browsers on Video Game Consoles\n[startup] Why are you a builder? A founder etc? I will not promote\n[r/SomebodyMakeThis] A meme of Tom Felton wearing felt pants\n[tech] πFS\n[startup] I will not promote: 3,080 users but only 2 trials, 1 lifetime sale. NEED HELP\n[r/AppIdeas] Would there be a market for a friend/social app where people can teach each other skills? I.e. I teach you wood sculpture carving and you teach me how to sing type of thing.\n[tech] Anthropic requires 30 day data retention for Fable and Mythos\n[startup] Looking for Startup-related events in the Seattle area (I will not promote)\n[r/AppIdeas] A market place\n[tech] Build a Basic AI Agent from Scratch: Long Task Planning\n[startup] Looking for startup events in the Seattle area (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
