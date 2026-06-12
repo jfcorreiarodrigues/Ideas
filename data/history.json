@@ -3836,5 +3836,80 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-12",
+    "generated_at": "2026-06-12T10:58:01+00:00",
+    "trends": [
+      "[tech] AI agent bankrupted their operator while trying to scan DN42",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] If you are asking for human attention, demonstrate human effort",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?",
+      "[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "[startup] the more time i spend with ai, the less productive i get (i will not promote)",
+      "[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production",
+      "[tech] The Future of Email",
+      "[startup] Where to find illustrator for my start-up (I will not promote)",
+      "[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?",
+      "[tech] Show HN: Homebrew 6.0.0",
+      "[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)",
+      "[tech] Report on an Unidentified Space Station",
+      "[startup] Where do I find the right Illustrator for my start-up? (I will not promote)",
+      "[tech] How we made hit video game Prince of Persia",
+      "[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote",
+      "[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)"
+    ],
+    "ideas": [
+      {
+        "name": "Festival Film Producer",
+        "problem": "Cineastas independentes com ideias de filmes, mas sem os recursos para realizá-los. Ajuda a transformar conceitos de filmes em produções reais através de uma plataforma colaborativa.",
+        "monetization": "Comissão de 15% sobre o financiamento coletivo, assinatura premium para ferramentas de gestão de produção.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Ethics Scanner",
+        "problem": "Desenvolvedores de IA que precisam garantir que seus agentes e sistemas não causem danos não intencionais ou resultem em perdas financeiras para seus operadores.",
+        "monetization": "SaaS B2B com planos anuais a partir de $499, com diferentes níveis de recursos e suporte.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Artisan Hub",
+        "problem": "Artesãos e criadores independentes que buscam uma plataforma para expor e vender seus produtos únicos, com foco em proximidade geográfica.",
+        "monetization": "Marketplace com taxa de 5% por venda, opção de assinatura para destaque de produtos e vitrine personalizada.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      },
+      {
+        "name": "Fart Cushion Pitch",
+        "problem": "Inventores com ideias bizarras e inovadoras que querem testar o apelo de mercado antes de investir pesadamente em desenvolvimento e produção.",
+        "monetization": "Freemium com recursos básicos de teste de mercado, com opções pagas para campanhas de validação mais profundas e crowdsourcing de feedback.",
+        "theme": "Consumer Novelties",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      },
+      {
+        "name": "Cross-Niche Creator",
+        "problem": "Criadores de conteúdo que buscam otimizar a produção e a diversificação de seus trabalhos em diferentes nichos, enfrentando bloqueios criativos.",
+        "monetization": "Assinatura mensal $19.99 para acesso a ferramentas de brainstorming e análise de tendências inter-nichos, com comissões opcionais em projetos colaborativos.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      },
+      {
+        "name": "Email Future Reader",
+        "problem": "Utilizadores de email que se sentem sobrecarregados com a quantidade e a complexidade das mensagens, precisando de uma forma mais eficiente de gerir a sua caixa de entrada.",
+        "monetization": "Freemium com recursos básicos de filtragem e priorização, assinatura premium $5.99/mês para resumo de emails por IA e sugestões de resposta.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] AI agent bankrupted their operator while trying to scan DN42\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] If you are asking for human attention, demonstrate human effort\n[startup] Feedback Friday\n[r/SomebodyMakeThis] Thinking of building an app for this. Would you guys actually use it?\n[tech] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]\n[startup] the more time i spend with ai, the less productive i get (i will not promote)\n[r/SomebodyMakeThis] Somebody make a festival that turns your film idea into a real production\n[tech] The Future of Email\n[startup] Where to find illustrator for my start-up (I will not promote)\n[r/SomebodyMakeThis] Would a farting seat cushion survive a pitch competition?\n[tech] Show HN: Homebrew 6.0.0\n[startup] Software Engineer: I am at crossroads. Unable to decide. Help? (I will not promote)\n[tech] Report on an Unidentified Space Station\n[startup] Where do I find the right Illustrator for my start-up? (I will not promote)\n[tech] How we made hit video game Prince of Persia\n[startup] apple just put google gemini inside siri and i think most founders are ig missing what this actually means for distribution i will not promote\n[tech] Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+        "created_at": ""
+      }
+    ]
   }
 ]
