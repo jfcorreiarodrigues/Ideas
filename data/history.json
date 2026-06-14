@@ -3983,5 +3983,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-14",
+    "generated_at": "2026-06-14T10:18:53+00:00",
+    "trends": [
+      "[tech] Honda Civics and the Evil Valet",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "[startup] Feedback Friday",
+      "[tech] GLM 5.2 Is Out",
+      "[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)",
+      "[tech] Noise infusion banned from statistical products published by Census Bureau",
+      "[startup] How do you keep track of product decisions while building? (I will not promote)",
+      "[tech] Every Frame Perfect",
+      "[startup] How do you keep track of product decisions while building? ( I will not promote)",
+      "[tech] Don't trust large context windows",
+      "[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)",
+      "[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote",
+      "[tech] Cooling in Space",
+      "[startup] Advice for the finance entrepreneurial path - I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Auto Maintenance Log",
+        "problem": "Motoristas frequentemente perdem o controle dos históricos de manutenção de seus veículos, levando a descuidos e desvalorização. Esta ferramenta simplifica o registro e lembretes de manutenções preventivas e corretivas para proprietários de carros.",
+        "monetization": "Freemium com funcionalidades avançadas e relatórios detalhados via assinatura mensal (9.99 USD).",
+        "theme": "Consumer Utilities",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Maker Showcase",
+        "problem": "Artesãos e criadores independentes lutam para alcançar um público local e vender seus produtos diretamente. Esta plataforma conecta consumidores a talentos locais, facilitando a descoberta e a compra de itens únicos.",
+        "monetization": "Marketplace com comissão de 15% sobre cada venda e opções de destaque pago para criadores.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Recipe Ingredient Optimizer",
+        "problem": "Pessoas que cozinham em casa frequentemente compram ingredientes em excesso ou descobrem que faltam itens essenciais. O app sugere substituições de ingredientes com base no que o usuário já possui e ajuda a planejar compras.",
+        "monetization": "Freemium com um limite de receitas; assinatura premium (3.99 USD/mês) para receitas ilimitadas e sugestões personalizadas.",
+        "theme": "Home Cooking",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Small Business Expense Tracker",
+        "problem": "Pequenos empreendedores e freelancers precisam de uma maneira simples de registrar despesas e categorizá-las para fins fiscais e de gestão. O app oferece interface intuitiva para controle financeiro rápido.",
+        "monetization": "SaaS B2B com planos a partir de 19 USD/mês por usuário, com níveis adicionais de funcionalidades.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Community Project Planner",
+        "problem": "Organizar e coordenar projetos comunitários, como mutirões de limpeza ou eventos locais, pode ser caótico sem uma ferramenta centralizada. O app facilita a atribuição de tarefas, comunicação e acompanhamento de progresso.",
+        "monetization": "Modelo de doação para projetos sem fins lucrativos e taxa única de 49 USD para organizações formais.",
+        "theme": "Community Engagement",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Code Snippet Manager Pro",
+        "problem": "Desenvolvedores frequentemente perdem tempo procurando e adaptando trechos de código reutilizáveis. Esta ferramenta, com suporte a LLM, organiza, busca e sugere trechos de código inteligentes e contextualizados.",
+        "monetization": "SaaS para desenvolvedores com plano gratuito limitado e assinatura pro a partir de 15 USD/mês.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Honda Civics and the Evil Valet\n[startup] Share your startup - quarterly post\n[tech] Free SQL→ER diagram tool, runs in the browser, nothing uploaded\n[startup] Feedback Friday\n[tech] GLM 5.2 Is Out\n[startup] What's the biggest mistake founders make when trying to improve retention? (I will not promote)\n[tech] Noise infusion banned from statistical products published by Census Bureau\n[startup] How do you keep track of product decisions while building? (I will not promote)\n[tech] Every Frame Perfect\n[startup] How do you keep track of product decisions while building? ( I will not promote)\n[tech] Don't trust large context windows\n[startup] I am offered 25% equity for tech work BUT also expected to pay 25% of all expenses. Already built a (functional) prototype. Is this a fair deal? (i will not promote)\n[tech] 500-year-old monasteries outperform at digital transformation (U. of Zurich)\n[startup] Are pilots meant to be opt-in or mandatory with the users? I will not promote\n[tech] Cooling in Space\n[startup] Advice for the finance entrepreneurial path - I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
