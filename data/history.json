@@ -4055,5 +4055,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-15",
+    "generated_at": "2026-06-15T12:56:38+00:00",
+    "trends": [
+      "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Your ePub Is fine",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Anthropic's Safety Superpower",
+      "[startup] Got Founder's office internship at an early startup \"I will not promote\"",
+      "[tech] Apple Foundation Models",
+      "[startup] The best business idea is often to copy something that already exists. I will not promote.",
+      "[tech] What the Fuck Happened to Nerds",
+      "[startup] How did you get your first 10 users? (I will not promote)",
+      "[tech] Foreign business owners are scrambling to raise capital to stay in Japan",
+      "[startup] Do you validate your ideas before building? - I will not promote",
+      "[tech] Ported my C game to WASM, here's everybug that I hit",
+      "[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.",
+      "[tech] Openrouter Fusion API",
+      "[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Startup Job Matcher",
+        "problem": "Startups struggling to find niche talent and individuals looking for roles in early-stage companies. Automates the matching process based on skills, experience, and startup stage.",
+        "monetization": "SaaS B2B (listing fees for startups) + Freemium (basic profiles for job seekers).",
+        "theme": "Startup Jobs",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Foreign Business Aid",
+        "problem": "Foreign business owners in Japan and other markets facing difficulties in capital raising and navigating local regulations. Provides resources, connection to local investors, and compliance guidance.",
+        "monetization": "Consulting fees + Subscription for access to curated investor network and legal resources.",
+        "theme": "Global Business",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "WebRTC Cost Optimizer",
+        "problem": "Self-funded startups and SMBs spending too much on WebRTC media server costs. Analyzes usage patterns and recommends cost-saving configurations and alternative providers.",
+        "monetization": "SaaS B2B (tiered pricing based on traffic volume) + Performance-based fee for identified savings.",
+        "theme": "DevOps Cost",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Business Idea Validator",
+        "problem": "Entrepreneurs who jump into building without validating their business ideas. Guides users through structured validation processes, market research, and customer feedback loops.",
+        "monetization": "Freemium (basic validation tools) + Premium subscription for advanced analytics and expert consultations.",
+        "theme": "Startup Validation",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "WASM Porting Helper",
+        "problem": "Developers encountering numerous bugs and complexities when porting C games or applications to WebAssembly. Provides a curated knowledge base, debugging tools, and best practices for WASM development.",
+        "monetization": "SaaS B2B (monthly subscription for access to tools and support) + One-time purchase for advanced debugging modules.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Digital Asset Guardian",
+        "problem": "Individuals concerned about the longevity and accessibility of their digital assets (e.g., ePubs, photos, important documents) over time. Offers secure cloud storage with advanced backup and retrieval features, ensuring future access.",
+        "monetization": "Freemium (limited storage) + Subscription tiers based on storage capacity and advanced features (e.g., versioning, access control).",
+        "theme": "Consumer Digital",
+        "trends_context": "[tech] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN\n[startup] Share your startup - quarterly post\n[tech] Your ePub Is fine\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Anthropic's Safety Superpower\n[startup] Got Founder's office internship at an early startup \"I will not promote\"\n[tech] Apple Foundation Models\n[startup] The best business idea is often to copy something that already exists. I will not promote.\n[tech] What the Fuck Happened to Nerds\n[startup] How did you get your first 10 users? (I will not promote)\n[tech] Foreign business owners are scrambling to raise capital to stay in Japan\n[startup] Do you validate your ideas before building? - I will not promote\n[tech] Ported my C game to WASM, here's everybug that I hit\n[startup] Do you get scammers pretending to be VC companies or consultants for actual companies? I will not promote.\n[tech] Openrouter Fusion API\n[startup] Optimizing WebRTC media server costs on a self-funded budget (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
