@@ -4274,5 +4274,76 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-18",
+    "generated_at": "2026-06-18T11:04:18+00:00",
+    "trends": [
+      "[tech] Midjourney Medical",
+      "[startup] Share your startup - quarterly post",
+      "[tech] I need your clothes, your boots, and your motorcycle",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] DeepSeek Introduces Vision",
+      "[startup] Realized I have no wedge (I will not promote)",
+      "[tech] Local Qwen isn't a worse Opus, it's a different tool",
+      "[startup] Affiliate programs I will not promote",
+      "[tech] Lore – Open source version control system designed for scalability",
+      "[startup] at what point did you stop using spreadsheets for everything(i will not promote)",
+      "[tech] Hospitals and universities repurposing drugs at 90% lower cost",
+      "[tech] I hate compilers",
+      "[startup] How much should a domain name influence a startup name? ( i will not promote)",
+      "[tech] The Forge We Deserve",
+      "[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Drug Repurposing Hub",
+        "problem": "Researchers and institutions struggle to find and access information on repurposed drugs, slowing down cost-effective treatment development. This app centralizes data and insights on drug repurposing for faster innovation.",
+        "monetization": "SaaS B2B - Subscription tiers for academic institutions and pharmaceutical companies (e.g., $99/month for basic access, $499/month for advanced analytics and data feeds).",
+        "theme": "Health Research",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Medical AI",
+        "problem": "Consumers often face difficulties understanding complex medical jargon or finding local, specialized medical services. This app leverages AI to simplify medical information and connect users with nearby healthcare providers based on their specific needs.",
+        "monetization": "Freemium with premium features: Basic AI health query and provider search is free. Advanced symptom analysis, personalized health tracking, and direct appointment booking integrations are premium ($4.99/month).",
+        "theme": "Healthcare Consumer",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Branding Kit",
+        "problem": "Founders of new startups often lack the expertise and budget for professional branding, leading to weak first impressions. This tool provides AI-generated logo concepts, color palettes, and font suggestions based on startup type and target audience.",
+        "monetization": "One-time purchase for basic branding packages ($29.99) or subscription for ongoing support and advanced AI features ($19.99/month).",
+        "theme": "Startup Branding",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Vision Model Manager",
+        "problem": "Developers working with multiple vision AI models (like DeepSeek Vision) need an organized way to manage, compare, and deploy them. This platform offers a unified interface for tracking model performance, versioning, and integrating them into applications.",
+        "monetization": "SaaS B2D - Tiered subscriptions based on model usage and features (e.g., Free tier for hobbyists, $49/month for small teams, $199/month for enterprises).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Affiliate Marketing Optimizer",
+        "problem": "Independent creators and small businesses struggle to identify the most effective and ethical affiliate programs for their content and products. This app analyzes performance data and user demographics to recommend and manage high-converting, trustworthy affiliate partnerships.",
+        "monetization": "Commission-based: Takes a small percentage (5-10%) of referred sales from successful affiliate partnerships managed through the platform. Optional premium analytics for $29/month.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Domain Name Advisor",
+        "problem": "Choosing a memorable and available domain name is crucial for startups, but often a time-consuming and frustrating process. This app uses AI to suggest creative, brand-aligned, and available domain name combinations, considering market trends and keyword relevance.",
+        "monetization": "Freemium: Basic domain suggestions are free. Advanced AI analysis, availability checking across multiple TLDs, and name history reports are premium ($9.99 per report or $19.99/month subscription).",
+        "theme": "Startup Naming",
+        "trends_context": "[tech] Midjourney Medical\n[startup] Share your startup - quarterly post\n[tech] I need your clothes, your boots, and your motorcycle\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] DeepSeek Introduces Vision\n[startup] Realized I have no wedge (I will not promote)\n[tech] Local Qwen isn't a worse Opus, it's a different tool\n[startup] Affiliate programs I will not promote\n[tech] Lore – Open source version control system designed for scalability\n[startup] at what point did you stop using spreadsheets for everything(i will not promote)\n[tech] Hospitals and universities repurposing drugs at 90% lower cost\n[tech] I hate compilers\n[startup] How much should a domain name influence a startup name? ( i will not promote)\n[tech] The Forge We Deserve\n[startup] I work on Stripe Atlas and help startup founders incorporate. AMA about incorporation and fundraising (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
