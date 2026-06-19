@@ -4345,5 +4345,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-19",
+    "generated_at": "2026-06-19T11:12:24+00:00",
+    "trends": [
+      "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "[startup] Share your startup - quarterly post",
+      "[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "[startup] Feedback Friday",
+      "[tech] To study how chips work, MIT researchers built their own operating system",
+      "[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings",
+      "[tech] So You Want to Define a Well-Known URI",
+      "[startup] Is software dead? I will not promote.",
+      "[tech] Ten years of ClickHouse in open source",
+      "[startup] Painful path to profitability I will not promote",
+      "[tech] Zen and the Art of Machine Learning Research",
+      "[startup] How to build a community. Yes to sisterhood I will not promote",
+      "[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote",
+      "[tech] I found 10k GitHub repositories distributing Trojan malware",
+      "[startup] Conflicted about Founding Engineer Role (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Malware Repository Scanner",
+        "problem": "Developers and security teams need a way to quickly identify and analyze potentially malicious code within GitHub repositories, especially when dealing with open-source projects.",
+        "monetization": "SaaS B2B tiered subscription based on repository scan volume (e.g., 50 USD/month for 100 scans).",
+        "theme": "Cybersecurity Ops",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Open Source Tenancy",
+        "problem": "For teams using open-source databases like ClickHouse, managing multi-tenancy, performance optimization, and data isolation across different clients can be complex and time-consuming.",
+        "monetization": "SaaS B2B with per-instance or per-GB storage pricing, offering managed services and advanced features (e.g., 100 USD/month base + 0.50 USD/GB).",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Chip Design OS",
+        "problem": "Students and researchers learning about computer architecture need a simplified, accessible way to experiment with operating system concepts without the complexities of full-scale hardware simulation.",
+        "monetization": "Freemium with premium modules for advanced simulations and interactive tutorials (e.g., one-time purchase 29.99 USD for full access).",
+        "theme": "Hardware Education",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Grammar Graphics Creator",
+        "problem": "Typst users who want to create custom visual language elements and complex diagrams struggle with the current limitations of the platform's grammar and require a more intuitive tool.",
+        "monetization": "One-time purchase for the tool or a subscription for premium templates and cloud rendering services (e.g., 49 USD one-time, or 9 USD/month).",
+        "theme": "Niche Design Tools",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Founder Resilience",
+        "problem": "Founders navigating the demanding startup ecosystem often face burnout and existential questions about the funding cycle and personal well-being.",
+        "monetization": "Subscription-based community and content platform offering curated resources, peer support, and expert Q&A sessions (e.g., 15 USD/month).",
+        "theme": "Startup Psychology",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "URI Definition Helper",
+        "problem": "Developers and technical writers often need to define and manage well-known URIs for various applications and protocols, facing challenges in standardization and discoverability.",
+        "monetization": "Freemium with advanced features for team collaboration, version control, and API access for programmatic integration (e.g., 25 USD/month for teams).",
+        "theme": "Developer Utilities",
+        "trends_context": "[tech] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28\n[startup] Share your startup - quarterly post\n[tech] DuckDB Internals: Why Is DuckDB Fast? (Part 1)\n[startup] Feedback Friday\n[tech] To study how chips work, MIT researchers built their own operating system\n[startup] I will not promote - Founder with 2 exits in 6 years. Key learnings\n[tech] So You Want to Define a Well-Known URI\n[startup] Is software dead? I will not promote.\n[tech] Ten years of ClickHouse in open source\n[startup] Painful path to profitability I will not promote\n[tech] Zen and the Art of Machine Learning Research\n[startup] How to build a community. Yes to sisterhood I will not promote\n[tech] Gribouille 0.3.0: A Grammar of Graphics for Typst\n[startup] The \"raise seed, build team, raise again\" cycle seems to produce a specific kind of founder misery. Why do so many smart people keep choosing it? I will not promote\n[tech] I found 10k GitHub repositories distributing Trojan malware\n[startup] Conflicted about Founding Engineer Role (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
