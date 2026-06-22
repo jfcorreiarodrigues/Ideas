@@ -4561,5 +4561,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-22",
+    "generated_at": "2026-06-22T12:41:57+00:00",
+    "trends": [
+      "[tech] Deno Desktop",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Codex logging bug may write TBs to local SSDs",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Help I accidentally a wigglegram",
+      "[startup] Successful businesses, can you share your journey? (I will not promote)",
+      "[tech] Did my old job only exist because of fraud?",
+      "[startup] UPDATE on my startup journey ( I will not promote)",
+      "[tech] Investors get real-time view of UK bond market activity for the first time",
+      "[startup] Pissed off by startup culture. I will not promote",
+      "[tech] Apertus – Open Foundation Model for Sovereign AI",
+      "[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)",
+      "[tech] Munich 1991: The Roots of the Current AI Boom",
+      "[startup] Does any other founder feel lonely? I will not promote",
+      "[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+      "[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Wigglegram Animator",
+        "problem": "Users who want to create fun, animated wigglegrams for social media but lack the technical skills or time to do it themselves. Solves the problem of manual frame-by-frame animation for short, engaging visual content.",
+        "monetization": "Freemium with limited features, subscription tiers for advanced effects and export options (e.g., $5/month for Pro features, $15/month for Pro+).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Journey Log",
+        "problem": "Startup founders who feel isolated and want to anonymously share their experiences, challenges, and victories with peers. Provides a safe space for emotional support and peer learning without the pressure of promotion.",
+        "monetization": "Community access with optional premium content or expert Q&A sessions (e.g., $10/month for exclusive webinars).",
+        "theme": "Startup Support",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Foundation Builder",
+        "problem": "Developers and small businesses looking to leverage sovereign AI capabilities without the massive overhead of building models from scratch. Simplifies the process of fine-tuning or integrating open-source foundation models for specific needs.",
+        "monetization": "SaaS B2B with tiered pricing based on usage and model access (e.g., $50/month for basic tier, $200/month for advanced).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "UK Bond Market Pulse",
+        "problem": "Retail investors in the UK who want real-time, accessible insights into the bond market beyond what traditional financial news provides. Enables more informed investment decisions by democratizing access to market activity data.",
+        "monetization": "Subscription service with different access levels (e.g., $15/month for basic real-time data, $50/month for advanced analytics and alerts).",
+        "theme": "FinTech Consumer",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business Add-on Ideas",
+        "problem": "Entrepreneurs and small businesses exploring niche opportunities within established ecosystems like Google Workspace, but struggling to identify viable, profitable add-on ideas. Helps validate market potential and competitive landscape for new business ideas.",
+        "monetization": "Marketplace for validated add-on ideas and co-founder matching (e.g., 15% success fee for co-founder placements, tiered pricing for idea reports).",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "SSD Health Monitor",
+        "problem": "Tech enthusiasts and developers concerned about potential data loss or premature SSD failure due to unusual logging behavior, like the Codex bug. Provides proactive monitoring and alerts for abnormal disk activity.",
+        "monetization": "One-time purchase for the utility software ($19.99) with optional annual updates for new threat signatures ($4.99/year).",
+        "theme": "Tech Utilities",
+        "trends_context": "[tech] Deno Desktop\n[startup] Share your startup - quarterly post\n[tech] Codex logging bug may write TBs to local SSDs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Help I accidentally a wigglegram\n[startup] Successful businesses, can you share your journey? (I will not promote)\n[tech] Did my old job only exist because of fraud?\n[startup] UPDATE on my startup journey ( I will not promote)\n[tech] Investors get real-time view of UK bond market activity for the first time\n[startup] Pissed off by startup culture. I will not promote\n[tech] Apertus – Open Foundation Model for Sovereign AI\n[startup] Anyone else looked at Google Workspace add-on ideas and found the market too competitive / not profitable enough? (i will not promote)\n[tech] Munich 1991: The Roots of the Current AI Boom\n[startup] Does any other founder feel lonely? I will not promote\n[tech] Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search\n[startup] Should I email a succinct (5 slides) presentation post-interview? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
