@@ -4633,5 +4633,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "generated_at": "2026-06-23T10:27:39+00:00",
+    "trends": [
+      "[tech] The new HTTP QUERY method explained",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Steam Machine launches today",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Polymarket has flooded social media with deceptive videos by paid creators",
+      "[startup] Thesis is more important that product[I will not promote]",
+      "[tech] GLM-5.2 – How to Run Locally",
+      "[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]",
+      "[tech] Plotnine",
+      "[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>",
+      "[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "[startup] Pulse for Business Ideas (i will not promote)",
+      "[tech] Will It Mythos?",
+      "[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote",
+      "[tech] In praise of memcached",
+      "[startup] How do you research a market you've never worked in? I will not promote 🫡"
+    ],
+    "ideas": [
+      {
+        "name": "Market Trend Radar",
+        "problem": "Consumidores e pequenos empreendedores muitas vezes perdem oportunidades de mercado por não terem acesso a insights rápidos sobre tendências emergentes em nichos específicos. Esta ferramenta agrega e analisa dados de redes sociais e fóruns para identificar demandas ocultas.",
+        "monetization": "Assinatura Freemium com acesso limitado a insights; Planos pagos (9.99USD/mes, 49.99USD/trimestre) para acesso a análises aprofundadas e alertas personalizados.",
+        "theme": "Consumer Insights",
+        "trends_context": "[tech] The new HTTP QUERY method explained\n[startup] Share your startup - quarterly post\n[tech] Steam Machine launches today\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Polymarket has flooded social media with deceptive videos by paid creators\n[startup] Thesis is more important that product[I will not promote]\n[tech] GLM-5.2 – How to Run Locally\n[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]\n[tech] Plotnine\n[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>\n[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO\n[startup] Pulse for Business Ideas (i will not promote)\n[tech] Will It Mythos?\n[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote\n[tech] In praise of memcached\n[startup] How do you research a market you've never worked in? I will not promote 🫡",
+        "created_at": ""
+      },
+      {
+        "name": "Expert Q&A Platform",
+        "problem": "Indivíduos e empresas buscam respostas confiáveis para perguntas técnicas ou de nicho, mas encontram desinformação ou respostas superficiais em fóruns abertos. Uma plataforma onde usuários pagam para obter respostas de especialistas verificados em suas áreas.",
+        "monetization": "Modelo de pagamento por consulta (variável por especialidade) com uma taxa de 20% para a plataforma; Assinaturas para acesso ilimitado a conteúdo de especialistas.",
+        "theme": "Knowledge Sharing",
+        "trends_context": "[tech] The new HTTP QUERY method explained\n[startup] Share your startup - quarterly post\n[tech] Steam Machine launches today\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Polymarket has flooded social media with deceptive videos by paid creators\n[startup] Thesis is more important that product[I will not promote]\n[tech] GLM-5.2 – How to Run Locally\n[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]\n[tech] Plotnine\n[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>\n[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO\n[startup] Pulse for Business Ideas (i will not promote)\n[tech] Will It Mythos?\n[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote\n[tech] In praise of memcached\n[startup] How do you research a market you've never worked in? I will not promote 🫡",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Operations Hub",
+        "problem": "Fundadores de startups, especialmente os de primeira viagem, enfrentam complexidades com tarefas administrativas e operacionais repetitivas, como gestão de contratos, conformidade básica e organização de documentos. Uma suíte integrada para simplificar essas tarefas.",
+        "monetization": "SaaS B2B com planos escalonados: 'Basic' (19USD/mês) para startups em estágio inicial, 'Pro' (49USD/mês) com mais funcionalidades e suporte prioritário.",
+        "theme": "Startup Ops",
+        "trends_context": "[tech] The new HTTP QUERY method explained\n[startup] Share your startup - quarterly post\n[tech] Steam Machine launches today\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Polymarket has flooded social media with deceptive videos by paid creators\n[startup] Thesis is more important that product[I will not promote]\n[tech] GLM-5.2 – How to Run Locally\n[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]\n[tech] Plotnine\n[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>\n[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO\n[startup] Pulse for Business Ideas (i will not promote)\n[tech] Will It Mythos?\n[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote\n[tech] In praise of memcached\n[startup] How do you research a market you've never worked in? I will not promote 🫡",
+        "created_at": ""
+      },
+      {
+        "name": "AI Workflow Optimizer",
+        "problem": "Desenvolvedores que trabalham com modelos de IA e LLMs precisam otimizar seus fluxos de trabalho para experimentação e implantação mais eficientes. Ferramenta que analisa e sugere melhorias em pipelines de treinamento e inferência de modelos.",
+        "monetization": "SaaS com planos baseados no uso e complexidade do pipeline: 'Developer' (29USD/mês), 'Team' (99USD/mês).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] The new HTTP QUERY method explained\n[startup] Share your startup - quarterly post\n[tech] Steam Machine launches today\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Polymarket has flooded social media with deceptive videos by paid creators\n[startup] Thesis is more important that product[I will not promote]\n[tech] GLM-5.2 – How to Run Locally\n[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]\n[tech] Plotnine\n[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>\n[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO\n[startup] Pulse for Business Ideas (i will not promote)\n[tech] Will It Mythos?\n[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote\n[tech] In praise of memcached\n[startup] How do you research a market you've never worked in? I will not promote 🫡",
+        "created_at": ""
+      },
+      {
+        "name": "Nourish Meal Planner",
+        "problem": "Pessoas com restrições alimentares específicas (alergias, intolerâncias, dietas médicas) ou que buscam objetivos de saúde (perda de peso, ganho muscular) acham difícil planejar refeições diárias que atendam a todos os requisitos nutricionais. Um planejador de refeições inteligente que personaliza dietas.",
+        "monetization": "Freemium: Planejamento básico gratuito; Assinatura Premium (7.99USD/mês) para planos personalizados, listas de compras automáticas e integração com apps de fitness.",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] The new HTTP QUERY method explained\n[startup] Share your startup - quarterly post\n[tech] Steam Machine launches today\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Polymarket has flooded social media with deceptive videos by paid creators\n[startup] Thesis is more important that product[I will not promote]\n[tech] GLM-5.2 – How to Run Locally\n[startup] Adding a co-founder retroactively to the Delaware corp [I will not promote]\n[tech] Plotnine\n[startup] I'm an expert software dev and LOVE vibe-coding and it's not going to replace devs like me for a LONG while, so chill with \"tech is easy\". <I will not promote>\n[tech] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO\n[startup] Pulse for Business Ideas (i will not promote)\n[tech] Will It Mythos?\n[startup] What is a repeatable easy win that most founders don’t maximise? I will not promote\n[tech] In praise of memcached\n[startup] How do you research a market you've never worked in? I will not promote 🫡",
+        "created_at": ""
+      }
+    ]
   }
 ]
