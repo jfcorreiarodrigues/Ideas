@@ -4697,5 +4697,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "generated_at": "2026-06-24T10:13:16+00:00",
+    "trends": [
+      "[tech] We're making Bunny DNS free: because a faster internet won't build itself",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Vulnerability reports are not special anymore",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews",
+      "[tech] Jerry's Map",
+      "[startup] How do you really find the right people? (I will not promote)",
+      "[tech] Why eval startups fail (2025)",
+      "[startup] I'm a dumb college kid with a bad Idea (i will not promote)",
+      "[tech] In memory of the man who put red and green squiggles under words",
+      "[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.",
+      "[tech] FUTO Swipe – A new swipe typing model",
+      "[startup] How we approach buying out our VC’s stake in the startup? I will not promote",
+      "[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis",
+      "[startup] [i will not promote] How does this all work?"
+    ],
+    "ideas": [
+      {
+        "name": "Expense Tracker Pro",
+        "problem": "Users struggle to accurately track personal expenses across multiple accounts and categories, leading to overspending and lack of financial clarity. This app helps individuals easily log, categorize, and visualize their spending habits.",
+        "monetization": "Freemium with advanced analytics and budgeting tools for a monthly subscription of $4.99.",
+        "theme": "Personal Finance Management",
+        "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Equity Manager",
+        "problem": "Early-stage startups and their founders often face complexity and potential errors when managing employee stock options, vesting schedules, and cap table dilution. This tool simplifies equity management for growing businesses.",
+        "monetization": "Tiered SaaS subscription based on the number of employees, starting at $99/month for Seed stage startups.",
+        "theme": "Startup Operations",
+        "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+        "created_at": ""
+      },
+      {
+        "name": "AI Prompt Composer",
+        "problem": "Developers and content creators spend significant time crafting and refining prompts for various AI models to achieve desired outputs. This tool provides a structured interface for creating, testing, and managing complex AI prompts.",
+        "monetization": "SaaS B2B with a free tier for basic usage, and premium plans starting at $19/month for advanced features and team collaboration.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+        "created_at": ""
+      },
+      {
+        "name": "Community Event Planner",
+        "problem": "Organizers of local community events, clubs, and meetups struggle with coordinating schedules, managing RSVPs, and communicating updates to members. This app streamlines the entire event planning and participant management process.",
+        "monetization": "Freemium model with core features free, and premium features like advanced analytics and direct messaging for a $9.99 monthly fee.",
+        "theme": "Community Engagement",
+        "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+        "created_at": ""
+      },
+      {
+        "name": "Smart Recipe Optimizer",
+        "problem": "Home cooks often have specific dietary needs, ingredient availability, or time constraints when planning meals and adapting recipes. This app allows users to input their requirements and instantly get optimized recipe suggestions and ingredient substitutions.",
+        "monetization": "Freemium with personalized diet plans and exclusive recipes for a $3.99 monthly subscription.",
+        "theme": "Home Cooking Helper",
+        "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+        "created_at": ""
+      }
+    ]
   }
 ]
