@@ -1,63 +1,71 @@
 {
-  "date": "2026-06-24",
-  "generated_at": "2026-06-24T10:13:16+00:00",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:10:24+00:00",
   "trends": [
-    "[tech] We're making Bunny DNS free: because a faster internet won't build itself",
+    "[tech] Half-Life 2 in a Browser",
     "[startup] Share your startup - quarterly post",
-    "[tech] Vulnerability reports are not special anymore",
+    "[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter",
-    "[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews",
-    "[tech] Jerry's Map",
-    "[startup] How do you really find the right people? (I will not promote)",
-    "[tech] Why eval startups fail (2025)",
-    "[startup] I'm a dumb college kid with a bad Idea (i will not promote)",
-    "[tech] In memory of the man who put red and green squiggles under words",
-    "[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.",
-    "[tech] FUTO Swipe – A new swipe typing model",
-    "[startup] How we approach buying out our VC’s stake in the startup? I will not promote",
-    "[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis",
-    "[startup] [i will not promote] How does this all work?"
+    "[tech] Wikipedia Workers in Britain set global first by seeking union recognition",
+    "[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)",
+    "[tech] OpenAI unveils its first custom chip, built by Broadcom",
+    "[startup] Ground-floor employee equity, time to quit? (i will not promote)",
+    "[tech] Cloudflare launched self-managed OAuth for all",
+    "[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)",
+    "[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "[startup] Equity ownership - requesting advice. I will not promote",
+    "[tech] LuaJIT 3.0 proposed syntax extensions",
+    "[startup] Reasonable equity expectations (I will not promote)",
+    "[tech] Blogging can just be stating the obvious",
+    "[startup] How long until you know when you have product market fit? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Expense Tracker Pro",
-      "problem": "Users struggle to accurately track personal expenses across multiple accounts and categories, leading to overspending and lack of financial clarity. This app helps individuals easily log, categorize, and visualize their spending habits.",
-      "monetization": "Freemium with advanced analytics and budgeting tools for a monthly subscription of $4.99.",
-      "theme": "Personal Finance Management",
-      "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
-      "created_at": ""
-    },
-    {
-      "name": "Startup Equity Manager",
-      "problem": "Early-stage startups and their founders often face complexity and potential errors when managing employee stock options, vesting schedules, and cap table dilution. This tool simplifies equity management for growing businesses.",
-      "monetization": "Tiered SaaS subscription based on the number of employees, starting at $99/month for Seed stage startups.",
-      "theme": "Startup Operations",
-      "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
-      "created_at": ""
-    },
-    {
-      "name": "AI Prompt Composer",
-      "problem": "Developers and content creators spend significant time crafting and refining prompts for various AI models to achieve desired outputs. This tool provides a structured interface for creating, testing, and managing complex AI prompts.",
-      "monetization": "SaaS B2B with a free tier for basic usage, and premium plans starting at $19/month for advanced features and team collaboration.",
+      "name": "AI Content Auditor",
+      "problem": "Developers building with AI models like Claude and OpenAI need to detect and audit illicit extraction of model capabilities. This tool helps identify suspicious activity and unauthorized data usage for compliance and security.",
+      "monetization": "SaaS B2B 49 USD/mes por empresa",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Community Event Planner",
-      "problem": "Organizers of local community events, clubs, and meetups struggle with coordinating schedules, managing RSVPs, and communicating updates to members. This app streamlines the entire event planning and participant management process.",
-      "monetization": "Freemium model with core features free, and premium features like advanced analytics and direct messaging for a $9.99 monthly fee.",
-      "theme": "Community Engagement",
-      "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+      "name": "Startup Equity Advisor",
+      "problem": "Early-stage startup employees often struggle with understanding and negotiating equity. This app provides guidance and calculators on reasonable equity expectations and implications for potential employers.",
+      "monetization": "Freemium com artigos premium e calculadoras avançadas a 9.99 USD",
+      "theme": "Startup Finance",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Smart Recipe Optimizer",
-      "problem": "Home cooks often have specific dietary needs, ingredient availability, or time constraints when planning meals and adapting recipes. This app allows users to input their requirements and instantly get optimized recipe suggestions and ingredient substitutions.",
-      "monetization": "Freemium with personalized diet plans and exclusive recipes for a $3.99 monthly subscription.",
-      "theme": "Home Cooking Helper",
-      "trends_context": "[tech] We're making Bunny DNS free: because a faster internet won't build itself\n[startup] Share your startup - quarterly post\n[tech] Vulnerability reports are not special anymore\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Raspberry Pi Pico W as USB Wi-Fi Adapter\n[startup] [I will not promote] As a founder, I’m starting to think not knowing how to use AI is a bigger red flag than using it in interviews\n[tech] Jerry's Map\n[startup] How do you really find the right people? (I will not promote)\n[tech] Why eval startups fail (2025)\n[startup] I'm a dumb college kid with a bad Idea (i will not promote)\n[tech] In memory of the man who put red and green squiggles under words\n[startup] Investors suggesting „strategic exit“. Wdtm? I will not promote.\n[tech] FUTO Swipe – A new swipe typing model\n[startup] How we approach buying out our VC’s stake in the startup? I will not promote\n[tech] Grok Build 0.1: Intelligence, Performance and Price Analysis\n[startup] [i will not promote] How does this all work?",
+      "name": "Cloudflare OAuth Manager",
+      "problem": "Small businesses using Cloudflare services need an easier way to manage self-hosted OAuth for their applications. This app streamlines OAuth setup and user management, reducing technical overhead.",
+      "monetization": "SaaS B2B 19 USD/mes por negócio",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Product-Market Fit Tracker",
+      "problem": "Founders struggle to objectively determine when they've achieved product-market fit. This tool helps track key metrics and user feedback to provide data-driven insights on market validation.",
+      "monetization": "SaaS B2B 29 USD/mes por startup",
+      "theme": "Startup Growth",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Browser Game Remasterer",
+      "problem": "Fans of classic browser games like Half-Life 2 want modern ways to play them. This tool helps users find and configure browser-playable versions of beloved older games.",
+      "monetization": "Freemium com acesso a um catálogo curado de jogos, com IAP para desbloquear conteúdo extra 2.99 USD",
+      "theme": "Indie Gaming",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Union Recognition Guide",
+      "problem": "Workers, particularly in tech, are increasingly seeking union recognition. This app provides a comprehensive guide on the process, rights, and resources for forming or joining a union.",
+      "monetization": "Freemium com guias detalhados e templates a 19.99 USD",
+      "theme": "Worker Rights",
+      "trends_context": "[tech] Half-Life 2 in a Browser\n[startup] Share your startup - quarterly post\n[tech] Anthropic says Alibaba illicitly extracted Claude AI model capabilities\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Wikipedia Workers in Britain set global first by seeking union recognition\n[startup] i studied the most viral tech launches on X and here's what i actually found (i will not promote)\n[tech] OpenAI unveils its first custom chip, built by Broadcom\n[startup] Ground-floor employee equity, time to quit? (i will not promote)\n[tech] Cloudflare launched self-managed OAuth for all\n[startup] Should I disclose that I'm working on my (very public facing) startup to a potential employer??? (I will not promote)\n[tech] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub\n[startup] Equity ownership - requesting advice. I will not promote\n[tech] LuaJIT 3.0 proposed syntax extensions\n[startup] Reasonable equity expectations (I will not promote)\n[tech] Blogging can just be stating the obvious\n[startup] How long until you know when you have product market fit? I will not promote",
       "created_at": ""
     }
   ]
