@@ -4833,5 +4833,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-26",
+    "generated_at": "2026-06-26T10:13:20+00:00",
+    "trends": [
+      "[tech] We All Depend on Open Source. We Will Defend It Together",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Om Malik has died",
+      "[startup] Feedback Friday",
+      "[tech] An entire Herculaneum scroll has been read for the first time",
+      "[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote",
+      "[tech] Libre Barcode Project",
+      "[startup] Help me understand if I’m making a right decision (i will not promote)",
+      "[tech] Framework's 10G Ethernet module exposes USB-C's complexity",
+      "[startup] What founders do after building a company? I will not promote",
+      "[tech] What happened after 2k people tried to hack my AI assistant",
+      "[startup] Why building a deep-tech startup in India made me question my decision? I will not promote",
+      "[tech] My Steam Machine Is a 50ft HDMI Cable",
+      "[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)",
+      "[tech] The 'papers, please' era of the internet will decimate your privacy",
+      "[startup] Suspicious investor interest in my startup. I will not promote."
+    ],
+    "ideas": [
+      {
+        "name": "Herculaneum Scroll Reader",
+        "problem": "Facilitates access to and interpretation of ancient texts like the Herculaneum scrolls for researchers and enthusiasts, enabling wider engagement with historical discoveries.",
+        "monetization": "Subscription service for advanced features, API access for academic institutions, and one-time purchase for premium digital editions.",
+        "theme": "Cultural Heritage Tech",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Libre Barcode Integrator",
+        "problem": "Provides small businesses and indie developers with a simple, free, and customizable solution for generating and integrating barcodes into their products or systems, avoiding costly proprietary solutions.",
+        "monetization": "Freemium model with paid tiers for advanced customization, bulk generation, and premium support.",
+        "theme": "Open Source Utilities",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Deep-Tech India Guide",
+        "problem": "Offers aspiring founders in India a curated roadmap and mentorship network to navigate the unique challenges and opportunities of building deep-tech startups in the region.",
+        "monetization": "Premium mentorship packages, sponsored content from relevant service providers, and affiliate partnerships with VCs.",
+        "theme": "Startup Ecosystem India",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Fearless Founder Coach",
+        "problem": "Supports individuals transitioning from stable careers to entrepreneurship by providing guided exercises, community support, and expert advice to manage the psychological challenges and fear of failure.",
+        "monetization": "One-time purchase for a comprehensive course, recurring subscription for community access and live Q&A sessions.",
+        "theme": "Startup Resilience",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "AI Investor Pitch Bot",
+        "problem": "Helps founders refine their investor pitches by simulating critical investor questions and providing AI-driven feedback on clarity, conciseness, and impact, particularly for early-stage deep-tech ventures.",
+        "monetization": "SaaS B2B, tiered monthly subscriptions based on usage and feature access.",
+        "theme": "AI Startup Tools",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Privacy Decimation Alert",
+        "problem": "Educates consumers about their digital privacy risks in the 'papers, please' era of the internet and provides actionable steps and tools to protect their personal information.",
+        "monetization": "Freemium model with a basic informational app and paid subscription for advanced privacy tools and personalized alerts.",
+        "theme": "Consumer Privacy",
+        "trends_context": "[tech] We All Depend on Open Source. We Will Defend It Together\n[startup] Share your startup - quarterly post\n[tech] Om Malik has died\n[startup] Feedback Friday\n[tech] An entire Herculaneum scroll has been read for the first time\n[startup] Leaving a stable £100k job to build a nuclear startup, how did you handle the fear? I will not promote\n[tech] Libre Barcode Project\n[startup] Help me understand if I’m making a right decision (i will not promote)\n[tech] Framework's 10G Ethernet module exposes USB-C's complexity\n[startup] What founders do after building a company? I will not promote\n[tech] What happened after 2k people tried to hack my AI assistant\n[startup] Why building a deep-tech startup in India made me question my decision? I will not promote\n[tech] My Steam Machine Is a 50ft HDMI Cable\n[startup] Built a chatbot to handle \"what is this, exactly?\" Qs and ended up benefiting the most for critical investor convos (I will not promote)\n[tech] The 'papers, please' era of the internet will decimate your privacy\n[startup] Suspicious investor interest in my startup. I will not promote.",
+        "created_at": ""
+      }
+    ]
   }
 ]
