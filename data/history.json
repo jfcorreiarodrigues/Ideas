@@ -4905,5 +4905,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-27",
+    "generated_at": "2026-06-27T09:21:32+00:00",
+    "trends": [
+      "[tech] Previewing GPT‑5.6 Sol: a next-generation model",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Long Wave radio era set to end with switch-off",
+      "[startup] Feedback Friday",
+      "[tech] Linux on Older Hardware: The Complete Revival Guide",
+      "[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)",
+      "[tech] WordStar: A Writer's Word Processor (1996)",
+      "[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote",
+      "[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]",
+      "[tech] IBM MCGA Gate Array Reverse Engineering",
+      "[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.",
+      "[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "[startup] Runway Questions As A Founding Engineer. I will not promote.",
+      "[tech] OpenTTD 16.0-Beta1",
+      "[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Long Wave Archive",
+        "problem": "Preservar e tornar acessível o conteúdo histórico transmitido via rádio de onda longa, antes que o acesso a essas gravações se perca com o desligamento das transmissões.",
+        "monetization": "Assinatura premium para acesso ilimitado a arquivos e recursos de pesquisa, com um modelo freemium para conteúdo limitado.",
+        "theme": "History Tech",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Kinetic Energy Calculator",
+        "problem": "Ajudar estudantes e entusiastas a entenderem intuitivamente a relação quadrática da energia cinética com a velocidade, através de visualizações interativas e exemplos práticos.",
+        "monetization": "Compra única do aplicativo (4.99 USD) ou assinatura para recursos avançados de simulação e estudo de caso.",
+        "theme": "Physics Education",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "WordStar Revival",
+        "problem": "Oferecer uma experiência de escrita focada e nostálgica para escritores que apreciam a simplicidade e eficiência do WordStar, adaptada para dispositivos modernos.",
+        "monetization": "Freemium com funcionalidades básicas gratuitas e assinatura para recursos avançados de formatação e salvamento na nuvem.",
+        "theme": "Writing Tools",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Founder's Pilot",
+        "problem": "Facilitar a conversão de tomadores de decisão em eventos de negócios em usuários piloto pagantes para startups, fornecendo ferramentas de engajamento e acompanhamento pós-evento.",
+        "monetization": "Comissão de 15% sobre as primeiras vendas geradas através da plataforma ou um plano SaaS mensal com base no volume de eventos.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Hardware vs. Service",
+        "problem": "Ajudar empreendedores indecisos a escolher entre modelos de negócio baseados em hardware ou serviço, oferecendo análises comparativas, estudos de caso e ferramentas de avaliação de mercado.",
+        "monetization": "Consultoria paga por hora ou pacotes de análise de viabilidade de negócio com preço fixo.",
+        "theme": "Startup Guidance",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Manticore Search Speedup",
+        "problem": "Fornecer uma ferramenta especializada para otimizar a performance de busca KNN em implementações Manticore, utilizando técnicas avançadas como HNSW e AVX-512.",
+        "monetization": "Licença de uso para desenvolvedores corporativos (SaaS B2B com preço por licença de usuário).",
+        "theme": "Dev Tools",
+        "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
