@@ -1,71 +1,70 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T09:21:32+00:00",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T09:51:39+00:00",
   "trends": [
-    "[tech] Previewing GPT‑5.6 Sol: a next-generation model",
+    "[tech] Marfa Public Radio Puts You to Sleep",
     "[startup] Share your startup - quarterly post",
-    "[tech] Long Wave radio era set to end with switch-off",
+    "[tech] Bashblog – a single bash script to create blogs",
     "[startup] Feedback Friday",
-    "[tech] Linux on Older Hardware: The Complete Revival Guide",
-    "[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)",
-    "[tech] WordStar: A Writer's Word Processor (1996)",
-    "[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote",
-    "[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-    "[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]",
-    "[tech] IBM MCGA Gate Array Reverse Engineering",
-    "[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.",
-    "[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-    "[startup] Runway Questions As A Founding Engineer. I will not promote.",
-    "[tech] OpenTTD 16.0-Beta1",
-    "[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote"
+    "[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.",
+    "[tech] AMD Strix Halo RDMA Cluster Setup Guide",
+    "[tech] OpenRA",
+    "[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote",
+    "[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "[startup] The importance of sharing what you're working on as you build it - I will not promote",
+    "[tech] Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "[startup] [I will not promote] Hows this problem",
+    "[tech] Choosing a Public DNS Resolver",
+    "[startup] Do not accept being a “median” startup. I will not promote"
   ],
   "ideas": [
     {
-      "name": "Long Wave Archive",
-      "problem": "Preservar e tornar acessível o conteúdo histórico transmitido via rádio de onda longa, antes que o acesso a essas gravações se perca com o desligamento das transmissões.",
-      "monetization": "Assinatura premium para acesso ilimitado a arquivos e recursos de pesquisa, com um modelo freemium para conteúdo limitado.",
-      "theme": "History Tech",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Kinetic Energy Calculator",
-      "problem": "Ajudar estudantes e entusiastas a entenderem intuitivamente a relação quadrática da energia cinética com a velocidade, através de visualizações interativas e exemplos práticos.",
-      "monetization": "Compra única do aplicativo (4.99 USD) ou assinatura para recursos avançados de simulação e estudo de caso.",
-      "theme": "Physics Education",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "WordStar Revival",
-      "problem": "Oferecer uma experiência de escrita focada e nostálgica para escritores que apreciam a simplicidade e eficiência do WordStar, adaptada para dispositivos modernos.",
-      "monetization": "Freemium com funcionalidades básicas gratuitas e assinatura para recursos avançados de formatação e salvamento na nuvem.",
-      "theme": "Writing Tools",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Founder's Pilot",
-      "problem": "Facilitar a conversão de tomadores de decisão em eventos de negócios em usuários piloto pagantes para startups, fornecendo ferramentas de engajamento e acompanhamento pós-evento.",
-      "monetization": "Comissão de 15% sobre as primeiras vendas geradas através da plataforma ou um plano SaaS mensal com base no volume de eventos.",
-      "theme": "Startup Growth",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Hardware vs. Service",
-      "problem": "Ajudar empreendedores indecisos a escolher entre modelos de negócio baseados em hardware ou serviço, oferecendo análises comparativas, estudos de caso e ferramentas de avaliação de mercado.",
-      "monetization": "Consultoria paga por hora ou pacotes de análise de viabilidade de negócio com preço fixo.",
+      "name": "EdTech MVP Navigator",
+      "problem": "Educators and aspiring entrepreneurs struggle to validate and build Minimum Viable Products (MVPs) for their EdTech ideas with limited budgets. This app guides them through the essential steps, from ideation to early-stage validation.",
+      "monetization": "Freemium with premium coaching modules and templates ($19/month subscription)",
       "theme": "Startup Guidance",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
       "created_at": ""
     },
     {
-      "name": "Manticore Search Speedup",
-      "problem": "Fornecer uma ferramenta especializada para otimizar a performance de busca KNN em implementações Manticore, utilizando técnicas avançadas como HNSW e AVX-512.",
-      "monetization": "Licença de uso para desenvolvedores corporativos (SaaS B2B com preço por licença de usuário).",
-      "theme": "Dev Tools",
-      "trends_context": "[tech] Previewing GPT‑5.6 Sol: a next-generation model\n[startup] Share your startup - quarterly post\n[tech] Long Wave radio era set to end with switch-off\n[startup] Feedback Friday\n[tech] Linux on Older Hardware: The Complete Revival Guide\n[startup] What do you think of VCs and founders promoting themselves on social media ?( I will not promote)\n[tech] WordStar: A Writer's Word Processor (1996)\n[startup] I know I want to start something but I am not sure how to pick between hardware based or service based - I will not promote\n[tech] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)\n[startup] Is someone's wealth really theirs if they can't control it all? [I Will Not Promote]\n[tech] IBM MCGA Gate Array Reverse Engineering\n[startup] How do you turn decision-makers at an event into paid pilot users? I will not promote.\n[tech] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512\n[startup] Runway Questions As A Founding Engineer. I will not promote.\n[tech] OpenTTD 16.0-Beta1\n[startup] Experienced founders: Is there a way I can get warm intros in an industry without having to get advisors? I will not promote",
+      "name": "Local Event Discovery",
+      "problem": "People often miss out on interesting local events, workshops, and meetups happening in their city due to fragmented information sources. This app aggregates and personalizes event listings from various local platforms.",
+      "monetization": "Freemium with featured event listings for organizers ($5/listing) and premium discovery filters for users ($4.99/month)",
+      "theme": "Community Consumer",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "GameDev Decompiler Helper",
+      "problem": "Independent game developers interested in reverse engineering or understanding game mechanics need a streamlined way to work with decompiled code, especially for older platforms like GameCube. This tool provides essential utilities for organizing and analyzing decompiled game assets.",
+      "monetization": "One-time purchase ($29.99) with optional advanced analysis plugins ($9.99 each)",
+      "theme": "Indie Dev Tools",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "LLM Routing Manager",
+      "problem": "Developers and researchers working with both local and hosted Large Language Models (LLMs) need an efficient way to manage and route queries between them for optimal performance and cost. This app provides a centralized interface for this complex task.",
+      "monetization": "SaaS for developers and teams ($49/month per team)",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Blind Pitch Advisor",
+      "problem": "Early-stage founders are hesitant to share their core business problem or MVP for fear of being copied or misunderstood, hindering valuable feedback. This platform allows users to anonymously describe their problem for community insights without revealing identifying details.",
+      "monetization": "Optional anonymous expert reviews ($25 per review) and premium anonymization features ($9.99/month)",
+      "theme": "Startup Feedback",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Sleep Soundscapes",
+      "problem": "Individuals struggle to fall asleep due to stress, anxiety, or noisy environments. This app offers a curated collection of scientifically designed soundscapes, ambient noises, and guided meditations to promote relaxation and improve sleep quality.",
+      "monetization": "Freemium with a library of basic sounds, and a premium subscription ($7.99/month) for advanced features, offline access, and exclusive content",
+      "theme": "Consumer Wellness",
+      "trends_context": "[tech] Marfa Public Radio Puts You to Sleep\n[startup] Share your startup - quarterly post\n[tech] Bashblog – a single bash script to create blogs\n[startup] Feedback Friday\n[tech] Wayfinder Router: deterministic routing of queries between local and hosted LLM\n[startup] [I will not promote] CSE Grad turned 7-Year Sales Pro: Bootstrapping a practical EdTech MVP on a $0 budget. Looking for advice from Angels/Founders.\n[tech] AMD Strix Halo RDMA Cluster Setup Guide\n[tech] OpenRA\n[startup] How did you figure out that this is the problem you wanna solve and build your startup around it? I will not promote\n[tech] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C\n[startup] The importance of sharing what you're working on as you build it - I will not promote\n[tech] Anonymous GitHub account mass-dropping undisclosed 0-days\n[startup] [I will not promote] Hows this problem\n[tech] Choosing a Public DNS Resolver\n[startup] Do not accept being a “median” startup. I will not promote",
       "created_at": ""
     }
   ]
