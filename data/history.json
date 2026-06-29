@@ -5048,5 +5048,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-29",
+    "generated_at": "2026-06-29T11:52:20+00:00",
+    "trends": [
+      "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "[startup] Share your startup - quarterly post",
+      "[tech] GLM 5.2 beats Claude in our benchmarks",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "[startup] Give me all your advice - I will not promote",
+      "[tech] Sandia National Labs SA3000 8085 CPU",
+      "[startup] Existential crisis post starting new job after my startup \"I will not promote\"",
+      "[tech] NUMA: Cores, memory, and the distance between them",
+      "[startup] Am i doing this the right way? How do y’all design the front end? I will not promote",
+      "[tech] Dissecting Apple's Sparse Image Format (ASIF)",
+      "[startup] Marketplace startup questions [I will not promote]",
+      "[tech] Age verification is just a precursor to automated attribution of speech",
+      "[startup] Has the playbook for building companies changed? [I will not promote]",
+      "[tech] We found a bug in the hyper HTTP library",
+      "[startup] What to expect in one year (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Resume Health Check",
+        "problem": "Hiring managers and recruiters receive hundreds of resumes. This app analyzes resumes against ATS requirements and common scoring metrics, providing actionable feedback to job seekers to improve their chances of getting noticed.",
+        "monetization": "Freemium with premium analysis features (e.g., ATS simulation, keyword optimization) for a one-time fee or subscription.",
+        "theme": "Career Services",
+        "trends_context": "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88\n[startup] Share your startup - quarterly post\n[tech] GLM 5.2 beats Claude in our benchmarks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped\n[startup] Give me all your advice - I will not promote\n[tech] Sandia National Labs SA3000 8085 CPU\n[startup] Existential crisis post starting new job after my startup \"I will not promote\"\n[tech] NUMA: Cores, memory, and the distance between them\n[startup] Am i doing this the right way? How do y’all design the front end? I will not promote\n[tech] Dissecting Apple's Sparse Image Format (ASIF)\n[startup] Marketplace startup questions [I will not promote]\n[tech] Age verification is just a precursor to automated attribution of speech\n[startup] Has the playbook for building companies changed? [I will not promote]\n[tech] We found a bug in the hyper HTTP library\n[startup] What to expect in one year (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Benchmark Hub",
+        "problem": "Developers and researchers need to compare the performance of various Large Language Models (LLMs) across different tasks and benchmarks. This platform aggregates and visualizes benchmark results, allowing users to make informed decisions about which LLM to use for their projects.",
+        "monetization": "SaaS for premium analytics, custom benchmark creation, and API access for automated testing. Free tier for basic benchmark viewing.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88\n[startup] Share your startup - quarterly post\n[tech] GLM 5.2 beats Claude in our benchmarks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped\n[startup] Give me all your advice - I will not promote\n[tech] Sandia National Labs SA3000 8085 CPU\n[startup] Existential crisis post starting new job after my startup \"I will not promote\"\n[tech] NUMA: Cores, memory, and the distance between them\n[startup] Am i doing this the right way? How do y’all design the front end? I will not promote\n[tech] Dissecting Apple's Sparse Image Format (ASIF)\n[startup] Marketplace startup questions [I will not promote]\n[tech] Age verification is just a precursor to automated attribution of speech\n[startup] Has the playbook for building companies changed? [I will not promote]\n[tech] We found a bug in the hyper HTTP library\n[startup] What to expect in one year (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Job Board Aggregator",
+        "problem": "Individuals looking for local job opportunities often have to sift through multiple platforms. This app consolidates job listings from various local sources, including company career pages and niche local boards, providing a centralized view for users.",
+        "monetization": "Freemium model with premium features like early job alerts, salary insights, and application tracking for a monthly subscription.",
+        "theme": "Job Search",
+        "trends_context": "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88\n[startup] Share your startup - quarterly post\n[tech] GLM 5.2 beats Claude in our benchmarks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped\n[startup] Give me all your advice - I will not promote\n[tech] Sandia National Labs SA3000 8085 CPU\n[startup] Existential crisis post starting new job after my startup \"I will not promote\"\n[tech] NUMA: Cores, memory, and the distance between them\n[startup] Am i doing this the right way? How do y’all design the front end? I will not promote\n[tech] Dissecting Apple's Sparse Image Format (ASIF)\n[startup] Marketplace startup questions [I will not promote]\n[tech] Age verification is just a precursor to automated attribution of speech\n[startup] Has the playbook for building companies changed? [I will not promote]\n[tech] We found a bug in the hyper HTTP library\n[startup] What to expect in one year (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Age Verification Gateway",
+        "problem": "Businesses requiring age verification for content or services face regulatory challenges and user privacy concerns. This app provides a secure and privacy-preserving method for users to verify their age once, which can then be attested to by businesses, minimizing data sharing.",
+        "monetization": "SaaS for businesses on a per-verification or subscription basis, with a small one-time fee for users to create and manage their verified profile.",
+        "theme": "Digital Identity",
+        "trends_context": "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88\n[startup] Share your startup - quarterly post\n[tech] GLM 5.2 beats Claude in our benchmarks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped\n[startup] Give me all your advice - I will not promote\n[tech] Sandia National Labs SA3000 8085 CPU\n[startup] Existential crisis post starting new job after my startup \"I will not promote\"\n[tech] NUMA: Cores, memory, and the distance between them\n[startup] Am i doing this the right way? How do y’all design the front end? I will not promote\n[tech] Dissecting Apple's Sparse Image Format (ASIF)\n[startup] Marketplace startup questions [I will not promote]\n[tech] Age verification is just a precursor to automated attribution of speech\n[startup] Has the playbook for building companies changed? [I will not promote]\n[tech] We found a bug in the hyper HTTP library\n[startup] What to expect in one year (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Frontend Design Patterns",
+        "problem": "New and experienced frontend developers alike seek best practices and inspiration for designing user interfaces efficiently. This app offers a curated library of common frontend design patterns, code examples, and best practices, with explanations and use cases.",
+        "monetization": "Freemium model where core patterns are free, with premium access to advanced patterns, interactive demos, and expert tutorials for a subscription.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88\n[startup] Share your startup - quarterly post\n[tech] GLM 5.2 beats Claude in our benchmarks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped\n[startup] Give me all your advice - I will not promote\n[tech] Sandia National Labs SA3000 8085 CPU\n[startup] Existential crisis post starting new job after my startup \"I will not promote\"\n[tech] NUMA: Cores, memory, and the distance between them\n[startup] Am i doing this the right way? How do y’all design the front end? I will not promote\n[tech] Dissecting Apple's Sparse Image Format (ASIF)\n[startup] Marketplace startup questions [I will not promote]\n[tech] Age verification is just a precursor to automated attribution of speech\n[startup] Has the playbook for building companies changed? [I will not promote]\n[tech] We found a bug in the hyper HTTP library\n[startup] What to expect in one year (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
