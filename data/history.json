@@ -5112,5 +5112,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-06-30",
+    "generated_at": "2026-06-30T10:24:07+00:00",
+    "trends": [
+      "[tech] Open Source Low Tech",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Qwen 3.6 27B is the sweet spot for local development",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] .self: A new top-level domain designed to support self-hosting",
+      "[startup] Watch out for crap co-founders - i will not promote",
+      "[tech] Free the Icons",
+      "[startup] startup failed, looking for job (i will not promote)",
+      "[tech] The operating cost starts after the demo",
+      "[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote",
+      "[tech] Building a custom octocopter from scratch with no prior hardware experience",
+      "[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote",
+      "[tech] Antares Achieves Criticality of Mark-0 Reactor",
+      "[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote",
+      "[tech] Memory Safe Context Switching",
+      "[startup] Reviving old projects (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "DIY Hardware Hub",
+        "problem": "Entusiastas de hardware que constroem projetos como octocopters ou reatores precisam de um local centralizado para encontrar diagramas, tutoriais e peças. Resolve a fragmentação de informações e a dificuldade de encontrar componentes específicos.",
+        "monetization": "Marketplace com comissão sobre vendas de peças e acesso premium a tutoriais avançados. Modelo Freemium para conteúdo básico.",
+        "theme": "Indie Hardware",
+        "trends_context": "[tech] Open Source Low Tech\n[startup] Share your startup - quarterly post\n[tech] Qwen 3.6 27B is the sweet spot for local development\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] .self: A new top-level domain designed to support self-hosting\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Free the Icons\n[startup] startup failed, looking for job (i will not promote)\n[tech] The operating cost starts after the demo\n[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote\n[tech] Building a custom octocopter from scratch with no prior hardware experience\n[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote\n[tech] Antares Achieves Criticality of Mark-0 Reactor\n[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote\n[tech] Memory Safe Context Switching\n[startup] Reviving old projects (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Self-Host Hub",
+        "problem": "Utilizadores interessados em auto-hospedagem, mas sem experiência técnica profunda, precisam de uma plataforma que simplifique a configuração e gestão de serviços usando domínios como .self. Ajuda a reduzir a curva de aprendizado e a complexidade.",
+        "monetization": "SaaS para gestão simplificada de serviços auto-hospedados, com planos escalonados por número de serviços e tráfego. Possível integração com provedores de domínio.",
+        "theme": "Tech Consumer",
+        "trends_context": "[tech] Open Source Low Tech\n[startup] Share your startup - quarterly post\n[tech] Qwen 3.6 27B is the sweet spot for local development\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] .self: A new top-level domain designed to support self-hosting\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Free the Icons\n[startup] startup failed, looking for job (i will not promote)\n[tech] The operating cost starts after the demo\n[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote\n[tech] Building a custom octocopter from scratch with no prior hardware experience\n[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote\n[tech] Antares Achieves Criticality of Mark-0 Reactor\n[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote\n[tech] Memory Safe Context Switching\n[startup] Reviving old projects (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Icon Library Pro",
+        "problem": "Designers e desenvolvedores precisam de acesso fácil e legal a uma vasta coleção de ícones de alta qualidade para seus projetos. 'Free the Icons' sugere a demanda por mais recursos. Este app oferece uma curadoria profissional e opções de licenciamento flexíveis.",
+        "monetization": "Assinatura mensal/anual para acesso ilimitado a ícones premium e recursos de edição. Modelo Freemium com um conjunto limitado de ícones gratuitos.",
+        "theme": "Creator Tools",
+        "trends_context": "[tech] Open Source Low Tech\n[startup] Share your startup - quarterly post\n[tech] Qwen 3.6 27B is the sweet spot for local development\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] .self: A new top-level domain designed to support self-hosting\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Free the Icons\n[startup] startup failed, looking for job (i will not promote)\n[tech] The operating cost starts after the demo\n[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote\n[tech] Building a custom octocopter from scratch with no prior hardware experience\n[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote\n[tech] Antares Achieves Criticality of Mark-0 Reactor\n[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote\n[tech] Memory Safe Context Switching\n[startup] Reviving old projects (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business Growth",
+        "problem": "Pequenos negócios, especialmente em nichos como beleza/cosméticos, precisam de ferramentas acessíveis para pesquisa de mercado e aquisição de clientes. A menção a 'Reddit to get 1.7M+ views' aponta para o potencial de plataformas de marketing de baixo custo.",
+        "monetization": "Plataforma de análise de mercado com dados agregados e ferramentas de marketing digital customizáveis para pequenos negócios. Modelo SaaS B2B com planos baseados em funcionalidades e tamanho do negócio.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Open Source Low Tech\n[startup] Share your startup - quarterly post\n[tech] Qwen 3.6 27B is the sweet spot for local development\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] .self: A new top-level domain designed to support self-hosting\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Free the Icons\n[startup] startup failed, looking for job (i will not promote)\n[tech] The operating cost starts after the demo\n[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote\n[tech] Building a custom octocopter from scratch with no prior hardware experience\n[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote\n[tech] Antares Achieves Criticality of Mark-0 Reactor\n[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote\n[tech] Memory Safe Context Switching\n[startup] Reviving old projects (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Memory Manager Lite",
+        "problem": "Utilizadores que trabalham com múltiplos aplicativos e projetos, especialmente em desenvolvimento local com modelos como Qwen 3.6 27B, precisam de uma forma mais eficiente de gerir e alternar entre contextos de memória. Resolve a lentidão e a confusão de 'context switching'.",
+        "monetization": "Freemium com funcionalidades básicas de organização de tarefas e janelas. Assinatura paga para recursos avançados de gestão de memória, sincronização entre dispositivos e integração com IDEs.",
+        "theme": "Productivity",
+        "trends_context": "[tech] Open Source Low Tech\n[startup] Share your startup - quarterly post\n[tech] Qwen 3.6 27B is the sweet spot for local development\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] .self: A new top-level domain designed to support self-hosting\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Free the Icons\n[startup] startup failed, looking for job (i will not promote)\n[tech] The operating cost starts after the demo\n[startup] How I used Reddit to get 1.7M+ views and thousands of users for my software project. These are my biggest learnings. I will not promote\n[tech] Building a custom octocopter from scratch with no prior hardware experience\n[startup] What are the best data platforms for startup market research (especially beauty/cosmetics)? I will not promote\n[tech] Antares Achieves Criticality of Mark-0 Reactor\n[startup] 4 years of Software Engineering, Failed Startup and at Career Crossroads: How Should I Choose What to Build Next? i will not promote\n[tech] Memory Safe Context Switching\n[startup] Reviving old projects (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
