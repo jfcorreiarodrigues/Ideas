@@ -5176,5 +5176,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-01",
+    "generated_at": "2026-07-01T10:36:49+00:00",
+    "trends": [
+      "[tech] Asahi Linux 7.1 Progress Report",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Claude Code is steganographically marking requests",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Newly discovered spider builds spring loaded snare to catch ants",
+      "[startup] talking to users is way more fun than I expected. i will not promote",
+      "[tech] Claude Sonnet 5",
+      "[startup] Founders Institute, i will not promote",
+      "[tech] Godot will no longer accept AI-authored code contributions",
+      "[startup] How to grow a startup beyond $2M ARR? i will not promote",
+      "[tech] ArXiv's Next Chapter",
+      "[startup] Watch out for crap co-founders - i will not promote",
+      "[tech] Google copybara: moving code between repositories",
+      "[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote",
+      "[tech] I Don't Maintain My Homelab",
+      "[startup] How did you sell to US legacy industries without being in the US? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Ant Trap Observer",
+        "problem": "Entusiastas de natureza e pais com curiosidade científica desejam observar comportamentos animais únicos, como o mecanismo de caça de aranhas, sem intervenção direta. Para pais, é uma forma educativa e segura de introduzir a biologia.",
+        "monetization": "Freemium com IAP para recursos avançados de análise de vídeo e notificações (ex: 'Armadilha acionada!').",
+        "theme": "Consumer Nature Tech",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Code Contribution Manager",
+        "problem": "Projetos open-source em tech, como Godot, enfrentam o desafio de gerir a qualidade e a origem de contribuições de código, especialmente com o aumento de contribuições geradas por IA. Desenvolvedores precisam de uma forma eficiente de auditar e gerenciar o histórico.",
+        "monetization": "SaaS B2B para organizações de software 50USD/mês por projeto ativo.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Legacy Industry Sales",
+        "problem": "Fundadores de startups que buscam expandir para mercados tradicionais nos EUA, mas não estão fisicamente presentes, enfrentam barreiras culturais e de confiança. Precisam de um guia prático para navegar essas vendas complexas.",
+        "monetization": "Curso online pago com módulos específicos e acesso a um fórum comunitário exclusivo. Preço: 199USD.",
+        "theme": "Small Business Strategy",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Co-founder Compatibility Check",
+        "problem": "Fundadores de startups frequentemente enfrentam conflitos e ineficiências devido a má compatibilidade de personalidade, valores ou ética de trabalho com seus co-fundadores. Precisam de uma ferramenta para avaliar e melhorar a dinâmica da equipe.",
+        "monetization": "Assinatura Freemium com relatórios básicos gratuitos e relatórios detalhados (com análises comportamentais e recomendações) por 19.99USD/mês.",
+        "theme": "Startup Founder Match",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Homelab Resource Planner",
+        "problem": "Entusiastas de homelab que não mantêm ativamente seus sistemas, mas ainda desejam otimizar o uso de recursos (espaço, energia, custos) para projetos pessoais. Precisam de um sistema para rastrear hardware, custos e uso sem a complexidade de uma gestão constante.",
+        "monetization": "Freemium com limitações de dispositivos rastreados. Premium por 5.99USD/mês para dispositivos ilimitados e relatórios de economia.",
+        "theme": "Consumer Tech Productivity",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI-Authored Code Guardian",
+        "problem": "Comunidades de desenvolvimento de software como a do Godot precisam de uma ferramenta para identificar e gerenciar de forma proativa o código gerado por IA em contribuições, garantindo a integridade e a originalidade do projeto. Desenvolvedores e mantenedores necessitam de um filtro.",
+        "monetization": "SaaS B2B para plataformas de código aberto e empresas de desenvolvimento, com preços escalonados baseados no volume de análise (a partir de 100 USD/mês).",
+        "theme": "Developer Tools Guardian",
+        "trends_context": "[tech] Asahi Linux 7.1 Progress Report\n[startup] Share your startup - quarterly post\n[tech] Claude Code is steganographically marking requests\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Newly discovered spider builds spring loaded snare to catch ants\n[startup] talking to users is way more fun than I expected. i will not promote\n[tech] Claude Sonnet 5\n[startup] Founders Institute, i will not promote\n[tech] Godot will no longer accept AI-authored code contributions\n[startup] How to grow a startup beyond $2M ARR? i will not promote\n[tech] ArXiv's Next Chapter\n[startup] Watch out for crap co-founders - i will not promote\n[tech] Google copybara: moving code between repositories\n[startup] The problems I want to solve with my startup don’t have much competitors (only 1 technically), does that invalidate it? I will not promote\n[tech] I Don't Maintain My Homelab\n[startup] How did you sell to US legacy industries without being in the US? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
