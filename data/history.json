@@ -5464,5 +5464,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-05",
+    "generated_at": "2026-07-05T09:33:15+00:00",
+    "trends": [
+      "[tech] Shadcn/UI now defaults to Base UI instead of Radix",
+      "[startup] Share your startup - quarterly post",
+      "[tech] If you're a button, you have one job",
+      "[startup] Feedback Friday",
+      "[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "[startup] I will not promote, but how do you get marketing off the ground?",
+      "[tech] Apocketlypse",
+      "[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”",
+      "[tech] Pandoc Lua Filters",
+      "[startup] Does this make sense for my value proposition? I will not promote",
+      "[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?",
+      "[tech] Web-based cryptography is always snake oil",
+      "[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote",
+      "[tech] Programmers need to start meditating now",
+      "[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]"
+    ],
+    "ideas": [
+      {
+        "name": "Contract Clarity Bot",
+        "problem": "Pequenos negócios e freelancers frequentemente enfrentam contratos complexos e demorados para aprovação, gerando custos e atrasos. Este app ajuda a analisar e sinalizar pontos críticos em contratos de clientes.",
+        "monetization": "SaaS B2B (assinatura mensal de $19 por negócio, com plano freemium limitado)",
+        "theme": "Small Business Legal",
+        "trends_context": "[tech] Shadcn/UI now defaults to Base UI instead of Radix\n[startup] Share your startup - quarterly post\n[tech] If you're a button, you have one job\n[startup] Feedback Friday\n[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable\n[startup] I will not promote, but how do you get marketing off the ground?\n[tech] Apocketlypse\n[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”\n[tech] Pandoc Lua Filters\n[startup] Does this make sense for my value proposition? I will not promote\n[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance\n[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?\n[tech] Web-based cryptography is always snake oil\n[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote\n[tech] Programmers need to start meditating now\n[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Daily Habit Tracker",
+        "problem": "Consumidores buscam formas de manter hábitos saudáveis e de produtividade, mas plataformas existentes são genéricas e pouco engajadoras para manter a consistência a longo prazo.",
+        "monetization": "Freemium com assinatura premium para recursos avançados (ex: relatórios detalhados, metas personalizadas) a $3.99/mês",
+        "theme": "Consumer Health",
+        "trends_context": "[tech] Shadcn/UI now defaults to Base UI instead of Radix\n[startup] Share your startup - quarterly post\n[tech] If you're a button, you have one job\n[startup] Feedback Friday\n[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable\n[startup] I will not promote, but how do you get marketing off the ground?\n[tech] Apocketlypse\n[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”\n[tech] Pandoc Lua Filters\n[startup] Does this make sense for my value proposition? I will not promote\n[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance\n[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?\n[tech] Web-based cryptography is always snake oil\n[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote\n[tech] Programmers need to start meditating now\n[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Marketing Launchpad",
+        "problem": "Novas startups e empreendedores individuais lutam para entender e executar estratégias de marketing eficazes com orçamentos limitados, sem perder tempo em táticas ineficientes.",
+        "monetization": "Assinatura mensal para acesso a guias, templates e comunidade ($29/mês) ou um pagamento único por curso específico ($99)",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Shadcn/UI now defaults to Base UI instead of Radix\n[startup] Share your startup - quarterly post\n[tech] If you're a button, you have one job\n[startup] Feedback Friday\n[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable\n[startup] I will not promote, but how do you get marketing off the ground?\n[tech] Apocketlypse\n[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”\n[tech] Pandoc Lua Filters\n[startup] Does this make sense for my value proposition? I will not promote\n[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance\n[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?\n[tech] Web-based cryptography is always snake oil\n[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote\n[tech] Programmers need to start meditating now\n[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Fable Port Helper",
+        "problem": "Desenvolvedores indie e entusiastas com jogos mais antigos em plataformas específicas desejam portar seus jogos para sistemas modernos como macOS e iOS, mas o processo pode ser complexo e exigir conhecimento técnico especializado.",
+        "monetization": "SaaS B2B para desenvolvedores, com planos baseados em projetos e tempo de compilação ($49/projeto ou $99/mês para uso ilimitado)",
+        "theme": "Indie Dev Tools",
+        "trends_context": "[tech] Shadcn/UI now defaults to Base UI instead of Radix\n[startup] Share your startup - quarterly post\n[tech] If you're a button, you have one job\n[startup] Feedback Friday\n[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable\n[startup] I will not promote, but how do you get marketing off the ground?\n[tech] Apocketlypse\n[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”\n[tech] Pandoc Lua Filters\n[startup] Does this make sense for my value proposition? I will not promote\n[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance\n[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?\n[tech] Web-based cryptography is always snake oil\n[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote\n[tech] Programmers need to start meditating now\n[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Community Hub",
+        "problem": "Pessoas com interesses muito específicos (ex: colecionadores de algo raro, praticantes de um hobby obscuro) lutam para encontrar comunidades online ativas e focadas onde possam trocar informações e experiências.",
+        "monetization": "Assinatura para acesso a fóruns premium e recursos exclusivos ($5/mês) ou modelo freemium com anúncios discretos",
+        "theme": "Niche Forums",
+        "trends_context": "[tech] Shadcn/UI now defaults to Base UI instead of Radix\n[startup] Share your startup - quarterly post\n[tech] If you're a button, you have one job\n[startup] Feedback Friday\n[tech] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable\n[startup] I will not promote, but how do you get marketing off the ground?\n[tech] Apocketlypse\n[startup] Has Airbnb’s moat fundamentally changed? “I will not promote”\n[tech] Pandoc Lua Filters\n[startup] Does this make sense for my value proposition? I will not promote\n[tech] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance\n[startup] I will not promote: Why do I want to co-found with a friend instead of doing it alone?\n[tech] Web-based cryptography is always snake oil\n[startup] How much traction do you expect after 6 months to score pre-seed funding?- i will not promote I will not promote\n[tech] Programmers need to start meditating now\n[startup] Making a customer wait over a month for a revised contract: normal or poor execution? [I will not promote]",
+        "created_at": ""
+      }
+    ]
   }
 ]
