@@ -5528,5 +5528,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "generated_at": "2026-07-06T11:21:24+00:00",
+    "trends": [
+      "[tech] Real-time map of Great Britain's rail network",
+      "[startup] Share your startup - quarterly post",
+      "[tech] GPT-5.6 Sol Ultra will be in Codex",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Has_not_been_viewed_much",
+      "[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.",
+      "[tech] Organic Maps",
+      "[startup] Got an offer from a VC, is it bad? (I will not promote)",
+      "[tech] Introduction to Genomics for Engineers",
+      "[startup] Should I use ads? (I will not promote)",
+      "[tech] Building relationships with customers through support didn't turn out as hoped",
+      "[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.",
+      "[tech] It's not about physical vs. digital games, it's about ownership",
+      "[startup] Why domain knowledge matters more than founder mindset (I will not promote)",
+      "[tech] OpenPrinter",
+      "[startup] i will not promote - First time founders stuck (Nz)"
+    ],
+    "ideas": [
+      {
+        "name": "Relatório Ferroviário Tempo Real",
+        "problem": "Viajantes e profissionais que dependem da rede ferroviária britânica precisam de informações precisas sobre atrasos, cancelamentos e horários em tempo real para planejar suas viagens de forma eficiente. Este aplicativo oferece um mapa interativo com atualizações instantâneas.",
+        "monetization": "Freemium com recursos avançados de notificação e roteamento por assinatura mensal (5.99 USD/mês).",
+        "theme": "Utilidades de Viagem",
+        "trends_context": "[tech] Real-time map of Great Britain's rail network\n[startup] Share your startup - quarterly post\n[tech] GPT-5.6 Sol Ultra will be in Codex\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Has_not_been_viewed_much\n[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.\n[tech] Organic Maps\n[startup] Got an offer from a VC, is it bad? (I will not promote)\n[tech] Introduction to Genomics for Engineers\n[startup] Should I use ads? (I will not promote)\n[tech] Building relationships with customers through support didn't turn out as hoped\n[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.\n[tech] It's not about physical vs. digital games, it's about ownership\n[startup] Why domain knowledge matters more than founder mindset (I will not promote)\n[tech] OpenPrinter\n[startup] i will not promote - First time founders stuck (Nz)",
+        "created_at": ""
+      },
+      {
+        "name": "Organizador de Conhecimento",
+        "problem": "Estudantes e engenheiros que lidam com temas complexos como Genômica ou novas tecnologias precisam de uma forma organizada de acessar, resumir e interligar informações. Este app ajuda a criar bases de conhecimento personalizadas a partir de artigos e materiais.",
+        "monetization": "SaaS com diferentes níveis de armazenamento e recursos de colaboração (planos a partir de 9.99 USD/mês).",
+        "theme": "Produtividade Pessoal",
+        "trends_context": "[tech] Real-time map of Great Britain's rail network\n[startup] Share your startup - quarterly post\n[tech] GPT-5.6 Sol Ultra will be in Codex\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Has_not_been_viewed_much\n[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.\n[tech] Organic Maps\n[startup] Got an offer from a VC, is it bad? (I will not promote)\n[tech] Introduction to Genomics for Engineers\n[startup] Should I use ads? (I will not promote)\n[tech] Building relationships with customers through support didn't turn out as hoped\n[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.\n[tech] It's not about physical vs. digital games, it's about ownership\n[startup] Why domain knowledge matters more than founder mindset (I will not promote)\n[tech] OpenPrinter\n[startup] i will not promote - First time founders stuck (Nz)",
+        "created_at": ""
+      },
+      {
+        "name": "Mercado de Serviços de Impressão",
+        "problem": "Pequenos negócios e criadores independentes precisam de acesso fácil a serviços de impressão local de alta qualidade, mas muitas vezes não sabem onde encontrar os fornecedores certos ou comparar preços. Este marketplace conecta usuários a gráficas locais.",
+        "monetization": "Marketplace com uma taxa de 7% sobre cada transação concluída.",
+        "theme": "Impressão Local",
+        "trends_context": "[tech] Real-time map of Great Britain's rail network\n[startup] Share your startup - quarterly post\n[tech] GPT-5.6 Sol Ultra will be in Codex\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Has_not_been_viewed_much\n[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.\n[tech] Organic Maps\n[startup] Got an offer from a VC, is it bad? (I will not promote)\n[tech] Introduction to Genomics for Engineers\n[startup] Should I use ads? (I will not promote)\n[tech] Building relationships with customers through support didn't turn out as hoped\n[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.\n[tech] It's not about physical vs. digital games, it's about ownership\n[startup] Why domain knowledge matters more than founder mindset (I will not promote)\n[tech] OpenPrinter\n[startup] i will not promote - First time founders stuck (Nz)",
+        "created_at": ""
+      },
+      {
+        "name": "Comunidade de Jogos Digitais",
+        "problem": "Jogadores que estão explorando a transição de jogos físicos para digitais ou que se interessam pela posse e longevidade de jogos digitais procuram discussões e insights sobre o tema. Este app oferece um fórum focado nesta discussão.",
+        "monetization": "Freemium com recursos de acesso antecipado a discussões e fóruns exclusivos por assinatura (2.99 USD/mês).",
+        "theme": "Comunidade Gamer",
+        "trends_context": "[tech] Real-time map of Great Britain's rail network\n[startup] Share your startup - quarterly post\n[tech] GPT-5.6 Sol Ultra will be in Codex\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Has_not_been_viewed_much\n[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.\n[tech] Organic Maps\n[startup] Got an offer from a VC, is it bad? (I will not promote)\n[tech] Introduction to Genomics for Engineers\n[startup] Should I use ads? (I will not promote)\n[tech] Building relationships with customers through support didn't turn out as hoped\n[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.\n[tech] It's not about physical vs. digital games, it's about ownership\n[startup] Why domain knowledge matters more than founder mindset (I will not promote)\n[tech] OpenPrinter\n[startup] i will not promote - First time founders stuck (Nz)",
+        "created_at": ""
+      },
+      {
+        "name": "Analista de Ofertas VC",
+        "problem": "Fundadores de startups em estágio inicial que recebem ofertas de VCs enfrentam incertezas sobre os termos, a diluição e as implicações a longo prazo. Este aplicativo oferece análise e comparações de ofertas, além de um guia sobre termos comuns.",
+        "monetization": "Pagamento único por análise de oferta (49.99 USD) ou assinatura para acesso a guias e modelos (19.99 USD/mês).",
+        "theme": "Startup Financiamento",
+        "trends_context": "[tech] Real-time map of Great Britain's rail network\n[startup] Share your startup - quarterly post\n[tech] GPT-5.6 Sol Ultra will be in Codex\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Has_not_been_viewed_much\n[startup] Why suddenly all social apps are bringing games into their platform? I will not promote.\n[tech] Organic Maps\n[startup] Got an offer from a VC, is it bad? (I will not promote)\n[tech] Introduction to Genomics for Engineers\n[startup] Should I use ads? (I will not promote)\n[tech] Building relationships with customers through support didn't turn out as hoped\n[startup] Equity for 5-10th employee (I will not promote)? Seed-stage startup.\n[tech] It's not about physical vs. digital games, it's about ownership\n[startup] Why domain knowledge matters more than founder mindset (I will not promote)\n[tech] OpenPrinter\n[startup] i will not promote - First time founders stuck (Nz)",
+        "created_at": ""
+      }
+    ]
   }
 ]
