@@ -5664,5 +5664,68 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "generated_at": "2026-07-08T09:19:23+00:00",
+    "trends": [
+      "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "[startup] Share your startup - quarterly post",
+      "[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote",
+      "[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote",
+      "[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)",
+      "[tech] Chat Control 1.0 and 2.0 Explained",
+      "[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote",
+      "[tech] Canada's only watchmaking school still ticking after 80 years",
+      "[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "NAS Config Guide",
+        "problem": "Usuários que desejam montar seus próprios sistemas NAS (Network Attached Storage) enfrentam complexidade na configuração. Este app oferece guias passo a passo para diferentes hardwares e softwares.",
+        "monetization": "Freemium com guias avançados e suporte premium por assinatura (5-10 USD/mês).",
+        "theme": "DIY Tech",
+        "trends_context": "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos\n[startup] Share your startup - quarterly post\n[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor\n[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote\n[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks\n[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote\n[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)\n[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup\n[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)\n[tech] Chat Control 1.0 and 2.0 Explained\n[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote\n[tech] Canada's only watchmaking school still ticking after 80 years\n[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Investor Scam Alert",
+        "problem": "Fundadores de startups, especialmente em estágio inicial, são alvos frequentes de e-mails fraudulentos de investidores. A plataforma ajuda a identificar e relatar esses golpes, construindo uma base de conhecimento coletiva.",
+        "monetization": "Gratuito para relatar, com acesso a relatórios detalhados e listas de 'endereços' de golpistas por uma taxa única (29 USD) ou assinatura (5 USD/mês).",
+        "theme": "Startup Security",
+        "trends_context": "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos\n[startup] Share your startup - quarterly post\n[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor\n[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote\n[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks\n[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote\n[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)\n[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup\n[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)\n[tech] Chat Control 1.0 and 2.0 Explained\n[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote\n[tech] Canada's only watchmaking school still ticking after 80 years\n[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Digital Legacy Vault",
+        "problem": "Pessoas desejam garantir que seus bens digitais e informações importantes sejam acessados ou gerenciados após sua morte. O app permite a criação segura de um 'cofre digital' com instruções e permissões.",
+        "monetization": "Assinatura anual para armazenamento seguro e acesso (29 USD/ano).",
+        "theme": "Consumer Security",
+        "trends_context": "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos\n[startup] Share your startup - quarterly post\n[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor\n[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote\n[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks\n[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote\n[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)\n[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup\n[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)\n[tech] Chat Control 1.0 and 2.0 Explained\n[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote\n[tech] Canada's only watchmaking school still ticking after 80 years\n[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Retro Game Preservation",
+        "problem": "Amantes de jogos antigos lutam para encontrar e preservar jogos de plataformas obsoletas. A plataforma conecta entusiastas, oferece guias de preservação e facilita a descoberta de emuladores e arquivos.",
+        "monetization": "Gratuito, com doações para manter os servidores e um programa de afiliados para venda de equipamentos de preservação.",
+        "theme": "Indie Preservation",
+        "trends_context": "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos\n[startup] Share your startup - quarterly post\n[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor\n[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote\n[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks\n[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote\n[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)\n[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup\n[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)\n[tech] Chat Control 1.0 and 2.0 Explained\n[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote\n[tech] Canada's only watchmaking school still ticking after 80 years\n[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Analysis",
+        "problem": "Desenvolvedores precisam garantir a segurança e a qualidade de seus códigos, mas a análise manual pode ser tediosa e propensa a erros. A ferramenta usa IA para identificar vulnerabilidades, otimizar performance e sugerir refatorações.",
+        "monetization": "SaaS B2B com diferentes níveis de planos baseados em uso e recursos (a partir de 99 USD/mês).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos\n[startup] Share your startup - quarterly post\n[tech] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Tenda firmware (multiple versions) contains hidden authentication backdoor\n[startup] I raised $1m for a pre-seed and I feel super scared and like a imposter - I will not promote\n[tech] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks\n[startup] Has anyone ever regretted leaving corporate for a startup? Either as a founder/cofounder, or an early employee? I will not promote\n[tech] Structure and Interpretation of Computer Programs Video Lectures (1986)\n[tech] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup\n[startup] How Airbnb leveraged Craigslist in the early days to solve their cold start problem (it's a genius move and i will not promote btw)\n[tech] Chat Control 1.0 and 2.0 Explained\n[startup] Investors: at what point does a hardware startup become de-risked &investable for you? I will not promote\n[tech] Canada's only watchmaking school still ticking after 80 years\n[startup] PSA: I'm getting A LOT of scam emails from \"investors\" and \"M&A opportunities\", watch out people! (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
