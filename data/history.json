@@ -5727,5 +5727,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "generated_at": "2026-07-09T10:17:54+00:00",
+    "trends": [
+      "[tech] John Deere owners will get the right to repair equipment under FTC settlement",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Spider venom kills varroa mites without harming honeybees",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate",
+      "[tech] Meta reuses old RAM in new servers with custom bridge chip",
+      "[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
+      "[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "[startup] Toronto founders, typical networking events are just so dull. I will not promote",
+      "[tech] I Built the Only 2026 WWII Jeep",
+      "[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote",
+      "[tech] Cloudflare Drop",
+      "[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?",
+      "[tech] Benchmarking coding agents on Databricks' multi-million line codebase",
+      "[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Farm Hive Monitor",
+        "problem": "Apicultores enfrentam perdas significativas devido a ácaros Varroa. Este app fornece monitoramento remoto da saúde da colmeia, alertando para infestações.",
+        "monetization": "SaaS B2B 15 USD/mês por colmeia.",
+        "theme": "Niche Agriculture",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Repair Rights Hub",
+        "problem": "Consumidores muitas vezes não sabem seus direitos de reparo de equipamentos. O app compila leis locais e nacionais, conectando usuários a centros de reparo autorizados.",
+        "monetization": "Freemium com acesso a informações básicas; $4.99/mês para base de dados completa e dicas de negociação com empresas.",
+        "theme": "Consumer Advocacy",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Codeberg Sync",
+        "problem": "Desenvolvedores buscando alternativas ao GitHub enfrentam desafios na sincronização e colaboração entre diferentes plataformas auto-hospedadas e FOSS. Este app centraliza e automatiza o processo.",
+        "monetization": "SaaS B2B 10 USD/mês por desenvolvedor.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Seed Stage Advisor",
+        "problem": "Fundadores de startups em estágio pré-semente ou semente têm dificuldade em navegar o cenário de investimentos e escolher VCs. O app oferece insights sobre VCs com base em dados e anonimamente, com depoimentos de outros fundadores.",
+        "monetization": "Freemium com acesso a perfis básicos de VCs; $29/mês para análises aprofundadas e conexão com mentores.",
+        "theme": "Startup Fundraising",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Jeep Build Tracker",
+        "problem": "Entusiastas que constroem projetos complexos como réplicas de veículos históricos precisam de um lugar para documentar progresso, compartilhar dicas e encontrar peças. O app permite upload de fotos/vídeos, fóruns específicos e um marketplace de peças.",
+        "monetization": "Freemium com limite de uploads; $5/mês para uploads ilimitados e acesso a fóruns premium.",
+        "theme": "Hobbyist Projects",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Corporate Pilot Pro",
+        "problem": "Pequenas empresas e startups que pilotam produtos em instituições de elite precisam maximizar a oportunidade. O app oferece checklists, modelos de feedback, e dicas para garantir um piloto bem-sucedido e gerar leads corporativos.",
+        "monetization": "SaaS B2B 49 USD/mês por projeto piloto.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] John Deere owners will get the right to repair equipment under FTC settlement\n[startup] Share your startup - quarterly post\n[tech] Spider venom kills varroa mites without harming honeybees\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why developers are ditching GitHub for Codeberg and self-hosting alternatives\n[startup] [I WILL NOT PROMOTE] - Pre-seed startup talking with big corporate\n[tech] Meta reuses old RAM in new servers with custom bridge chip\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI\n[startup] Toronto founders, typical networking events are just so dull. I will not promote\n[tech] I Built the Only 2026 WWII Jeep\n[startup] VC funds/accelerators/other investor sources for early early stage? I will not promote\n[tech] Cloudflare Drop\n[startup] \"i will not promote\" Seed funding for startups: what made you choose one VC firm over another when raising your first round?\n[tech] Benchmarking coding agents on Databricks' multi-million line codebase\n[startup] I have a chance to pilot my product at an elite institution. What is your advice on making the most of this opportunity? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
