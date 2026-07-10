@@ -5799,5 +5799,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "generated_at": "2026-07-10T10:13:34+00:00",
+    "trends": [
+      "[tech] GPT-5.6",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Show HN: Getting GLM 5.2 running on my slow computer",
+      "[startup] Feedback Friday",
+      "[tech] In Emacs, Everything Looks Like a Service",
+      "[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]",
+      "[tech] EU Parliament greenlights Chat Control 1.0",
+      "[startup] Startup + Day to Day Job “i will not promote”",
+      "[tech] Train sim created by just one person is being called the best ever made",
+      "[startup] Documentation trap. I will not promote",
+      "[tech] Show HN: 18 Words",
+      "[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content",
+      "[tech] AI-generated videos to maximally drive a target brain region",
+      "[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote",
+      "[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "[startup] Starting a something while still in college-i will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "AI Content Guard",
+        "problem": "Criadores de conteúdo lutam para garantir que seu trabalho não seja copiado ou usado indevidamente por ferramentas de IA. Plataformas precisam de uma maneira confiável de filtrar e rastrear conteúdo gerado por IA.",
+        "monetization": "SaaS B2B, licenças por volume para plataformas de mídia social e agências de conteúdo.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "College Startup Hub",
+        "problem": "Estudantes universitários com ideias de startups precisam de recursos, mentoria e uma comunidade para começar, muitas vezes enquanto gerenciam seus estudos. Eles buscam validar ideias e encontrar primeiros usuários.",
+        "monetization": "Freemium com acesso a workshops pagos, ferramentas premium e conexões com investidores.",
+        "theme": "Student Entrepreneurship",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Emacs Productivity Suite",
+        "problem": "Usuários avançados de Emacs buscam otimizar seus fluxos de trabalho com extensões e integrações personalizadas, mas encontrar e gerenciar essas ferramentas pode ser complexo.",
+        "monetization": "Venda de pacotes de extensões premium, assinatura para atualizações contínuas e suporte.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Train Sim",
+        "problem": "Entusiastas de simulação de trem buscam experiências mais imersivas e acessíveis, especialmente aquelas que representam ferrovias e rotas locais menos exploradas.",
+        "monetization": "Venda única do jogo (preço premium) com DLCs de conteúdo adicional (novos trens, rotas).",
+        "theme": "Hobbyist Simulation",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "EU Data Privacy",
+        "problem": "Cidadãos da UE estão preocupados com o uso e a legalidade de seus dados online, especialmente após a aprovação de novas regulamentações como o Chat Control 1.0.",
+        "monetization": "Assinatura premium para relatórios detalhados de conformidade de privacidade, alertas de dados e ferramentas de gestão de consentimento.",
+        "theme": "Consumer Rights",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Vendor Contract Clarity",
+        "problem": "Pequenas empresas e freelancers que contratam fornecedores muitas vezes enfrentam armadilhas em contratos, levando a disputas e custos inesperados. Eles precisam de uma ferramenta para analisar e entender os termos.",
+        "monetization": "Freemium com análise básica de contratos, assinatura paga para análise aprofundada, modelos de contrato e acesso a advogados consultores.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] GPT-5.6\n[startup] Share your startup - quarterly post\n[tech] Show HN: Getting GLM 5.2 running on my slow computer\n[startup] Feedback Friday\n[tech] In Emacs, Everything Looks Like a Service\n[startup] Questions I wish clients had asked before hiring the vendor I got paid to replace [I will not promote]\n[tech] EU Parliament greenlights Chat Control 1.0\n[startup] Startup + Day to Day Job “i will not promote”\n[tech] Train sim created by just one person is being called the best ever made\n[startup] Documentation trap. I will not promote\n[tech] Show HN: 18 Words\n[startup] [I will not promote] Building a social media platform that doesn't allow AI-generated content\n[tech] AI-generated videos to maximally drive a target brain region\n[startup] CTO wants to give me funded seed stage equity for pre-seed unpaid work - I will not promote\n[tech] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future\n[startup] Starting a something while still in college-i will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
