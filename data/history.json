@@ -5871,5 +5871,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-11",
+    "generated_at": "2026-07-11T08:41:53+00:00",
+    "trends": [
+      "[tech] Companies are scrambling to curtail soaring AI costs",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "[startup] Feedback Friday",
+      "[tech] QuadRF can spot drones and see WiFi through my wall",
+      "[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.",
+      "[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "[startup] Thinking of how to advertise my niche product/ platform - I will not promote",
+      "[tech] The vintage beauty of Soviet control rooms (2018)",
+      "[startup] Any advice for someone looking to start their first project? I will not promote.",
+      "[tech] An iroh powered smart fan",
+      "[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]",
+      "[tech] An update on residential proxies and the scraper situation",
+      "[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)",
+      "[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope"
+    ],
+    "ideas": [
+      {
+        "name": "AI Cost Optimizer",
+        "problem": "Startups and businesses leveraging AI are struggling with escalating cloud and API costs. This tool helps identify usage patterns and suggest optimizations to reduce expenditure.",
+        "monetization": "SaaS B2B, tiered pricing based on AI resource usage, starting at $99/month.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Product Advertiser",
+        "problem": "Small businesses and indie developers with niche products struggle to find effective advertising channels and messaging. This platform suggests tailored advertising strategies and placement.",
+        "monetization": "Freemium with paid analytics and campaign management features, tiered pricing from $29/month.",
+        "theme": "Small Business Marketing",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      },
+      {
+        "name": "Smart Fan Controller",
+        "problem": "Users want to automate their home environment for comfort and energy saving, but current smart home integrations for simple devices like fans are clunky. This app provides intuitive control and scheduling for smart fans.",
+        "monetization": "Freemium with advanced scheduling and integration options, one-time unlock for $4.99.",
+        "theme": "Consumer IoT",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Job Navigator",
+        "problem": "Recent graduates and job seekers find it difficult to navigate the startup job market, especially in specific locations like London. This app aggregates job listings, provides interview tips, and connects users with hiring managers.",
+        "monetization": "Subscription-based access to premium job listings and career coaching, $19/month.",
+        "theme": "Career Services",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      },
+      {
+        "name": "Demo Conversion Booster",
+        "problem": "Sales teams often struggle with converting demo requests into actual booked calls. This tool provides insights and actionable strategies to improve demo follow-up and conversion rates.",
+        "monetization": "SaaS B2B, per-seat license, $49/month per user.",
+        "theme": "Sales Enablement",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      },
+      {
+        "name": "DIY Project Planner",
+        "problem": "Hobbyists and makers often spend more time planning and distributing their projects than actually building them. This app helps streamline project planning, resource management, and distribution channels for DIY creators.",
+        "monetization": "Freemium with project templates and collaboration features, $7.99/month subscription.",
+        "theme": "Hobbyist Productivity",
+        "trends_context": "[tech] Companies are scrambling to curtail soaring AI costs\n[startup] Share your startup - quarterly post\n[tech] Einstein's relativity rules chemical bonds in heavy elements, new research shows\n[startup] Feedback Friday\n[tech] QuadRF can spot drones and see WiFi through my wall\n[startup] [ I will not promote ] I accidentally spent more time learning distribution than building my product.\n[tech] Apple sues OpenAI, accuses ex-employees of stealing trade secrets\n[startup] Thinking of how to advertise my niche product/ platform - I will not promote\n[tech] The vintage beauty of Soviet control rooms (2018)\n[startup] Any advice for someone looking to start their first project? I will not promote.\n[tech] An iroh powered smart fan\n[startup] The timeline of finding a startup job in London? (from a rather desperate graduate) [I will not promote]\n[tech] An update on residential proxies and the scraper situation\n[startup] We get people saying yes to \"want a demo,\" then almost nobody actually books the call. Here's what we're testing to fix it. (i will not promote)\n[tech] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth\n[startup] i will not promote - Keeping an AI detector honest about uncertainty changed the product scope",
+        "created_at": ""
+      }
+    ]
   }
 ]
