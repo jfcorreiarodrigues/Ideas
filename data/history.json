@@ -6007,5 +6007,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "generated_at": "2026-07-13T10:15:47+00:00",
+    "trends": [
+      "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] The social physics of conversation: Communication patterns matter",
+      "[startup] What is a good way to validate your startup idea? I will not promote",
+      "[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "[startup] When is it time to take a leap of faith as a first time founder? I will not promote",
+      "[tech] Beavis Ultrasound PnP ISA Sound Card Replica",
+      "[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".",
+      "[tech] Cyberpunk Comics, Manga and Graphic Novels",
+      "[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]",
+      "[tech] Tiny Emulators",
+      "[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]",
+      "[tech] The Graph That Should Be Front-Page News",
+      "[startup] Has a16z become the devil incarnate? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Creator Payout Tracker",
+        "problem": "Criadores de conteúdo muitas vezes lutam para rastrear e otimizar pagamentos de diversas plataformas, levando a perdas financeiras. Este app ajuda a consolidar e analisar receitas de todas as fontes.",
+        "monetization": "Freemium com recursos avançados por assinatura mensal (15 USD/mês).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke\n[startup] Share your startup - quarterly post\n[tech] Interrail: 6,379Km and 13 Countries over 7 weeks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The social physics of conversation: Communication patterns matter\n[startup] What is a good way to validate your startup idea? I will not promote\n[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years\n[startup] When is it time to take a leap of faith as a first time founder? I will not promote\n[tech] Beavis Ultrasound PnP ISA Sound Card Replica\n[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".\n[tech] Cyberpunk Comics, Manga and Graphic Novels\n[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]\n[tech] Tiny Emulators\n[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]\n[tech] The Graph That Should Be Front-Page News\n[startup] Has a16z become the devil incarnate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Event Navigator",
+        "problem": "Pessoas em comunidades locais frequentemente perdem eventos interessantes e oportunidades de engajamento por falta de um agregador centralizado e personalizado. O app sugere eventos baseados em interesses e localização.",
+        "monetization": "Marketplace de ingressos com comissão de 5%, e listagem destacada para organizadores de eventos (taxa única).",
+        "theme": "Community Discovery",
+        "trends_context": "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke\n[startup] Share your startup - quarterly post\n[tech] Interrail: 6,379Km and 13 Countries over 7 weeks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The social physics of conversation: Communication patterns matter\n[startup] What is a good way to validate your startup idea? I will not promote\n[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years\n[startup] When is it time to take a leap of faith as a first time founder? I will not promote\n[tech] Beavis Ultrasound PnP ISA Sound Card Replica\n[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".\n[tech] Cyberpunk Comics, Manga and Graphic Novels\n[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]\n[tech] Tiny Emulators\n[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]\n[tech] The Graph That Should Be Front-Page News\n[startup] Has a16z become the devil incarnate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Small Business Audit Bot",
+        "problem": "Pequenos negócios, especialmente aqueles sem equipe financeira dedicada, têm dificuldade em realizar auditorias regulares de custos e conformidade, arriscando multas e ineficiências. Este bot automatiza verificações básicas e sugere otimizações.",
+        "monetization": "SaaS B2B com planos escalonados (a partir de 49 USD/mês) baseados no número de fluxos de trabalho auditados.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke\n[startup] Share your startup - quarterly post\n[tech] Interrail: 6,379Km and 13 Countries over 7 weeks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The social physics of conversation: Communication patterns matter\n[startup] What is a good way to validate your startup idea? I will not promote\n[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years\n[startup] When is it time to take a leap of faith as a first time founder? I will not promote\n[tech] Beavis Ultrasound PnP ISA Sound Card Replica\n[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".\n[tech] Cyberpunk Comics, Manga and Graphic Novels\n[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]\n[tech] Tiny Emulators\n[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]\n[tech] The Graph That Should Be Front-Page News\n[startup] Has a16z become the devil incarnate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Recipe Ingredient Hub",
+        "problem": "Cozinheiros amadores frequentemente enfrentam o problema de não saber quais ingredientes têm em casa ou como combiná-los para criar pratos, levando a desperdício e insatisfação. O app sugere receitas com base nos ingredientes disponíveis.",
+        "monetization": "Freemium com receitas básicas, e assinatura para acesso a receitas premium, planos de refeição e listas de compras inteligentes (4.99 USD/mês).",
+        "theme": "Home Cooking",
+        "trends_context": "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke\n[startup] Share your startup - quarterly post\n[tech] Interrail: 6,379Km and 13 Countries over 7 weeks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The social physics of conversation: Communication patterns matter\n[startup] What is a good way to validate your startup idea? I will not promote\n[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years\n[startup] When is it time to take a leap of faith as a first time founder? I will not promote\n[tech] Beavis Ultrasound PnP ISA Sound Card Replica\n[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".\n[tech] Cyberpunk Comics, Manga and Graphic Novels\n[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]\n[tech] Tiny Emulators\n[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]\n[tech] The Graph That Should Be Front-Page News\n[startup] Has a16z become the devil incarnate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Feature Selector",
+        "problem": "Desenvolvedores que utilizam LLMs muitas vezes precisam de uma forma eficiente para comparar e selecionar as melhores features e modelos para suas aplicações específicas sem mergulhar em documentação extensiva. Este app serve como um comparador e sugeridor de funcionalidades de LLMs.",
+        "monetization": "SaaS B2B para desenvolvedores com acesso a comparações detalhadas e benchmarks (29 USD/mês).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke\n[startup] Share your startup - quarterly post\n[tech] Interrail: 6,379Km and 13 Countries over 7 weeks\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The social physics of conversation: Communication patterns matter\n[startup] What is a good way to validate your startup idea? I will not promote\n[tech] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years\n[startup] When is it time to take a leap of faith as a first time founder? I will not promote\n[tech] Beavis Ultrasound PnP ISA Sound Card Replica\n[startup] [ I will not promote ] Turns out \"working\" isn't the same as \"useful\".\n[tech] Cyberpunk Comics, Manga and Graphic Novels\n[startup] Is it possible to raise vc with a consumer app with some traction? [i will not promote]\n[tech] Tiny Emulators\n[startup] At 30k MRR in B2B energy tech. Seeking growth advice. [I will not promote]\n[tech] The Graph That Should Be Front-Page News\n[startup] Has a16z become the devil incarnate? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
