@@ -6071,5 +6071,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-14",
+    "generated_at": "2026-07-14T08:58:24+00:00",
+    "trends": [
+      "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Alternative(s) to run CUDA on non-Nvidia hardware",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] YouTrackDB is a general-use object-oriented graph database",
+      "[startup] Startup vs Big Tech vs PHD (i will not promote)",
+      "[tech] The git history command",
+      "[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote",
+      "[tech] Australian energy retailers must provide three hours of free daytime electricity",
+      "[startup] does weak knowledge transfer actually slow you down later? i will not promote",
+      "[tech] Fundamentals of Wireless Communication (2005)",
+      "[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote",
+      "[tech] How to build a circular LCD clock",
+      "[startup] Should I quit and focus on something else? - I will not promote",
+      "[tech] Building and shipping Mac and iOS apps without opening Xcode",
+      "[startup] Validated market, but how do we scale? [i will not promote]"
+    ],
+    "ideas": [
+      {
+        "name": "EvCharging Planner",
+        "problem": "EV owners struggle to find convenient and cost-effective charging stations, especially during daytime electricity discounts. This app helps them plan routes and charging stops based on real-time pricing and availability.",
+        "monetization": "Freemium with premium features (e.g., advanced filtering, real-time alerts) at $4.99/month.",
+        "theme": "Consumer EV",
+        "trends_context": "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries\n[startup] Share your startup - quarterly post\n[tech] Alternative(s) to run CUDA on non-Nvidia hardware\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] YouTrackDB is a general-use object-oriented graph database\n[startup] Startup vs Big Tech vs PHD (i will not promote)\n[tech] The git history command\n[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote\n[tech] Australian energy retailers must provide three hours of free daytime electricity\n[startup] does weak knowledge transfer actually slow you down later? i will not promote\n[tech] Fundamentals of Wireless Communication (2005)\n[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote\n[tech] How to build a circular LCD clock\n[startup] Should I quit and focus on something else? - I will not promote\n[tech] Building and shipping Mac and iOS apps without opening Xcode\n[startup] Validated market, but how do we scale? [i will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Circular Clock Designer",
+        "problem": "DIY enthusiasts want to build unique electronic projects like the circular LCD clock but need help sourcing components and understanding complex wiring and code. This app provides a guided building process with interactive diagrams and component lists.",
+        "monetization": "One-time purchase of $9.99 for detailed project guides and component bundles.",
+        "theme": "DIY Hobbyist",
+        "trends_context": "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries\n[startup] Share your startup - quarterly post\n[tech] Alternative(s) to run CUDA on non-Nvidia hardware\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] YouTrackDB is a general-use object-oriented graph database\n[startup] Startup vs Big Tech vs PHD (i will not promote)\n[tech] The git history command\n[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote\n[tech] Australian energy retailers must provide three hours of free daytime electricity\n[startup] does weak knowledge transfer actually slow you down later? i will not promote\n[tech] Fundamentals of Wireless Communication (2005)\n[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote\n[tech] How to build a circular LCD clock\n[startup] Should I quit and focus on something else? - I will not promote\n[tech] Building and shipping Mac and iOS apps without opening Xcode\n[startup] Validated market, but how do we scale? [i will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Nvidia Hardware Runner",
+        "problem": "Developers who don't have access to Nvidia hardware need to run CUDA-accelerated applications. This tool provides a managed cloud environment or emulation layer for running CUDA code on non-Nvidia systems.",
+        "monetization": "Pay-as-you-go cloud compute hours (variable pricing) or a tiered subscription model ($29/month for limited hours).",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries\n[startup] Share your startup - quarterly post\n[tech] Alternative(s) to run CUDA on non-Nvidia hardware\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] YouTrackDB is a general-use object-oriented graph database\n[startup] Startup vs Big Tech vs PHD (i will not promote)\n[tech] The git history command\n[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote\n[tech] Australian energy retailers must provide three hours of free daytime electricity\n[startup] does weak knowledge transfer actually slow you down later? i will not promote\n[tech] Fundamentals of Wireless Communication (2005)\n[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote\n[tech] How to build a circular LCD clock\n[startup] Should I quit and focus on something else? - I will not promote\n[tech] Building and shipping Mac and iOS apps without opening Xcode\n[startup] Validated market, but how do we scale? [i will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Used Battery Recycler",
+        "problem": "Consumers and businesses lack clear options for responsibly recycling used EV batteries and other electronics containing valuable materials like lithium. This app connects users with certified recycling facilities and provides information on material recovery.",
+        "monetization": "Partnership fees from recycling centers and potential data insights for material recovery companies.",
+        "theme": "Sustainability Consumer",
+        "trends_context": "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries\n[startup] Share your startup - quarterly post\n[tech] Alternative(s) to run CUDA on non-Nvidia hardware\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] YouTrackDB is a general-use object-oriented graph database\n[startup] Startup vs Big Tech vs PHD (i will not promote)\n[tech] The git history command\n[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote\n[tech] Australian energy retailers must provide three hours of free daytime electricity\n[startup] does weak knowledge transfer actually slow you down later? i will not promote\n[tech] Fundamentals of Wireless Communication (2005)\n[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote\n[tech] How to build a circular LCD clock\n[startup] Should I quit and focus on something else? - I will not promote\n[tech] Building and shipping Mac and iOS apps without opening Xcode\n[startup] Validated market, but how do we scale? [i will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Gig Worker Tax Helper",
+        "problem": "Freelancers and independent contractors struggle to track income, expenses, and estimate taxes accurately, leading to potential penalties. This app simplifies tax preparation by categorizing transactions, estimating tax liabilities, and providing reports for tax filings.",
+        "monetization": "Subscription-based SaaS model ($14.99/month) with advanced features like direct tax form integration.",
+        "theme": "Freelancer Finance",
+        "trends_context": "[tech] Japan develops a method to recover up to 90% of lithium from used EV batteries\n[startup] Share your startup - quarterly post\n[tech] Alternative(s) to run CUDA on non-Nvidia hardware\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] YouTrackDB is a general-use object-oriented graph database\n[startup] Startup vs Big Tech vs PHD (i will not promote)\n[tech] The git history command\n[startup] Built a tool for my own side hustle (car flipping), trying to figure out if it's a real business or just a personal tool - I will not promote\n[tech] Australian energy retailers must provide three hours of free daytime electricity\n[startup] does weak knowledge transfer actually slow you down later? i will not promote\n[tech] Fundamentals of Wireless Communication (2005)\n[startup] Looking to hire a CTO, Ami going about it the right way? I will not promote\n[tech] How to build a circular LCD clock\n[startup] Should I quit and focus on something else? - I will not promote\n[tech] Building and shipping Mac and iOS apps without opening Xcode\n[startup] Validated market, but how do we scale? [i will not promote]",
+        "created_at": ""
+      }
+    ]
   }
 ]
