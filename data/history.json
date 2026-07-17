@@ -6279,5 +6279,68 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "generated_at": "2026-07-17T09:02:38+00:00",
+    "trends": [
+      "[tech] EEG shows brain can simultaneous encode two speech streams",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Kimi K3: Open Frontier Intelligence",
+      "[startup] Feedback Friday",
+      "[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote",
+      "[tech] Pebble Mega Update – July 2026",
+      "[tech] Microsoft Comic Chat is now open source",
+      "[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)",
+      "[tech] An Engineer's Guide to USB Typе-С (2024)",
+      "[startup] Opinion on cofounders - I will not promote",
+      "[tech] Decoy Font",
+      "[startup] Founder communities: valuable? I will not promote",
+      "[tech] Starlink from 1984",
+      "[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "LegalDoc Reviewer",
+        "problem": "Indivíduos e pequenos negócios frequentemente precisam revisar documentos legais complexos, mas não possuem conhecimento especializado. Uma ferramenta que simplifica a compreensão de cláusulas e termos importantes seria valiosa.",
+        "monetization": "Freemium com limite de documentos; plano pago (SaaS B2C) por $15/mês para revisões ilimitadas e relatórios detalhados.",
+        "theme": "LegalTech Consumer",
+        "trends_context": "[tech] EEG shows brain can simultaneous encode two speech streams\n[startup] Share your startup - quarterly post\n[tech] Kimi K3: Open Frontier Intelligence\n[startup] Feedback Friday\n[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues\n[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote\n[tech] Pebble Mega Update – July 2026\n[tech] Microsoft Comic Chat is now open source\n[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)\n[tech] An Engineer's Guide to USB Typе-С (2024)\n[startup] Opinion on cofounders - I will not promote\n[tech] Decoy Font\n[startup] Founder communities: valuable? I will not promote\n[tech] Starlink from 1984\n[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Pebble Project Tracker",
+        "problem": "Startups em fase inicial, especialmente aquelas focadas em hardware como a Pebble, precisam de uma maneira eficiente de gerenciar o progresso de seus projetos, marcos e atualizações. A ausência de um sistema claro pode levar a atrasos e desalinhamento.",
+        "monetization": "SaaS B2B com diferentes tiers para equipes (a partir de $49/mês), focado em gerenciar atualizações de produtos e comunicação interna.",
+        "theme": "Startup Ops",
+        "trends_context": "[tech] EEG shows brain can simultaneous encode two speech streams\n[startup] Share your startup - quarterly post\n[tech] Kimi K3: Open Frontier Intelligence\n[startup] Feedback Friday\n[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues\n[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote\n[tech] Pebble Mega Update – July 2026\n[tech] Microsoft Comic Chat is now open source\n[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)\n[tech] An Engineer's Guide to USB Typе-С (2024)\n[startup] Opinion on cofounders - I will not promote\n[tech] Decoy Font\n[startup] Founder communities: valuable? I will not promote\n[tech] Starlink from 1984\n[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "BrainWave Audio Mixer",
+        "problem": "Produtores musicais e criadores de conteúdo de áudio buscam inovar. Com o avanço em EEG, uma ferramenta que permite traduzir e mixar padrões neurais em sinais de áudio seria um diferencial criativo para composições únicas.",
+        "monetization": "Freemium com funcionalidades básicas; licença para uso comercial de $199/ano.",
+        "theme": "AI Audio Production",
+        "trends_context": "[tech] EEG shows brain can simultaneous encode two speech streams\n[startup] Share your startup - quarterly post\n[tech] Kimi K3: Open Frontier Intelligence\n[startup] Feedback Friday\n[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues\n[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote\n[tech] Pebble Mega Update – July 2026\n[tech] Microsoft Comic Chat is now open source\n[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)\n[tech] An Engineer's Guide to USB Typе-С (2024)\n[startup] Opinion on cofounders - I will not promote\n[tech] Decoy Font\n[startup] Founder communities: valuable? I will not promote\n[tech] Starlink from 1984\n[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "USB-C Device Hub",
+        "problem": "Com a proliferação de dispositivos USB-C, consumidores se perdem na compatibilidade e nas funcionalidades de diferentes cabos e adaptadores. Um guia interativo e um comparador de produtos ajudariam a tomar decisões informadas.",
+        "monetization": "Afiliados com fabricantes de hardware; conteúdo premium com análises aprofundadas por $4.99/mês.",
+        "theme": "Consumer Tech Utility",
+        "trends_context": "[tech] EEG shows brain can simultaneous encode two speech streams\n[startup] Share your startup - quarterly post\n[tech] Kimi K3: Open Frontier Intelligence\n[startup] Feedback Friday\n[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues\n[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote\n[tech] Pebble Mega Update – July 2026\n[tech] Microsoft Comic Chat is now open source\n[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)\n[tech] An Engineer's Guide to USB Typе-С (2024)\n[startup] Opinion on cofounders - I will not promote\n[tech] Decoy Font\n[startup] Founder communities: valuable? I will not promote\n[tech] Starlink from 1984\n[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Open Source Contributor",
+        "problem": "Desenvolvedores interessados em contribuir para projetos de código aberto, como o Microsoft Comic Chat, podem ter dificuldade em encontrar projetos alinhados aos seus interesses e habilidades, além de entenderem o fluxo de contribuição.",
+        "monetization": "Marketplace de oportunidades de contribuição; assinatura premium para acesso a mentoria e recursos de desenvolvimento (a partir de $10/mês).",
+        "theme": "FOSS Community",
+        "trends_context": "[tech] EEG shows brain can simultaneous encode two speech streams\n[startup] Share your startup - quarterly post\n[tech] Kimi K3: Open Frontier Intelligence\n[startup] Feedback Friday\n[tech] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues\n[startup] Finally closed a seed round we've been working towards. Now I'm anxious - I will not promote\n[tech] Pebble Mega Update – July 2026\n[tech] Microsoft Comic Chat is now open source\n[startup] How do you actually raise a pre-seed round through cold outreach? (I will not promote)\n[tech] An Engineer's Guide to USB Typе-С (2024)\n[startup] Opinion on cofounders - I will not promote\n[tech] Decoy Font\n[startup] Founder communities: valuable? I will not promote\n[tech] Starlink from 1984\n[startup] Looking for a third co-founder for our legal-tech startup (Berlin). I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
