@@ -6342,5 +6342,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "generated_at": "2026-07-18T08:30:39+00:00",
+    "trends": [
+      "[tech] Regressive JPEGs",
+      "[startup] Share your startup - quarterly post",
+      "[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "[startup] Feedback Friday",
+      "[tech] Reviving a 15-year-old netbook with Arch Linux",
+      "[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)",
+      "[tech] Thanks HN for 15 years of support and helping me find my life's work",
+      "[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote",
+      "[tech] First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote",
+      "[tech] The Zilog Z80 has turned 50",
+      "[startup] Tips on how to land our first paid pilot? I will not promote",
+      "[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "[startup] Is it time to stop? - I will not promote",
+      "[tech] Learning a few things about running SQLite",
+      "[startup] Founders, how was your first product hire like? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Embedded System Advisor",
+        "problem": "Founders developing hardware products struggle to find reliable and cost-effective embedded systems engineering firms. This app connects them with vetted service providers.",
+        "monetization": "SaaS B2B subscription for firms to list and get leads, tiered pricing for founders based on project size (e.g., $49/month basic listing, $199/month featured profile).",
+        "theme": "Startup Hardware",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Billing Anomaly Detector",
+        "problem": "Individuals and small businesses often miss unexpected or inaccurate billing charges from cloud services or subscriptions due to complex billing structures. This app scans invoices and alerts users to anomalies.",
+        "monetization": "Freemium with basic scanning, premium subscription ($7.99/month) for advanced anomaly detection, historical analysis, and integration with financial tools.",
+        "theme": "Consumer FinTech",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Netbook Revival Guide",
+        "problem": "Many users have old netbooks and laptops gathering dust, unaware of the possibilities of modern, lightweight operating systems. This app provides curated guides, software recommendations, and community support for breathing new life into old hardware.",
+        "monetization": "One-time purchase ($19.99) or Freemium with premium advanced tutorials and exclusive community access. Affiliate links to recommended hardware and software.",
+        "theme": "Indie Tech Hobby",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Founding Engineer Navigator",
+        "problem": "Early-stage founders and founding engineers face critical decisions about timing for equity, job security, and personal finances. This app offers anonymized data insights, decision frameworks, and expert Q&A to guide these crucial choices.",
+        "monetization": "Subscription-based access ($29/month) for advanced tools and expert advice, with a free tier for basic community forums.",
+        "theme": "Startup Career",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Planet Discovery Hub",
+        "problem": "Amateur astronomers and space enthusiasts lack a centralized platform to explore and learn about newly discovered exoplanets, especially those in habitable zones. This app provides digestible information, visualizations, and community discussions.",
+        "monetization": "Freemium with basic planet data, premium subscription ($4.99/month) for advanced visualization tools, real-time data feeds, and exclusive webinars with astronomers.",
+        "theme": "Consumer Astronomy",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Customer Yes, Investor No",
+        "problem": "Founders experiencing a disconnect between customer traction and investor skepticism need a platform for peer support, strategy refinement, and shared learning. This app offers anonymized data sharing, expert advice on fundraising strategies, and a supportive community.",
+        "monetization": "SaaS B2C subscription ($39/month) for founders, with optional add-ons for personalized investor pitch deck reviews.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Regressive JPEGs\n[startup] Share your startup - quarterly post\n[tech] AWS: Inaccurate Estimated Billing Data – $1.7 billion\n[startup] Feedback Friday\n[tech] Reviving a 15-year-old netbook with Arch Linux\n[startup] Founding engineer: wait for the cliff or jump now? (I will not promote)\n[tech] Thanks HN for 15 years of support and helping me find my life's work\n[startup] How do I pick the best embedded systems engineering firm to help my with my product development? I will not promote\n[tech] First atmosphere found on Earth-like planet in habitable zone of distant star\n[startup] Customers keep saying yes. Investors keep saying no or nothing. Anyone else living this whiplash? I will not promote\n[tech] The Zilog Z80 has turned 50\n[startup] Tips on how to land our first paid pilot? I will not promote\n[tech] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years\n[startup] Is it time to stop? - I will not promote\n[tech] Learning a few things about running SQLite\n[startup] Founders, how was your first product hire like? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
