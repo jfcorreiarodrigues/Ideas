@@ -6414,5 +6414,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "generated_at": "2026-07-19T09:02:03+00:00",
+    "trends": [
+      "[tech] Transcribe.cpp",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Speech Recognition and TTS in less than 500kb",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] What feature do you wish every note-taking app had?",
+      "[tech] Searchable field-level encryption on Supabase with CipherStash",
+      "[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.",
+      "[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM",
+      "[tech] Codex Resets",
+      "[startup] Startup opportunity: fight AI clones of content creators. I will not promote",
+      "[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?",
+      "[tech] Qwen3.8 is launching and going open-weight soon",
+      "[startup] How do you know when it's time to pivot to a different problem? i will not promote",
+      "[tech] Better and Cheaper Than IPTV",
+      "[startup] Is it sexism or age? I will not promote",
+      "[tech] The Kimi K3 Moment",
+      "[startup] Co-founder in sales, or founding sales with comm? - I will not promote",
+      "[tech] Mathematicians still don't know the fastest way to multiply numbers",
+      "[startup] If people expect your product to be free, should you kill the startup? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Creator IP Defender",
+        "problem": "Creators are struggling with AI-generated clones of their content and intellectual property. This app helps them track, flag, and potentially take action against unauthorized AI derivatives.",
+        "monetization": "Freemium with tiered subscription plans for advanced detection and legal support, starting at $19/month.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "NoteApp Wishlist",
+        "problem": "Users of note-taking apps often wish for specific features that are missing. This platform aggregates and prioritizes these feature requests, allowing users to vote and suggest them to app developers.",
+        "monetization": "Affiliate partnerships with note-taking app companies for featured suggestions, and premium features for power users to track their requests across platforms ($4.99/month).",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "TroubleFix AI Assistant",
+        "problem": "Troubleshooting device issues, especially on mobile, can be complex and frustrating. This app leverages on-device LLMs to provide quick, personalized, and actionable troubleshooting steps for common problems.",
+        "monetization": "One-time purchase of $9.99 for full access to all device troubleshooting modules.",
+        "theme": "Consumer Tech Support",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Co-founder Compass",
+        "problem": "Young founders often face complex and emotionally charged co-founder relationship issues. This app provides guided frameworks, anonymized conflict resolution tools, and resource links for navigating these challenges.",
+        "monetization": "Subscription-based access to premium conflict resolution modules and expert advice articles ($29/month).",
+        "theme": "Startup Operations",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Health App Innovation",
+        "problem": "Individuals are looking for novel health applications that offer unique and useful functionalities beyond standard tracking. This app focuses on an innovative health metric or intervention suggested by users, with a clear path for adoption.",
+        "monetization": "Freemium model with a core set of features and premium subscriptions for advanced analytics and personalized insights ($7.99/month).",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "OpenWeight Model Hub",
+        "problem": "Developers and researchers need easy access to and management of open-weight AI models for experimentation and deployment. This platform serves as a curated repository and management tool for these models.",
+        "monetization": "SaaS model for enhanced storage, deployment tools, and collaboration features, with a free tier for basic access. Paid tiers start at $49/month.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Transcribe.cpp\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Speech Recognition and TTS in less than 500kb\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What feature do you wish every note-taking app had?\n[tech] Searchable field-level encryption on Supabase with CipherStash\n[startup] Young founder needs advice in a complex cofounder relationship. I will not promote.\n[r/SomebodyMakeThis] Roast TalkFixAI: an iPhone troubleshooting assistant built around an on-device LLM\n[tech] Codex Resets\n[startup] Startup opportunity: fight AI clones of content creators. I will not promote\n[r/SomebodyMakeThis] Health App Idea- Is it original, would people use it?\n[tech] Qwen3.8 is launching and going open-weight soon\n[startup] How do you know when it's time to pivot to a different problem? i will not promote\n[tech] Better and Cheaper Than IPTV\n[startup] Is it sexism or age? I will not promote\n[tech] The Kimi K3 Moment\n[startup] Co-founder in sales, or founding sales with comm? - I will not promote\n[tech] Mathematicians still don't know the fastest way to multiply numbers\n[startup] If people expect your product to be free, should you kill the startup? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
