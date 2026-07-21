@@ -6562,5 +6562,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "generated_at": "2026-07-21T09:22:12+00:00",
+    "trends": [
+      "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Incremental – A library for incremental computations",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Who's afraid of Chinese models?",
+      "[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.",
+      "[tech] Running Doom on Our Custom CPU and Going Viral",
+      "[startup] How do startup apps gain users without a budget? (I will not promote)",
+      "[tech] Kimi Work",
+      "[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.",
+      "[tech] Linux kernel will support $ORIGIN, sort of",
+      "[startup] Anyone work for companies that post phantom job posts? (I will not promote)",
+      "[tech] Jelly UI: Soft-body physics for native HTML form controls",
+      "[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)",
+      "[tech] Human mathematicians are being outcounterexampled",
+      "[startup] Offshore startup banking is not just about receiving USD [I will not promote]"
+    ],
+    "ideas": [
+      {
+        "name": "Logística de Eventos Simplificada",
+        "problem": "Pequenos negócios e empreendedores individuais que organizam eventos (como o cenário do resort) enfrentam caos na gestão de logística, fornecedores e cronogramas. Esta app centraliza e otimiza essas tarefas complexas.",
+        "monetization": "SaaS B2B com planos escalonados (e.g., 'Starter' $49/mês, 'Pro' $199/mês) com base no número de eventos e funcionalidades.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Comparador de Ações de IA",
+        "problem": "Desenvolvedores e pesquisadores trabalhando com modelos de IA, especialmente com a ascensão de modelos chineses (Qwen, Kimi), precisam de uma ferramenta para comparar objetivamente o desempenho, os recursos e os custos de diferentes modelos.",
+        "monetization": "Freemium com limites de uso, planos pagos para acesso a benchmarks avançados e recursos de comparação personalizados (e.g., $19/mês para 'Standard', $49/mês para 'Pro').",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Dashboard de Pagamentos Globais",
+        "problem": "Indivíduos e freelancers que recebem pagamentos internacionais (como o cenário de 'Offshore startup banking') lutam com taxas ocultas, conversão de moeda e complexidade bancária. A app oferece transparência e otimização.",
+        "monetization": "Freemium com um percentual de transação cobrado em transferências internacionais acima de um certo limite (e.g., 0.5% para transações acima de $1000).",
+        "theme": "FinTech Consumer",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Gerenciador de Propriedade Intelectual Criador",
+        "problem": "Criadores digitais e artistas independentes (inspirado pela menção de modelos e a necessidade de proteger IP) precisam de uma maneira simples de registrar, rastrear e gerenciar os direitos de suas criações online.",
+        "monetization": "Assinatura mensal (e.g., $15/mês) para rastreamento de até 100 itens de IP, com pacotes adicionais para mais itens ou serviços de licenciamento.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Otimizador de Presença Online",
+        "problem": "Pequenos negócios que buscam visibilidade online (como o cenário de 'Google's AI overview') precisam de uma ferramenta que agregue e analise sua presença em diferentes plataformas (Google, redes sociais, diretórios) e sugira melhorias.",
+        "monetization": "SaaS B2B com planos mensais (e.g., 'Basic' $39/mês, 'Advanced' $99/mês) que incluem relatórios e recomendações.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      },
+      {
+        "name": "Plataforma de Compartilhamento de Conhecimento Niche",
+        "problem": "Comunidades especializadas (como as de subreddits) buscam compartilhar e organizar conhecimento de forma eficiente, especialmente em áreas técnicas como computação incremental ou física de corpo mole ('Jelly UI'), onde informações detalhadas são cruciais.",
+        "monetization": "Assinatura premium para acesso a conteúdo exclusivo, fóruns privados e ferramentas de organização de conhecimento (e.g., $5/mês).",
+        "theme": "Niche Communities",
+        "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+        "created_at": ""
+      }
+    ]
   }
 ]
