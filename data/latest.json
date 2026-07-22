@@ -1,71 +1,63 @@
 {
-  "date": "2026-07-21",
-  "generated_at": "2026-07-21T09:22:12+00:00",
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T09:20:55+00:00",
   "trends": [
-    "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "[tech] OpenAI and Hugging Face address security incident during model evaluation",
     "[startup] Share your startup - quarterly post",
-    "[tech] Incremental – A library for incremental computations",
+    "[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Who's afraid of Chinese models?",
-    "[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.",
-    "[tech] Running Doom on Our Custom CPU and Going Viral",
-    "[startup] How do startup apps gain users without a budget? (I will not promote)",
-    "[tech] Kimi Work",
-    "[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.",
-    "[tech] Linux kernel will support $ORIGIN, sort of",
-    "[startup] Anyone work for companies that post phantom job posts? (I will not promote)",
-    "[tech] Jelly UI: Soft-body physics for native HTML form controls",
-    "[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)",
-    "[tech] Human mathematicians are being outcounterexampled",
-    "[startup] Offshore startup banking is not just about receiving USD [I will not promote]"
+    "[tech] Codeberg bans vibe coded projects",
+    "[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)",
+    "[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?",
+    "[tech] Intel Starts Shipping High-NA EUV Silicon",
+    "[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote",
+    "[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+    "[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote",
+    "[tech] Advertise in ChatGPT",
+    "[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote",
+    "[tech] Late.sh – a command-line Clubhouse for computer people",
+    "[startup] To dual class or not to dual class I will not promote"
   ],
   "ideas": [
     {
-      "name": "Logística de Eventos Simplificada",
-      "problem": "Pequenos negócios e empreendedores individuais que organizam eventos (como o cenário do resort) enfrentam caos na gestão de logística, fornecedores e cronogramas. Esta app centraliza e otimiza essas tarefas complexas.",
-      "monetization": "SaaS B2B com planos escalonados (e.g., 'Starter' $49/mês, 'Pro' $199/mês) com base no número de eventos e funcionalidades.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
-      "created_at": ""
-    },
-    {
-      "name": "Comparador de Ações de IA",
-      "problem": "Desenvolvedores e pesquisadores trabalhando com modelos de IA, especialmente com a ascensão de modelos chineses (Qwen, Kimi), precisam de uma ferramenta para comparar objetivamente o desempenho, os recursos e os custos de diferentes modelos.",
-      "monetization": "Freemium com limites de uso, planos pagos para acesso a benchmarks avançados e recursos de comparação personalizados (e.g., $19/mês para 'Standard', $49/mês para 'Pro').",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
-      "created_at": ""
-    },
-    {
-      "name": "Dashboard de Pagamentos Globais",
-      "problem": "Indivíduos e freelancers que recebem pagamentos internacionais (como o cenário de 'Offshore startup banking') lutam com taxas ocultas, conversão de moeda e complexidade bancária. A app oferece transparência e otimização.",
-      "monetization": "Freemium com um percentual de transação cobrado em transferências internacionais acima de um certo limite (e.g., 0.5% para transações acima de $1000).",
-      "theme": "FinTech Consumer",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
-      "created_at": ""
-    },
-    {
-      "name": "Gerenciador de Propriedade Intelectual Criador",
-      "problem": "Criadores digitais e artistas independentes (inspirado pela menção de modelos e a necessidade de proteger IP) precisam de uma maneira simples de registrar, rastrear e gerenciar os direitos de suas criações online.",
-      "monetization": "Assinatura mensal (e.g., $15/mês) para rastreamento de até 100 itens de IP, com pacotes adicionais para mais itens ou serviços de licenciamento.",
+      "name": "Creator Licensing Hub",
+      "problem": "Criadores de conteúdo (artistas visuais, músicos, escritores) muitas vezes lutam para gerenciar e licenciar seu trabalho de forma eficaz, perdendo oportunidades de monetização e enfrentando complexidades legais. Este app ajudaria a catalogar obras, definir termos de licenciamento e gerenciar contratos.",
+      "monetization": "Freemium com recursos avançados de licenciamento e automação de contratos por assinatura (e.g., $15/mês para freelancers, $50/mês para pequenas agências).",
       "theme": "Creator Economy",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+      "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
       "created_at": ""
     },
     {
-      "name": "Otimizador de Presença Online",
-      "problem": "Pequenos negócios que buscam visibilidade online (como o cenário de 'Google's AI overview') precisam de uma ferramenta que agregue e analise sua presença em diferentes plataformas (Google, redes sociais, diretórios) e sugira melhorias.",
-      "monetization": "SaaS B2B com planos mensais (e.g., 'Basic' $39/mês, 'Advanced' $99/mês) que incluem relatórios e recomendações.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+      "name": "Local Service Finder",
+      "problem": "Consumidores frequentemente precisam encontrar serviços locais confiáveis (encanadores, eletricistas, babás, professores particulares) rapidamente, mas a busca pode ser demorada e a confiabilidade incerta. Este app agregaria e validaria prestadores de serviços locais com avaliações verificadas.",
+      "monetization": "Modelo freemium para consumidores, com os prestadores de serviço pagando uma taxa de listagem premium ou uma comissão sobre os leads gerados (e.g., 5% por lead qualificado).",
+      "theme": "Consumer Utility",
+      "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
       "created_at": ""
     },
     {
-      "name": "Plataforma de Compartilhamento de Conhecimento Niche",
-      "problem": "Comunidades especializadas (como as de subreddits) buscam compartilhar e organizar conhecimento de forma eficiente, especialmente em áreas técnicas como computação incremental ou física de corpo mole ('Jelly UI'), onde informações detalhadas são cruciais.",
-      "monetization": "Assinatura premium para acesso a conteúdo exclusivo, fóruns privados e ferramentas de organização de conhecimento (e.g., $5/mês).",
-      "theme": "Niche Communities",
-      "trends_context": "[tech] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge\n[startup] Share your startup - quarterly post\n[tech] Incremental – A library for incremental computations\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who's afraid of Chinese models?\n[startup] Girlfriend expecting equal equity in a startup which I started even before knowing her. I will not promote.\n[tech] Running Doom on Our Custom CPU and Going Viral\n[startup] How do startup apps gain users without a budget? (I will not promote)\n[tech] Kimi Work\n[startup] I will not promote, A resort said yes! Now I'm drowning in logistics 😫.\n[tech] Linux kernel will support $ORIGIN, sort of\n[startup] Anyone work for companies that post phantom job posts? (I will not promote)\n[tech] Jelly UI: Soft-body physics for native HTML form controls\n[startup] First time seeing our brand under Google's AI overview as a recommendation (I will not promote)\n[tech] Human mathematicians are being outcounterexampled\n[startup] Offshore startup banking is not just about receiving USD [I will not promote]",
+      "name": "Personal Project Manager",
+      "problem": "Pessoas com múltiplos hobbies, projetos pessoais ou metas de aprendizado (como aprender um instrumento, construir um kit de eletrônica, ou organizar um evento familiar) precisam de uma ferramenta para organizar tarefas, prazos e recursos de forma mais visual e menos corporativa que ferramentas de gestão de projetos tradicionais.",
+      "monetization": "Freemium com limite de projetos ativos, assinatura para projetos ilimitados e recursos de colaboração básica (e.g., $5/mês).",
+      "theme": "Productivity",
+      "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Niche Event Organizer",
+      "problem": "Organizar eventos de nicho (ex: encontros de colecionadores de vinil, clubes de leitura específicos, grupos de jogos de tabuleiro) envolve coordenação de locais, RSVPs, comunicação com participantes e gestão de pequenas despesas. Este app simplificaria o processo para organizadores desses eventos específicos.",
+      "monetization": "Modelo freemium para organizadores, com taxas de transação para venda de ingressos ou coleta de contribuições (e.g., 2% por venda).",
+      "theme": "Event Planning",
+      "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "AI Code Review Assistant",
+      "problem": "Desenvolvedores frequentemente enfrentam desafios em revisões de código manuais, que podem ser demoradas e propensas a erros de omissão. Um assistente de IA pode identificar padrões de código problemáticos, sugerir otimizações e garantir a conformidade com padrões de codificação.",
+      "monetization": "SaaS B2B com planos escalonados baseados no número de revisões ou utilizadores (e.g., $20/mês por utilizador para equipes pequenas, planos corporativos sob consulta).",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
       "created_at": ""
     }
   ]

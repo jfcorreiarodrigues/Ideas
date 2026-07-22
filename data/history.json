@@ -6634,5 +6634,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "generated_at": "2026-07-22T09:20:55+00:00",
+    "trends": [
+      "[tech] OpenAI and Hugging Face address security incident during model evaluation",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Codeberg bans vibe coded projects",
+      "[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)",
+      "[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?",
+      "[tech] Intel Starts Shipping High-NA EUV Silicon",
+      "[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote",
+      "[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote",
+      "[tech] Advertise in ChatGPT",
+      "[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote",
+      "[tech] Late.sh – a command-line Clubhouse for computer people",
+      "[startup] To dual class or not to dual class I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Creator Licensing Hub",
+        "problem": "Criadores de conteúdo (artistas visuais, músicos, escritores) muitas vezes lutam para gerenciar e licenciar seu trabalho de forma eficaz, perdendo oportunidades de monetização e enfrentando complexidades legais. Este app ajudaria a catalogar obras, definir termos de licenciamento e gerenciar contratos.",
+        "monetization": "Freemium com recursos avançados de licenciamento e automação de contratos por assinatura (e.g., $15/mês para freelancers, $50/mês para pequenas agências).",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Service Finder",
+        "problem": "Consumidores frequentemente precisam encontrar serviços locais confiáveis (encanadores, eletricistas, babás, professores particulares) rapidamente, mas a busca pode ser demorada e a confiabilidade incerta. Este app agregaria e validaria prestadores de serviços locais com avaliações verificadas.",
+        "monetization": "Modelo freemium para consumidores, com os prestadores de serviço pagando uma taxa de listagem premium ou uma comissão sobre os leads gerados (e.g., 5% por lead qualificado).",
+        "theme": "Consumer Utility",
+        "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Personal Project Manager",
+        "problem": "Pessoas com múltiplos hobbies, projetos pessoais ou metas de aprendizado (como aprender um instrumento, construir um kit de eletrônica, ou organizar um evento familiar) precisam de uma ferramenta para organizar tarefas, prazos e recursos de forma mais visual e menos corporativa que ferramentas de gestão de projetos tradicionais.",
+        "monetization": "Freemium com limite de projetos ativos, assinatura para projetos ilimitados e recursos de colaboração básica (e.g., $5/mês).",
+        "theme": "Productivity",
+        "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Event Organizer",
+        "problem": "Organizar eventos de nicho (ex: encontros de colecionadores de vinil, clubes de leitura específicos, grupos de jogos de tabuleiro) envolve coordenação de locais, RSVPs, comunicação com participantes e gestão de pequenas despesas. Este app simplificaria o processo para organizadores desses eventos específicos.",
+        "monetization": "Modelo freemium para organizadores, com taxas de transação para venda de ingressos ou coleta de contribuições (e.g., 2% por venda).",
+        "theme": "Event Planning",
+        "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Review Assistant",
+        "problem": "Desenvolvedores frequentemente enfrentam desafios em revisões de código manuais, que podem ser demoradas e propensas a erros de omissão. Um assistente de IA pode identificar padrões de código problemáticos, sugerir otimizações e garantir a conformidade com padrões de codificação.",
+        "monetization": "SaaS B2B com planos escalonados baseados no número de revisões ou utilizadores (e.g., $20/mês por utilizador para equipes pequenas, planos corporativos sob consulta).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] OpenAI and Hugging Face address security incident during model evaluation\n[startup] Share your startup - quarterly post\n[tech] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Codeberg bans vibe coded projects\n[startup] I'm the only technical person holding a 5 person startup together and I think the founder doesn't get how fragile that is (I will not promote)\n[tech] Original Apollo 11 Guidance Computer source code for command and lunar modules\n[startup] I will not promote First ever VC meeting this week as a founder. What should I actually be prepared for?\n[tech] Intel Starts Shipping High-NA EUV Silicon\n[startup] Is asking VCs what they like to see from founder equity structures unprofessional? I will not promote\n[tech] Show HN: ReadKinetic – a free, local-first speed reader for your own books\n[startup] 70 users tried my product. Not one stuck around. What am I missing? I will not promote\n[tech] Advertise in ChatGPT\n[startup] Does a Term Sheet Guarantee the Funding? Should I Start My Founding Engineer Journey or Keep Interviewing Until the Round Closes? I will not promote\n[tech] Late.sh – a command-line Clubhouse for computer people\n[startup] To dual class or not to dual class I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
