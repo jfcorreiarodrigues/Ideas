@@ -6834,5 +6834,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-25",
+    "generated_at": "2026-07-25T08:54:05+00:00",
+    "trends": [
+      "[tech] Android May Soon Restrict On-Device ADB",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Claude Opus 5",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting",
+      "[tech] GC and Exceptions in Wasmtime",
+      "[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote",
+      "[r/SomebodyMakeThis] Rizz Rater for dating apps",
+      "[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.",
+      "[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux",
+      "[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "[startup] YC Startup School (I will not promote)",
+      "[tech] NYC Apartment Aquaponics",
+      "[startup] Best ROI to spend 10K on ads (I will not promote)",
+      "[tech] ARC-AGI Leaderboard",
+      "[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote",
+      "[tech] Postgres LISTEN/NOTIFY actually scales",
+      "[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Argument Validator",
+        "problem": "Para utilizadores de fóruns online e redes sociais que desejam construir argumentos mais sólidos antes de postar. A ferramenta analisa a lógica e a prova apresentada pelo utilizador.",
+        "monetization": "Freemium com limite de validações por mês, assinatura premium para uso ilimitado (9.99 USD/mês).",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Dating App Rizz",
+        "problem": "Para jovens adultos que usam aplicativos de namoro e buscam melhorar suas interações. A aplicação oferece feedback e sugestões para aprimorar o 'rizz' (carisma/capacidade de sedução) nas conversas.",
+        "monetization": "Freemium com análises básicas, IAP para dicas avançadas e análise de conversas completas (2.99 USD por análise).",
+        "theme": "Dating Consumer",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Web App Linux Fixer",
+        "problem": "Para utilizadores de Linux que encontram dificuldades ao tentar executar ou aceder a aplicações web após problemas com o seu dispositivo. O aplicativo fornece guias passo-a-passo para resolver esses cenários.",
+        "monetization": "Pago uma vez (19.99 USD) ou assinatura de acesso a tutoriais premium (4.99 USD/mês).",
+        "theme": "Tech Support Consumer",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Cyber Capability Score",
+        "problem": "Para pequenas e médias empresas que precisam avaliar a robustez da sua infraestrutura de segurança cibernética contra ameaças modernas. Fornece uma pontuação e recomendações acionáveis.",
+        "monetization": "SaaS B2B com planos a partir de 49 USD/mês, dependendo do tamanho da empresa e profundidade da análise.",
+        "theme": "Business Security",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Debugger",
+        "problem": "Para desenvolvedores de software que trabalham com WebAssembly (Wasm) e enfrentam desafios em depuração e gestão de exceções. A ferramenta integra-se com ambientes de desenvolvimento para auxiliar na identificação e correção de bugs.",
+        "monetization": "SaaS B2B (39 USD/mês por licença de desenvolvedor) ou modelo de pagamento por uso para análises pontuais.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Aquaponics Home System",
+        "problem": "Para residentes de apartamentos em áreas urbanas que desejam cultivar seus próprios alimentos de forma sustentável. A aplicação oferece um guia para configurar e manter sistemas de aquaponia em pequena escala.",
+        "monetization": "Freemium com guias básicos, venda de kits de hardware integrados e assinatura para suporte avançado e comunidade (14.99 USD/mês).",
+        "theme": "Urban Gardening Consumer",
+        "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]

@@ -1,71 +1,75 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T09:14:13+00:00",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T08:54:05+00:00",
   "trends": [
-    "[tech] Flux 3",
+    "[tech] Android May Soon Restrict On-Device ADB",
     "[startup] Share your startup - quarterly post",
-    "[tech] The PImpl idiom and the C++26 std:indirect type",
+    "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+    "[tech] Claude Opus 5",
     "[startup] Feedback Friday",
-    "[tech] Writing by hand is good for your brain",
-    "[startup] What happens to the failed startups? [I will not promote]",
-    "[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]",
-    "[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-    "[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)",
-    "[tech] The Beam Engine",
-    "[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)",
-    "[tech] Claude Cookbook",
-    "[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)",
-    "[tech] What happened to TheNumbers.com",
-    "[startup] When have you decided to hire Business Operations? I will not promote"
+    "[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting",
+    "[tech] GC and Exceptions in Wasmtime",
+    "[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote",
+    "[r/SomebodyMakeThis] Rizz Rater for dating apps",
+    "[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.",
+    "[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux",
+    "[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "[startup] YC Startup School (I will not promote)",
+    "[tech] NYC Apartment Aquaponics",
+    "[startup] Best ROI to spend 10K on ads (I will not promote)",
+    "[tech] ARC-AGI Leaderboard",
+    "[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote",
+    "[tech] Postgres LISTEN/NOTIFY actually scales",
+    "[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Open Weight AI Insights",
-      "problem": "Startup founders and developers need to quickly understand the performance and cost-effectiveness of various open-weight AI models for their specific applications. This app provides a comparative dashboard and analysis tools.",
-      "monetization": "SaaS B2B, tiered subscription based on usage and features (e.g., $49/month for basic, $199/month for advanced analytics)",
+      "name": "Argument Validator",
+      "problem": "Para utilizadores de fóruns online e redes sociais que desejam construir argumentos mais sólidos antes de postar. A ferramenta analisa a lógica e a prova apresentada pelo utilizador.",
+      "monetization": "Freemium com limite de validações por mês, assinatura premium para uso ilimitado (9.99 USD/mês).",
+      "theme": "Productivity Consumer",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Dating App Rizz",
+      "problem": "Para jovens adultos que usam aplicativos de namoro e buscam melhorar suas interações. A aplicação oferece feedback e sugestões para aprimorar o 'rizz' (carisma/capacidade de sedução) nas conversas.",
+      "monetization": "Freemium com análises básicas, IAP para dicas avançadas e análise de conversas completas (2.99 USD por análise).",
+      "theme": "Dating Consumer",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Web App Linux Fixer",
+      "problem": "Para utilizadores de Linux que encontram dificuldades ao tentar executar ou aceder a aplicações web após problemas com o seu dispositivo. O aplicativo fornece guias passo-a-passo para resolver esses cenários.",
+      "monetization": "Pago uma vez (19.99 USD) ou assinatura de acesso a tutoriais premium (4.99 USD/mês).",
+      "theme": "Tech Support Consumer",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Cyber Capability Score",
+      "problem": "Para pequenas e médias empresas que precisam avaliar a robustez da sua infraestrutura de segurança cibernética contra ameaças modernas. Fornece uma pontuação e recomendações acionáveis.",
+      "monetization": "SaaS B2B com planos a partir de 49 USD/mês, dependendo do tamanho da empresa e profundidade da análise.",
+      "theme": "Business Security",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "AI Code Debugger",
+      "problem": "Para desenvolvedores de software que trabalham com WebAssembly (Wasm) e enfrentam desafios em depuração e gestão de exceções. A ferramenta integra-se com ambientes de desenvolvimento para auxiliar na identificação e correção de bugs.",
+      "monetization": "SaaS B2B (39 USD/mês por licença de desenvolvedor) ou modelo de pagamento por uso para análises pontuais.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Founder Funding Tracker",
-      "problem": "New startup founders struggle to track their funding applications, investor communications, and upcoming deadlines. This app helps them organize and manage the entire fundraising process.",
-      "monetization": "Freemium with paid tiers for advanced features (e.g., collaboration, integrations). Paid tiers start at $25/month.",
-      "theme": "Startup Ops",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "C++26 Idiom Guide",
-      "problem": "C++ developers need a clear and accessible resource to understand and implement new features and idioms introduced in C++26, such as `std::indirect_type`. This app provides explanations and examples.",
-      "monetization": "One-time purchase ($9.99) for the app, with optional premium content subscription for future updates and advanced tutorials ($4.99/month).",
-      "theme": "Developer Productivity",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Handwriting Habit Builder",
-      "problem": "Individuals looking to leverage the cognitive benefits of handwriting are inconsistent with their practice. This app offers guided writing exercises, progress tracking, and motivational prompts to build a daily habit.",
-      "monetization": "Freemium with premium content (e.g., specialized writing courses, advanced analytics). Paid subscription $3.99/month.",
-      "theme": "Consumer Wellness",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Failed Startup Postmortem",
-      "problem": "Startup founders and aspiring entrepreneurs can learn valuable lessons from the experiences of failed startups. This app curates anonymized or permission-based postmortem analyses, highlighting common pitfalls and solutions.",
-      "monetization": "Subscription-based access to curated content ($15/month) or a one-time purchase of specific case studies ($5 per study).",
-      "theme": "Startup Learning",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Beam Engine History",
-      "problem": "Enthusiasts and students interested in the history of technology and engineering want to learn about foundational inventions like the Beam Engine. This app provides interactive timelines, detailed explanations, and visual aids.",
-      "monetization": "One-time purchase ($5.99) or ad-supported with an option for ad-free purchase.",
-      "theme": "Consumer Education",
-      "trends_context": "[tech] Flux 3\n[startup] Share your startup - quarterly post\n[tech] The PImpl idiom and the C++26 std:indirect type\n[startup] Feedback Friday\n[tech] Writing by hand is good for your brain\n[startup] What happens to the failed startups? [I will not promote]\n[tech] Startup founders urge U.S. government not to shut off Chinese open weight AI\n[startup] We launched 20 days ago. Today we crossed 30,000 users [i will not promote]\n[tech] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models\n[startup] What made you realize your startup needed a more scalable tech foundation? ( I will not promote)\n[tech] The Beam Engine\n[startup] The primitive for software factory should be a roadmap, not kanban or chat? (I will not promote)\n[tech] Claude Cookbook\n[startup] New YC Fall ‘26 Request for Startups just dropped - what do you guys think (I will not promote)\n[tech] What happened to TheNumbers.com\n[startup] When have you decided to hire Business Operations? I will not promote",
+      "name": "Aquaponics Home System",
+      "problem": "Para residentes de apartamentos em áreas urbanas que desejam cultivar seus próprios alimentos de forma sustentável. A aplicação oferece um guia para configurar e manter sistemas de aquaponia em pequena escala.",
+      "monetization": "Freemium com guias básicos, venda de kits de hardware integrados e assinatura para suporte avançado e comunidade (14.99 USD/mês).",
+      "theme": "Urban Gardening Consumer",
+      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
       "created_at": ""
     }
   ]
