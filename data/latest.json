@@ -1,75 +1,70 @@
 {
-  "date": "2026-07-25",
-  "generated_at": "2026-07-25T08:54:05+00:00",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:06:58+00:00",
   "trends": [
-    "[tech] Android May Soon Restrict On-Device ADB",
+    "[tech] A shell colon does nothing. Use it anyway",
     "[startup] Share your startup - quarterly post",
-    "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
-    "[tech] Claude Opus 5",
+    "[tech] An ESP32 based plane radar for my desk",
     "[startup] Feedback Friday",
-    "[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting",
-    "[tech] GC and Exceptions in Wasmtime",
-    "[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote",
-    "[r/SomebodyMakeThis] Rizz Rater for dating apps",
-    "[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.",
-    "[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux",
-    "[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "[startup] YC Startup School (I will not promote)",
-    "[tech] NYC Apartment Aquaponics",
-    "[startup] Best ROI to spend 10K on ads (I will not promote)",
-    "[tech] ARC-AGI Leaderboard",
-    "[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote",
-    "[tech] Postgres LISTEN/NOTIFY actually scales",
-    "[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote"
+    "[tech] GrapheneOS protections against data extraction from locked devices",
+    "[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+    "[tech] The new rules of context engineering for Claude 5 generation models",
+    "[startup] I got my first true pitch meeting, thanks to you folks. I will not promote",
+    "[tech] Show HN: I mapped every US golf course",
+    "[startup] Be careful when looking for serious c0founders - i will not promote",
+    "[tech] Stinkpot: SQLite-backed shell history",
+    "[startup] I only have one active user on my website am I cooked?! ( I will not promote)",
+    "[tech] Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)",
+    "[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]"
   ],
   "ideas": [
     {
-      "name": "Argument Validator",
-      "problem": "Para utilizadores de fóruns online e redes sociais que desejam construir argumentos mais sólidos antes de postar. A ferramenta analisa a lógica e a prova apresentada pelo utilizador.",
-      "monetization": "Freemium com limite de validações por mês, assinatura premium para uso ilimitado (9.99 USD/mês).",
-      "theme": "Productivity Consumer",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "name": "Golf Course Mapper Pro",
+      "problem": "Golfistas amadores e profissionais precisam de mapas detalhados e interativos de campos de golfe para planejar suas jogadas e analisar desempenho. Atualmente, as opções são limitadas e muitas vezes desatualizadas.",
+      "monetization": "Freemium com mapa base gratuito e assinatura premium para recursos avançados (anotações, dados históricos, análise de tacadas) a $5.99/mês.",
+      "theme": "Hobbyist Utility",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
       "created_at": ""
     },
     {
-      "name": "Dating App Rizz",
-      "problem": "Para jovens adultos que usam aplicativos de namoro e buscam melhorar suas interações. A aplicação oferece feedback e sugestões para aprimorar o 'rizz' (carisma/capacidade de sedução) nas conversas.",
-      "monetization": "Freemium com análises básicas, IAP para dicas avançadas e análise de conversas completas (2.99 USD por análise).",
-      "theme": "Dating Consumer",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Web App Linux Fixer",
-      "problem": "Para utilizadores de Linux que encontram dificuldades ao tentar executar ou aceder a aplicações web após problemas com o seu dispositivo. O aplicativo fornece guias passo-a-passo para resolver esses cenários.",
-      "monetization": "Pago uma vez (19.99 USD) ou assinatura de acesso a tutoriais premium (4.99 USD/mês).",
-      "theme": "Tech Support Consumer",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Cyber Capability Score",
-      "problem": "Para pequenas e médias empresas que precisam avaliar a robustez da sua infraestrutura de segurança cibernética contra ameaças modernas. Fornece uma pontuação e recomendações acionáveis.",
-      "monetization": "SaaS B2B com planos a partir de 49 USD/mês, dependendo do tamanho da empresa e profundidade da análise.",
-      "theme": "Business Security",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "AI Code Debugger",
-      "problem": "Para desenvolvedores de software que trabalham com WebAssembly (Wasm) e enfrentam desafios em depuração e gestão de exceções. A ferramenta integra-se com ambientes de desenvolvimento para auxiliar na identificação e correção de bugs.",
-      "monetization": "SaaS B2B (39 USD/mês por licença de desenvolvedor) ou modelo de pagamento por uso para análises pontuais.",
+      "name": "AI Context Assistant",
+      "problem": "Desenvolvedores que utilizam modelos de linguagem avançados como Claude 5 enfrentam desafios em otimizar prompts e o contexto para obter os melhores resultados. Falta uma ferramenta especializada para refinar e gerenciar esses contextos de forma eficiente.",
+      "monetization": "SaaS B2B com planos escalonados para equipes de desenvolvimento, começando em $49/mês por usuário.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
       "created_at": ""
     },
     {
-      "name": "Aquaponics Home System",
-      "problem": "Para residentes de apartamentos em áreas urbanas que desejam cultivar seus próprios alimentos de forma sustentável. A aplicação oferece um guia para configurar e manter sistemas de aquaponia em pequena escala.",
-      "monetization": "Freemium com guias básicos, venda de kits de hardware integrados e assinatura para suporte avançado e comunidade (14.99 USD/mês).",
-      "theme": "Urban Gardening Consumer",
-      "trends_context": "[tech] Android May Soon Restrict On-Device ADB\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Claude Opus 5\n[startup] Feedback Friday\n[r/SomebodyMakeThis] A browser extension that makes you pass the other person's argument before posting\n[tech] GC and Exceptions in Wasmtime\n[startup] Stripe closed my account with a 0.18% dispute rate *i will not promote\n[r/SomebodyMakeThis] Rizz Rater for dating apps\n[tech] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach\n[startup] My customers are paying, the unit economics work, but I feel stuck. I will not promote.\n[r/SomebodyMakeThis] My phone broke and I got stuck on web apps on Linux\n[tech] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities\n[startup] YC Startup School (I will not promote)\n[tech] NYC Apartment Aquaponics\n[startup] Best ROI to spend 10K on ads (I will not promote)\n[tech] ARC-AGI Leaderboard\n[startup] Enterprise buyers like the product but security says no. What do you have ready before the first pilot? I will not promote\n[tech] Postgres LISTEN/NOTIFY actually scales\n[startup] Submitted my YC application but failing to attract users. What should I do? I will not promote",
+      "name": "Tech Co-Founder Finder",
+      "problem": "Empreendedores sem formação técnica buscam parceiros de co-fundadores técnicos qualificados, mas a busca é muitas vezes ineficiente e arriscada. Falta uma plataforma focada em conectar fundadores com habilidades complementares e histórico verificável.",
+      "monetization": "Modelo de assinatura para empreendedores buscando co-fundadores ($29/mês) e para co-fundadores técnicos que buscam oportunidades ($19/mês), com verificação de perfil opcional por taxa única.",
+      "theme": "Startup Community",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "created_at": ""
+    },
+    {
+      "name": "Voice Model Showcase",
+      "problem": "Criadores de conteúdo e desenvolvedores de IA que trabalham com modelos de voz precisam de uma plataforma para demonstrar e comparar a qualidade e as capacidades de diferentes modelos de voz, como o Inflect-Micro-v2, de forma acessível e organizada.",
+      "monetization": "Plataforma de listagem com opções de showcase pago para modelos de voz de alta performance, com planos mensais a partir de $25/mês. Comissão de 5% em transações de licenciamento de voz.",
+      "theme": "Creator Economy",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "created_at": ""
+    },
+    {
+      "name": "Shell History Navigator",
+      "problem": "Usuários de linha de comando frequentemente perdem comandos úteis ou precisam revisitar históricos complexos. Ferramentas existentes são rudimentares e não oferecem funcionalidade de busca ou organização robusta.",
+      "monetization": "Freemium com funcionalidades básicas de histórico e busca. Assinatura paga a $3.99/mês para recursos avançados como filtros personalizados, salvamento de comandos frequentes e sincronização entre dispositivos.",
+      "theme": "Developer Productivity",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "created_at": ""
+    },
+    {
+      "name": "Device Security Audit",
+      "problem": "Usuários de smartphones, especialmente aqueles preocupados com privacidade, necessitam de uma forma confiável de entender e melhorar as proteções de seus dispositivos contra extração de dados, como sugerido por avanços em sistemas como GrapheneOS.",
+      "monetization": "App de pagamento único ($9.99) para auditoria de segurança completa e relatórios personalizáveis. Opção de assinatura anual ($19.99) para atualizações contínuas e alertas de segurança.",
+      "theme": "Consumer Security",
+      "trends_context": "[tech] A shell colon does nothing. Use it anyway\n[startup] Share your startup - quarterly post\n[tech] An ESP32 based plane radar for my desk\n[startup] Feedback Friday\n[tech] GrapheneOS protections against data extraction from locked devices\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote\n[tech] The new rules of context engineering for Claude 5 generation models\n[startup] I got my first true pitch meeting, thanks to you folks. I will not promote\n[tech] Show HN: I mapped every US golf course\n[startup] Be careful when looking for serious c0founders - i will not promote\n[tech] Stinkpot: SQLite-backed shell history\n[startup] I only have one active user on my website am I cooked?! ( I will not promote)\n[tech] Inflect-Micro-v2: complete voice in 9.36M parameters\n[startup] How Do You Find a Technical Co-Founder in Florida? (I Will Not Promote)\n[tech] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
       "created_at": ""
     }
   ]
