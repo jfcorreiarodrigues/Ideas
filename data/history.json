@@ -6981,5 +6981,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "generated_at": "2026-07-27T10:31:32+00:00",
+    "trends": [
+      "[tech] Kimi-K3 Releases on HuggingFace 7/27",
+      "[startup] Share your startup - quarterly post",
+      "[tech] PGSimCity - How PostgreSQL Works",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Show HN: Physically accurate black hole you can put in your room",
+      "[startup] What's the hardest part of getting your first 10 customers? I will not promote",
+      "[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "[startup] The trap of vanity - I will not promote",
+      "[tech] French firefighters face 'pyrocumulonimbus' for first time",
+      "[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)",
+      "[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "[startup] Are AI built startups creating a new engineering bottleneck? i will not promote",
+      "[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote",
+      "[tech] US citizen charged after GrapheneOS phone wipes during airport search",
+      "[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Firefighter Incident Command",
+        "problem": "Incêndios florestais como os 'pyrocumulonimbus' exigem coordenação rápida e precisa. Bombeiros precisam de uma ferramenta para gerenciar recursos, comunicar status e visualizar zonas de risco em tempo real.",
+        "monetization": "SaaS B2G (Governo) com licenciamento anual por agência.",
+        "theme": "Emergency Services Ops",
+        "trends_context": "[tech] Kimi-K3 Releases on HuggingFace 7/27\n[startup] Share your startup - quarterly post\n[tech] PGSimCity - How PostgreSQL Works\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Show HN: Physically accurate black hole you can put in your room\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary\n[startup] The trap of vanity - I will not promote\n[tech] French firefighters face 'pyrocumulonimbus' for first time\n[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)\n[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS\n[startup] Are AI built startups creating a new engineering bottleneck? i will not promote\n[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees\n[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote\n[tech] US citizen charged after GrapheneOS phone wipes during airport search\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Magnolia Bloom Predictor",
+        "problem": "Amantes de botânica e paisagistas querem prever o pico de floração das magnólias, que são polinizadas por insetos específicos. A previsão baseada em dados ambientais e de polinização seria valiosa.",
+        "monetization": "Assinatura anual de dados premium para floriculturas e paisagistas; Freemium com previsões básicas para entusiastas.",
+        "theme": "Horticulture Niche",
+        "trends_context": "[tech] Kimi-K3 Releases on HuggingFace 7/27\n[startup] Share your startup - quarterly post\n[tech] PGSimCity - How PostgreSQL Works\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Show HN: Physically accurate black hole you can put in your room\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary\n[startup] The trap of vanity - I will not promote\n[tech] French firefighters face 'pyrocumulonimbus' for first time\n[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)\n[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS\n[startup] Are AI built startups creating a new engineering bottleneck? i will not promote\n[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees\n[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote\n[tech] US citizen charged after GrapheneOS phone wipes during airport search\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "GrapheneOS Privacy Manager",
+        "problem": "Utilizadores de GrapheneOS enfrentam preocupações com a segurança do dispositivo, especialmente em pontos de controlo. Uma app que ajude a gerenciar permissões de forma granular e ofereça auditorias de privacidade seria útil.",
+        "monetization": "Freemium com recursos básicos de auditoria; Compra única de 19.99USD para funcionalidades avançadas de gerenciamento.",
+        "theme": "Privacy Consumer",
+        "trends_context": "[tech] Kimi-K3 Releases on HuggingFace 7/27\n[startup] Share your startup - quarterly post\n[tech] PGSimCity - How PostgreSQL Works\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Show HN: Physically accurate black hole you can put in your room\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary\n[startup] The trap of vanity - I will not promote\n[tech] French firefighters face 'pyrocumulonimbus' for first time\n[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)\n[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS\n[startup] Are AI built startups creating a new engineering bottleneck? i will not promote\n[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees\n[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote\n[tech] US citizen charged after GrapheneOS phone wipes during airport search\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Decker App Builder",
+        "problem": "Desenvolvedores que apreciam a simplicidade de ferramentas como Hypercard querem criar apps rapidamente. Uma plataforma low-code/no-code inspirada em Decker, focada em interfaces intuitivas.",
+        "monetization": "SaaS B2B com planos a partir de 49USD/mês para equipas; Licença perpétua para utilizadores individuais por 199USD.",
+        "theme": "Indie Developer Tools",
+        "trends_context": "[tech] Kimi-K3 Releases on HuggingFace 7/27\n[startup] Share your startup - quarterly post\n[tech] PGSimCity - How PostgreSQL Works\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Show HN: Physically accurate black hole you can put in your room\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary\n[startup] The trap of vanity - I will not promote\n[tech] French firefighters face 'pyrocumulonimbus' for first time\n[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)\n[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS\n[startup] Are AI built startups creating a new engineering bottleneck? i will not promote\n[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees\n[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote\n[tech] US citizen charged after GrapheneOS phone wipes during airport search\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Customer Journey",
+        "problem": "Novas startups frequentemente lutam para adquirir os primeiros 10 clientes e entendem mal as suas necessidades. Uma ferramenta que guie fundadores através da validação de mercado e da jornada do cliente, focada em feedback acionável.",
+        "monetization": "SaaS B2B com planos a partir de 99USD/mês para startups; Consultoria premium opcional.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Kimi-K3 Releases on HuggingFace 7/27\n[startup] Share your startup - quarterly post\n[tech] PGSimCity - How PostgreSQL Works\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Show HN: Physically accurate black hole you can put in your room\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary\n[startup] The trap of vanity - I will not promote\n[tech] French firefighters face 'pyrocumulonimbus' for first time\n[startup] What's something you thought would matter a lot when starting, but barely mattered in the end? (I will not promote)\n[tech] Decker, a platform that builds on the legacy of Hypercard and classic macOS\n[startup] Are AI built startups creating a new engineering bottleneck? i will not promote\n[tech] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees\n[startup] With all the red flags about Stripe, what is the best option for a marketplace? I will not promote\n[tech] US citizen charged after GrapheneOS phone wipes during airport search\n[startup] Is YC losing prestige with all of the AI Wrappers it invests in? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
