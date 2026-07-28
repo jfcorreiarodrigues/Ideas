@@ -7045,5 +7045,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "generated_at": "2026-07-28T09:30:04+00:00",
+    "trends": [
+      "[tech] 7.1 Earthquake in Japan",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Our position on open-weights models",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote",
+      "[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market",
+      "[tech] Benchmarking Opus 5 on SlopCodeBench",
+      "[startup] What's the hardest part of getting your first 10 customers? I will not promote",
+      "[tech] Vehicle Motion Cues",
+      "[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)",
+      "[tech] Using an open model feels surprisingly good",
+      "[startup] How do you sell a roadmap feature without lying to the customer? I will not promote",
+      "[tech] Neutrino-1 8B",
+      "[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'"
+    ],
+    "ideas": [
+      {
+        "name": "Startup Customer Acquisition",
+        "problem": "Founders often struggle to acquire their first customers with limited budgets. This app provides a curated, actionable framework of low-cost customer acquisition strategies tailored to early-stage startups.",
+        "monetization": "Freemium with premium templates and expert advice at $19/month",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      },
+      {
+        "name": "Open Model Fine-tuner",
+        "problem": "Developers and researchers want to fine-tune open-weight AI models but lack accessible tools and efficient workflows. This platform simplifies the fine-tuning process with guided steps and cost optimization insights.",
+        "monetization": "SaaS B2B, tiered pricing based on usage and model size ($50/month onwards)",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      },
+      {
+        "name": "Rare Text Explorer",
+        "problem": "Academics and enthusiasts interested in historical texts (like Hebrew and Latin astronomy) face difficulties accessing and translating them. This app provides digitized, translated, and searchable versions of rare historical documents.",
+        "monetization": "Subscription access to premium content and advanced search features ($9.99/month)",
+        "theme": "Niche Knowledge",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      },
+      {
+        "name": "Local Event Crowdfunder",
+        "problem": "Small businesses and independent creators need localized ways to fund projects. This app connects local communities with in-person crowdfunding event organizers and tools to manage small-scale, community-driven funding initiatives.",
+        "monetization": "Per-event fee for organizers (5% of funds raised) and optional ticketing for attendees",
+        "theme": "Community Fundraising",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      },
+      {
+        "name": "Physical Product Marketing",
+        "problem": "Entrepreneurs selling physical products with minimal ad budgets need creative, scalable marketing tactics. This app offers a playbook of guerrilla marketing, community building, and low-cost social media strategies.",
+        "monetization": "One-time purchase of the marketing playbook for $49.99, with optional monthly strategy updates for $9.99",
+        "theme": "Small Business Marketing",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      },
+      {
+        "name": "Roadmap Communicator",
+        "problem": "Product managers struggle to communicate roadmap features to customers without overpromising or revealing sensitive information. This tool helps generate clear, honest, and customer-friendly descriptions of upcoming features.",
+        "monetization": "SaaS B2B for product teams ($29/month per user)",
+        "theme": "Product Management",
+        "trends_context": "[tech] 7.1 Earthquake in Japan\n[startup] Share your startup - quarterly post\n[tech] Our position on open-weights models\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review\n[startup] If you had $0 to acquire your first customers today, what would you do? i will not promote\n[tech] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts\n[startup] [I will not promote] Hold onto your job. My startup failed and I'm having a hard time finding a job in this market\n[tech] Benchmarking Opus 5 on SlopCodeBench\n[startup] What's the hardest part of getting your first 10 customers? I will not promote\n[tech] Vehicle Motion Cues\n[startup] Hosting In-Person Crowdfunding Events Idea (I will not promote)\n[tech] Using an open model feels surprisingly good\n[startup] How do you sell a roadmap feature without lying to the customer? I will not promote\n[tech] Neutrino-1 8B\n[startup] How do you market a physical product with basically zero ad budget? My weird approach is working but I can't tell if it scales. 'i will not promote'",
+        "created_at": ""
+      }
+    ]
   }
 ]
