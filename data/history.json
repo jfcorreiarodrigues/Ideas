@@ -7181,5 +7181,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "generated_at": "2026-07-30T09:24:34+00:00",
+    "trends": [
+      "[tech] AI's top startups are barely publishing their research",
+      "[startup] Share your startup - quarterly post",
+      "[tech] I Have Thoughts on the iPhone Air",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] The coolest use for the Vision Pro",
+      "[startup] How have you used your alumni network for your startup? I will not promote",
+      "[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)",
+      "[tech] Superlogical",
+      "[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.",
+      "[tech] LLM Honeypot",
+      "[startup] Marketing Focus Question (I will not promote)",
+      "[tech] The Productivity Mirage",
+      "[startup] How good is this offer? I will not promote",
+      "[tech] Keychron announces first open-source firmware for gaming mice",
+      "[startup] How did you find your first real mentor or advisor? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Alumni Startup Connect",
+        "problem": "Startups frequentemente têm dificuldade em alavancar suas redes de ex-alunos para mentoria, parcerias ou até mesmo financiamento. Esta plataforma conecta fundadores de startups com ex-alunos relevantes de suas universidades para oportunidades de crescimento direcionadas.",
+        "monetization": "SaaS B2B para universidades e associações de ex-alunos, com planos variados por número de utilizadores e funcionalidades. Possível modelo freemium para fundadores.",
+        "theme": "Startup Networking",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Research Digest",
+        "problem": "A pesquisa em IA está avançando rapidamente, mas os pesquisadores e desenvolvedores lutam para acompanhar as publicações relevantes, especialmente aquelas que são menos divulgadas pelas grandes empresas. Este serviço resume e categoriza as pesquisas de ponta, focando em trabalhos de código aberto e de instituições menores.",
+        "monetization": "SaaS B2B para equipas de P&D de IA, com assinaturas mensais ou anuais. Possibilidade de acesso premium a análises mais profundas.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Skill Marketplace",
+        "problem": "Profissionais com habilidades muito específicas (ex: especialistas em firmware de hardware específico, restauradores de objetos raros) têm dificuldade em encontrar clientes. Este marketplace conecta esses criadores de nicho com indivíduos e empresas que precisam de seus serviços especializados.",
+        "monetization": "Comissão sobre transações (15-20%) ou taxas de listagem para criadores premium.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business Growth Hub",
+        "problem": "Pequenos negócios locais frequentemente carecem de ferramentas acessíveis e eficazes para marketing, gestão de clientes e análise de desempenho. Este hub oferece ferramentas integradas e conteúdo educacional focado em crescimento para donos de pequenos negócios.",
+        "monetization": "Modelo Freemium com funcionalidades básicas gratuitas e planos de assinatura paga (ex: 29-99 USD/mês) para recursos avançados de marketing e CRM.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Vision Pro Experience Finder",
+        "problem": "Com a introdução de novos dispositivos como o Apple Vision Pro, os consumidores buscam ativamente as melhores e mais inovadoras experiências de uso. Este aplicativo agrega e avalia experiências, aplicativos e conteúdo otimizados para Vision Pro, ajudando os utilizadores a descobrir o seu potencial.",
+        "monetization": "Freemium com acesso a listas básicas, e assinatura paga (ex: 3.99 USD/mês) para curadoria avançada, análises detalhadas e recomendações personalizadas.",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Offer Sanity Check",
+        "problem": "Fundadores e os primeiros funcionários de startups frequentemente recebem ofertas de equity complexas e difíceis de avaliar, especialmente com longos períodos de vesting e pré-receita. Esta ferramenta oferece uma análise clara e objetiva de tais ofertas, ajudando os recetores a entender seu verdadeiro valor e riscos.",
+        "monetization": "Pagamento único por análise de oferta (ex: 19.99 USD por análise) ou um modelo de assinatura para múltiplas análises e recursos de comparação.",
+        "theme": "Startup Founders",
+        "trends_context": "[tech] AI's top startups are barely publishing their research\n[startup] Share your startup - quarterly post\n[tech] I Have Thoughts on the iPhone Air\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The coolest use for the Vision Pro\n[startup] How have you used your alumni network for your startup? I will not promote\n[tech] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac\n[startup] Offered 20% in a pre-revenue startup, but 6 unpaid months first, and 48-month vesting from day one. Sanity check? (I will not promote)\n[tech] Superlogical\n[startup] Startup Showcase at Harvard/Skills Live Show, August 2026: official Harvard event? I will not promote.\n[tech] LLM Honeypot\n[startup] Marketing Focus Question (I will not promote)\n[tech] The Productivity Mirage\n[startup] How good is this offer? I will not promote\n[tech] Keychron announces first open-source firmware for gaming mice\n[startup] How did you find your first real mentor or advisor? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
