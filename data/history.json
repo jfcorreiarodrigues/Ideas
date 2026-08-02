@@ -7389,5 +7389,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "generated_at": "2026-08-02T09:04:27+00:00",
+    "trends": [
+      "[tech] I don't recommend Tailwind CSS",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Go 1.27 Interactive Tour",
+      "[startup] Feedback Friday",
+      "[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote",
+      "[tech] Seedance 2.5",
+      "[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote",
+      "[tech] MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "[startup] When to decide to shutdown a revenue making business (I will not promote)",
+      "[tech] Diátaxis",
+      "[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"",
+      "[tech] A big win for Android interoperability",
+      "[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"",
+      "[tech] ASRock BC-250: Building the Budget Steam Machine",
+      "[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Startup Finance Navigator",
+        "problem": "Founders struggle with complex funding decisions and understanding their financial position, especially when facing difficult situations like investor withdrawal. This app provides clear, actionable financial insights for startups.",
+        "monetization": "SaaS B2B, tiered subscription based on startup size (e.g., $49/month for early-stage, $199/month for growth-stage).",
+        "theme": "Startup Ops",
+        "trends_context": "[tech] I don't recommend Tailwind CSS\n[startup] Share your startup - quarterly post\n[tech] Go 1.27 Interactive Tour\n[startup] Feedback Friday\n[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built\n[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote\n[tech] Seedance 2.5\n[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote\n[tech] MkLinux and the pimped-out Apple Workgroup Server 9150\n[startup] When to decide to shutdown a revenue making business (I will not promote)\n[tech] Diátaxis\n[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"\n[tech] A big win for Android interoperability\n[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"\n[tech] ASRock BC-250: Building the Budget Steam Machine\n[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Event Planner",
+        "problem": "Individuals and small groups find it challenging to discover, organize, and manage small-scale local events and meetups that foster social cohesion. This app simplifies event creation and attendee coordination.",
+        "monetization": "Freemium with premium features like advanced analytics and integrated ticketing for a small fee per event.",
+        "theme": "Community Events",
+        "trends_context": "[tech] I don't recommend Tailwind CSS\n[startup] Share your startup - quarterly post\n[tech] Go 1.27 Interactive Tour\n[startup] Feedback Friday\n[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built\n[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote\n[tech] Seedance 2.5\n[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote\n[tech] MkLinux and the pimped-out Apple Workgroup Server 9150\n[startup] When to decide to shutdown a revenue making business (I will not promote)\n[tech] Diátaxis\n[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"\n[tech] A big win for Android interoperability\n[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"\n[tech] ASRock BC-250: Building the Budget Steam Machine\n[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Wearable Dev Companion",
+        "problem": "Indie developers creating applications for wearables often face challenges in deployment, monetization, and user acquisition. This app provides tools and guidance for indie developers targeting the smartwatch market.",
+        "monetization": "Subscription service for advanced tools and analytics ($15/month), with an optional marketplace commission (5%) for app sales.",
+        "theme": "Indie Dev Tools",
+        "trends_context": "[tech] I don't recommend Tailwind CSS\n[startup] Share your startup - quarterly post\n[tech] Go 1.27 Interactive Tour\n[startup] Feedback Friday\n[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built\n[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote\n[tech] Seedance 2.5\n[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote\n[tech] MkLinux and the pimped-out Apple Workgroup Server 9150\n[startup] When to decide to shutdown a revenue making business (I will not promote)\n[tech] Diátaxis\n[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"\n[tech] A big win for Android interoperability\n[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"\n[tech] ASRock BC-250: Building the Budget Steam Machine\n[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Tech Learning Pathway",
+        "problem": "Aspiring engineers, especially younger ones, often lack a structured path to learn new technologies and showcase their personal projects. This app offers curated learning modules and project portfolios.",
+        "monetization": "Freemium with premium courses and mentorship opportunities ($9.99/month subscription).",
+        "theme": "Tech Education",
+        "trends_context": "[tech] I don't recommend Tailwind CSS\n[startup] Share your startup - quarterly post\n[tech] Go 1.27 Interactive Tour\n[startup] Feedback Friday\n[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built\n[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote\n[tech] Seedance 2.5\n[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote\n[tech] MkLinux and the pimped-out Apple Workgroup Server 9150\n[startup] When to decide to shutdown a revenue making business (I will not promote)\n[tech] Diátaxis\n[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"\n[tech] A big win for Android interoperability\n[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"\n[tech] ASRock BC-250: Building the Budget Steam Machine\n[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Code Version Explainer",
+        "problem": "Developers often need to quickly understand the key changes and interactive features of new programming language versions (like Go 1.27) without deep-diving into extensive documentation. This app provides concise, interactive summaries.",
+        "monetization": "SaaS for teams ($20/month/user) with a freemium tier for individual developers.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] I don't recommend Tailwind CSS\n[startup] Share your startup - quarterly post\n[tech] Go 1.27 Interactive Tour\n[startup] Feedback Friday\n[tech] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built\n[startup] Lead investor stopped funding us, now wants to buy my shares at the lowest price. I will not promote\n[tech] Seedance 2.5\n[startup] why hasn't there been an app like Pokemon Go in a long time that brings together social cohesion in society? i will not promote\n[tech] MkLinux and the pimped-out Apple Workgroup Server 9150\n[startup] When to decide to shutdown a revenue making business (I will not promote)\n[tech] Diátaxis\n[startup] I made a Live Flight Radar for your watch, how do I ship it. \"I will not promote\"\n[tech] A big win for Android interoperability\n[startup] I made a Flight Radar for your watch, how do I ship it \"I will not promote\"\n[tech] ASRock BC-250: Building the Budget Steam Machine\n[startup] Which CRM do you use? HubSpot, SalesForce, Niche CRM (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
