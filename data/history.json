@@ -7453,5 +7453,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "generated_at": "2026-08-03T10:31:39+00:00",
+    "trends": [
+      "[tech] Don't be a meat proxy",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Prevent cognitive debt by manually retyping LLM-generated code",
+      "[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.",
+      "[tech] Bonsai: Janestreet's UI Library",
+      "[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )",
+      "[tech] Less Coffee, Better Sleep",
+      "[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]",
+      "[tech] Rust project goals: Immobile types and guaranteed destructors",
+      "[startup] How much equity stake is fair? I will not promote.",
+      "[tech] What DMARC Protects You From, and What It Does Not",
+      "[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote",
+      "[tech] Show HN: Isopolis – Isometric pixel map of SF",
+      "[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote."
+    ],
+    "ideas": [
+      {
+        "name": "SmartSleep Coach",
+        "problem": "Indivíduos que lutam com a qualidade do sono e padrões irregulares de sono precisam de um guia personalizado para otimizar seu descanso. Este app oferece análises baseadas em dados e recomendações acionáveis.",
+        "monetization": "Freemium com recursos premium por assinatura mensal (ex: US$ 7,99/mês)",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] Don't be a meat proxy\n[startup] Share your startup - quarterly post\n[tech] Qwen3.8-Max: A New Bar for Coding and Cowork\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Prevent cognitive debt by manually retyping LLM-generated code\n[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.\n[tech] Bonsai: Janestreet's UI Library\n[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )\n[tech] Less Coffee, Better Sleep\n[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]\n[tech] Rust project goals: Immobile types and guaranteed destructors\n[startup] How much equity stake is fair? I will not promote.\n[tech] What DMARC Protects You From, and What It Does Not\n[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote\n[tech] Show HN: Isopolis – Isometric pixel map of SF\n[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Local Craft Marketplace",
+        "problem": "Pequenos artesãos e criadores independentes têm dificuldade em alcançar um público mais amplo e gerenciar vendas de forma eficiente. Este marketplace conecta criadores com consumidores que buscam produtos únicos e feitos à mão.",
+        "monetization": "Comissão de 15% sobre cada venda realizada na plataforma",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] Don't be a meat proxy\n[startup] Share your startup - quarterly post\n[tech] Qwen3.8-Max: A New Bar for Coding and Cowork\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Prevent cognitive debt by manually retyping LLM-generated code\n[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.\n[tech] Bonsai: Janestreet's UI Library\n[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )\n[tech] Less Coffee, Better Sleep\n[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]\n[tech] Rust project goals: Immobile types and guaranteed destructors\n[startup] How much equity stake is fair? I will not promote.\n[tech] What DMARC Protects You From, and What It Does Not\n[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote\n[tech] Show HN: Isopolis – Isometric pixel map of SF\n[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Personal Project Motivator",
+        "problem": "Pessoas com muitos projetos pessoais em andamento (coding, hobbies, etc.) frequentemente perdem o impulso e a organização. Este app ajuda a manter o foco, acompanhar o progresso e superar a procrastinação com gamificação e lembretes.",
+        "monetization": "SaaS B2C com um plano gratuito e um plano Pro por US$ 4,99/mês",
+        "theme": "Productivity",
+        "trends_context": "[tech] Don't be a meat proxy\n[startup] Share your startup - quarterly post\n[tech] Qwen3.8-Max: A New Bar for Coding and Cowork\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Prevent cognitive debt by manually retyping LLM-generated code\n[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.\n[tech] Bonsai: Janestreet's UI Library\n[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )\n[tech] Less Coffee, Better Sleep\n[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]\n[tech] Rust project goals: Immobile types and guaranteed destructors\n[startup] How much equity stake is fair? I will not promote.\n[tech] What DMARC Protects You From, and What It Does Not\n[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote\n[tech] Show HN: Isopolis – Isometric pixel map of SF\n[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Refactorer",
+        "problem": "Desenvolvedores que geram código com LLMs precisam de uma ferramenta para refatorar e otimizar o código produzido automaticamente, garantindo manutenibilidade e evitando débito cognitivo. Este app sugere melhorias e alternativas.",
+        "monetization": "SaaS B2B com planos baseados no volume de código processado (ex: US$ 50/mês para 100k linhas)",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Don't be a meat proxy\n[startup] Share your startup - quarterly post\n[tech] Qwen3.8-Max: A New Bar for Coding and Cowork\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Prevent cognitive debt by manually retyping LLM-generated code\n[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.\n[tech] Bonsai: Janestreet's UI Library\n[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )\n[tech] Less Coffee, Better Sleep\n[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]\n[tech] Rust project goals: Immobile types and guaranteed destructors\n[startup] How much equity stake is fair? I will not promote.\n[tech] What DMARC Protects You From, and What It Does Not\n[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote\n[tech] Show HN: Isopolis – Isometric pixel map of SF\n[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Small Business Growth Plan",
+        "problem": "Empreendedores de pequenas empresas, especialmente em nichos, muitas vezes não sabem como abordar o Go-To-Market (GTM) ou validar estratégias de crescimento. Este app oferece templates, checklists e feedback direcionado para GTM.",
+        "monetization": "Assinatura anual (US$ 199/ano) com acesso a recursos e comunidade",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Don't be a meat proxy\n[startup] Share your startup - quarterly post\n[tech] Qwen3.8-Max: A New Bar for Coding and Cowork\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Prevent cognitive debt by manually retyping LLM-generated code\n[startup] Accidentally built a userbase in a dying niche. Not sure what to do. I will not promote.\n[tech] Bonsai: Janestreet's UI Library\n[startup] The trick that got a slow, change-averse customer to say yes: I stopped selling them anything and gave them an incentive instead. ( I will not promote )\n[tech] Less Coffee, Better Sleep\n[startup] How would you approach GTM? Initial ICPs are AI startups that have already reached PMF (or are close) [I will not promote]\n[tech] Rust project goals: Immobile types and guaranteed destructors\n[startup] How much equity stake is fair? I will not promote.\n[tech] What DMARC Protects You From, and What It Does Not\n[startup] Which has had a bigger impact on your startup's growth—guest posting or being featured by others? I will not promote\n[tech] Show HN: Isopolis – Isometric pixel map of SF\n[startup] How do you keep going when the business is real but the cash isn't there yet? I will not promote.",
+        "created_at": ""
+      }
+    ]
   }
 ]
