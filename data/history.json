@@ -7653,5 +7653,73 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "generated_at": "2026-08-06T09:34:05+00:00",
+    "trends": [
+      "[tech] Crime Pays but Botany Doesn't",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] How to Make a Nintendo 64 Game in 2026",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] [ Removed by Reddit ]",
+      "[tech] What I love about Django",
+      "[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote",
+      "[r/SomebodyMakeThis] Lock button on remotes",
+      "[tech] Discovery Loop",
+      "[startup] Startup equity “vesting”. I will not promote",
+      "[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?",
+      "[tech] Let's all meet up in the Y2K",
+      "[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)",
+      "[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote",
+      "[tech] Zed DeltaDB",
+      "[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote",
+      "[tech] The title cards in Blade Runner are amazing",
+      "[startup] Which experiment would you focus on? (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Remote Lock Locator",
+        "problem": "Utilizadores perdem frequentemente botões de controle remoto para TVs, ar condicionado, etc. Precisam de uma forma fácil de encontrar onde os deixaram.",
+        "monetization": "Freemium com IAP (ex: 'Localização Avançada', 'Histórico de Localização') 2.99USD por recurso.",
+        "theme": "Consumer Gadget Finder",
+        "trends_context": "[tech] Crime Pays but Botany Doesn't\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How to Make a Nintendo 64 Game in 2026\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] What I love about Django\n[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote\n[r/SomebodyMakeThis] Lock button on remotes\n[tech] Discovery Loop\n[startup] Startup equity “vesting”. I will not promote\n[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?\n[tech] Let's all meet up in the Y2K\n[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)\n[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\n[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote\n[tech] Zed DeltaDB\n[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote\n[tech] The title cards in Blade Runner are amazing\n[startup] Which experiment would you focus on? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Vesting Schedule Tracker",
+        "problem": "Fundadores e funcionários em startups lutam para acompanhar e entender os cronogramas de vesting de equity, levando a confusão e desconfiança.",
+        "monetization": "SaaS B2B 19USD/mês por empresa, com tiers para diferentes tamanhos de equipe.",
+        "theme": "Startup Finance Ops",
+        "trends_context": "[tech] Crime Pays but Botany Doesn't\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How to Make a Nintendo 64 Game in 2026\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] What I love about Django\n[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote\n[r/SomebodyMakeThis] Lock button on remotes\n[tech] Discovery Loop\n[startup] Startup equity “vesting”. I will not promote\n[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?\n[tech] Let's all meet up in the Y2K\n[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)\n[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\n[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote\n[tech] Zed DeltaDB\n[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote\n[tech] The title cards in Blade Runner are amazing\n[startup] Which experiment would you focus on? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "AI Job Matcher",
+        "problem": "Desenvolvedores de IA e equipes de startups buscam ferramentas para otimizar o processo de contratação, correlacionando habilidades técnicas com necessidades de projetos de IA específicas.",
+        "monetization": "SaaS B2B 49USD/mês por conta de recrutamento, com recursos adicionais para análise de CVs e correspondência de habilidades.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Crime Pays but Botany Doesn't\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How to Make a Nintendo 64 Game in 2026\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] What I love about Django\n[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote\n[r/SomebodyMakeThis] Lock button on remotes\n[tech] Discovery Loop\n[startup] Startup equity “vesting”. I will not promote\n[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?\n[tech] Let's all meet up in the Y2K\n[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)\n[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\n[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote\n[tech] Zed DeltaDB\n[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote\n[tech] The title cards in Blade Runner are amazing\n[startup] Which experiment would you focus on? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Gardening Success Predictor",
+        "problem": "Amadores de jardinagem lutam para prever o sucesso do cultivo com base em condições locais (solo, clima, tipo de planta), levando a desperdício de tempo e recursos.",
+        "monetization": "Freemium com acesso a previsões básicas, IAP para previsões detalhadas e sugestões de cuidados 3.99USD.",
+        "theme": "Hobbyist Gardener",
+        "trends_context": "[tech] Crime Pays but Botany Doesn't\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How to Make a Nintendo 64 Game in 2026\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] What I love about Django\n[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote\n[r/SomebodyMakeThis] Lock button on remotes\n[tech] Discovery Loop\n[startup] Startup equity “vesting”. I will not promote\n[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?\n[tech] Let's all meet up in the Y2K\n[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)\n[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\n[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote\n[tech] Zed DeltaDB\n[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote\n[tech] The title cards in Blade Runner are amazing\n[startup] Which experiment would you focus on? (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Deflated Deal Buffer",
+        "problem": "Fundadores de startups frequentemente enfrentam contratempos significativos (ex: acordos que caem) e precisam de um espaço privado e de apoio para processar emoções e buscar conselhos construtivos de pares.",
+        "monetization": "Comunidade paga com acesso a fóruns moderados e sessões de grupo semanais, 9.99USD/mês.",
+        "theme": "Startup Support",
+        "trends_context": "[tech] Crime Pays but Botany Doesn't\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] How to Make a Nintendo 64 Game in 2026\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [ Removed by Reddit ]\n[tech] What I love about Django\n[startup] A huge deal just fell through and I'm feeling a bit deflated - I will not promote\n[r/SomebodyMakeThis] Lock button on remotes\n[tech] Discovery Loop\n[startup] Startup equity “vesting”. I will not promote\n[r/SomebodyMakeThis] What's one thing you've searched everywhere for but could never find?\n[tech] Let's all meet up in the Y2K\n[startup] The \"$1M AI Solopreneur\" Mystery: Does Anyone Actually Have Real Examples? (I will not promote)\n[tech] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\n[startup] Every founder i know writes investor updates differently and a board member finally asked why ours look nothing like the last company he funded | I will not promote\n[tech] Zed DeltaDB\n[startup] Should I focus on the first 10 customers or on building a path to the first $1M MRR? I will not promote\n[tech] The title cards in Blade Runner are amazing\n[startup] Which experiment would you focus on? (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
