@@ -7937,5 +7937,76 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "generated_at": "2026-08-10T08:20:23+00:00",
+    "trends": [
+      "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "[startup] Share your startup - quarterly post",
+      "[tech] What Happened to HackerOne?",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] The Philippines' big offshoring industry is growing despite AI",
+      "[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)",
+      "[tech] Run Android ARM64 VR APKs on Apple Vision Pro",
+      "[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)",
+      "[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "[startup] Can build anything, can't find anything worth building[i will not promote]",
+      "[tech] How I use LLMs to learn complex topics",
+      "[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote",
+      "[tech] Auto mode is now the default in Claude Code",
+      "[tech] An Interesting Fourier Transform – 1/F Noise",
+      "[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote."
+    ],
+    "ideas": [
+      {
+        "name": "Niche Hobbyist Marketplace",
+        "problem": "Hobbyists often struggle to find specialized supplies or connect with others in their niche. This platform allows users to buy, sell, and trade rare items and services within specific hobby communities.",
+        "monetization": "Marketplace fee of 8% on transactions and optional premium listings.",
+        "theme": "Niche Consumer",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Local Artisan Connector",
+        "problem": "Consumers want to support local artisans but find it hard to discover them and their unique products. This app creates a curated directory and discovery platform for local craftspeople and their creations.",
+        "monetization": "Subscription for artisans ($15/month) for enhanced profiles and featured placement, and a small commission on direct sales facilitated through the app.",
+        "theme": "Local Business Services",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Small Business Workflow",
+        "problem": "Small businesses often juggle multiple tools for project management, client communication, and invoicing, leading to inefficiency. This app integrates these core functions into a single, user-friendly dashboard.",
+        "monetization": "SaaS B2B tiered pricing ($49/month for basic, $99/month for premium features, based on team size).",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "AI Agent Sandbox",
+        "problem": "Developers and researchers need a safe and efficient way to test and deploy AI agents without complex setup. This platform provides disposable, isolated sandboxes specifically designed for AI agent experimentation.",
+        "monetization": "Pay-as-you-go for sandbox usage (based on compute time) with a free tier for limited experimentation.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Parenting Skill Share",
+        "problem": "New and experienced parents often seek practical, real-world advice beyond generic parenting books. This app connects parents with experienced individuals and provides forums for sharing tested parenting strategies and tips.",
+        "monetization": "Freemium model with optional premium content/webinars from parenting experts, and a referral system for new users.",
+        "theme": "Parenting Support",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      },
+      {
+        "name": "Personal Project Organizer",
+        "problem": "Individuals often have multiple personal projects (learning a skill, home renovation, creative endeavors) that they struggle to track and manage effectively. This app provides a structured way to plan, track progress, and set achievable goals for personal endeavors.",
+        "monetization": "Freemium with core features free, and a Pro subscription ($5.99/month) for advanced features like team collaboration on projects (e.g., family projects) and detailed analytics.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+        "created_at": ""
+      }
+    ]
   }
 ]
