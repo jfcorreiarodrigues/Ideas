@@ -1,70 +1,71 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T08:20:23+00:00",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:02:19+00:00",
   "trends": [
-    "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon",
     "[startup] Share your startup - quarterly post",
-    "[tech] What Happened to HackerOne?",
+    "[tech] Show HN: Mcptoon – Token-efficient MCP CLI client",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] The Philippines' big offshoring industry is growing despite AI",
-    "[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)",
-    "[tech] Run Android ARM64 VR APKs on Apple Vision Pro",
-    "[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)",
-    "[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "[startup] Can build anything, can't find anything worth building[i will not promote]",
-    "[tech] How I use LLMs to learn complex topics",
-    "[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote",
-    "[tech] Auto mode is now the default in Claude Code",
-    "[tech] An Interesting Fourier Transform – 1/F Noise",
-    "[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote."
+    "[tech] Chicken Scheme 6.0",
+    "[startup] advice for staying focused?? i will not promote",
+    "[tech] As AI eats the web, the internet’s collective memory is disappearing",
+    "[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote",
+    "[tech] LFM2.5 2.6B model competitive with 4x larger models",
+    "[startup] What valuation should I raise at? (I will not promote)",
+    "[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)",
+    "[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.",
+    "[tech] The “mechanical miracle” that ruined Mark Twain’s life",
+    "[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote"
   ],
   "ideas": [
     {
-      "name": "Niche Hobbyist Marketplace",
-      "problem": "Hobbyists often struggle to find specialized supplies or connect with others in their niche. This platform allows users to buy, sell, and trade rare items and services within specific hobby communities.",
-      "monetization": "Marketplace fee of 8% on transactions and optional premium listings.",
-      "theme": "Niche Consumer",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+      "name": "Startup Equity Guardian",
+      "problem": "Founders often get screwed out of their equity due to complex agreements and lack of awareness. This app provides clear, understandable explanations and checklists to safeguard founder equity.",
+      "monetization": "Freemium with premium templates and expert consultation access for a one-time fee or subscription.",
+      "theme": "Startup Legal",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
       "created_at": ""
     },
     {
-      "name": "Local Artisan Connector",
-      "problem": "Consumers want to support local artisans but find it hard to discover them and their unique products. This app creates a curated directory and discovery platform for local craftspeople and their creations.",
-      "monetization": "Subscription for artisans ($15/month) for enhanced profiles and featured placement, and a small commission on direct sales facilitated through the app.",
-      "theme": "Local Business Services",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+      "name": "B2B Lead Engine",
+      "problem": "New B2B sales professionals struggle to find effective lead generation strategies. This app offers curated, actionable guides and tools for identifying and nurturing potential clients.",
+      "monetization": "Subscription-based SaaS with tiered access to advanced features and data insights.",
+      "theme": "Small Business Sales",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
       "created_at": ""
     },
     {
-      "name": "Small Business Workflow",
-      "problem": "Small businesses often juggle multiple tools for project management, client communication, and invoicing, leading to inefficiency. This app integrates these core functions into a single, user-friendly dashboard.",
-      "monetization": "SaaS B2B tiered pricing ($49/month for basic, $99/month for premium features, based on team size).",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+      "name": "Wearable AI Assistant",
+      "problem": "Consumers want to leverage AI on their wearable devices for everyday tasks without relying on a phone connection. This app enables efficient, on-device AI agents for personalized assistance.",
+      "monetization": "One-time purchase for the app, with optional premium AI model subscriptions.",
+      "theme": "Consumer AI",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
       "created_at": ""
     },
     {
-      "name": "AI Agent Sandbox",
-      "problem": "Developers and researchers need a safe and efficient way to test and deploy AI agents without complex setup. This platform provides disposable, isolated sandboxes specifically designed for AI agent experimentation.",
-      "monetization": "Pay-as-you-go for sandbox usage (based on compute time) with a free tier for limited experimentation.",
+      "name": "Rubik's Cube Solver",
+      "problem": "Enthusiasts of the Rubik's Cube often seek to understand the vast number of states and explore solving algorithms. This app visualizes cube states and provides interactive solving tutorials.",
+      "monetization": "Freemium model with basic visualization, and a premium tier for advanced algorithm simulation and personalized training plans.",
+      "theme": "Hobbyist Tech",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Corporate Dissolution Helper",
+      "problem": "Small startups that never launched often face hefty fees and complex processes when trying to dissolve their Delaware corporation. This app simplifies the dissolution process with guided steps and cost-saving advice.",
+      "monetization": "One-time fee for access to the dissolution guide and form generation tools.",
+      "theme": "Startup Admin",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "AI Web Memory",
+      "problem": "As AI consumes web content, the internet's collective memory is at risk of disappearing. This tool helps developers archive and retrieve key web content efficiently for training and historical preservation.",
+      "monetization": "SaaS for developers with tiered pricing based on storage and retrieval volume.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
-      "created_at": ""
-    },
-    {
-      "name": "Parenting Skill Share",
-      "problem": "New and experienced parents often seek practical, real-world advice beyond generic parenting books. This app connects parents with experienced individuals and provides forums for sharing tested parenting strategies and tips.",
-      "monetization": "Freemium model with optional premium content/webinars from parenting experts, and a referral system for new users.",
-      "theme": "Parenting Support",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
-      "created_at": ""
-    },
-    {
-      "name": "Personal Project Organizer",
-      "problem": "Individuals often have multiple personal projects (learning a skill, home renovation, creative endeavors) that they struggle to track and manage effectively. This app provides a structured way to plan, track progress, and set achievable goals for personal endeavors.",
-      "monetization": "Freemium with core features free, and a Pro subscription ($5.99/month) for advanced features like team collaboration on projects (e.g., family projects) and detailed analytics.",
-      "theme": "Productivity Consumer",
-      "trends_context": "[tech] Docker Sandboxes – Disposable, isolated sandboxes for AI agents\n[startup] Share your startup - quarterly post\n[tech] What Happened to HackerOne?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] The Philippines' big offshoring industry is growing despite AI\n[startup] Ten years of getting good at building. I still don't know how to get anyone to care once it's built. (i will not promote)\n[tech] Run Android ARM64 VR APKs on Apple Vision Pro\n[startup] Have you ever known you were making the wrong decision, but still kept going? (I will not promote)\n[tech] Show HN: Voice driven murder mystery, Interview AI suspects with your voice\n[startup] Can build anything, can't find anything worth building[i will not promote]\n[tech] How I use LLMs to learn complex topics\n[startup] One year building, three months selling, zero customers. Frustrated and exhausted - where did I go wrong? i will not promote\n[tech] Auto mode is now the default in Claude Code\n[tech] An Interesting Fourier Transform – 1/F Noise\n[startup] After over eight months of grinding, we made our first sale and now have over $1,000 in revenue! I will not promote.",
+      "trends_context": "[tech] H3-metal – Native MiniMax-H3 inference for Apple Silicon\n[startup] Share your startup - quarterly post\n[tech] Show HN: Mcptoon – Token-efficient MCP CLI client\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Chicken Scheme 6.0\n[startup] advice for staying focused?? i will not promote\n[tech] As AI eats the web, the internet’s collective memory is disappearing\n[startup] How to dissolve Delaware corp without paying a ton of fees? My company never did any actual business...I will not promote\n[tech] LFM2.5 2.6B model competitive with 4x larger models\n[startup] What valuation should I raise at? (I will not promote)\n[tech] Show HN: Scroll through all 43252003274489856000 Rubik's Cube states\n[startup] i want to know the common reasons founders get screwed out of their equity (i will not promote ffs)\n[tech] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots\n[startup] How do you prove you have a repeatable go-to-market channel at pre-seed? I will not promote.\n[tech] The “mechanical miracle” that ruined Mark Twain’s life\n[startup] New to B2B sales ,not sure where to start with lead generation. I will not promote",
       "created_at": ""
     }
   ]
