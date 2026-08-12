@@ -8080,5 +8080,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "generated_at": "2026-08-12T08:08:13+00:00",
+    "trends": [
+      "[tech] The hardest working font in Manhattan (2025)",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Compression is prediction",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] llama.cpp",
+      "[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote",
+      "[tech] WorldClaw Agentic 3D open-world generation at scale",
+      "[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote",
+      "[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]",
+      "[tech] A shell exclamation mark is not for yelling. Be lazy",
+      "[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)",
+      "[tech] LinkedIn CringeBot 3000",
+      "[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"",
+      "[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote"
+    ],
+    "ideas": [
+      {
+        "name": "Font Designer Toolkit",
+        "problem": "Designers e tipógrafos que trabalham com fontes digitais precisam de ferramentas eficientes para criar, editar e gerenciar glifos, kerning e outros parâmetros tipográficos complexos.",
+        "monetization": "SaaS B2B/Pro 19.99USD/mes com níveis de recursos, ou venda única de licença premium.",
+        "theme": "Creative Tools",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Regret Support",
+        "problem": "Fundadores de startups que se sentem sobrecarregados ou arrependidos com o caminho de venture capital procuram um espaço seguro e anónimo para partilhar experiências e obter conselhos práticos de outros que passaram pelo mesmo.",
+        "monetization": "Freemium com fóruns públicos e grupos privados pagos por assinatura mensal (4.99USD/mes) para acesso a mentores e conteúdo exclusivo.",
+        "theme": "Founder Wellbeing",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Material Discovery AI",
+        "problem": "Cientistas e engenheiros de materiais precisam de acelerar o processo de descoberta de novos compostos com propriedades específicas para aplicações industriais e de pesquisa.",
+        "monetization": "SaaS B2B com base no uso de recursos computacionais e acesso a bases de dados proprietárias, com planos a partir de 500USD/mês.",
+        "theme": "AI Research",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Agentic World Builder",
+        "problem": "Desenvolvedores de jogos indie e estúdios pequenos procuram uma forma eficiente de gerar mundos 3D abertos e complexos com agentes autónomos para povoar os seus jogos.",
+        "monetization": "Licença de uso única para uso comercial ou assinatura mensal (29.99USD/mes) para acesso a atualizações e recursos avançados.",
+        "theme": "Game Dev Tools",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Job Search Clarity",
+        "problem": "Profissionais que procuram emprego, especialmente após períodos de incerteza ou transição, necessitam de um orientador claro e prático para identificar oportunidades alinhadas com as suas habilidades e ambições, evitando a sobrecarga de informações.",
+        "monetization": "Freemium com recursos básicos gratuitos e um plano premium (9.99USD/mês) para acesso a análises personalizadas e sessões de mentoria virtuais.",
+        "theme": "Career Navigation",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Problem Solver Prompt",
+        "problem": "Indivíduos em qualquer área (pessoal ou profissional) que se deparam com problemas frustrantes e ineficientes no seu dia-a-dia, mas têm dificuldade em articular a dor e a necessidade de uma solução melhor.",
+        "monetization": "Ferramenta gratuita com sugestões de monetização para soluções emergentes, ou um pequeno pagamento único (2.99USD) para acesso ilimitado a um banco de problemas e ideias de soluções.",
+        "theme": "Consumer Insight",
+        "trends_context": "[tech] The hardest working font in Manhattan (2025)\n[startup] Share your startup - quarterly post\n[tech] Compression is prediction\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] llama.cpp\n[startup] Is it just me or do you regret starting a VC backed company and want to go back to job? I will not promote\n[tech] WorldClaw Agentic 3D open-world generation at scale\n[startup] Do you know of any “tarpit” ideas that turned out successful? I will not promote\n[tech] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials\n[startup] I keep distracting myself from my own startup. How do I stop? [I will not promote]\n[tech] A shell exclamation mark is not for yelling. Be lazy\n[startup] What problem makes you think Omfg this sucks there must be a better way? (I will not promote)\n[tech] LinkedIn CringeBot 3000\n[startup] Startups have began hiring again - I'm grateful and \"I will not promote\"\n[tech] The lifesaving secret hidden inside a horseshoe crab's blue blood\n[startup] If you could talk to an expert for 30 minutes before starting your business, what would you ask? I will not Promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
