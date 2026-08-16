@@ -8359,5 +8359,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-16",
+    "generated_at": "2026-08-16T07:22:05+00:00",
+    "trends": [
+      "[tech] Asus Bike Booster",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Show HN: Laptop is the last place your secrets are still in plaintext",
+      "[startup] Feedback Friday",
+      "[r/SomebodyMakeThis] What software/app do you wish existed?",
+      "[tech] Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "[startup] Preparing to inform main job of my startup - I will not Promote",
+      "[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?",
+      "[tech] Semaglutide linked to lower predicted dementia risk",
+      "[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote",
+      "[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?",
+      "[tech] Patterns and problems in emerging multi-agent systems",
+      "[startup] How to cold email/validate your idea I will not promote",
+      "[tech] Cultivating a state of mind where new ideas are born (2023)",
+      "[startup] Starting outreach at a local AI law startup, I will not promote",
+      "[tech] Guiding Ships with Moire Patterns",
+      "[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]",
+      "[tech] Software Engineering fundamentals matter more",
+      "[startup] What is one thing I can do every day that will help me get customers? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Party Photo Share",
+        "problem": "Organizers and attendees at parties struggle to efficiently collect and share photos and videos from multiple sources. This app provides a central hub for all event media, ensuring no moment is lost.",
+        "monetization": "Freemium with a 4.99USD one-time unlock for unlimited uploads and storage, or a 19.99USD annual subscription for advanced event management features.",
+        "theme": "Event Tech",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Condom Disposal Buddy",
+        "problem": "Individuals often face an awkward and inconvenient situation when needing to dispose of used condoms discreetly and hygienically when away from a trash can. This app offers practical, discreet solutions and educational content.",
+        "monetization": "Freemium with optional premium content on sexual health and discreet disposal product recommendations via affiliate links.",
+        "theme": "Health & Wellness",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Idea Navigator",
+        "problem": "Early-stage founders and developers are exploring AI's potential for their startups but struggle to identify specific, actionable applications and integrate them effectively. This tool helps brainstorm and map AI solutions to business problems.",
+        "monetization": "SaaS B2B with tiered pricing based on team size and feature access, starting at 99USD/month for small teams.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business AI Assistant",
+        "problem": "Small local businesses lack access to affordable AI tools for tasks like customer service, marketing copy generation, and internal communication summarization. This app provides a user-friendly interface for leveraging AI in daily operations.",
+        "monetization": "SaaS B2B with a 29USD/month subscription for core features, plus add-ons for advanced AI functionalities.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Dementia Risk Tracker",
+        "problem": "Individuals concerned about cognitive health want to understand and potentially mitigate factors contributing to dementia risk. This app tracks lifestyle choices and provides personalized insights linked to recent scientific findings.",
+        "monetization": "Freemium with a 7.99USD/month subscription for personalized recommendations and progress monitoring, integrating with wearable health data.",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "New Idea Cultivator",
+        "problem": "Creatives, entrepreneurs, and professionals want to foster a mindset conducive to generating novel ideas but struggle with structured methods. This app offers curated exercises, journaling prompts, and inspiration based on established creativity techniques.",
+        "monetization": "Freemium with a 4.99USD/month subscription for advanced prompts, mood tracking, and community sharing features.",
+        "theme": "Productivity",
+        "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]

@@ -1,70 +1,75 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T07:20:52+00:00",
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T07:22:05+00:00",
   "trends": [
-    "[tech] Qwen 3.8 27B",
+    "[tech] Asus Bike Booster",
     "[startup] Share your startup - quarterly post",
-    "[tech] The other Sean Byrne doesn't exist",
+    "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+    "[tech] Show HN: Laptop is the last place your secrets are still in plaintext",
     "[startup] Feedback Friday",
-    "[tech] Going Dark, and the era of law enforcement hacking",
-    "[startup] What is one thing I can do every day that will help me get customers? I will not promote",
-    "[tech] Coin-sized device can hack a Boeing 737",
-    "[startup] I will not promote : did books actually help u in business or not really?",
-    "[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-    "[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote",
-    "[tech] The Ploopy A+ Trackball Is Here",
-    "[startup] When to bring on co-founders? I will not promote",
-    "[tech] eigendrum",
-    "[tech] Google is making private AI practical with homomorphic encryption",
-    "[startup] (rant) Disapointed By Life and my career(I will not promote)"
+    "[r/SomebodyMakeThis] What software/app do you wish existed?",
+    "[tech] Asynchronous I/O in DuckDB: Work, Thread, Work",
+    "[startup] Preparing to inform main job of my startup - I will not Promote",
+    "[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?",
+    "[tech] Semaglutide linked to lower predicted dementia risk",
+    "[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote",
+    "[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?",
+    "[tech] Patterns and problems in emerging multi-agent systems",
+    "[startup] How to cold email/validate your idea I will not promote",
+    "[tech] Cultivating a state of mind where new ideas are born (2023)",
+    "[startup] Starting outreach at a local AI law startup, I will not promote",
+    "[tech] Guiding Ships with Moire Patterns",
+    "[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]",
+    "[tech] Software Engineering fundamentals matter more",
+    "[startup] What is one thing I can do every day that will help me get customers? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Track My Startup Advisor",
-      "problem": "Founders negotiating advisor roles often lack clarity on expectations, compensation, and legal implications. This app helps them track key discussion points and document agreements.",
-      "monetization": "Freemium with premium features for contract template generation and expert legal review integrations, priced at 19.99 USD/month.",
-      "theme": "Startup Ops",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
+      "name": "Party Photo Share",
+      "problem": "Organizers and attendees at parties struggle to efficiently collect and share photos and videos from multiple sources. This app provides a central hub for all event media, ensuring no moment is lost.",
+      "monetization": "Freemium with a 4.99USD one-time unlock for unlimited uploads and storage, or a 19.99USD annual subscription for advanced event management features.",
+      "theme": "Event Tech",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Boeing Hack Scanner",
-      "problem": "Individuals concerned about the security of aviation systems or personal IoT devices exposed to similar vulnerabilities need a simplified way to understand potential risks and mitigation strategies.",
-      "monetization": "One-time purchase for detailed risk reports and educational content (9.99 USD), with optional subscription for real-time threat intelligence updates (4.99 USD/month).",
-      "theme": "Security Consumer",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
+      "name": "Condom Disposal Buddy",
+      "problem": "Individuals often face an awkward and inconvenient situation when needing to dispose of used condoms discreetly and hygienically when away from a trash can. This app offers practical, discreet solutions and educational content.",
+      "monetization": "Freemium with optional premium content on sexual health and discreet disposal product recommendations via affiliate links.",
+      "theme": "Health & Wellness",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Doctor Advisor Negotiator",
-      "problem": "Medical professionals transitioning into startup advisory roles are unfamiliar with typical compensation structures, equity negotiations, and legal responsibilities. This tool provides guidance and benchmarks.",
-      "monetization": "Subscription-based access to negotiation frameworks, market data, and anonymized case studies, priced at 29.99 USD/month.",
-      "theme": "Professional Services",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Trackable Daily Habits",
-      "problem": "Users looking for effective ways to acquire customers without direct promotion struggle with consistent daily actions. This app helps them define, track, and measure the impact of non-promotional customer acquisition activities.",
-      "monetization": "Freemium model with advanced analytics and habit chaining features, priced at 7.99 USD/month or 79.99 USD annually.",
-      "theme": "Productivity Consumer",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Community Business Book Review",
-      "problem": "Entrepreneurs and business owners seek authentic, unfiltered feedback on whether business books have truly been impactful, beyond marketing hype. This platform aggregates and categorizes user reviews.",
-      "monetization": "Community-driven platform with optional premium subscription for enhanced search filters and direct access to author Q&As (4.99 USD/month).",
-      "theme": "Niche Community",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "AI Model Comparator Pro",
-      "problem": "Developers and researchers building with AI models often need to compare the performance, cost, and efficiency of different LLMs for specific tasks. This tool offers a structured comparison framework.",
-      "monetization": "SaaS model with tiered pricing based on usage and feature access, starting at 49.99 USD/month for individual developers.",
+      "name": "AI Idea Navigator",
+      "problem": "Early-stage founders and developers are exploring AI's potential for their startups but struggle to identify specific, actionable applications and integrate them effectively. This tool helps brainstorm and map AI solutions to business problems.",
+      "monetization": "SaaS B2B with tiered pricing based on team size and feature access, starting at 99USD/month for small teams.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Qwen 3.8 27B\n[startup] Share your startup - quarterly post\n[tech] The other Sean Byrne doesn't exist\n[startup] Feedback Friday\n[tech] Going Dark, and the era of law enforcement hacking\n[startup] What is one thing I can do every day that will help me get customers? I will not promote\n[tech] Coin-sized device can hack a Boeing 737\n[startup] I will not promote : did books actually help u in business or not really?\n[tech] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia\n[startup] I’m a doctor negotiating with a company about my role as an advisor vs potentially CMO.. I am completely new to start ups what should I know/discuss? I will not promote\n[tech] The Ploopy A+ Trackball Is Here\n[startup] When to bring on co-founders? I will not promote\n[tech] eigendrum\n[tech] Google is making private AI practical with homomorphic encryption\n[startup] (rant) Disapointed By Life and my career(I will not promote)",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Local Business AI Assistant",
+      "problem": "Small local businesses lack access to affordable AI tools for tasks like customer service, marketing copy generation, and internal communication summarization. This app provides a user-friendly interface for leveraging AI in daily operations.",
+      "monetization": "SaaS B2B with a 29USD/month subscription for core features, plus add-ons for advanced AI functionalities.",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Dementia Risk Tracker",
+      "problem": "Individuals concerned about cognitive health want to understand and potentially mitigate factors contributing to dementia risk. This app tracks lifestyle choices and provides personalized insights linked to recent scientific findings.",
+      "monetization": "Freemium with a 7.99USD/month subscription for personalized recommendations and progress monitoring, integrating with wearable health data.",
+      "theme": "Health Tracking",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "New Idea Cultivator",
+      "problem": "Creatives, entrepreneurs, and professionals want to foster a mindset conducive to generating novel ideas but struggle with structured methods. This app offers curated exercises, journaling prompts, and inspiration based on established creativity techniques.",
+      "monetization": "Freemium with a 4.99USD/month subscription for advanced prompts, mood tracking, and community sharing features.",
+      "theme": "Productivity",
+      "trends_context": "[tech] Asus Bike Booster\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Show HN: Laptop is the last place your secrets are still in plaintext\n[startup] Feedback Friday\n[r/SomebodyMakeThis] What software/app do you wish existed?\n[tech] Asynchronous I/O in DuckDB: Work, Thread, Work\n[startup] Preparing to inform main job of my startup - I will not Promote\n[r/SomebodyMakeThis] An app for collecting photos, videos, and birthday wishes from everyone at a party?\n[tech] Semaglutide linked to lower predicted dementia risk\n[startup] First time founders who are launching a startup right now: How are you leveraging AI? I will not promote\n[r/SomebodyMakeThis] Anyone else struggle with where to put a used condom before reaching the trash?\n[tech] Patterns and problems in emerging multi-agent systems\n[startup] How to cold email/validate your idea I will not promote\n[tech] Cultivating a state of mind where new ideas are born (2023)\n[startup] Starting outreach at a local AI law startup, I will not promote\n[tech] Guiding Ships with Moire Patterns\n[startup] What should I know ahead of time before going in full time on a startup idea? [I will not promote]\n[tech] Software Engineering fundamentals matter more\n[startup] What is one thing I can do every day that will help me get customers? I will not promote",
       "created_at": ""
     }
   ]
