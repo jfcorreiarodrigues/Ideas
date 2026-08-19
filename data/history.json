@@ -8583,5 +8583,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "generated_at": "2026-08-19T07:29:20+00:00",
+    "trends": [
+      "[tech] OpenLogi",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Cerebras CS-4",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Scientists stunned by children's lung recovery in ultra low emission zone",
+      "[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote",
+      "[tech] Supersonic Trebuchet [video]",
+      "[startup] As an investor, I don’t want an intro call first I will not promote",
+      "[tech] Palomar: A registry of Lean verified mathematics",
+      "[startup] What is pre-seed? I will not promote",
+      "[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)",
+      "[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+      "[startup] How to find design partners for my startup, I will not promote",
+      "[tech] Meta's blockbuster trial draws parallels to big tobacco",
+      "[startup] Founder looking for one good intro into the API/SDK world. I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Econômico de IA",
+        "problem": "Pequenas empresas de comércio eletrônico lutam para otimizar seus custos contábeis. Elas precisam de uma solução que integre a contabilidade de forma inteligente, seja através de uma plataforma tudo-em-um, um sistema personalizado ou uma combinação estratégica.",
+        "monetization": "SaaS B2B, planos a partir de $49/mês com base no volume de transações.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Saúde Respiratória",
+        "problem": "Indivíduos em áreas urbanas com poluição buscam entender o impacto em sua saúde respiratória e encontrar maneiras de mitigá-lo. Eles precisam de um rastreador que monitore a qualidade do ar local e ofereça conselhos personalizados para recuperação pulmonar.",
+        "monetization": "Freemium com funcionalidades avançadas de análise e relatórios personalizados por $5.99/mês.",
+        "theme": "Health Tracking",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Matemática Lean",
+        "problem": "Pesquisadores e educadores em matemática precisam de um repositório confiável e verificado de conceitos e metodologias matemáticas. Eles buscam uma plataforma que facilite a descoberta e a aplicação de 'Lean mathematics'.",
+        "monetization": "Assinatura anual para acesso premium a conteúdos exclusivos e ferramentas de colaboração, $199/ano.",
+        "theme": "Niche Productivity",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Parceiro de Design",
+        "problem": "Fundadores de startups em estágio inicial procuram parceiros de design experientes que possam ajudar a validar e refinar seus produtos antes do lançamento. Eles precisam de uma forma eficiente de conectar-se com profissionais qualificados que entendam o ciclo de vida de uma startup.",
+        "monetization": "Marketplace com taxa de 15% sobre o valor dos contratos fechados entre fundadores e designers.",
+        "theme": "Startup Support",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Conectores API/SDK",
+        "problem": "Fundadores de startups que buscam acesso ao mundo de APIs e SDKs precisam de introduções direcionadas e de alta qualidade. Eles procuram atalhos para se conectar com players estabelecidos e obter insights valiosos.",
+        "monetization": "Serviço de assinatura para conexões e mentorias personalizadas, $99/mês para 3 conexões qualificadas.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Investimento Pre-Seed",
+        "problem": "Empreendedores que estão no estágio pre-seed frequentemente sentem confusão e receio sobre as dinâmicas de investimento. Eles precisam de clareza sobre o que significa 'pre-seed', como abordar investidores e como navegar as primeiras fases de captação.",
+        "monetization": "Cursos online e guias digitais vendidos individualmente a partir de $29, ou assinatura de $19/mês para acesso a todo o conteúdo.",
+        "theme": "FinTech Consumer",
+        "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
