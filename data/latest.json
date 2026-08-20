@@ -1,71 +1,71 @@
 {
-  "date": "2026-08-19",
-  "generated_at": "2026-08-19T07:29:20+00:00",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T07:31:39+00:00",
   "trends": [
-    "[tech] OpenLogi",
+    "[tech] Windows brings out the Rorschach test in everyone",
     "[startup] Share your startup - quarterly post",
-    "[tech] Cerebras CS-4",
+    "[tech] OpenRouter is joining Stripe",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Scientists stunned by children's lung recovery in ultra low emission zone",
-    "[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote",
-    "[tech] Supersonic Trebuchet [video]",
-    "[startup] As an investor, I don’t want an intro call first I will not promote",
-    "[tech] Palomar: A registry of Lean verified mathematics",
-    "[startup] What is pre-seed? I will not promote",
-    "[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-    "[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)",
-    "[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
-    "[startup] How to find design partners for my startup, I will not promote",
-    "[tech] Meta's blockbuster trial draws parallels to big tobacco",
-    "[startup] Founder looking for one good intro into the API/SDK world. I will not promote"
+    "[tech] Turns are Better than Radians (2022)",
+    "[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)",
+    "[tech] Go 1.27",
+    "[startup] Is this burnout? Should I power through? - I will not promote",
+    "[tech] A faster way to calculate the day of the week",
+    "[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"",
+    "[tech] Google has stopped pushing Git tags for some Android source code",
+    "[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)",
+    "[tech] Manabu Kosaka's Handmade Paper Sculptures",
+    "[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)",
+    "[tech] A joke domain purchase turned in geopolitical warfare",
+    "[startup] How to structure a suite of features without overwhelming first-time users? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Econômico de IA",
-      "problem": "Pequenas empresas de comércio eletrônico lutam para otimizar seus custos contábeis. Elas precisam de uma solução que integre a contabilidade de forma inteligente, seja através de uma plataforma tudo-em-um, um sistema personalizado ou uma combinação estratégica.",
-      "monetization": "SaaS B2B, planos a partir de $49/mês com base no volume de transações.",
+      "name": "Domain War Tracker",
+      "problem": "Utilizadores interessados em notícias geopolíticas querem um agregador que rastreie e apresente de forma organizada a escalada de conflitos ou tensões que começam com incidentes aparentemente triviais, como a compra de um domínio de internet. O objetivo é fornecer clareza num cenário de informações fragmentadas.",
+      "monetization": "Freemium com artigos premium e alertas de notícias por assinatura (9.99 USD/mes)",
+      "theme": "Geopolitical News",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Sculpture Art Viewer",
+      "problem": "Amantes de arte e curiosos desejam explorar esculturas detalhadas de forma imersiva, acessível através de modelos 3D interativos e informações sobre o artista. Este app permite uma apreciação mais profunda de obras de arte táteis em formato digital.",
+      "monetization": "Freemium com acesso a exposições virtuais exclusivas e tours guiados (4.99 USD por exposição)",
+      "theme": "Art Discovery",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Handy Date Calculator",
+      "problem": "Profissionais e estudantes que lidam frequentemente com cálculos de datas e prazos necessitam de uma ferramenta rápida e intuitiva para determinar dias da semana, adicionar/subtrair períodos ou calcular intervalos de tempo. O objetivo é eliminar erros de cálculo manuais e poupar tempo.",
+      "monetization": "Freemium com funcionalidades avançadas de cálculo de feriados e fusos horários por assinatura (2.99 USD/mes)",
+      "theme": "Productivity Tool",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Startup Burnout Ally",
+      "problem": "Fundadores de startups a experienciar burnout e incerteza profissional precisam de um espaço seguro e anónimo para partilhar os seus sentimentos e receber apoio de uma comunidade que entende os desafios únicos do empreendedorismo. O foco é validar experiências e sugerir estratégias de coping.",
+      "monetization": "Acesso a fóruns premium e sessões de grupo moderadas (19.99 USD/mes)",
+      "theme": "Startup Wellness",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "FinTech User Growth",
+      "problem": "Fundadores de fintechs com um produto pronto, mas a lutar com a aquisição de utilizadores e a falta de experiência em fundraising, procuram orientações práticas e estratégicas para expandir a sua base de clientes e navegar no ecossistema de investimento.",
+      "monetization": "Consultoria pontual com base em horas e workshops de crescimento (150 USD/hora)",
       "theme": "Small Business Ops",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Saúde Respiratória",
-      "problem": "Indivíduos em áreas urbanas com poluição buscam entender o impacto em sua saúde respiratória e encontrar maneiras de mitigá-lo. Eles precisam de um rastreador que monitore a qualidade do ar local e ofereça conselhos personalizados para recuperação pulmonar.",
-      "monetization": "Freemium com funcionalidades avançadas de análise e relatórios personalizados por $5.99/mês.",
-      "theme": "Health Tracking",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Matemática Lean",
-      "problem": "Pesquisadores e educadores em matemática precisam de um repositório confiável e verificado de conceitos e metodologias matemáticas. Eles buscam uma plataforma que facilite a descoberta e a aplicação de 'Lean mathematics'.",
-      "monetization": "Assinatura anual para acesso premium a conteúdos exclusivos e ferramentas de colaboração, $199/ano.",
-      "theme": "Niche Productivity",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Parceiro de Design",
-      "problem": "Fundadores de startups em estágio inicial procuram parceiros de design experientes que possam ajudar a validar e refinar seus produtos antes do lançamento. Eles precisam de uma forma eficiente de conectar-se com profissionais qualificados que entendam o ciclo de vida de uma startup.",
-      "monetization": "Marketplace com taxa de 15% sobre o valor dos contratos fechados entre fundadores e designers.",
-      "theme": "Startup Support",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Conectores API/SDK",
-      "problem": "Fundadores de startups que buscam acesso ao mundo de APIs e SDKs precisam de introduções direcionadas e de alta qualidade. Eles procuram atalhos para se conectar com players estabelecidos e obter insights valiosos.",
-      "monetization": "Serviço de assinatura para conexões e mentorias personalizadas, $99/mês para 3 conexões qualificadas.",
-      "theme": "Developer Tools",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Investimento Pre-Seed",
-      "problem": "Empreendedores que estão no estágio pre-seed frequentemente sentem confusão e receio sobre as dinâmicas de investimento. Eles precisam de clareza sobre o que significa 'pre-seed', como abordar investidores e como navegar as primeiras fases de captação.",
-      "monetization": "Cursos online e guias digitais vendidos individualmente a partir de $29, ou assinatura de $19/mês para acesso a todo o conteúdo.",
-      "theme": "FinTech Consumer",
-      "trends_context": "[tech] OpenLogi\n[startup] Share your startup - quarterly post\n[tech] Cerebras CS-4\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Scientists stunned by children's lung recovery in ultra low emission zone\n[startup] Fear ruin a potential golden opportunity with a $1bn company - I will not promote\n[tech] Supersonic Trebuchet [video]\n[startup] As an investor, I don’t want an intro call first I will not promote\n[tech] Palomar: A registry of Lean verified mathematics\n[startup] What is pre-seed? I will not promote\n[tech] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome\n[startup] Moving off an hourly accounting firm for ecomm startup -- piece together a stack, try an all-in-one AI platform, or build custom? (I will not promote)\n[tech] The Vietnam Binh Chau (Chau Tan) Late Tang Wreck\n[startup] How to find design partners for my startup, I will not promote\n[tech] Meta's blockbuster trial draws parallels to big tobacco\n[startup] Founder looking for one good intro into the API/SDK world. I will not promote",
+      "name": "Rorschach Insights",
+      "problem": "Utilizadores comuns interessados em auto-conhecimento e diversão procuram uma plataforma que replique a experiência do teste de Rorschach de forma acessível e privada, oferecendo interpretações básicas para reflexão pessoal. O objetivo é proporcionar uma forma lúdica de explorar perceções.",
+      "monetization": "IAP para testes adicionais e relatórios detalhados de interpretação (1.99 USD por teste)",
+      "theme": "Consumer Psychology",
+      "trends_context": "[tech] Windows brings out the Rorschach test in everyone\n[startup] Share your startup - quarterly post\n[tech] OpenRouter is joining Stripe\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Turns are Better than Radians (2022)\n[startup] Lessons learned one year after raising a $500K pre-seed round (I will not promote)\n[tech] Go 1.27\n[startup] Is this burnout? Should I power through? - I will not promote\n[tech] A faster way to calculate the day of the week\n[startup] The hardest part of building a startup nobody talks about is pretending you're fine. \"I will not promote\"\n[tech] Google has stopped pushing Git tags for some Android source code\n[startup] Left 18 years in banking to launch a fintech MVP. Sitting at 60 users and struggling with distribution (I will not promote)\n[tech] Manabu Kosaka's Handmade Paper Sculptures\n[startup] I have a product that's well past the MVP stage - but no network and no vc expertise. what route should I take? (i will not promote)\n[tech] A joke domain purchase turned in geopolitical warfare\n[startup] How to structure a suite of features without overwhelming first-time users? I will not promote",
       "created_at": ""
     }
   ]
