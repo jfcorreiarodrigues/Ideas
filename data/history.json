@@ -8802,5 +8802,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-22",
+    "generated_at": "2026-08-22T07:22:15+00:00",
+    "trends": [
+      "[tech] Felony Bench",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Kobo can run apps now",
+      "[startup] Feedback Friday",
+      "[tech] Rust Glancer: Rust LSP using 100x less RAM",
+      "[startup] Whats your Startup Hot take? I will not promote",
+      "[tech] There's no reason for software to be slow anymore",
+      "[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote",
+      "[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote",
+      "[tech] Felony charges for citizen deleting phone data at US Border",
+      "[startup] Starting a recruitment agency i will not promote",
+      "[tech] Three important steps in my maturation process",
+      "[startup] What should I have ready before talking to angel investors? (I will not promote",
+      "[tech] Kagi added a setting for removing paywalled links from search results",
+      "[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Digital Will Executor",
+        "problem": "Pessoas frequentemente têm dificuldade em organizar e legar seus ativos digitais (contas online, criptomoedas, etc.). Esta aplicação ajuda a catalogar e designar um executor confiável para gerenciar esses ativos após a morte.",
+        "monetization": "Freemium com assinatura anual para recursos avançados de planejamento e gestão de ativos (ex: 99 USD/ano).",
+        "theme": "Legal Consumer",
+        "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Subtle Sabotage Detector",
+        "problem": "Usuários preocupados com a privacidade que usam smartphones temem que seus dados sejam apagados ou alterados discretamente por terceiros, especialmente em situações de fronteira. Esta app verifica integridade de dados e alerta sobre modificações não autorizadas.",
+        "monetization": "Assinatura mensal (ex: 4.99 USD/mês) para monitoramento contínuo e alertas em tempo real.",
+        "theme": "Consumer Security",
+        "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Rust Performance Analyzer",
+        "problem": "Desenvolvedores Rust buscam otimizar o uso de memória de suas aplicações. Esta ferramenta fornece insights detalhados sobre o uso de RAM e sugestões de otimização para LSPs e outros componentes, inspirado em avanços como o Rust Glancer.",
+        "monetization": "SaaS B2B com planos escalonados (ex: Free, Pro 19 USD/mês, Enterprise). Poderia ser um add-on pago para IDEs populares.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Services Finder",
+        "problem": "Pequenos negócios locais, como oficinas ou consultórios, lutam para alcançar clientes dentro de suas áreas geográficas de forma eficaz. Esta app facilita a descoberta e a conexão de consumidores com prestadores de serviços locais verificados.",
+        "monetization": "Modelo Freemium para negócios (listagem básica gratuita, recursos de destaque pagos) e taxa de comissão sobre agendamentos feitos através da plataforma.",
+        "theme": "Small Business",
+        "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "App Adoption Guide",
+        "problem": "Com a crescente complexidade de softwares e dispositivos (como Kobo rodando apps), consumidores muitas vezes se sentem sobrecarregados. Este guia interativo simplifica a configuração e o uso de novas funcionalidades, tornando a adoção de tecnologia mais acessível.",
+        "monetization": "Freemium com acesso a guias básicos e compra de guias especializados por tópico (ex: 2.99 USD por guia) ou assinatura para acesso ilimitado.",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
