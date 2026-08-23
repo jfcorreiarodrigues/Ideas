@@ -1,63 +1,63 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T07:22:15+00:00",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T07:24:17+00:00",
   "trends": [
-    "[tech] Felony Bench",
+    "[tech] The End of an Athlon",
     "[startup] Share your startup - quarterly post",
-    "[tech] Kobo can run apps now",
+    "[tech] JIT Compiling Code in 5μs",
     "[startup] Feedback Friday",
-    "[tech] Rust Glancer: Rust LSP using 100x less RAM",
-    "[startup] Whats your Startup Hot take? I will not promote",
-    "[tech] There's no reason for software to be slow anymore",
-    "[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote",
-    "[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "[tech] MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)",
+    "[tech] The Golden Rule for Becoming a Better Writer",
+    "[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)",
+    "[tech] I Dream of Quieter Computing",
+    "[startup] Validating my startup idea before launching a MVP [I will not promote]",
+    "[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
     "[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote",
-    "[tech] Felony charges for citizen deleting phone data at US Border",
-    "[startup] Starting a recruitment agency i will not promote",
-    "[tech] Three important steps in my maturation process",
-    "[startup] What should I have ready before talking to angel investors? (I will not promote",
-    "[tech] Kagi added a setting for removing paywalled links from search results",
-    "[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)"
+    "[tech] Why your local LLM feels dumber than it is",
+    "[startup] Whats your Startup Hot take? I will not promote",
+    "[tech] Scrap (2006)",
+    "[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote"
   ],
   "ideas": [
     {
-      "name": "Digital Will Executor",
-      "problem": "Pessoas frequentemente têm dificuldade em organizar e legar seus ativos digitais (contas online, criptomoedas, etc.). Esta aplicação ajuda a catalogar e designar um executor confiável para gerenciar esses ativos após a morte.",
-      "monetization": "Freemium com assinatura anual para recursos avançados de planejamento e gestão de ativos (ex: 99 USD/ano).",
-      "theme": "Legal Consumer",
-      "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+      "name": "PC Emulator Historian",
+      "problem": "Entusiastas de computação antiga têm dificuldade em encontrar e gerenciar emuladores de PCs históricos e suas imagens de sistema operacional. Muitos emuladores são difíceis de configurar e manter.",
+      "monetization": "Freemium com recursos avançados de gerenciamento e histórico de emuladores disponíveis via assinatura única de 9.99 USD.",
+      "theme": "Retro Computing",
+      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
       "created_at": ""
     },
     {
-      "name": "Subtle Sabotage Detector",
-      "problem": "Usuários preocupados com a privacidade que usam smartphones temem que seus dados sejam apagados ou alterados discretamente por terceiros, especialmente em situações de fronteira. Esta app verifica integridade de dados e alerta sobre modificações não autorizadas.",
-      "monetization": "Assinatura mensal (ex: 4.99 USD/mês) para monitoramento contínuo e alertas em tempo real.",
-      "theme": "Consumer Security",
-      "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+      "name": "AI Compute Cost Tracker",
+      "problem": "Desenvolvedores e empresas que utilizam LLMs locais para tarefas de desenvolvimento frequentemente perdem a noção dos custos de computação. O rastreamento e a otimização do uso de recursos são complexos.",
+      "monetization": "SaaS B2B com níveis de preço baseados no volume de rastreamento, começando em 29 USD/mês.",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
       "created_at": ""
     },
     {
-      "name": "Rust Performance Analyzer",
-      "problem": "Desenvolvedores Rust buscam otimizar o uso de memória de suas aplicações. Esta ferramenta fornece insights detalhados sobre o uso de RAM e sugestões de otimização para LSPs e outros componentes, inspirado em avanços como o Rust Glancer.",
-      "monetization": "SaaS B2B com planos escalonados (ex: Free, Pro 19 USD/mês, Enterprise). Poderia ser um add-on pago para IDEs populares.",
-      "theme": "Developer Tools",
-      "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Local Services Finder",
-      "problem": "Pequenos negócios locais, como oficinas ou consultórios, lutam para alcançar clientes dentro de suas áreas geográficas de forma eficaz. Esta app facilita a descoberta e a conexão de consumidores com prestadores de serviços locais verificados.",
-      "monetization": "Modelo Freemium para negócios (listagem básica gratuita, recursos de destaque pagos) e taxa de comissão sobre agendamentos feitos através da plataforma.",
-      "theme": "Small Business",
-      "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "App Adoption Guide",
-      "problem": "Com a crescente complexidade de softwares e dispositivos (como Kobo rodando apps), consumidores muitas vezes se sentem sobrecarregados. Este guia interativo simplifica a configuração e o uso de novas funcionalidades, tornando a adoção de tecnologia mais acessível.",
-      "monetization": "Freemium com acesso a guias básicos e compra de guias especializados por tópico (ex: 2.99 USD por guia) ou assinatura para acesso ilimitado.",
+      "name": "Wireless Upgrade Advisor",
+      "problem": "Consumidores estão confusos sobre as mais recentes atualizações de Wi-Fi e outras tecnologias sem fio, muitas vezes focadas em velocidade. É difícil entender qual upgrade realmente melhora a experiência de uso.",
+      "monetization": "Conteúdo premium e guias de compra via assinatura mensal de 2.99 USD, com links de afiliados para produtos recomendados.",
       "theme": "Consumer Tech",
-      "trends_context": "[tech] Felony Bench\n[startup] Share your startup - quarterly post\n[tech] Kobo can run apps now\n[startup] Feedback Friday\n[tech] Rust Glancer: Rust LSP using 100x less RAM\n[startup] Whats your Startup Hot take? I will not promote\n[tech] There's no reason for software to be slow anymore\n[startup] Time magazine ranking of accelerators: Tampa Bay Wave is better than Y Combinator? I will not promote\n[tech] Optimizing meshoptimizer to process billions of triangles in minutes (2025)\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Felony charges for citizen deleting phone data at US Border\n[startup] Starting a recruitment agency i will not promote\n[tech] Three important steps in my maturation process\n[startup] What should I have ready before talking to angel investors? (I will not promote\n[tech] Kagi added a setting for removing paywalled links from search results\n[startup] Are clickable AI prototypes better product specs than long PRDs? (I will not promote)",
+      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Personal Knowledge Enhancer",
+      "problem": "Pessoas que consomem muito conteúdo (artigos, vídeos, podcasts) lutam para reter e conectar informações de forma eficaz. A organização manual do aprendizado é demorada e ineficiente.",
+      "monetization": "Freemium com limite de notas e recursos básicos. Assinatura premium de 4.99 USD/mês para armazenamento ilimitado, ferramentas de ligação semântica e resumo automatizado de notas.",
+      "theme": "Productivity Consumer",
+      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Founders' Book Exchange",
+      "problem": "Empreendedores buscam recomendações valiosas de livros para melhorar suas habilidades de fundação e gestão, mas encontram dificuldades em filtrar o ruído e encontrar conselhos práticos e relevantes.",
+      "monetization": "Plataforma de marketplace com curadoria paga de recomendações de livros e resumos, com uma taxa de 5 USD por resumo detalhado adquirido. Opção de assinatura para acesso a todos os resumos por 9.99 USD/mês.",
+      "theme": "Startup Community",
+      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
       "created_at": ""
     }
   ]
