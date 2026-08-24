@@ -1,63 +1,63 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T07:24:17+00:00",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T07:48:31+00:00",
   "trends": [
-    "[tech] The End of an Athlon",
+    "[tech] Everything I own, owned",
     "[startup] Share your startup - quarterly post",
-    "[tech] JIT Compiling Code in 5μs",
-    "[startup] Feedback Friday",
-    "[tech] MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "[tech] FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+    "[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+    "[startup] How did you get better at the mental side of founding? (I will not promote)",
+    "[tech] I were 17, I'd learn how to build LLMs from scratch",
+    "[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)",
+    "[tech] Anthropic Claude and API service outages",
+    "[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote",
+    "[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"",
+    "[tech] How I find problems to solve as a staff engineer",
     "[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)",
-    "[tech] The Golden Rule for Becoming a Better Writer",
-    "[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)",
-    "[tech] I Dream of Quieter Computing",
-    "[startup] Validating my startup idea before launching a MVP [I will not promote]",
-    "[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote",
-    "[tech] Why your local LLM feels dumber than it is",
-    "[startup] Whats your Startup Hot take? I will not promote",
-    "[tech] Scrap (2006)",
-    "[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote"
+    "[tech] OCR It – pull text out of un-copyable documents for your LLM",
+    "[startup] Launch video struggle, how do I win this? (I will not promote)"
   ],
   "ideas": [
     {
-      "name": "PC Emulator Historian",
-      "problem": "Entusiastas de computação antiga têm dificuldade em encontrar e gerenciar emuladores de PCs históricos e suas imagens de sistema operacional. Muitos emuladores são difíceis de configurar e manter.",
-      "monetization": "Freemium com recursos avançados de gerenciamento e histórico de emuladores disponíveis via assinatura única de 9.99 USD.",
-      "theme": "Retro Computing",
-      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
+      "name": "Chronicle My Life",
+      "problem": "People want to preserve and organize their life's digital footprint, from photos and documents to communications, creating a searchable personal archive.",
+      "monetization": "Freemium with tiered storage plans (e.g., 10GB free, 100GB for $4.99/month, 1TB for $9.99/month).",
+      "theme": "Personal Archiving",
+      "trends_context": "[tech] Everything I own, owned\n[startup] Share your startup - quarterly post\n[tech] FDA clears blood test to aid evaluation for Alzheimer's disease\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor\n[startup] How did you get better at the mental side of founding? (I will not promote)\n[tech] I were 17, I'd learn how to build LLMs from scratch\n[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)\n[tech] Anthropic Claude and API service outages\n[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote\n[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive\n[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"\n[tech] How I find problems to solve as a staff engineer\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] OCR It – pull text out of un-copyable documents for your LLM\n[startup] Launch video struggle, how do I win this? (I will not promote)",
       "created_at": ""
     },
     {
-      "name": "AI Compute Cost Tracker",
-      "problem": "Desenvolvedores e empresas que utilizam LLMs locais para tarefas de desenvolvimento frequentemente perdem a noção dos custos de computação. O rastreamento e a otimização do uso de recursos são complexos.",
-      "monetization": "SaaS B2B com níveis de preço baseados no volume de rastreamento, começando em 29 USD/mês.",
+      "name": "Founders' Skill Swap",
+      "problem": "Early-stage startup founders often lack specific skills (e.g., marketing, legal, design) and need to exchange services or knowledge with peers.",
+      "monetization": "Subscription-based for enhanced matchmaking and verified profiles ($19.99/month), with a free tier for basic connection.",
+      "theme": "Startup Collaboration",
+      "trends_context": "[tech] Everything I own, owned\n[startup] Share your startup - quarterly post\n[tech] FDA clears blood test to aid evaluation for Alzheimer's disease\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor\n[startup] How did you get better at the mental side of founding? (I will not promote)\n[tech] I were 17, I'd learn how to build LLMs from scratch\n[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)\n[tech] Anthropic Claude and API service outages\n[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote\n[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive\n[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"\n[tech] How I find problems to solve as a staff engineer\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] OCR It – pull text out of un-copyable documents for your LLM\n[startup] Launch video struggle, how do I win this? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Legacy Document Vault",
+      "problem": "Individuals need a secure and organized way to store and share critical documents (wills, insurance, medical directives) with trusted individuals for future access.",
+      "monetization": "One-time secure vault setup fee ($49.99) + annual secure storage fee ($19.99/year) for maintaining encrypted access.",
+      "theme": "Estate Planning",
+      "trends_context": "[tech] Everything I own, owned\n[startup] Share your startup - quarterly post\n[tech] FDA clears blood test to aid evaluation for Alzheimer's disease\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor\n[startup] How did you get better at the mental side of founding? (I will not promote)\n[tech] I were 17, I'd learn how to build LLMs from scratch\n[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)\n[tech] Anthropic Claude and API service outages\n[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote\n[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive\n[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"\n[tech] How I find problems to solve as a staff engineer\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] OCR It – pull text out of un-copyable documents for your LLM\n[startup] Launch video struggle, how do I win this? (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "AI Model Evaluator",
+      "problem": "Developers and researchers need a streamlined way to benchmark, compare, and evaluate the performance and potential biases of various open-source LLMs.",
+      "monetization": "SaaS B2B with tiered pricing based on usage and features (e.g., Basic $49/month, Pro $199/month).",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
+      "trends_context": "[tech] Everything I own, owned\n[startup] Share your startup - quarterly post\n[tech] FDA clears blood test to aid evaluation for Alzheimer's disease\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor\n[startup] How did you get better at the mental side of founding? (I will not promote)\n[tech] I were 17, I'd learn how to build LLMs from scratch\n[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)\n[tech] Anthropic Claude and API service outages\n[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote\n[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive\n[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"\n[tech] How I find problems to solve as a staff engineer\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] OCR It – pull text out of un-copyable documents for your LLM\n[startup] Launch video struggle, how do I win this? (I will not promote)",
       "created_at": ""
     },
     {
-      "name": "Wireless Upgrade Advisor",
-      "problem": "Consumidores estão confusos sobre as mais recentes atualizações de Wi-Fi e outras tecnologias sem fio, muitas vezes focadas em velocidade. É difícil entender qual upgrade realmente melhora a experiência de uso.",
-      "monetization": "Conteúdo premium e guias de compra via assinatura mensal de 2.99 USD, com links de afiliados para produtos recomendados.",
-      "theme": "Consumer Tech",
-      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Personal Knowledge Enhancer",
-      "problem": "Pessoas que consomem muito conteúdo (artigos, vídeos, podcasts) lutam para reter e conectar informações de forma eficaz. A organização manual do aprendizado é demorada e ineficiente.",
-      "monetization": "Freemium com limite de notas e recursos básicos. Assinatura premium de 4.99 USD/mês para armazenamento ilimitado, ferramentas de ligação semântica e resumo automatizado de notas.",
-      "theme": "Productivity Consumer",
-      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Founders' Book Exchange",
-      "problem": "Empreendedores buscam recomendações valiosas de livros para melhorar suas habilidades de fundação e gestão, mas encontram dificuldades em filtrar o ruído e encontrar conselhos práticos e relevantes.",
-      "monetization": "Plataforma de marketplace com curadoria paga de recomendações de livros e resumos, com uma taxa de 5 USD por resumo detalhado adquirido. Opção de assinatura para acesso a todos os resumos por 9.99 USD/mês.",
-      "theme": "Startup Community",
-      "trends_context": "[tech] The End of an Athlon\n[startup] Share your startup - quarterly post\n[tech] JIT Compiling Code in 5μs\n[startup] Feedback Friday\n[tech] MartyPC is a cross-platform emulator of early PCs written in Rust\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] The Golden Rule for Becoming a Better Writer\n[startup] Anyone else stuck in the \"research more instead of talking to clients\" loop? (I will not promote)\n[tech] I Dream of Quieter Computing\n[startup] Validating my startup idea before launching a MVP [I will not promote]\n[tech] Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed\n[startup] One book you would recommend that made you a better founder/entrepreneur - i will not promote\n[tech] Why your local LLM feels dumber than it is\n[startup] Whats your Startup Hot take? I will not promote\n[tech] Scrap (2006)\n[startup] Idea check: licensing AI labs access to institutional data where it sits, instead of selling datasets. Real business or compliance fantasy?I will not promote",
+      "name": "Mental Health Check-in",
+      "problem": "Individuals seeking proactive mental well-being need a simple, private tool for daily mood tracking, journaling, and identifying patterns to share with professionals if desired.",
+      "monetization": "Freemium with premium features like guided exercises, advanced analytics, and export options ($7.99/month subscription).",
+      "theme": "Consumer Wellness",
+      "trends_context": "[tech] Everything I own, owned\n[startup] Share your startup - quarterly post\n[tech] FDA clears blood test to aid evaluation for Alzheimer's disease\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Your Open Source Model Could Have a Hidden Time-Release Backdoor\n[startup] How did you get better at the mental side of founding? (I will not promote)\n[tech] I were 17, I'd learn how to build LLMs from scratch\n[startup] Unpopular opinion? Pre-seed is a b.s. term (I will not promote)\n[tech] Anthropic Claude and API service outages\n[startup] Founders who nailed their ICP: what did you build, and who actually turned out to be the buyer? - I will not promote\n[tech] Anthropic's best AI model struggles to attract users as cheaper tools thrive\n[startup] Why each startup I worked had mini-gong? Is it common, or just a weird local trend? \"I will not promote\"\n[tech] How I find problems to solve as a staff engineer\n[startup] My cofounder having 45% share is not giving time anymore, what can I do about it. (I will not promote)\n[tech] OCR It – pull text out of un-copyable documents for your LLM\n[startup] Launch video struggle, how do I win this? (I will not promote)",
       "created_at": ""
     }
   ]
