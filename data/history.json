@@ -9130,5 +9130,61 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-27",
+    "generated_at": "2026-08-27T17:57:59+00:00",
+    "trends": [
+      "[tech] Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "[startup] Share your startup - quarterly post",
+      "[tech] 507 Mechanical Movements",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Small Models Have Arrived",
+      "[startup] The best pitch I saw a founder give a managing partner for investment - copy this (I will not promote)",
+      "[tech] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "[startup] Startup offered a 4-week paid trial, but the written contract contradicts our verbal agreement. Am I overreacting? (I will not promote)",
+      "[tech] Nvidia projects $673B in sales as AI demand widens",
+      "[startup] Does anyone tried to apply from Anthropic's startup program? (i will not promote)",
+      "[tech] Microduck",
+      "[startup] Is spending 1–2 weeks in SF to experience the startup/builder scene actually worthwhile? (I will not promote)",
+      "[tech] Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "[startup] To all the founders in the struggle zone: I have good news and bad news (i will not promote)",
+      "[tech] Bild AI (YC W25) Is Hiring Product and AI Engineers",
+      "[startup] Does anyone tried to apply from Anthropic's startup program (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "PlaneSafe Travel",
+        "problem": "Viajantes frequentes precisam de alertas e recomendações sobre riscos de saúde em destinos globais, como a introdução de doenças por transporte aéreo. A aplicação centraliza informações de segurança sanitária de voos.",
+        "monetization": "Freemium com funcionalidades premium de alertas personalizados e relatórios de risco por 9.99 USD/ano.",
+        "theme": "Consumer Health",
+        "trends_context": "[tech] Two German airport workers die of malaria after 'mosquito arrives on plane'\n[startup] Share your startup - quarterly post\n[tech] 507 Mechanical Movements\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Small Models Have Arrived\n[startup] The best pitch I saw a founder give a managing partner for investment - copy this (I will not promote)\n[tech] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache\n[startup] Startup offered a 4-week paid trial, but the written contract contradicts our verbal agreement. Am I overreacting? (I will not promote)\n[tech] Nvidia projects $673B in sales as AI demand widens\n[startup] Does anyone tried to apply from Anthropic's startup program? (i will not promote)\n[tech] Microduck\n[startup] Is spending 1–2 weeks in SF to experience the startup/builder scene actually worthwhile? (I will not promote)\n[tech] Emacs 31: An unofficial guide to Markdown-ts-mode\n[startup] To all the founders in the struggle zone: I have good news and bad news (i will not promote)\n[tech] Bild AI (YC W25) Is Hiring Product and AI Engineers\n[startup] Does anyone tried to apply from Anthropic's startup program (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Contract Guard",
+        "problem": "Founders de startups, especialmente em fases iniciais, enfrentam complexidades e ambiguidades em contratos, levando a desentendimentos com parceiros ou empregadores. Ajuda a analisar e clarificar termos contratuais.",
+        "monetization": "SaaS B2B com planos a partir de 49 USD/mês para análise básica e 199 USD/mês para análise avançada por equipa.",
+        "theme": "Startup Legal",
+        "trends_context": "[tech] Two German airport workers die of malaria after 'mosquito arrives on plane'\n[startup] Share your startup - quarterly post\n[tech] 507 Mechanical Movements\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Small Models Have Arrived\n[startup] The best pitch I saw a founder give a managing partner for investment - copy this (I will not promote)\n[tech] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache\n[startup] Startup offered a 4-week paid trial, but the written contract contradicts our verbal agreement. Am I overreacting? (I will not promote)\n[tech] Nvidia projects $673B in sales as AI demand widens\n[startup] Does anyone tried to apply from Anthropic's startup program? (i will not promote)\n[tech] Microduck\n[startup] Is spending 1–2 weeks in SF to experience the startup/builder scene actually worthwhile? (I will not promote)\n[tech] Emacs 31: An unofficial guide to Markdown-ts-mode\n[startup] To all the founders in the struggle zone: I have good news and bad news (i will not promote)\n[tech] Bild AI (YC W25) Is Hiring Product and AI Engineers\n[startup] Does anyone tried to apply from Anthropic's startup program (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Memory Cache Optimizer",
+        "problem": "Desenvolvedores e administradores de sistemas precisam otimizar o uso de memória de aplicações e serviços para melhorar performance e reduzir custos. Oferece ferramentas para identificar e otimizar caches.",
+        "monetization": "SaaS para developers com planos a partir de 25 USD/mês para pequenas equipas e 100 USD/mês para empresas maiores.",
+        "theme": "Tech Dev Tools",
+        "trends_context": "[tech] Two German airport workers die of malaria after 'mosquito arrives on plane'\n[startup] Share your startup - quarterly post\n[tech] 507 Mechanical Movements\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Small Models Have Arrived\n[startup] The best pitch I saw a founder give a managing partner for investment - copy this (I will not promote)\n[tech] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache\n[startup] Startup offered a 4-week paid trial, but the written contract contradicts our verbal agreement. Am I overreacting? (I will not promote)\n[tech] Nvidia projects $673B in sales as AI demand widens\n[startup] Does anyone tried to apply from Anthropic's startup program? (i will not promote)\n[tech] Microduck\n[startup] Is spending 1–2 weeks in SF to experience the startup/builder scene actually worthwhile? (I will not promote)\n[tech] Emacs 31: An unofficial guide to Markdown-ts-mode\n[startup] To all the founders in the struggle zone: I have good news and bad news (i will not promote)\n[tech] Bild AI (YC W25) Is Hiring Product and AI Engineers\n[startup] Does anyone tried to apply from Anthropic's startup program (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Digital Nomad Hub",
+        "problem": "Nómadas digitais procuram ativamente comunidades, espaços de coworking e acomodações acessíveis e adequadas ao seu estilo de vida em diferentes cidades. Agrega recursos e oportunidades de networking.",
+        "monetization": "Subscrição premium de 15 USD/mês para acesso a comunidades exclusivas e descontos em alojamento/coworking, com parcerias de comissão.",
+        "theme": "Consumer Lifestyle",
+        "trends_context": "[tech] Two German airport workers die of malaria after 'mosquito arrives on plane'\n[startup] Share your startup - quarterly post\n[tech] 507 Mechanical Movements\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Small Models Have Arrived\n[startup] The best pitch I saw a founder give a managing partner for investment - copy this (I will not promote)\n[tech] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache\n[startup] Startup offered a 4-week paid trial, but the written contract contradicts our verbal agreement. Am I overreacting? (I will not promote)\n[tech] Nvidia projects $673B in sales as AI demand widens\n[startup] Does anyone tried to apply from Anthropic's startup program? (i will not promote)\n[tech] Microduck\n[startup] Is spending 1–2 weeks in SF to experience the startup/builder scene actually worthwhile? (I will not promote)\n[tech] Emacs 31: An unofficial guide to Markdown-ts-mode\n[startup] To all the founders in the struggle zone: I have good news and bad news (i will not promote)\n[tech] Bild AI (YC W25) Is Hiring Product and AI Engineers\n[startup] Does anyone tried to apply from Anthropic's startup program (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
