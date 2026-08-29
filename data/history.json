@@ -9258,5 +9258,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "generated_at": "2026-08-29T12:52:24+00:00",
+    "trends": [
+      "[tech] Iceland votes on whether to restart talks on joining EU",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Samsung's Processing-in-Memory (PIM)",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] GUIs should be fully keyboard-driven",
+      "[startup] Dealing with brutal same-day churn (I will not promote)",
+      "[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote",
+      "[tech] Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "[startup] When is the right time to start building relationships with VCs? I will not promote",
+      "[tech] Europe's last regular standard-gauge steam passenger service",
+      "[startup] Should we offer it for free? I will not promote",
+      "[tech] Htmx 4.0",
+      "[startup] Non-rapacious IP agreements? - I will not promote",
+      "[tech] U.S. sanctions against the A/I Collective",
+      "[startup] “Partnership may not align with the current needs of our users.” I will not promote”"
+    ],
+    "ideas": [
+      {
+        "name": "Europass Navigator",
+        "problem": "Utilizadores da UE que necessitam de navegar os processos burocráticos para se mudar, trabalhar ou estudar noutro país membro da UE. Ajuda a organizar documentos, encontrar contactos relevantes e entender os requisitos.",
+        "monetization": "Freemium com funcionalidades avançadas de acompanhamento de pedidos e acesso a consultoria jurídica por assinatura (15€/mês).",
+        "theme": "Consumer EU Mobility",
+        "trends_context": "[tech] Iceland votes on whether to restart talks on joining EU\n[startup] Share your startup - quarterly post\n[tech] Samsung's Processing-in-Memory (PIM)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GUIs should be fully keyboard-driven\n[startup] Dealing with brutal same-day churn (I will not promote)\n[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems\n[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote\n[tech] Boot a Virtual iPhone via Apple's Virtualization.framework\n[startup] When is the right time to start building relationships with VCs? I will not promote\n[tech] Europe's last regular standard-gauge steam passenger service\n[startup] Should we offer it for free? I will not promote\n[tech] Htmx 4.0\n[startup] Non-rapacious IP agreements? - I will not promote\n[tech] U.S. sanctions against the A/I Collective\n[startup] “Partnership may not align with the current needs of our users.” I will not promote”",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Founder Advisor",
+        "problem": "Novos fundadores de startups que precisam de orientação sobre as complexidades legais e financeiras, como acordos de IP, contratos de cofundadores e negociação com VCs, sem o custo de consultores caros. Oferece templates, guias e fóruns de discussão.",
+        "monetization": "Assinatura mensal (49€/mês) para acesso a templates premium e webinars com especialistas.",
+        "theme": "Startup Guidance",
+        "trends_context": "[tech] Iceland votes on whether to restart talks on joining EU\n[startup] Share your startup - quarterly post\n[tech] Samsung's Processing-in-Memory (PIM)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GUIs should be fully keyboard-driven\n[startup] Dealing with brutal same-day churn (I will not promote)\n[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems\n[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote\n[tech] Boot a Virtual iPhone via Apple's Virtualization.framework\n[startup] When is the right time to start building relationships with VCs? I will not promote\n[tech] Europe's last regular standard-gauge steam passenger service\n[startup] Should we offer it for free? I will not promote\n[tech] Htmx 4.0\n[startup] Non-rapacious IP agreements? - I will not promote\n[tech] U.S. sanctions against the A/I Collective\n[startup] “Partnership may not align with the current needs of our users.” I will not promote”",
+        "created_at": ""
+      },
+      {
+        "name": "Embedded Systems Debugger",
+        "problem": "Desenvolvedores que trabalham com sistemas embarcados, especialmente em arquiteturas 32-bit, e enfrentam bugs difíceis de rastrear no runtime. Fornece ferramentas de análise e logs simplificados para identificar e resolver problemas mais rapidamente.",
+        "monetization": "SaaS B2B (99€/licença anual por desenvolvedor) com planos corporativos.",
+        "theme": "Tech Developer Tools",
+        "trends_context": "[tech] Iceland votes on whether to restart talks on joining EU\n[startup] Share your startup - quarterly post\n[tech] Samsung's Processing-in-Memory (PIM)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GUIs should be fully keyboard-driven\n[startup] Dealing with brutal same-day churn (I will not promote)\n[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems\n[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote\n[tech] Boot a Virtual iPhone via Apple's Virtualization.framework\n[startup] When is the right time to start building relationships with VCs? I will not promote\n[tech] Europe's last regular standard-gauge steam passenger service\n[startup] Should we offer it for free? I will not promote\n[tech] Htmx 4.0\n[startup] Non-rapacious IP agreements? - I will not promote\n[tech] U.S. sanctions against the A/I Collective\n[startup] “Partnership may not align with the current needs of our users.” I will not promote”",
+        "created_at": ""
+      },
+      {
+        "name": "Hobbyist Steam Tracker",
+        "problem": "Entusiastas de serviços ferroviários a vapor históricos que querem acompanhar e planear viagens na Europa. Fornece horários, rotas, informações sobre locomotivas e notificações de eventos especiais.",
+        "monetization": "Freemium com mapas detalhados e notificações push avançadas como IAP (2.99€).",
+        "theme": "Consumer Niche",
+        "trends_context": "[tech] Iceland votes on whether to restart talks on joining EU\n[startup] Share your startup - quarterly post\n[tech] Samsung's Processing-in-Memory (PIM)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GUIs should be fully keyboard-driven\n[startup] Dealing with brutal same-day churn (I will not promote)\n[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems\n[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote\n[tech] Boot a Virtual iPhone via Apple's Virtualization.framework\n[startup] When is the right time to start building relationships with VCs? I will not promote\n[tech] Europe's last regular standard-gauge steam passenger service\n[startup] Should we offer it for free? I will not promote\n[tech] Htmx 4.0\n[startup] Non-rapacious IP agreements? - I will not promote\n[tech] U.S. sanctions against the A/I Collective\n[startup] “Partnership may not align with the current needs of our users.” I will not promote”",
+        "created_at": ""
+      },
+      {
+        "name": "AI Contract Compliance",
+        "problem": "Empresas que utilizam IA e necessitam de garantir que os seus acordos de licenciamento, parcerias e contratos de desenvolvimento estão em conformidade com as leis e regulamentações atuais, especialmente em relação à propriedade intelectual e sanções internacionais.",
+        "monetization": "SaaS B2B com preços baseados no volume de documentos analisados e complexidade (a partir de 199€/mês).",
+        "theme": "AI Business Tools",
+        "trends_context": "[tech] Iceland votes on whether to restart talks on joining EU\n[startup] Share your startup - quarterly post\n[tech] Samsung's Processing-in-Memory (PIM)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GUIs should be fully keyboard-driven\n[startup] Dealing with brutal same-day churn (I will not promote)\n[tech] Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems\n[startup] I got used as a “50% cofounder” in San Francisco, built the entire product, got paraded around like a trophy, and then watched the company “exit” without me. Only had an NDA and LOI. Never again. - I will not promote\n[tech] Boot a Virtual iPhone via Apple's Virtualization.framework\n[startup] When is the right time to start building relationships with VCs? I will not promote\n[tech] Europe's last regular standard-gauge steam passenger service\n[startup] Should we offer it for free? I will not promote\n[tech] Htmx 4.0\n[startup] Non-rapacious IP agreements? - I will not promote\n[tech] U.S. sanctions against the A/I Collective\n[startup] “Partnership may not align with the current needs of our users.” I will not promote”",
+        "created_at": ""
+      }
+    ]
   }
 ]
