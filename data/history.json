@@ -9961,5 +9961,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "generated_at": "2026-09-08T11:52:02+00:00",
+    "trends": [
+      "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Antiquated HTML Snippets and Artefacts",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Why getting your hands dirty is good for you",
+      "[startup] Literally no reason to use Supabase in 2026. I will not promote.",
+      "[tech] I've factored the RSA keys of a Certificate Authority from the 90s",
+      "[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote",
+      "[tech] We built our house for LAN parties",
+      "[startup] What could be the reasons why free subscribers do not pay? (I will not promote)",
+      "[tech] There's a new \"Google Jail\" for independent wikis",
+      "[startup] How do startups get their first users?(i will not promote)",
+      "[tech] Mistral raises €3B",
+      "[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?",
+      "[tech] TALA Is Open-Source",
+      "[startup] How did you build your first team for a SaaS startup? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Referral Partnership Builder",
+        "problem": "Startups struggle to identify and onboard effective referral partners with agencies and consultants. This app helps founders discover and manage these crucial relationships.",
+        "monetization": "SaaS B2B 49 USD/mes por equipa",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Corporate Retreat Planner",
+        "problem": "Small businesses and teams need an easy way to organize corporate retreats, from venue selection to activity booking. This app streamlines the entire process.",
+        "monetization": "Freemium com funcionalidades premium a 99 USD/evento",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Free Subscriber Conversion",
+        "problem": "SaaS businesses have difficulty converting free trial users into paying customers. This tool analyzes user behavior and suggests personalized conversion strategies.",
+        "monetization": "SaaS B2B 19 USD/mes por utilizador, com um plano gratuito limitado",
+        "theme": "SaaS Consumer",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Team Building Scheduler",
+        "problem": "Founders find it challenging to build the initial team for a SaaS startup, including defining roles and attracting talent. This app guides founders through the early hiring and co-founder search process.",
+        "monetization": "SaaS B2B 29 USD/mes por fundador",
+        "theme": "Startup Team",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "DIY House LAN Party",
+        "problem": "Enthusiasts want to build custom home setups optimized for LAN parties and high-performance gaming. This app provides guides, hardware recommendations, and network setup tools.",
+        "monetization": "Conteúdo Premium 19.99 USD (compra única) + Marketplace de componentes",
+        "theme": "Hobbyist Tech",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Wiki Governance Monitor",
+        "problem": "Independent wikis and online communities face challenges with content moderation and platform policy changes (like 'Google Jail'). This tool offers insights and best practices for maintaining online presence and visibility.",
+        "monetization": "SaaS B2B 39 USD/mes por wiki",
+        "theme": "Tech Policy",
+        "trends_context": "[tech] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare\n[startup] Share your startup - quarterly post\n[tech] Antiquated HTML Snippets and Artefacts\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Why getting your hands dirty is good for you\n[startup] Literally no reason to use Supabase in 2026. I will not promote.\n[tech] I've factored the RSA keys of a Certificate Authority from the 90s\n[startup] Confused how to handle branding for my Corporate Retreat business. i will not promote\n[tech] We built our house for LAN parties\n[startup] What could be the reasons why free subscribers do not pay? (I will not promote)\n[tech] There's a new \"Google Jail\" for independent wikis\n[startup] How do startups get their first users?(i will not promote)\n[tech] Mistral raises €3B\n[startup] I will not promote – How do founders build referral partnerships with agencies and consultants?\n[tech] TALA Is Open-Source\n[startup] How did you build your first team for a SaaS startup? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
