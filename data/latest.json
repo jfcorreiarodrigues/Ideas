@@ -1,63 +1,63 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T12:20:38+00:00",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:18:48+00:00",
   "trends": [
-    "[tech] I can't stop thinking about Papua New Guinea",
+    "[tech] EU chief opens door for Canada to become 'associate member'",
     "[startup] Share your startup - quarterly post",
-    "[tech] Suspected sabotage causes major Netherlands rail disruption",
+    "[tech] The Google Play app review process now regularly takes longer than a week",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Alternatives to MinIO for single-node local S3",
-    "[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote",
-    "[tech] CSS-Tricks in Limbo",
-    "[startup] i will not promote",
-    "[tech] iOS 27, iPadOS 27, and macOS 27",
-    "[startup] i will not promote: what actually worked for your first 10 users?",
-    "[tech] OpenArm: An open-source 7DOF humanoid arm",
-    "[startup] First client! I will not promote",
-    "[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-    "[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”",
-    "[tech] Pion, an agent designed to run any company autonomously",
-    "[startup] Pre-seed investment, I will not promote"
+    "[tech] Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)",
+    "[tech] Introducing System One Models and Jev",
+    "[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE",
+    "[tech] Salesforce Global Outage",
+    "[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)",
+    "[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)",
+    "[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+    "[startup] Voice asssitant: which use-case to build first? [i will not promote]",
+    "[tech] Apple Reference Image: A New Approach for Verified Photography",
+    "[startup] Voice assistant: what feature to build first? [i will not promote]"
   ],
   "ideas": [
     {
-      "name": "Local Repair Finder",
-      "problem": "Consumers struggle to find reliable local repair services for appliances, electronics, and vehicles. This app connects users with vetted local repair professionals based on service type, location, and reviews.",
-      "monetization": "Marketplace commission (15% per completed job) and premium listing for businesses.",
-      "theme": "Consumer Services",
-      "trends_context": "[tech] I can't stop thinking about Papua New Guinea\n[startup] Share your startup - quarterly post\n[tech] Suspected sabotage causes major Netherlands rail disruption\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alternatives to MinIO for single-node local S3\n[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote\n[tech] CSS-Tricks in Limbo\n[startup] i will not promote\n[tech] iOS 27, iPadOS 27, and macOS 27\n[startup] i will not promote: what actually worked for your first 10 users?\n[tech] OpenArm: An open-source 7DOF humanoid arm\n[startup] First client! I will not promote\n[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls\n[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”\n[tech] Pion, an agent designed to run any company autonomously\n[startup] Pre-seed investment, I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Indie Game Asset Hub",
-      "problem": "Independent game developers often lack resources for high-quality art and sound assets. This platform offers a curated marketplace for affordable, royalty-free game assets from freelance artists and sound designers.",
-      "monetization": "Transaction fees on asset sales (10%) and subscription tiers for unlimited downloads for developers.",
-      "theme": "Creator Economy",
-      "trends_context": "[tech] I can't stop thinking about Papua New Guinea\n[startup] Share your startup - quarterly post\n[tech] Suspected sabotage causes major Netherlands rail disruption\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alternatives to MinIO for single-node local S3\n[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote\n[tech] CSS-Tricks in Limbo\n[startup] i will not promote\n[tech] iOS 27, iPadOS 27, and macOS 27\n[startup] i will not promote: what actually worked for your first 10 users?\n[tech] OpenArm: An open-source 7DOF humanoid arm\n[startup] First client! I will not promote\n[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls\n[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”\n[tech] Pion, an agent designed to run any company autonomously\n[startup] Pre-seed investment, I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Pet Health Journal",
-      "problem": "Pet owners need an easy way to track their pet's health, appointments, medications, and dietary needs. This app provides a centralized digital journal for comprehensive pet health management.",
-      "monetization": "Freemium with advanced features (e.g., vet integration, growth charts) available via a monthly subscription (4.99 USD).",
-      "theme": "Pet Care",
-      "trends_context": "[tech] I can't stop thinking about Papua New Guinea\n[startup] Share your startup - quarterly post\n[tech] Suspected sabotage causes major Netherlands rail disruption\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alternatives to MinIO for single-node local S3\n[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote\n[tech] CSS-Tricks in Limbo\n[startup] i will not promote\n[tech] iOS 27, iPadOS 27, and macOS 27\n[startup] i will not promote: what actually worked for your first 10 users?\n[tech] OpenArm: An open-source 7DOF humanoid arm\n[startup] First client! I will not promote\n[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls\n[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”\n[tech] Pion, an agent designed to run any company autonomously\n[startup] Pre-seed investment, I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Small Business Inventory Pro",
-      "problem": "Small businesses struggle with manual inventory tracking, leading to stockouts or overstocking. This web app automates inventory management with real-time updates, low-stock alerts, and sales forecasting.",
-      "monetization": "SaaS B2B subscription tiers based on inventory volume (e.g., 29 USD/month for up to 100 items, 59 USD/month for up to 500 items).",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] I can't stop thinking about Papua New Guinea\n[startup] Share your startup - quarterly post\n[tech] Suspected sabotage causes major Netherlands rail disruption\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alternatives to MinIO for single-node local S3\n[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote\n[tech] CSS-Tricks in Limbo\n[startup] i will not promote\n[tech] iOS 27, iPadOS 27, and macOS 27\n[startup] i will not promote: what actually worked for your first 10 users?\n[tech] OpenArm: An open-source 7DOF humanoid arm\n[startup] First client! I will not promote\n[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls\n[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”\n[tech] Pion, an agent designed to run any company autonomously\n[startup] Pre-seed investment, I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "AI Documentation Assistant",
-      "problem": "Developers spend significant time writing and maintaining technical documentation. This AI-powered tool analyzes code and generates clear, concise documentation automatically, saving time and ensuring consistency.",
-      "monetization": "SaaS B2B tiered pricing based on usage and features (e.g., 99 USD/month for basic, 299 USD/month for advanced AI features and integrations).",
+      "name": "Voice Assistant Coach",
+      "problem": "Developers building voice assistant applications struggle to identify the most impactful use cases. This tool helps them prioritize features based on market demand and technical feasibility.",
+      "monetization": "SaaS B2B, tiered pricing based on project complexity, starting at $99/month.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] I can't stop thinking about Papua New Guinea\n[startup] Share your startup - quarterly post\n[tech] Suspected sabotage causes major Netherlands rail disruption\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alternatives to MinIO for single-node local S3\n[startup] How badly does a failed startup hurt your career as a software engineer? I will not promote\n[tech] CSS-Tricks in Limbo\n[startup] i will not promote\n[tech] iOS 27, iPadOS 27, and macOS 27\n[startup] i will not promote: what actually worked for your first 10 users?\n[tech] OpenArm: An open-source 7DOF humanoid arm\n[startup] First client! I will not promote\n[tech] 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls\n[startup] Starting a coffeeshop, what licenses do I need? “i will not promote”\n[tech] Pion, an agent designed to run any company autonomously\n[startup] Pre-seed investment, I will not promote",
+      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "created_at": ""
+    },
+    {
+      "name": "Digital Legacy Planner",
+      "problem": "Individuals often neglect planning for their digital assets and online presence after their passing. This app provides a structured way to organize and assign access to digital accounts.",
+      "monetization": "One-time fee for premium features (e.g., advanced encryption, secure document storage), $19.99.",
+      "theme": "Consumer Planning",
+      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "created_at": ""
+    },
+    {
+      "name": "Subscription Optimizer",
+      "problem": "Consumers are overwhelmed by numerous recurring subscriptions and often forget what they are paying for. This app tracks all subscriptions, notifies users before renewals, and suggests cost-saving alternatives.",
+      "monetization": "Freemium model with a premium subscription for advanced analytics and automated cancellation assistance, $4.99/month.",
+      "theme": "Consumer Finance",
+      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "created_at": ""
+    },
+    {
+      "name": "Small Business Compliance",
+      "problem": "Small business owners struggle to keep up with evolving regulatory requirements and compliance deadlines. This app offers a simplified checklist and reminder system for essential business compliance tasks.",
+      "monetization": "SaaS B2B, $29/month per business.",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "created_at": ""
+    },
+    {
+      "name": "AI Art Prompt Generator",
+      "problem": "Artists and designers using AI image generation tools often find it challenging to craft effective prompts for desired outcomes. This app provides structured prompt generation assistance, including style, mood, and element suggestions.",
+      "monetization": "Freemium with limited daily prompts; subscription for unlimited prompts and advanced customization options, $7.99/month.",
+      "theme": "AI Creative Tools",
+      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
       "created_at": ""
     }
   ]
