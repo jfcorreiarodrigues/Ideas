@@ -10568,5 +10568,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "generated_at": "2026-09-17T12:17:16+00:00",
+    "trends": [
+      "[tech] One Year of Sponsored Servo Development",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Nvidia announces native GPU programming in Rust",
+      "[startup] Returning Vested Equity (I will not promote)",
+      "[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)",
+      "[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote",
+      "[tech] GLM Built Its Own Inference Infrastructure",
+      "[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?",
+      "[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote",
+      "[tech] The Relation Between Mathematics and Physics by Paul Dirac",
+      "[startup] Leaving well as a partner? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Creator Equity Tracker",
+        "problem": "Criadores de conteúdo frequentemente cedem participação em seus projetos sem um controle claro do valor real ou diluição. Um aplicativo para rastrear e visualizar participações em empreendimentos criativos é necessário para o empoderamento financeiro.",
+        "monetization": "SaaS B2C Freemium com tiers de $9/mês (1 projeto) e $29/mês (projetos ilimitados com análise avançada).",
+        "theme": "Creator Economy Finance",
+        "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Niche Skill Validator",
+        "problem": "Profissionais em nichos técnicos ou de artesanato lutam para validar e demonstrar habilidades especializadas fora de certificações tradicionais. Um sistema para apresentar e verificar portfólios de projetos concretos é essencial para o avanço na carreira.",
+        "monetization": "SaaS B2B para empresas que buscam talentos, cobrando por acesso a perfis verificados ($49/mês/empresa) e IAP para usuários individuais que desejam validação premium ($19/projeto).",
+        "theme": "Professional Development",
+        "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Documentation Helper",
+        "problem": "Desenvolvedores gastam tempo excessivo documentando seu código, e muitas vezes a documentação fica desatualizada. Uma ferramenta que gera e atualiza automaticamente a documentação técnica do código, utilizando LLMs, pode economizar horas de trabalho.",
+        "monetization": "SaaS B2B com planos a partir de $39/mês por desenvolvedor, com descontos para equipes.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Shared Hobby Planner",
+        "problem": "Grupos de amigos com hobbies compartilhados (ex: jogos de tabuleiro, clubes de leitura, trilhas) lutam para coordenar eventos e gerenciar recursos. Um aplicativo para planejar atividades conjuntas, compartilhar custos e gerenciar eventos de hobby é muito útil.",
+        "monetization": "Freemium com funcionalidades básicas gratuitas, e um plano premium de $4.99/mês para recursos avançados como calendário compartilhado, gestão de tarefas e divisões de custo automáticas.",
+        "theme": "Social Productivity",
+        "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Vintage Tech Cataloger",
+        "problem": "Colecionadores de tecnologia vintage (videogames, computadores antigos) precisam de uma forma organizada para catalogar suas coleções, acompanhar valores de mercado e compartilhar informações. Um aplicativo dedicado para inventariar e gerenciar essas coleções é necessário.",
+        "monetization": "Freemium com limite de itens, e um plano pago de $7.99/mês ou $49.99/ano para catalogação ilimitada, histórico de valorização e ferramentas de compartilhamento.",
+        "theme": "Niche Consumer",
+        "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]

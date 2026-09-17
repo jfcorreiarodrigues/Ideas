@@ -1,63 +1,63 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T12:18:48+00:00",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:17:16+00:00",
   "trends": [
-    "[tech] EU chief opens door for Canada to become 'associate member'",
+    "[tech] One Year of Sponsored Servo Development",
     "[startup] Share your startup - quarterly post",
-    "[tech] The Google Play app review process now regularly takes longer than a week",
+    "[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)",
-    "[tech] Introducing System One Models and Jev",
-    "[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE",
-    "[tech] Salesforce Global Outage",
-    "[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)",
-    "[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)",
-    "[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-    "[startup] Voice asssitant: which use-case to build first? [i will not promote]",
-    "[tech] Apple Reference Image: A New Approach for Verified Photography",
-    "[startup] Voice assistant: what feature to build first? [i will not promote]"
+    "[tech] Nvidia announces native GPU programming in Rust",
+    "[startup] Returning Vested Equity (I will not promote)",
+    "[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)",
+    "[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+    "[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote",
+    "[tech] GLM Built Its Own Inference Infrastructure",
+    "[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?",
+    "[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote",
+    "[tech] The Relation Between Mathematics and Physics by Paul Dirac",
+    "[startup] Leaving well as a partner? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Voice Assistant Coach",
-      "problem": "Developers building voice assistant applications struggle to identify the most impactful use cases. This tool helps them prioritize features based on market demand and technical feasibility.",
-      "monetization": "SaaS B2B, tiered pricing based on project complexity, starting at $99/month.",
+      "name": "Creator Equity Tracker",
+      "problem": "Criadores de conteúdo frequentemente cedem participação em seus projetos sem um controle claro do valor real ou diluição. Um aplicativo para rastrear e visualizar participações em empreendimentos criativos é necessário para o empoderamento financeiro.",
+      "monetization": "SaaS B2C Freemium com tiers de $9/mês (1 projeto) e $29/mês (projetos ilimitados com análise avançada).",
+      "theme": "Creator Economy Finance",
+      "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Niche Skill Validator",
+      "problem": "Profissionais em nichos técnicos ou de artesanato lutam para validar e demonstrar habilidades especializadas fora de certificações tradicionais. Um sistema para apresentar e verificar portfólios de projetos concretos é essencial para o avanço na carreira.",
+      "monetization": "SaaS B2B para empresas que buscam talentos, cobrando por acesso a perfis verificados ($49/mês/empresa) e IAP para usuários individuais que desejam validação premium ($19/projeto).",
+      "theme": "Professional Development",
+      "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "AI Code Documentation Helper",
+      "problem": "Desenvolvedores gastam tempo excessivo documentando seu código, e muitas vezes a documentação fica desatualizada. Uma ferramenta que gera e atualiza automaticamente a documentação técnica do código, utilizando LLMs, pode economizar horas de trabalho.",
+      "monetization": "SaaS B2B com planos a partir de $39/mês por desenvolvedor, com descontos para equipes.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Digital Legacy Planner",
-      "problem": "Individuals often neglect planning for their digital assets and online presence after their passing. This app provides a structured way to organize and assign access to digital accounts.",
-      "monetization": "One-time fee for premium features (e.g., advanced encryption, secure document storage), $19.99.",
-      "theme": "Consumer Planning",
-      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "name": "Shared Hobby Planner",
+      "problem": "Grupos de amigos com hobbies compartilhados (ex: jogos de tabuleiro, clubes de leitura, trilhas) lutam para coordenar eventos e gerenciar recursos. Um aplicativo para planejar atividades conjuntas, compartilhar custos e gerenciar eventos de hobby é muito útil.",
+      "monetization": "Freemium com funcionalidades básicas gratuitas, e um plano premium de $4.99/mês para recursos avançados como calendário compartilhado, gestão de tarefas e divisões de custo automáticas.",
+      "theme": "Social Productivity",
+      "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Subscription Optimizer",
-      "problem": "Consumers are overwhelmed by numerous recurring subscriptions and often forget what they are paying for. This app tracks all subscriptions, notifies users before renewals, and suggests cost-saving alternatives.",
-      "monetization": "Freemium model with a premium subscription for advanced analytics and automated cancellation assistance, $4.99/month.",
-      "theme": "Consumer Finance",
-      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
-      "created_at": ""
-    },
-    {
-      "name": "Small Business Compliance",
-      "problem": "Small business owners struggle to keep up with evolving regulatory requirements and compliance deadlines. This app offers a simplified checklist and reminder system for essential business compliance tasks.",
-      "monetization": "SaaS B2B, $29/month per business.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
-      "created_at": ""
-    },
-    {
-      "name": "AI Art Prompt Generator",
-      "problem": "Artists and designers using AI image generation tools often find it challenging to craft effective prompts for desired outcomes. This app provides structured prompt generation assistance, including style, mood, and element suggestions.",
-      "monetization": "Freemium with limited daily prompts; subscription for unlimited prompts and advanced customization options, $7.99/month.",
-      "theme": "AI Creative Tools",
-      "trends_context": "[tech] EU chief opens door for Canada to become 'associate member'\n[startup] Share your startup - quarterly post\n[tech] The Google Play app review process now regularly takes longer than a week\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Mistral X Mozilla: Private, Multilingual AI Browsing\n[startup] Is it normal to have a muddled picture of product and company direction right before raising a seed round as a founding engineer? (I will not promote)\n[tech] Introducing System One Models and Jev\n[startup] Cap management startup, Pulley shuts down abruptly after raising $50 million - I WILL NOT PROMOTE\n[tech] Salesforce Global Outage\n[startup] I don’t think I’d let AI publish marketing on its own. Am I being too cautious? (I will not promote)\n[tech] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations\n[startup] Pulley Cap Table is Shutting Down in Dec 2026 (I will not promote)\n[tech] Kyber (YC W23) Is Hiring a Forward Deployed Engineer\n[startup] Voice asssitant: which use-case to build first? [i will not promote]\n[tech] Apple Reference Image: A New Approach for Verified Photography\n[startup] Voice assistant: what feature to build first? [i will not promote]",
+      "name": "Vintage Tech Cataloger",
+      "problem": "Colecionadores de tecnologia vintage (videogames, computadores antigos) precisam de uma forma organizada para catalogar suas coleções, acompanhar valores de mercado e compartilhar informações. Um aplicativo dedicado para inventariar e gerenciar essas coleções é necessário.",
+      "monetization": "Freemium com limite de itens, e um plano pago de $7.99/mês ou $49.99/ano para catalogação ilimitada, histórico de valorização e ferramentas de compartilhamento.",
+      "theme": "Niche Consumer",
+      "trends_context": "[tech] One Year of Sponsored Servo Development\n[startup] Share your startup - quarterly post\n[tech] Neovim have a ~$800k Bitcoin donation sitting untouched since 2023\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Nvidia announces native GPU programming in Rust\n[startup] Returning Vested Equity (I will not promote)\n[tech] Better Vector Search for Long Documents: Chunking Inside Manticore Search\n[startup] Pre seed - doing whats right vs what investors ask for (I will not promote)\n[tech] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it\n[startup] Need advice on evaluating a potential co-founder’s commitment : I will not promote\n[tech] GLM Built Its Own Inference Infrastructure\n[startup] I will not promote: Do founders actually use TikTok/Reels, or do we just feel like we’re supposed to?\n[tech] Keys Not Included: recovering the signing keys for US driver's license barcodes\n[startup] Indian founders have unrealistic expectations they think AI can solve any and everything | i will not promote\n[tech] The Relation Between Mathematics and Physics by Paul Dirac\n[startup] Leaving well as a partner? I will not promote",
       "created_at": ""
     }
   ]
