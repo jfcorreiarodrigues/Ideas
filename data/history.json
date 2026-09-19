@@ -10708,5 +10708,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-19",
+    "generated_at": "2026-09-19T11:41:59+00:00",
+    "trends": [
+      "[tech] Human brain is two separate organs, Stanford Medicine-led research finds",
+      "[startup] Share your startup - quarterly post",
+      "[tech] AI-generated posters don’t have to be horrible",
+      "[startup] Feedback Friday",
+      "[tech] If math is more than proof, we need to better celebrate the rest of it",
+      "[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)",
+      "[tech] GPT-6 Astra Solves a WWI German Radio Cipher",
+      "[startup] Where did you find a trusted human virtual assistant? I will not promote",
+      "[tech] “The Secret Life of Circuits” is here",
+      "[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote",
+      "[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote",
+      "[tech] San Francisco Onion Futures Company",
+      "[startup] Everything is saturated and its exhausting, i will not promote",
+      "[tech] Cloudflare Quick Tunnels",
+      "[startup] Any marketing cofounders up for a challenge? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Cipher Historian Pro",
+        "problem": "Para entusiastas de história e criptografia que desejam aprofundar-se em cifras históricas, especialmente aquelas com conexões militares como a da Primeira Guerra Mundial, oferecendo uma plataforma para entender, decifrar e analisar esses códigos.",
+        "monetization": "SaaS B2C, modelo de assinatura com níveis de acesso (freemium com base de dados limitada, premium com acesso completo e ferramentas avançadas) a partir de 7.99 USD/mês.",
+        "theme": "Historical Tech",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Virtual Assistant Scout",
+        "problem": "Empreendedores e pequenas empresas que lutam para encontrar assistentes virtuais confiáveis e qualificados, necessitando de um sistema curado e com verificações de antecedentes para garantir a qualidade e segurança dos profissionais contratados.",
+        "monetization": "Marketplace com taxa de 15% sobre os contratos fechados e serviço opcional de verificação de antecedentes por um custo fixo.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Tech Trend Forecaster",
+        "problem": "Consumidores e investidores que buscam entender as próximas grandes tendências em tecnologia, necessitando de uma ferramenta que analise feeds de notícias, pesquisas e lançamentos para prever o futuro do mercado de forma acessível.",
+        "monetization": "Freemium com relatórios básicos gratuitos e acesso a análises aprofundadas e previsões exclusivas por assinatura de 14.99 USD/mês.",
+        "theme": "Consumer Insights",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Founder Collaboration Hub",
+        "problem": "Fundadores de startups que buscam co-fundadores com habilidades específicas, especialmente em áreas técnicas ou de gestão, mas enfrentam dificuldades em encontrar parceiros compatíveis e navegar pelos aspectos legais da formação de uma empresa.",
+        "monetization": "Plataforma com modelo freemium para perfis básicos e recursos de matchmaking avançados. Cobrança de uma taxa única para a geração de propostas de co-fundador personalizadas (99 USD).",
+        "theme": "Startup Networking",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Circuit Designer",
+        "problem": "Desenvolvedores e engenheiros de hardware que trabalham com circuitos eletrônicos e buscam otimizar o design, gerar novas ideias de arquitetura de circuitos e acelerar o processo de prototipagem, utilizando inteligência artificial.",
+        "monetization": "SaaS B2B, com planos baseados no volume de projetos e recursos de IA utilizados, a partir de 49 USD/mês por licença de desenvolvedor.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Android API Navigator",
+        "problem": "Desenvolvedores Android que precisam de uma maneira simplificada de acompanhar as mudanças nas APIs do Android, especialmente aquelas que não são lançadas no AOSP, e entender suas implicações para o desenvolvimento de aplicativos.",
+        "monetization": "Assinatura anual de 29.99 USD para acesso a um banco de dados atualizado de APIs, changelogs detalhados e alertas de novas funcionalidades.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]

@@ -1,75 +1,71 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T11:58:04+00:00",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T11:41:59+00:00",
   "trends": [
-    "[tech] OpenJev",
+    "[tech] Human brain is two separate organs, Stanford Medicine-led research finds",
     "[startup] Share your startup - quarterly post",
-    "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
-    "[tech] ZCode, the GLM coding agent, silently uploads your Git history",
+    "[tech] AI-generated posters don’t have to be horrible",
     "[startup] Feedback Friday",
-    "[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.",
-    "[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "[tech] If math is more than proof, we need to better celebrate the rest of it",
+    "[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)",
+    "[tech] GPT-6 Astra Solves a WWI German Radio Cipher",
+    "[startup] Where did you find a trusted human virtual assistant? I will not promote",
+    "[tech] “The Secret Life of Circuits” is here",
+    "[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote",
+    "[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote",
+    "[tech] San Francisco Onion Futures Company",
     "[startup] Everything is saturated and its exhausting, i will not promote",
-    "[r/SomebodyMakeThis] What if your AI hired you?",
-    "[tech] Jemalloc 5.4.0",
-    "[startup] Guidance on finding investors for drone tech (I will not promote)",
-    "[r/SomebodyMakeThis] SMT: A dating app based on genetics",
-    "[tech] The scourge of x86 emulation",
-    "[startup] Lessons (I will not promote)",
-    "[tech] Astra for Law",
-    "[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote",
-    "[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "[startup] Returning Vested Equity (I will not promote)",
-    "[tech] Replacing Pull Requests with Delta",
-    "[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)"
+    "[tech] Cloudflare Quick Tunnels",
+    "[startup] Any marketing cofounders up for a challenge? I will not promote"
   ],
   "ideas": [
     {
-      "name": "Rental Unit Review",
-      "problem": "Renters need a reliable way to assess the actual quality and specific issues of a rental unit, not just the building's overall rating. This app provides unit-specific insights.",
-      "monetization": "Freemium with premium access to detailed reports and verified reviews for 9.99 USD/month.",
-      "theme": "Consumer Real Estate",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
+      "name": "Cipher Historian Pro",
+      "problem": "Para entusiastas de história e criptografia que desejam aprofundar-se em cifras históricas, especialmente aquelas com conexões militares como a da Primeira Guerra Mundial, oferecendo uma plataforma para entender, decifrar e analisar esses códigos.",
+      "monetization": "SaaS B2C, modelo de assinatura com níveis de acesso (freemium com base de dados limitada, premium com acesso completo e ferramentas avançadas) a partir de 7.99 USD/mês.",
+      "theme": "Historical Tech",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Genetic Dating Match",
-      "problem": "Individuals seeking deeper compatibility in dating are looking for scientifically-backed matchmaking. This app leverages genetic markers (opt-in, privacy-focused) for enhanced compatibility predictions.",
-      "monetization": "Subscription-based at 19.99 USD/month for advanced matching and insights.",
-      "theme": "Consumer Dating",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "AI Hiring Manager",
-      "problem": "Startups and SMEs struggle with efficiently identifying, screening, and onboarding the right talent. This AI acts as a virtual hiring manager to streamline the recruitment process.",
-      "monetization": "SaaS tiered pricing: Basic ($49/month for up to 5 hires), Pro ($149/month for up to 20 hires).",
-      "theme": "Startup HR Tech",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Git History Auditor",
-      "problem": "Development teams need transparency and accountability for code contributions, especially regarding sensitive data or intellectual property within Git history. This tool provides auditing and secure analysis of Git commits.",
-      "monetization": "SaaS for teams: $15/user/month with a free tier for individual developers.",
-      "theme": "Developer Tools",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Startup Reputation Shield",
-      "problem": "Businesses are concerned about their online reputation and potential risks, especially with the rise of AI-generated content and misinformation. This app monitors and helps mitigate reputational threats.",
-      "monetization": "Subscription service: $79/month for basic monitoring, $199/month for advanced analytics and intervention tools.",
+      "name": "Virtual Assistant Scout",
+      "problem": "Empreendedores e pequenas empresas que lutam para encontrar assistentes virtuais confiáveis e qualificados, necessitando de um sistema curado e com verificações de antecedentes para garantir a qualidade e segurança dos profissionais contratados.",
+      "monetization": "Marketplace com taxa de 15% sobre os contratos fechados e serviço opcional de verificação de antecedentes por um custo fixo.",
       "theme": "Small Business Ops",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
       "created_at": ""
     },
     {
-      "name": "Drone Tech Investor",
-      "problem": "Founders in niche tech sectors like drone technology find it challenging to connect with investors who understand their market. This platform facilitates targeted introductions and pitch preparation for drone tech startups.",
-      "monetization": "Success fee model: 5% of secured funding, or a tiered platform access fee (e.g., $299/quarter for basic access, $999/quarter for premium matchmaking).",
-      "theme": "Startup Funding",
-      "trends_context": "[tech] OpenJev\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] ZCode, the GLM coding agent, silently uploads your Git history\n[startup] Feedback Friday\n[r/SomebodyMakeThis] We're building RentalReport.co because a building with even good rating told us nothing about the unit we actually rented.\n[tech] Microsoft exec called AI scraping 'the largest theft of labor in human history'\n[startup] Everything is saturated and its exhausting, i will not promote\n[r/SomebodyMakeThis] What if your AI hired you?\n[tech] Jemalloc 5.4.0\n[startup] Guidance on finding investors for drone tech (I will not promote)\n[r/SomebodyMakeThis] SMT: A dating app based on genetics\n[tech] The scourge of x86 emulation\n[startup] Lessons (I will not promote)\n[tech] Astra for Law\n[startup] Leave high TC job vs cofound a tier-1 VC Funded Startup? I will not promote\n[tech] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint\n[startup] Returning Vested Equity (I will not promote)\n[tech] Replacing Pull Requests with Delta\n[startup] I need to check my service's reputation and protect it from potential risks. Who should I trust in 2026? (I will not promote)",
+      "name": "Tech Trend Forecaster",
+      "problem": "Consumidores e investidores que buscam entender as próximas grandes tendências em tecnologia, necessitando de uma ferramenta que analise feeds de notícias, pesquisas e lançamentos para prever o futuro do mercado de forma acessível.",
+      "monetization": "Freemium com relatórios básicos gratuitos e acesso a análises aprofundadas e previsões exclusivas por assinatura de 14.99 USD/mês.",
+      "theme": "Consumer Insights",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Founder Collaboration Hub",
+      "problem": "Fundadores de startups que buscam co-fundadores com habilidades específicas, especialmente em áreas técnicas ou de gestão, mas enfrentam dificuldades em encontrar parceiros compatíveis e navegar pelos aspectos legais da formação de uma empresa.",
+      "monetization": "Plataforma com modelo freemium para perfis básicos e recursos de matchmaking avançados. Cobrança de uma taxa única para a geração de propostas de co-fundador personalizadas (99 USD).",
+      "theme": "Startup Networking",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "AI Circuit Designer",
+      "problem": "Desenvolvedores e engenheiros de hardware que trabalham com circuitos eletrônicos e buscam otimizar o design, gerar novas ideias de arquitetura de circuitos e acelerar o processo de prototipagem, utilizando inteligência artificial.",
+      "monetization": "SaaS B2B, com planos baseados no volume de projetos e recursos de IA utilizados, a partir de 49 USD/mês por licença de desenvolvedor.",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
+      "created_at": ""
+    },
+    {
+      "name": "Android API Navigator",
+      "problem": "Desenvolvedores Android que precisam de uma maneira simplificada de acompanhar as mudanças nas APIs do Android, especialmente aquelas que não são lançadas no AOSP, e entender suas implicações para o desenvolvimento de aplicativos.",
+      "monetization": "Assinatura anual de 29.99 USD para acesso a um banco de dados atualizado de APIs, changelogs detalhados e alertas de novas funcionalidades.",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] Human brain is two separate organs, Stanford Medicine-led research finds\n[startup] Share your startup - quarterly post\n[tech] AI-generated posters don’t have to be horrible\n[startup] Feedback Friday\n[tech] If math is more than proof, we need to better celebrate the rest of it\n[startup] Founder beware: if an investor seems to good to be true it’s a SCAM (I will not promote)\n[tech] GPT-6 Astra Solves a WWI German Radio Cipher\n[startup] Where did you find a trusted human virtual assistant? I will not promote\n[tech] “The Secret Life of Circuits” is here\n[startup] Does stealth make sense when your main concern is competitors figuring out your technology? I will not promote\n[tech] Android 17 is the first since 3.x to add new APIs without releasing to the AOSP\n[startup] How to craft a co-founder proposal for an industry expert? And keeping legal Delaware C-corp stuff in mind? I will not promote\n[tech] San Francisco Onion Futures Company\n[startup] Everything is saturated and its exhausting, i will not promote\n[tech] Cloudflare Quick Tunnels\n[startup] Any marketing cofounders up for a challenge? I will not promote",
       "created_at": ""
     }
   ]
