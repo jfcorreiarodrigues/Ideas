@@ -1,71 +1,63 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T12:13:19+00:00",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T12:23:53+00:00",
   "trends": [
-    "[tech] AMD's random number generator can't generate a 0?",
+    "[tech] Jev in 25 Lines of Python",
     "[startup] Share your startup - quarterly post",
-    "[tech] Can gzip be a language model?",
+    "[tech] Z80 REPL",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-    "[startup] How do new startups actually find their first clients? \"I will not promote\"",
-    "[tech] MiMo v2.6",
-    "[startup] Some personal experinces about working at super early-stage startups— i will not promote",
-    "[tech] Type Punning in C and C++",
-    "[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“",
-    "[tech] Spymarks, Not Watermarks",
-    "[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)",
-    "[tech] Verda (Finland) raises $189M in Series B",
-    "[startup] Should I give my friend shares? (I will not promote)",
-    "[tech] JetBrains Air: A System of Products for Agentic Software Development",
-    "[startup] Labor marketplaces. I will not promote"
+    "[tech] GPT-6 Sol and Luna",
+    "[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote",
+    "[tech] Claude Opus 5.5",
+    "[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)",
+    "[tech] Transit rewards",
+    "[startup] Things you wished you did before launching? [I will not promote]",
+    "[tech] The darker side of being a doctor",
+    "[startup] Help! How do I reliably generate organic leads online? I Will Not Promote",
+    "[tech] QuestDB (YC S20) Is Hiring a Sales Engineer",
+    "[startup] How did you work yourself out from 9-5? (I will not promote)",
+    "[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "[startup] How do new startups actually find their first clients? \"I will not promote\""
   ],
   "ideas": [
     {
-      "name": "Client Acquisition Navigator",
-      "problem": "Startups early-stage struggle to find their initial paying clients. This app provides a curated roadmap and toolset for identifying and engaging first customers.",
-      "monetization": "Freemium with premium features for advanced analytics and templates, priced at $29/month.",
-      "theme": "Startup Growth",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
+      "name": "Transit Rewards Pro",
+      "problem": "Consumidores frequentemente usam múltiplos sistemas de fidelidade e perdem benefícios. Profissionais que viajam frequentemente precisam gerenciar e maximizar recompensas de transporte público e programas de fidelidade associados.",
+      "monetization": "Freemium com recursos premium de gestão de recompensas por 4.99 USD/mês.",
+      "theme": "Consumer Loyalty",
+      "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
       "created_at": ""
     },
     {
-      "name": "Job Market Matcher",
-      "problem": "Individuals and startups seeking or offering roles frequently navigate fragmented job boards. This platform centralizes hiring and co-founder opportunities, offering intelligent matching based on skills and needs.",
-      "monetization": "SaaS for businesses ($49/month for posting and candidate management), free for individuals seeking roles.",
-      "theme": "Hiring & Careers",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
+      "name": "Doctor's Practice Aid",
+      "problem": "Médicos em práticas privadas enfrentam desafios administrativos, como agendamento complexo, gestão de prontuários e comunicação com pacientes, que podem ser otimizados para maior eficiência.",
+      "monetization": "SaaS B2B 49 USD/mês por consultório com capacidade para até 5 médicos.",
+      "theme": "Professional Ops",
+      "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
       "created_at": ""
     },
     {
-      "name": "PR Alternative Finder",
-      "problem": "Small businesses and startups often find traditional PR services like PR Newswire expensive and inefficient. This app identifies and vets alternative, cost-effective PR and outreach platforms.",
-      "monetization": "Affiliate fees from partner platforms and a premium subscription for curated lists and contact databases ($19/month).",
-      "theme": "Small Business PR",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Seed Share Advisor",
-      "problem": "Founders often face difficult decisions about distributing early equity to friends or early contributors. This app offers guidance and scenario planning for fair share allocation.",
-      "monetization": "One-time advisory fee per consultation or a subscription for ongoing access to tools ($49/session or $99/year).",
-      "theme": "Startup Equity",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Gamer Ad Optimizer",
-      "problem": "Gamers, especially those following events like the FIFA Cup, are bombarded with excessive ads, impacting their experience. This app allows users to set custom ad tolerance levels and filters for specific platforms or games.",
-      "monetization": "Freemium with advanced filtering and ad-blocking capabilities for $4.99/month.",
-      "theme": "Consumer Ads",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Agentic Workflow Suite",
-      "problem": "Developers building agentic software need integrated tools for development, deployment, and management. This suite provides a unified environment for creating and managing AI agents.",
-      "monetization": "SaaS with tiered pricing based on usage and features, starting at $99/month.",
+      "name": "AI Code Helper",
+      "problem": "Desenvolvedores perdem tempo com tarefas repetitivas de código e documentação. Uma ferramenta inteligente pode agilizar a geração de boilerplate, a escrita de testes e a criação de documentação clara, aumentando a produtividade.",
+      "monetization": "SaaS B2C/B2B 19 USD/mês por utilizador.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] AMD's random number generator can't generate a 0?\n[startup] Share your startup - quarterly post\n[tech] Can gzip be a language model?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] 9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"\n[startup] How do new startups actually find their first clients? \"I will not promote\"\n[tech] MiMo v2.6\n[startup] Some personal experinces about working at super early-stage startups— i will not promote\n[tech] Type Punning in C and C++\n[startup] As a Sales-Co-Founder when and how to hire a Sales Rep „i will not promote“\n[tech] Spymarks, Not Watermarks\n[startup] A lesson for startups: My €3,190 experience with PR Newswire and why I'd explore alternatives first (I will not promote)\n[tech] Verda (Finland) raises $189M in Series B\n[startup] Should I give my friend shares? (I will not promote)\n[tech] JetBrains Air: A System of Products for Agentic Software Development\n[startup] Labor marketplaces. I will not promote",
+      "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+      "created_at": ""
+    },
+    {
+      "name": "Startup Launch Checklist",
+      "problem": "Novos fundadores de startups frequentemente se sentem sobrecarregados com o processo de lançamento e buscam um guia passo a passo confiável para identificar clientes iniciais e tarefas cruciais antes do lançamento.",
+      "monetization": "Premium (sem IAP) 29.99 USD por acesso completo e atualizações.",
+      "theme": "Startup Guidance",
+      "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+      "created_at": ""
+    },
+    {
+      "name": "Side Hustle Profit",
+      "problem": "Indivíduos com múltiplos projetos paralelos ou pequenos negócios lutam para rastrear a lucratividade de cada empreendimento e otimizar suas finanças para maximizar os ganhos.",
+      "monetization": "Freemium com relatórios avançados e integração bancária por 9.99 USD/mês.",
+      "theme": "Small Business Finance",
+      "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
       "created_at": ""
     }
   ]

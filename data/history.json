@@ -10996,5 +10996,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "generated_at": "2026-09-23T12:23:53+00:00",
+    "trends": [
+      "[tech] Jev in 25 Lines of Python",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Z80 REPL",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] GPT-6 Sol and Luna",
+      "[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote",
+      "[tech] Claude Opus 5.5",
+      "[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)",
+      "[tech] Transit rewards",
+      "[startup] Things you wished you did before launching? [I will not promote]",
+      "[tech] The darker side of being a doctor",
+      "[startup] Help! How do I reliably generate organic leads online? I Will Not Promote",
+      "[tech] QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "[startup] How did you work yourself out from 9-5? (I will not promote)",
+      "[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "[startup] How do new startups actually find their first clients? \"I will not promote\""
+    ],
+    "ideas": [
+      {
+        "name": "Transit Rewards Pro",
+        "problem": "Consumidores frequentemente usam múltiplos sistemas de fidelidade e perdem benefícios. Profissionais que viajam frequentemente precisam gerenciar e maximizar recompensas de transporte público e programas de fidelidade associados.",
+        "monetization": "Freemium com recursos premium de gestão de recompensas por 4.99 USD/mês.",
+        "theme": "Consumer Loyalty",
+        "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+        "created_at": ""
+      },
+      {
+        "name": "Doctor's Practice Aid",
+        "problem": "Médicos em práticas privadas enfrentam desafios administrativos, como agendamento complexo, gestão de prontuários e comunicação com pacientes, que podem ser otimizados para maior eficiência.",
+        "monetization": "SaaS B2B 49 USD/mês por consultório com capacidade para até 5 médicos.",
+        "theme": "Professional Ops",
+        "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+        "created_at": ""
+      },
+      {
+        "name": "AI Code Helper",
+        "problem": "Desenvolvedores perdem tempo com tarefas repetitivas de código e documentação. Uma ferramenta inteligente pode agilizar a geração de boilerplate, a escrita de testes e a criação de documentação clara, aumentando a produtividade.",
+        "monetization": "SaaS B2C/B2B 19 USD/mês por utilizador.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Launch Checklist",
+        "problem": "Novos fundadores de startups frequentemente se sentem sobrecarregados com o processo de lançamento e buscam um guia passo a passo confiável para identificar clientes iniciais e tarefas cruciais antes do lançamento.",
+        "monetization": "Premium (sem IAP) 29.99 USD por acesso completo e atualizações.",
+        "theme": "Startup Guidance",
+        "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+        "created_at": ""
+      },
+      {
+        "name": "Side Hustle Profit",
+        "problem": "Indivíduos com múltiplos projetos paralelos ou pequenos negócios lutam para rastrear a lucratividade de cada empreendimento e otimizar suas finanças para maximizar os ganhos.",
+        "monetization": "Freemium com relatórios avançados e integração bancária por 9.99 USD/mês.",
+        "theme": "Small Business Finance",
+        "trends_context": "[tech] Jev in 25 Lines of Python\n[startup] Share your startup - quarterly post\n[tech] Z80 REPL\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] GPT-6 Sol and Luna\n[startup] If you had to choose ONE of these businesses purely to make money, which would you pursue? i will not promote\n[tech] Claude Opus 5.5\n[startup] YC S26 has a sovereign Starlink, Crowdstrike for agents, and an AI defense contractor. Am I crazy or is this batch different? (i will not promote)\n[tech] Transit rewards\n[startup] Things you wished you did before launching? [I will not promote]\n[tech] The darker side of being a doctor\n[startup] Help! How do I reliably generate organic leads online? I Will Not Promote\n[tech] QuestDB (YC S20) Is Hiring a Sales Engineer\n[startup] How did you work yourself out from 9-5? (I will not promote)\n[tech] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\n[startup] How do new startups actually find their first clients? \"I will not promote\"",
+        "created_at": ""
+      }
+    ]
   }
 ]
