@@ -11132,5 +11132,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "generated_at": "2026-09-25T12:23:29+00:00",
+    "trends": [
+      "[tech] Dutch governments builds alternative for Microsoft based on NixOS",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Ink and Switch Interactive Homepage",
+      "[startup] Feedback Friday",
+      "[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)",
+      "[tech] Platform-Independent SIMD in Go",
+      "[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE",
+      "[tech] F-Droid 2.0",
+      "[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote",
+      "[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]",
+      "[tech] Show HN: Agentic CUDA Kernel Optimizer",
+      "[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)",
+      "[tech] Special Projects (2016)",
+      "[startup] Startup Idea Validation (i will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "NixOS Build Manager",
+        "problem": "For Dutch government initiatives and similar large-scale NixOS deployments, managing complex configurations and ensuring reproducible builds can be challenging. This app provides a centralized platform for managing and monitoring NixOS builds across different environments.",
+        "monetization": "SaaS B2G 500USD/mes por organização",
+        "theme": "Tech Ops",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Friendship Shield",
+        "problem": "Founders who start companies with friends often experience a strain on their personal relationship due to business pressures. This app offers resources, communication tools, and frameworks to help manage co-founder dynamics and preserve friendships.",
+        "monetization": "Freemium + Coaching 49USD/mes",
+        "theme": "Startup Support",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Retro Emulation Hub",
+        "problem": "Enthusiasts seeking to emulate older hardware like Pentium II or Voodoo 3 cards on modern machines struggle with complex setups and finding optimal configurations. This platform offers curated emulation environments and guides.",
+        "monetization": "One-time purchase 19.99USD, Premium guides 4.99USD",
+        "theme": "Retro Tech",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Simd Go Navigator",
+        "problem": "Go developers working with SIMD instructions face platform-specific challenges and a steep learning curve. This tool simplifies the use of SIMD in Go by providing abstracted APIs and performance analysis tools.",
+        "monetization": "SaaS B2B 20USD/mes por utilizador",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "F-Droid App Curator",
+        "problem": "Users of F-Droid often desire a more curated and user-friendly experience beyond the basic app store interface. This app offers enhanced discovery, personalized recommendations, and better management of F-Droid apps.",
+        "monetization": "Freemium + Advanced filtering 2.99USD",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Creator Launchpad",
+        "problem": "DTC companies, especially those with physical products and integrated software (like 3D printed items), need efficient launch strategies, particularly in niche markets like healthcare providers. This app provides a structured launch plan and resource toolkit.",
+        "monetization": "SaaS B2B 99USD/mes",
+        "theme": "Startup Support",
+        "trends_context": "[tech] Dutch governments builds alternative for Microsoft based on NixOS\n[startup] Share your startup - quarterly post\n[tech] Ink and Switch Interactive Homepage\n[startup] Feedback Friday\n[tech] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini\n[startup] Anyone ever start a company with a friend only to see the friendship deteriorate in favor of the coworking relationship? (I will not promote)\n[tech] Platform-Independent SIMD in Go\n[startup] How to keep moving forward without VCs or YCs? I WILL NOT PROMOTE\n[tech] F-Droid 2.0\n[startup] Divorce derailing my QSR startup and I need some advice on moving forward. I will not promote\n[tech] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2\n[startup] Founders on reddit, How much trust do you have on freelancers after AI [I will not promote]\n[tech] Show HN: Agentic CUDA Kernel Optimizer\n[startup] I'm tasked with taking a DTC company to providers in the healthcare space. It is a physical product with software that helps build the physical product (3D printed). I need to help launching this thing 6 weeks in. (I will not promote)\n[tech] Special Projects (2016)\n[startup] Startup Idea Validation (i will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
