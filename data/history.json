@@ -11260,5 +11260,53 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "generated_at": "2026-09-27T12:34:07+00:00",
+    "trends": [
+      "[tech] \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Flip Fluid on Flip Dots",
+      "[startup] Feedback Friday",
+      "[tech] Does Georgism work? Five years later",
+      "[startup] Are ideas just so bad, or is validation too strict? I will not promote",
+      "[tech] OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "[startup] Looking for startups to intern for (i will not promote)",
+      "[tech] Go Concurrency Distilled",
+      "[startup] Product Launch: What's working for you all these days? (I will not promote)",
+      "[tech] Finally, A True Blue Rose Exists",
+      "[startup] I worked 100-hour weeks. My 16% “partner” worked 30, wished me a happy weekend every Thursday, and never once went beyond her job description. Lessons from a failed equity deal. I will not promote.",
+      "[tech] PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "[startup] How do I put it on my resume? - I Will Not Promote",
+      "[tech] DeepSeek Elastic Compute (DSec)",
+      "[startup] Which business would you bet on from a long-term viability and profitability perspective? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Equity Deal Navigator",
+        "problem": "Founders struggling with unfair equity deals (like the 16% partner example) need a tool to analyze and negotiate fairer terms, ensuring they are compensated appropriately for their work and risk.",
+        "monetization": "SaaS B2B 49USD/mes por empresa, com planos premium para aconselhamento jurídico integrado.",
+        "theme": "Startup Finance",
+        "trends_context": "[tech] \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice\n[startup] Share your startup - quarterly post\n[tech] Flip Fluid on Flip Dots\n[startup] Feedback Friday\n[tech] Does Georgism work? Five years later\n[startup] Are ideas just so bad, or is validation too strict? I will not promote\n[tech] OpenAI Feared \"Optics\" of what might appear on Hacker News\n[startup] Looking for startups to intern for (i will not promote)\n[tech] Go Concurrency Distilled\n[startup] Product Launch: What's working for you all these days? (I will not promote)\n[tech] Finally, A True Blue Rose Exists\n[startup] I worked 100-hour weeks. My 16% “partner” worked 30, wished me a happy weekend every Thursday, and never once went beyond her job description. Lessons from a failed equity deal. I will not promote.\n[tech] PipePipe: NewPipe hard fork implementing SponsorBlock\n[startup] How do I put it on my resume? - I Will Not Promote\n[tech] DeepSeek Elastic Compute (DSec)\n[startup] Which business would you bet on from a long-term viability and profitability perspective? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Model Interpretability",
+        "problem": "Developers and researchers working with complex LLMs need tools to understand the 'why' behind model outputs, diagnose issues, and improve transparency in AI decision-making.",
+        "monetization": "SaaS B2B 79USD/mes por utilizador, com planos enterprise para suporte dedicado e personalização.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice\n[startup] Share your startup - quarterly post\n[tech] Flip Fluid on Flip Dots\n[startup] Feedback Friday\n[tech] Does Georgism work? Five years later\n[startup] Are ideas just so bad, or is validation too strict? I will not promote\n[tech] OpenAI Feared \"Optics\" of what might appear on Hacker News\n[startup] Looking for startups to intern for (i will not promote)\n[tech] Go Concurrency Distilled\n[startup] Product Launch: What's working for you all these days? (I will not promote)\n[tech] Finally, A True Blue Rose Exists\n[startup] I worked 100-hour weeks. My 16% “partner” worked 30, wished me a happy weekend every Thursday, and never once went beyond her job description. Lessons from a failed equity deal. I will not promote.\n[tech] PipePipe: NewPipe hard fork implementing SponsorBlock\n[startup] How do I put it on my resume? - I Will Not Promote\n[tech] DeepSeek Elastic Compute (DSec)\n[startup] Which business would you bet on from a long-term viability and profitability perspective? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Hyperlocal Services Marketplace",
+        "problem": "Consumers often struggle to find reliable, local service providers for everyday needs (e.g., handyman, pet sitter, tutor) that are vetted and readily available in their immediate vicinity.",
+        "monetization": "Marketplace 12% fee on completed services, with optional 'premium listing' for providers (10USD/mes).",
+        "theme": "Consumer Services",
+        "trends_context": "[tech] \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice\n[startup] Share your startup - quarterly post\n[tech] Flip Fluid on Flip Dots\n[startup] Feedback Friday\n[tech] Does Georgism work? Five years later\n[startup] Are ideas just so bad, or is validation too strict? I will not promote\n[tech] OpenAI Feared \"Optics\" of what might appear on Hacker News\n[startup] Looking for startups to intern for (i will not promote)\n[tech] Go Concurrency Distilled\n[startup] Product Launch: What's working for you all these days? (I will not promote)\n[tech] Finally, A True Blue Rose Exists\n[startup] I worked 100-hour weeks. My 16% “partner” worked 30, wished me a happy weekend every Thursday, and never once went beyond her job description. Lessons from a failed equity deal. I will not promote.\n[tech] PipePipe: NewPipe hard fork implementing SponsorBlock\n[startup] How do I put it on my resume? - I Will Not Promote\n[tech] DeepSeek Elastic Compute (DSec)\n[startup] Which business would you bet on from a long-term viability and profitability perspective? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
