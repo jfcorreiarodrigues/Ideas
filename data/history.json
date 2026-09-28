@@ -11308,5 +11308,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "generated_at": "2026-09-28T14:41:01+00:00",
+    "trends": [
+      "[tech] Has Violence Against Teachers Become Accepted by Society?",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Parley: Federated, decentralised chat that speaks plain IRC",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] AI companies in race to demonstrate their model most threatening to humanity",
+      "[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)",
+      "[tech] Show HN: Hntui – A TUI for Hacker News",
+      "[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.",
+      "[tech] Coding Is Not Solved – Alex Ewerlöf Notes",
+      "[startup] Experienced founders: How do you sell before building? I will not promote",
+      "[tech] 37,500 border drawings: a map of the world as people remember it",
+      "[startup] 22 year old starting.. i will not promote",
+      "[tech] Footguns with Postgres \"at time zone 'UTC'\"",
+      "[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote",
+      "[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "[startup] Product Launch: What's working for you all these days? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Memory Map Visualizer",
+        "problem": "Users struggle to recall and organize personal memories. This app allows them to create visual maps of their memories, linking them by themes, locations, and emotions, similar to the '37,500 border drawings' concept but for personal recall.",
+        "monetization": "Freemium with premium features for advanced tagging, cloud backup, and collaborative memory mapping (e.g., for family history) at $5.99/month.",
+        "theme": "Personal Memory",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "DeCentralized Chat",
+        "problem": "Users are concerned about privacy and centralization in messaging apps. This app provides a secure, federated, and decentralized chat solution, drawing inspiration from the desire for plain IRC-like functionality with modern features.",
+        "monetization": "Subscription-based for enhanced features like larger group sizes and custom server hosting, starting at $2.99/month per user.",
+        "theme": "Privacy Tech",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "TUI News Reader",
+        "problem": "Developers often spend time on platforms like Hacker News but find the web interface distracting or inefficient. This app offers a clean, TUI (Text User Interface) experience for browsing news, making information consumption more focused.",
+        "monetization": "One-time purchase of $4.99 for the desktop application.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Local Business SEO Helper",
+        "problem": "Small business owners find SEO a daunting and time-consuming task. This app provides guided, simplified SEO tools and actionable insights specifically for local businesses, addressing the pain point expressed in the startup thread about SEO effort.",
+        "monetization": "SaaS B2B tiered pricing: $19/month for basic features, $49/month for advanced analytics and reporting.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Postgres Time Zone Manager",
+        "problem": "Developers and database administrators encounter subtle but critical issues with time zone handling in Postgres. This tool simplifies and automates correct time zone configurations, preventing data inconsistencies and errors.",
+        "monetization": "SaaS B2B with a per-database-instance license fee, starting at $99/year for small instances, scaled up for enterprise.",
+        "theme": "Database Admin",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Pre-Build Pitch Optimizer",
+        "problem": "Aspiring founders need to validate their ideas and understand market demand before investing heavily in development. This tool helps users refine their business concept and 'sell before building' by analyzing market trends, identifying potential user pain points, and suggesting core value propositions.",
+        "monetization": "Consultation-based service with tiered packages for idea validation and market research, starting at $199 per session.",
+        "theme": "Startup Strategy",
+        "trends_context": "[tech] Has Violence Against Teachers Become Accepted by Society?\n[startup] Share your startup - quarterly post\n[tech] Parley: Federated, decentralised chat that speaks plain IRC\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies in race to demonstrate their model most threatening to humanity\n[startup] I like the process of building to solve user problems, should i try to build a startup? (I will not promote)\n[tech] Show HN: Hntui – A TUI for Hacker News\n[startup] Just started doing SEO for our startup and it’s a lot of work. What tools are you guys using to help with the process? I will not promote.\n[tech] Coding Is Not Solved – Alex Ewerlöf Notes\n[startup] Experienced founders: How do you sell before building? I will not promote\n[tech] 37,500 border drawings: a map of the world as people remember it\n[startup] 22 year old starting.. i will not promote\n[tech] Footguns with Postgres \"at time zone 'UTC'\"\n[startup] can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote\n[tech] Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page\n[startup] Product Launch: What's working for you all these days? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
