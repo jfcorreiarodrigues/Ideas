@@ -11380,5 +11380,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "generated_at": "2026-09-29T13:31:30+00:00",
+    "trends": [
+      "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "[startup] Share your startup - quarterly post",
+      "[tech] You Are No Longer Invited to Dinner",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] AI companies leak data to advertisers [pdf]",
+      "[startup] Where to find a co-founder? I will not promote",
+      "[tech] Jeeves. Reasoning improves Jev-like decision models",
+      "[startup] What would you pay an ops/analyst to take off your plate? I will not promote",
+      "[tech] 500k facial scans at UK stations yield no arrests, 1 false positive",
+      "[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?",
+      "[tech] Using any C++ library in Godot",
+      "[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)",
+      "[tech] Without the Hot Air",
+      "[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)",
+      "[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote"
+    ],
+    "ideas": [
+      {
+        "name": "Jeeves Decision Aid",
+        "problem": "Startups and small businesses struggle with complex decision-making processes. This tool leverages advanced reasoning models to provide actionable insights for daily operational choices.",
+        "monetization": "SaaS B2B 39 USD/mes por equipa",
+        "theme": "AI Productivity",
+        "trends_context": "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent\n[startup] Share your startup - quarterly post\n[tech] You Are No Longer Invited to Dinner\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies leak data to advertisers [pdf]\n[startup] Where to find a co-founder? I will not promote\n[tech] Jeeves. Reasoning improves Jev-like decision models\n[startup] What would you pay an ops/analyst to take off your plate? I will not promote\n[tech] 500k facial scans at UK stations yield no arrests, 1 false positive\n[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?\n[tech] Using any C++ library in Godot\n[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)\n[tech] Without the Hot Air\n[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)\n[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS\n[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "NixOS Deployment Guard",
+        "problem": "Organizations migrating to NixOS or alternative systems need robust deployment management. This tool automates and simplifies the secure deployment of NixOS environments, reducing manual errors and security risks.",
+        "monetization": "SaaS B2B 59 USD/mes por servidor",
+        "theme": "Tech Ops",
+        "trends_context": "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent\n[startup] Share your startup - quarterly post\n[tech] You Are No Longer Invited to Dinner\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies leak data to advertisers [pdf]\n[startup] Where to find a co-founder? I will not promote\n[tech] Jeeves. Reasoning improves Jev-like decision models\n[startup] What would you pay an ops/analyst to take off your plate? I will not promote\n[tech] 500k facial scans at UK stations yield no arrests, 1 false positive\n[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?\n[tech] Using any C++ library in Godot\n[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)\n[tech] Without the Hot Air\n[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)\n[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS\n[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Facial Scan Privacy",
+        "problem": "Consumers are concerned about the misuse of facial scan data collected in public spaces. This app educates users on their rights and provides tools to track and potentially challenge data collection practices.",
+        "monetization": "Freemium com recurso premium de alerta 2.99 USD",
+        "theme": "Consumer Privacy",
+        "trends_context": "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent\n[startup] Share your startup - quarterly post\n[tech] You Are No Longer Invited to Dinner\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies leak data to advertisers [pdf]\n[startup] Where to find a co-founder? I will not promote\n[tech] Jeeves. Reasoning improves Jev-like decision models\n[startup] What would you pay an ops/analyst to take off your plate? I will not promote\n[tech] 500k facial scans at UK stations yield no arrests, 1 false positive\n[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?\n[tech] Using any C++ library in Godot\n[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)\n[tech] Without the Hot Air\n[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)\n[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS\n[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Data Leak Watch",
+        "problem": "Users are increasingly worried about AI companies leaking their data to advertisers. This service monitors for known breaches and alerts users, providing guidance on how to protect their information.",
+        "monetization": "Subscription 3.99 USD/mes",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent\n[startup] Share your startup - quarterly post\n[tech] You Are No Longer Invited to Dinner\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies leak data to advertisers [pdf]\n[startup] Where to find a co-founder? I will not promote\n[tech] Jeeves. Reasoning improves Jev-like decision models\n[startup] What would you pay an ops/analyst to take off your plate? I will not promote\n[tech] 500k facial scans at UK stations yield no arrests, 1 false positive\n[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?\n[tech] Using any C++ library in Godot\n[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)\n[tech] Without the Hot Air\n[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)\n[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS\n[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote",
+        "created_at": ""
+      },
+      {
+        "name": "Physical Product Launch",
+        "problem": "Entrepreneurs venturing into physical products lack structured guidance for the early stages. This platform offers curated resources, case studies, and tools specifically for the challenges of launching and scaling a physical product company.",
+        "monetization": "Marketplace 15% commission on featured suppliers",
+        "theme": "Small Business Product",
+        "trends_context": "[tech] Delhi Cut Electricity Loss from 50 to 5 Percent\n[startup] Share your startup - quarterly post\n[tech] You Are No Longer Invited to Dinner\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] AI companies leak data to advertisers [pdf]\n[startup] Where to find a co-founder? I will not promote\n[tech] Jeeves. Reasoning improves Jev-like decision models\n[startup] What would you pay an ops/analyst to take off your plate? I will not promote\n[tech] 500k facial scans at UK stations yield no arrests, 1 false positive\n[startup] I will not promote - Has anyone replaced an AI provider halfway through a project?\n[tech] Using any C++ library in Godot\n[startup] We started a physical product company instead of a SaaS. Here's what the first 12 months taught us. (I will not promote)\n[tech] Without the Hot Air\n[startup] Anyone here actually sold on-prem / local AI to small professional firms? How did support go? (i will not promote)\n[tech] US sanctions force The Netherlands off Microsoft and toward alternative NixOS\n[startup] COFOUNDER] Looking for US-based co-founder for content marketing agency, I will not Promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
