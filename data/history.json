@@ -11444,5 +11444,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "generated_at": "2026-09-30T13:07:35+00:00",
+    "trends": [
+      "[tech] Pi.dev: You Said No MCP",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Livenerf: Has Opus 5.5 been nerfed yet?",
+      "[startup] Have any startups here actually lost money because of AI? - I will not promote",
+      "[tech] Most data centers refusing to say how much water, electricity they use",
+      "[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)",
+      "[tech] Solving Factorio Quality",
+      "[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]",
+      "[tech] Mathematical Origami",
+      "[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote",
+      "[tech] September 2026: The world today, as seen by one Polish guy",
+      "[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)",
+      "[tech] Dots: Always-on agents",
+      "[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE"
+    ],
+    "ideas": [
+      {
+        "name": "Resource Footprint Tracker",
+        "problem": "Consumidores conscientes querem entender e reduzir o impacto ambiental de seus hábitos de consumo.  Esta ferramenta quantifica o uso de água e eletricidade associado a produtos e serviços.",
+        "monetization": "Freemium com recursos avançados de análise e relatórios personalizados por assinatura mensal (5.99USD/mes).",
+        "theme": "Consumer Sustainability",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      },
+      {
+        "name": "Robot Build Assistant",
+        "problem": "Entusiastas de robótica e makers precisam de uma plataforma simplificada para gerenciar projetos de impressão 3D e montagem de robôs.  A aplicação oferece guias interativos e controle de componentes.",
+        "monetization": "SaaS B2C com um modelo de assinatura para acesso a modelos premium e suporte (7.99USD/mes).",
+        "theme": "Indie Robotics Dev",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      },
+      {
+        "name": "Global Hiring Admin",
+        "problem": "Pequenas e médias empresas que contratam remotamente em diferentes países enfrentam complexidade administrativa e legal.  A ferramenta simplifica a conformidade e a gestão de folha de pagamento internacional.",
+        "monetization": "SaaS B2B com planos escalonados baseados no número de funcionários internacionais (a partir de 49USD/mês).",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      },
+      {
+        "name": "Partner Discovery Hub",
+        "problem": "Fundadores não-técnicos de negócios físicos buscam parceiros com competências complementares. A plataforma facilita a conexão com base em habilidades, valores e objetivos de negócios.",
+        "monetization": "Marketplace com um modelo de assinatura premium para fundadores que desejam recursos de busca avançados e ferramentas de comunicação (29USD/mês).",
+        "theme": "Founder Networking",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      },
+      {
+        "name": "AI Model Tuning",
+        "problem": "Desenvolvedores de IA precisam de uma maneira eficiente para ajustar parâmetros de modelos de linguagem para aplicações específicas, sem a necessidade de infraestrutura complexa.  A ferramenta oferece uma interface intuitiva para otimização.",
+        "monetization": "SaaS B2B com uso baseado em créditos e planos de assinatura para maior volume de processamento (preço sob consulta).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      },
+      {
+        "name": "Marketplace Demand Gap",
+        "problem": "Fundadores de marketplaces que construíram a oferta primeiro, mas enfrentam falta de demanda, precisam de insights e estratégias para atrair usuários. A ferramenta oferece análise de mercado e planos de ação.",
+        "monetization": "Consultoria premium e acesso a workshops, com um modelo de assinatura para acesso contínuo a ferramentas e recursos (99USD/mês).",
+        "theme": "Startup Strategy",
+        "trends_context": "[tech] Pi.dev: You Said No MCP\n[startup] Share your startup - quarterly post\n[tech] Show HN: JBR-001 – An open-source 3D printable desktop robot\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Livenerf: Has Opus 5.5 been nerfed yet?\n[startup] Have any startups here actually lost money because of AI? - I will not promote\n[tech] Most data centers refusing to say how much water, electricity they use\n[startup] This subreddit has been an absolute disaster since 2023 (I will not promote)\n[tech] Solving Factorio Quality\n[startup] We can hire this role in Portugal, Poland or Mexico. Does the country change how much admin we're signing up for? [I will not promote]\n[tech] Mathematical Origami\n[startup] Non-technical founders building non-tech businesses: where do you find a partner? - I will not promote\n[tech] September 2026: The world today, as seen by one Polish guy\n[startup] Two-sided marketplace at Antler: we built supply first and have zero demand. Did we do it backwards? (I will not promote)\n[tech] Dots: Always-on agents\n[startup] It's tempting to build your pitch decks with Claude - Don't! I WILL NOT PROMOTE",
+        "created_at": ""
+      }
+    ]
   }
 ]
