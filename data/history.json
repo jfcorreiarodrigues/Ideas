@@ -12244,5 +12244,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "generated_at": "2026-10-12T16:15:17+00:00",
+    "trends": [
+      "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Secret of Orange Cats Revealed After 60-Year Search",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Fingerprints are the new cookies",
+      "[startup] B2B sales ideas - I will not promote",
+      "[tech] Type-safe HTML templating in Zig",
+      "[startup] Anyone with experience with Merge.dev? i will not promote",
+      "[tech] Incident with Actions, Pull Requests and Issues",
+      "[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote",
+      "[tech] Show HN: PS2 games statically recompiled to WebAssembly",
+      "[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"",
+      "[tech] Total Annihilation, rebuilt for modern computers",
+      "[startup] Everything is oversaturated (i will not promote)",
+      "[tech] An Unmade Film Shaped Hayao Miyazaki",
+      "[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Retro Game Archive",
+        "problem": "Retro gamers often struggle to find and organize information about older games, including technical details, developer interviews, and community discussions. This app provides a centralized hub for discovering and managing retro game content.",
+        "monetization": "Freemium with premium subscription for advanced search filters, ad-free experience, and exclusive content. Potential for affiliate links to retro game marketplaces.",
+        "theme": "Retro Gaming",
+        "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Niche B2B Sales Guide",
+        "problem": "Startup founders and small business owners often lack structured strategies for niche B2B sales, especially when dealing with unique products or services. This app offers curated sales frameworks, best practices, and case studies tailored to specific industries.",
+        "monetization": "SaaS B2B - tiered subscription based on team size and feature access, starting at $49/month.",
+        "theme": "Small Business Sales",
+        "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Creator Collaboration Hub",
+        "problem": "Independent creators often face challenges finding and vetting collaborators for projects, leading to inefficient communication and missed opportunities. This platform facilitates discovery, project management, and secure payment for creator collaborations.",
+        "monetization": "Marketplace fee of 15% on successful collaborations. Optional premium features for enhanced project management tools and verified profiles.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Personal Tech Debt Tracker",
+        "problem": "Consumers accumulate a 'tech debt' of outdated software, devices, and subscriptions that are no longer useful or secure, leading to wasted money and potential security risks. This app helps users identify, track, and manage their personal technology lifecycle.",
+        "monetization": "Freemium with a one-time purchase for unlimited device tracking and automated reminders for end-of-life products. Potential for affiliate partnerships with tech recycling services.",
+        "theme": "Consumer Tech",
+        "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Pet Wellness Journal",
+        "problem": "Pet owners struggle to keep track of their pet's health history, including vaccinations, vet visits, medication schedules, and behavioral changes. This app provides a comprehensive, easy-to-use journal for logging and monitoring all aspects of a pet's well-being.",
+        "monetization": "Freemium with premium features for multi-pet management, customizable alert systems, and secure sharing with veterinarians. One-time unlock for advanced analytics.",
+        "theme": "Pet Care",
+        "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]

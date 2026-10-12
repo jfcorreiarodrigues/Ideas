@@ -1,71 +1,63 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T13:37:26+00:00",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T16:15:17+00:00",
   "trends": [
-    "[tech] I paid people to try and follow my README",
+    "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
     "[startup] Share your startup - quarterly post",
-    "[tech] Don't Put Tilde In Your Path",
-    "[startup] Feedback Friday",
-    "[tech] LineageOS 24.0",
+    "[tech] Secret of Orange Cats Revealed After 60-Year Search",
+    "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+    "[tech] Fingerprints are the new cookies",
+    "[startup] B2B sales ideas - I will not promote",
+    "[tech] Type-safe HTML templating in Zig",
+    "[startup] Anyone with experience with Merge.dev? i will not promote",
+    "[tech] Incident with Actions, Pull Requests and Issues",
+    "[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote",
+    "[tech] Show HN: PS2 games statically recompiled to WebAssembly",
+    "[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"",
+    "[tech] Total Annihilation, rebuilt for modern computers",
     "[startup] Everything is oversaturated (i will not promote)",
-    "[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-    "[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*",
-    "[tech] Valen's Memory Safety: A New Kind of Borrow Checking",
-    "[startup] [I will not promote] dual-class structure YC friendly ?",
-    "[tech] Nitter: Update Oct 10th seeking funding and legal help",
-    "[startup] How do you keep track of what competitors do in marketing? (I will not promote)",
-    "[tech] How HN: Go-dev-auth zero-dependency authentication library for Go",
-    "[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*",
-    "[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel",
-    "[startup] What are some rules/core competencies in creating a start up. I will not promote"
+    "[tech] An Unmade Film Shaped Hayao Miyazaki",
+    "[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)"
   ],
   "ideas": [
     {
-      "name": "Nitter Funding Navigator",
-      "problem": "Nitter users and operators are looking for ways to secure funding and legal assistance. This app would aggregate funding opportunities and legal resources relevant to alternative Twitter clients.",
-      "monetization": "Freemium with premium features for direct contact with legal professionals, subscription for aggregated funding alerts (e.g., $19/month).",
+      "name": "Retro Game Archive",
+      "problem": "Retro gamers often struggle to find and organize information about older games, including technical details, developer interviews, and community discussions. This app provides a centralized hub for discovering and managing retro game content.",
+      "monetization": "Freemium with premium subscription for advanced search filters, ad-free experience, and exclusive content. Potential for affiliate links to retro game marketplaces.",
+      "theme": "Retro Gaming",
+      "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Niche B2B Sales Guide",
+      "problem": "Startup founders and small business owners often lack structured strategies for niche B2B sales, especially when dealing with unique products or services. This app offers curated sales frameworks, best practices, and case studies tailored to specific industries.",
+      "monetization": "SaaS B2B - tiered subscription based on team size and feature access, starting at $49/month.",
+      "theme": "Small Business Sales",
+      "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Creator Collaboration Hub",
+      "problem": "Independent creators often face challenges finding and vetting collaborators for projects, leading to inefficient communication and missed opportunities. This platform facilitates discovery, project management, and secure payment for creator collaborations.",
+      "monetization": "Marketplace fee of 15% on successful collaborations. Optional premium features for enhanced project management tools and verified profiles.",
       "theme": "Creator Economy",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
+      "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
       "created_at": ""
     },
     {
-      "name": "Path Helper",
-      "problem": "Developers, especially beginners, struggle with understanding and managing environment variables and system paths, leading to common errors like 'tilde in path'. This tool provides visual explanations and tools to manage paths safely.",
-      "monetization": "One-time purchase for the desktop app ($14.99), or a subscription for advanced features and cloud synchronization ($4.99/month).",
-      "theme": "Developer Utilities",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "LineageOS Update Tracker",
-      "problem": "Users of custom Android ROMs like LineageOS want to stay informed about the latest stable releases and security patches for their specific devices. This app provides personalized notifications and changelog summaries.",
-      "monetization": "Freemium: basic tracking is free, advanced features like historical data and device comparison are $2.99/year.",
+      "name": "Personal Tech Debt Tracker",
+      "problem": "Consumers accumulate a 'tech debt' of outdated software, devices, and subscriptions that are no longer useful or secure, leading to wasted money and potential security risks. This app helps users identify, track, and manage their personal technology lifecycle.",
+      "monetization": "Freemium with a one-time purchase for unlimited device tracking and automated reminders for end-of-life products. Potential for affiliate partnerships with tech recycling services.",
       "theme": "Consumer Tech",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
+      "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
       "created_at": ""
     },
     {
-      "name": "Valen Borrow Checker",
-      "problem": "Programmers exploring memory-safe languages often encounter complex concepts like borrow checking. This tool offers interactive visualizations and simplified explanations of memory safety concepts.",
-      "monetization": "Subscription-based access to advanced learning modules and interactive exercises ($9.99/month).",
-      "theme": "Developer Utilities",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Startup Marketing Monitor",
-      "problem": "Startup founders need to track competitor marketing activities without investing in expensive enterprise tools. This app provides aggregated public data on competitor campaigns, social media presence, and press mentions.",
-      "monetization": "Tiered SaaS model: Free for basic tracking (up to 3 competitors), Pro ($49/month) for more competitors and detailed analytics, Enterprise ($199/month) for team collaboration.",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
-      "created_at": ""
-    },
-    {
-      "name": "Europe Travel Planner",
-      "problem": "Travelers planning road trips across Europe need to accurately estimate costs for tolls, vignettes, and fuel. This app provides a comprehensive calculator and route planner, factoring in real-time pricing.",
-      "monetization": "Freemium: basic cost estimation is free, premium features like offline maps, custom route optimization, and detailed expense breakdowns are $5.99/trip or $29.99/year.",
-      "theme": "Consumer Travel",
-      "trends_context": "[tech] I paid people to try and follow my README\n[startup] Share your startup - quarterly post\n[tech] Don't Put Tilde In Your Path\n[startup] Feedback Friday\n[tech] LineageOS 24.0\n[startup] Everything is oversaturated (i will not promote)\n[tech] Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter\n[startup] Cofounder considering leaving after Series B - looking for advice *I Will not promote*\n[tech] Valen's Memory Safety: A New Kind of Borrow Checking\n[startup] [I will not promote] dual-class structure YC friendly ?\n[tech] Nitter: Update Oct 10th seeking funding and legal help\n[startup] How do you keep track of what competitors do in marketing? (I will not promote)\n[tech] How HN: Go-dev-auth zero-dependency authentication library for Go\n[startup] Thinking about how I can monetise a solar sales consulting/training business *I will not promote*\n[tech] What driving across Europe costs in tolls, vignettes, bridges and fuel\n[startup] What are some rules/core competencies in creating a start up. I will not promote",
+      "name": "Pet Wellness Journal",
+      "problem": "Pet owners struggle to keep track of their pet's health history, including vaccinations, vet visits, medication schedules, and behavioral changes. This app provides a comprehensive, easy-to-use journal for logging and monitoring all aspects of a pet's well-being.",
+      "monetization": "Freemium with premium features for multi-pet management, customizable alert systems, and secure sharing with veterinarians. One-time unlock for advanced analytics.",
+      "theme": "Pet Care",
+      "trends_context": "[tech] The Making Of Super Mario 64 – full Giles Goddard interview (2001)\n[startup] Share your startup - quarterly post\n[tech] Secret of Orange Cats Revealed After 60-Year Search\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Fingerprints are the new cookies\n[startup] B2B sales ideas - I will not promote\n[tech] Type-safe HTML templating in Zig\n[startup] Anyone with experience with Merge.dev? i will not promote\n[tech] Incident with Actions, Pull Requests and Issues\n[startup] Solid idea, have experience being the solo engineer building similar successful products for other startups, between 3 to 9 months to get it to market, however, possible contractual issues from previous employer. What to do? I will not promote\n[tech] Show HN: PS2 games statically recompiled to WebAssembly\n[startup] I built an app to solve my own problem. How do I know if it's a real business opportunity? \"I will not promote\"\n[tech] Total Annihilation, rebuilt for modern computers\n[startup] Everything is oversaturated (i will not promote)\n[tech] An Unmade Film Shaped Hayao Miyazaki\n[startup] My cofounder sees communication as a burden and is questioning his sacrifice and our partnership. (I will not promote)",
       "created_at": ""
     }
   ]
