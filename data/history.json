@@ -12308,5 +12308,81 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "generated_at": "2026-10-13T14:40:05+00:00",
+    "trends": [
+      "[tech] 11 year old unsoundness bugs found in Rust borrow checker",
+      "[startup] Share your startup - quarterly post",
+      "[r/SomebodyMakeThis] Creator Showcase - Monthly Thread",
+      "[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue",
+      "[tech] An hour of audio transcribed in about 13s on MacBook Air",
+      "[startup] Hiring first technical talent as a CTO/CPO (i will not promote)",
+      "[r/SomebodyMakeThis] Household blinds for windows that act as solar panels",
+      "[tech] Hittite royal archive found in Turkey",
+      "[startup] Tips for pitch competitions and meeting investors (I will not promote)",
+      "[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?",
+      "[tech] A Visual Intro to Complex Numbers",
+      "[startup] Looking for Pulley alternatives (I will not promote)",
+      "[tech] Show HN: Use your OpenAI subscription to create audiobooks",
+      "[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?",
+      "[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )",
+      "[tech] Mozilla Introduces Firefox Enterprise",
+      "[startup] How have you reduced the adoption cost of a developer tool? I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "Solar Blinds Pro",
+        "problem": "Homeowners and renters struggle to integrate renewable energy solutions into their existing living spaces. This app helps manage and optimize the performance of solar-powered window blinds, maximizing energy generation and reducing electricity bills.",
+        "monetization": "Freemium with premium features for advanced analytics and energy forecasting, priced at $5.99/month or $59.99/year.",
+        "theme": "Smart Home Energy",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Local Issue Chronicle",
+        "problem": "Community organizers and local historians have difficulty compiling and preserving information about specific local issues over time. This tool transforms meeting minutes and related documents into a searchable, shareable, and visually engaging historical record.",
+        "monetization": "Subscription-based SaaS for organizations and municipalities at tiered pricing ($49-$199/month) based on storage and features.",
+        "theme": "Community History",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Audiobook Creator Studio",
+        "problem": "Independent authors and content creators want to easily convert their written content into audiobooks without complex software or expensive professional services. This platform leverages AI to automate the transcription and narration process.",
+        "monetization": "Per-project pricing based on audio length, with subscription tiers offering bulk discounts and advanced customization options (e.g., voice selection, sound effects) starting at $0.50 per minute of final audio.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Mac GPU Cloud",
+        "problem": "Early-stage startups and independent developers require access to powerful GPU resources for AI model training and other compute-intensive tasks but often face high costs. This app facilitates the creation of a distributed cloud GPU network using underutilized Apple Silicon Macs.",
+        "monetization": "Pay-as-you-go compute time rental with tiered pricing based on GPU type and availability, plus a small platform fee.",
+        "theme": "Developer Compute",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Invest Pitch Navigator",
+        "problem": "Startup founders often struggle to identify the best pitch competitions and effectively connect with relevant investors. This platform aggregates opportunities and provides actionable advice tailored to a startup's stage and industry, guiding them through the process.",
+        "monetization": "Premium subscription for access to exclusive pitch events and investor databases ($99/month), with optional one-on-one expert consultation sessions for an additional fee.",
+        "theme": "Startup Funding",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "SaaS Roadmap Planner",
+        "problem": "SaaS and developer tool startups launching public betas need to strategically present their product vision and future development. This tool helps define, visualize, and communicate a compelling product roadmap to users, balancing transparency with competitive advantage.",
+        "monetization": "SaaS B2B with tiered plans based on team size and feature set, starting at $39/month for solo founders and scaling up to enterprise solutions.",
+        "theme": "Product Management",
+        "trends_context": "[tech] 11 year old unsoundness bugs found in Rust borrow checker\n[startup] Share your startup - quarterly post\n[r/SomebodyMakeThis] Creator Showcase - Monthly Thread\n[tech] Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[r/SomebodyMakeThis] [SMT] Turn meeting minutes into a printable history of one local issue\n[tech] An hour of audio transcribed in about 13s on MacBook Air\n[startup] Hiring first technical talent as a CTO/CPO (i will not promote)\n[r/SomebodyMakeThis] Household blinds for windows that act as solar panels\n[tech] Hittite royal archive found in Turkey\n[startup] Tips for pitch competitions and meeting investors (I will not promote)\n[r/SomebodyMakeThis] I'm building free tools to solve real problems. What should I build next?\n[tech] A Visual Intro to Complex Numbers\n[startup] Looking for Pulley alternatives (I will not promote)\n[tech] Show HN: Use your OpenAI subscription to create audiobooks\n[startup] [I will not promote] Where to find GPU compute rentals program for early-stage startups?\n[tech] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades\n[startup] Launching a public beta for SaaS/Dev tool - I should list all future( udeveloped) modules/roadmap or show only the current module. ( I will not promote )\n[tech] Mozilla Introduces Firefox Enterprise\n[startup] How have you reduced the adoption cost of a developer tool? I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
