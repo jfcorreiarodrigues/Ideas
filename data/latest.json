@@ -1,47 +1,71 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T12:32:32+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:14:54+00:00",
   "trends": [
-    "[tech] Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "[tech] Things to know when you get cancer",
     "[startup] Share your startup - quarterly post",
-    "[tech] Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "[tech] Wanted to download an ISO, ended up writing a kernel exploit",
     "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] Who Is Planting Backdoors in Ledger Crypto Wallets?",
-    "[startup] i co-worked with 70+ YC founders, and here’s 10 dumbed down lessons from them [I will not promote]",
-    "[tech] Pulsar at ESUG 2026 (new Smalltalk IDE)",
-    "[startup] Burnt out after a 3rd failed startup (I will not promote)",
-    "[tech] Amazon pushes up prices across the Internet",
-    "[startup] How do you find your first customers when your product could serve multiple types of users? i will not promote",
-    "[tech] What agents mean for Rust (and vice versa)",
-    "[startup] My boss ghosted me and all of our still paying subscribers, I will not promote",
-    "[tech] Sound – Bartosz Ciechanowski (2022)",
-    "[startup] I have no idea how to think of and approve ideas (I will not promote)",
-    "[tech] Smart people don't think others are stupid",
-    "[startup] Anyone else have more AI subscriptions than actual customers? 😂 I WILL NOT PROMOTE"
+    "[tech] OpenCode 2.0",
+    "[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+    "[tech] Tiny Little Office",
+    "[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)",
+    "[tech] The First Social Network: In rural Argentina residents send messages w AM radio",
+    "[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)",
+    "[tech] Show HN: Indigene – Native plants for where you stand",
+    "[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)",
+    "[tech] Do dentists know what they're doing?",
+    "[startup] (I will not promote) Can I get a job and continue with my startup?",
+    "[tech] LFM2.5-24B-A2B: Built for fast on-device agents",
+    "[startup] What do you send prospects after a demo call? (i will not promote)"
   ],
   "ideas": [
     {
-      "name": "Smart Contract Auditor",
-      "problem": "Developers and investors in DeFi need a reliable way to identify vulnerabilities in smart contracts before deployment or investment. This app provides automated analysis and reporting of potential security risks.",
-      "monetization": "SaaS B2B tiered pricing based on contract size and analysis depth, starting at $50/audit. Subscription for continuous monitoring.",
-      "theme": "DeFi Security",
-      "trends_context": "[tech] Iosevka is an open-source, sans-serif and slab-serif, monospace font\n[startup] Share your startup - quarterly post\n[tech] Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who Is Planting Backdoors in Ledger Crypto Wallets?\n[startup] i co-worked with 70+ YC founders, and here’s 10 dumbed down lessons from them [I will not promote]\n[tech] Pulsar at ESUG 2026 (new Smalltalk IDE)\n[startup] Burnt out after a 3rd failed startup (I will not promote)\n[tech] Amazon pushes up prices across the Internet\n[startup] How do you find your first customers when your product could serve multiple types of users? i will not promote\n[tech] What agents mean for Rust (and vice versa)\n[startup] My boss ghosted me and all of our still paying subscribers, I will not promote\n[tech] Sound – Bartosz Ciechanowski (2022)\n[startup] I have no idea how to think of and approve ideas (I will not promote)\n[tech] Smart people don't think others are stupid\n[startup] Anyone else have more AI subscriptions than actual customers? 😂 I WILL NOT PROMOTE",
+      "name": "On-Device Agent Optimizer",
+      "problem": "Users with LFM2.5-24B-A2B or similar on-device AI models need to efficiently manage and optimize their agents for specific tasks and resource constraints. This app helps them fine-tune settings and resource allocation.",
+      "monetization": "SaaS B2C, tiered subscription starting at 9.99USD/month for advanced optimization features and multi-agent management.",
+      "theme": "Tech Agent Tools",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
       "created_at": ""
     },
     {
-      "name": "Freelancer Time Tracker",
-      "problem": "Freelancers need an accurate and simple way to track billable hours across multiple projects and clients, often juggling different tools. This app offers a unified platform for time tracking, invoicing, and basic project management.",
-      "monetization": "SaaS B2C $9.99/month for unlimited projects and clients, with a free tier for up to 3 projects.",
-      "theme": "Freelancer Productivity",
-      "trends_context": "[tech] Iosevka is an open-source, sans-serif and slab-serif, monospace font\n[startup] Share your startup - quarterly post\n[tech] Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who Is Planting Backdoors in Ledger Crypto Wallets?\n[startup] i co-worked with 70+ YC founders, and here’s 10 dumbed down lessons from them [I will not promote]\n[tech] Pulsar at ESUG 2026 (new Smalltalk IDE)\n[startup] Burnt out after a 3rd failed startup (I will not promote)\n[tech] Amazon pushes up prices across the Internet\n[startup] How do you find your first customers when your product could serve multiple types of users? i will not promote\n[tech] What agents mean for Rust (and vice versa)\n[startup] My boss ghosted me and all of our still paying subscribers, I will not promote\n[tech] Sound – Bartosz Ciechanowski (2022)\n[startup] I have no idea how to think of and approve ideas (I will not promote)\n[tech] Smart people don't think others are stupid\n[startup] Anyone else have more AI subscriptions than actual customers? 😂 I WILL NOT PROMOTE",
+      "name": "Rural Comms Network",
+      "problem": "Individuals in remote areas, inspired by the Argentinian AM radio example, need a reliable and low-cost way to send and receive messages when traditional internet is unavailable. This app facilitates mesh networking via existing radio frequencies.",
+      "monetization": "Freemium with optional hardware purchase for enhanced transmission range. One-time purchase for premium features (e.g., group messaging, encrypted comms) at 19.99USD.",
+      "theme": "Connectivity Consumer",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
       "created_at": ""
     },
     {
-      "name": "AI Personalized Learning Path",
-      "problem": "Developers learning new technologies or complex frameworks often struggle to identify the most efficient and relevant learning resources. This AI-driven tool creates personalized learning paths based on user goals and current knowledge, recommending specific tutorials, documentation, and projects.",
-      "monetization": "Subscription service for individuals at $19.99/month, with enterprise licenses for teams and educational institutions.",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] Iosevka is an open-source, sans-serif and slab-serif, monospace font\n[startup] Share your startup - quarterly post\n[tech] Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Who Is Planting Backdoors in Ledger Crypto Wallets?\n[startup] i co-worked with 70+ YC founders, and here’s 10 dumbed down lessons from them [I will not promote]\n[tech] Pulsar at ESUG 2026 (new Smalltalk IDE)\n[startup] Burnt out after a 3rd failed startup (I will not promote)\n[tech] Amazon pushes up prices across the Internet\n[startup] How do you find your first customers when your product could serve multiple types of users? i will not promote\n[tech] What agents mean for Rust (and vice versa)\n[startup] My boss ghosted me and all of our still paying subscribers, I will not promote\n[tech] Sound – Bartosz Ciechanowski (2022)\n[startup] I have no idea how to think of and approve ideas (I will not promote)\n[tech] Smart people don't think others are stupid\n[startup] Anyone else have more AI subscriptions than actual customers? 😂 I WILL NOT PROMOTE",
+      "name": "Founder's Associate Job",
+      "problem": "Individuals looking for 'Founder's Associate' roles in early-stage startups struggle to find relevant opportunities and understand the unique expectations. This platform connects them with vetted startups seeking this specific role.",
+      "monetization": "Marketplace, startups pay a fee (e.g., 500-2000USD depending on stage) to list positions. Optional premium profile features for candidates (e.g., portfolio showcase) at 4.99USD/month.",
+      "theme": "Startup Career",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Demo Follow-up Assistant",
+      "problem": "Sales teams struggle to consistently and effectively follow up with prospects after demo calls, often missing key engagement points or sending generic messages. This app provides templates and personalized follow-up suggestions based on demo call transcripts (user-provided).",
+      "monetization": "SaaS B2B, subscription tiers based on team size and features, starting at 29USD/month.",
+      "theme": "Sales Operations",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Plant Identifier Pro",
+      "problem": "Home gardeners and enthusiasts inspired by native plant identification apps want to easily identify plants in their environment, understand their care needs, and discover suitable native species for their location. This app leverages image recognition and location data.",
+      "monetization": "Freemium with advanced identification features (e.g., disease diagnosis, pest identification) and personalized care plans available via subscription at 2.99USD/month. In-app purchases for regional native plant guides.",
+      "theme": "Gardening Consumer",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Seed Investor Dispute",
+      "problem": "Startups and their seed investors occasionally face disputes that can impact funding and operations. This platform provides a neutral space for anonymized case studies, expert analysis, and best practice guides for navigating such situations, inspired by real-world scenarios.",
+      "monetization": "Content subscription for access to in-depth analysis and legal resources (e.g., 14.99USD/month). A curated directory of legal professionals specializing in startup finance.",
+      "theme": "Startup Legal",
+      "trends_context": "[tech] Things to know when you get cancer\n[startup] Share your startup - quarterly post\n[tech] Wanted to download an ISO, ended up writing a kernel exploit\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] OpenCode 2.0\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)\n[tech] Tiny Little Office\n[startup] [I will not promote] How about a service which helps early startup and small business with AI automations and growth/strategy help (don't wanna call it consulting)\n[tech] The First Social Network: In rural Argentina residents send messages w AM radio\n[startup] How to get an early stage startup job? (specifically \"Founder's Associate\") (I will not promote)\n[tech] Show HN: Indigene – Native plants for where you stand\n[startup] My PM quit after 3 weeks, now wants back on better terms and I feel uneasy. Rehire him or go with the runner-up? (I will not promote)\n[tech] Do dentists know what they're doing?\n[startup] (I will not promote) Can I get a job and continue with my startup?\n[tech] LFM2.5-24B-A2B: Built for fast on-device agents\n[startup] What do you send prospects after a demo call? (i will not promote)",
       "created_at": ""
     }
   ]
