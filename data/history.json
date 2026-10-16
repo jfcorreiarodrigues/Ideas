@@ -12504,5 +12504,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "generated_at": "2026-10-16T11:59:23+00:00",
+    "trends": [
+      "[tech] Yet another way to invoke functions without parentheses",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "[startup] Feedback Friday",
+      "[tech] Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote",
+      "[tech] The Economic Complexity of the Western Roman Empire",
+      "[startup] How do you know if you need a cofounder? I will not promote",
+      "[tech] Muse Spark Open",
+      "[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote",
+      "[tech] Two-Stack Sliding-Window Aggregation",
+      "[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)",
+      "[tech] RPKI now protects 70% of internet routes",
+      "[startup] Share Surrender - I WILL NOT PROMOTE",
+      "[tech] Neural networks are clean",
+      "[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Crow Thank You Tracker",
+        "problem": "Para pessoas que gostam de ajudar a vida selvagem, este app rastreia e documenta presentes de gratidão recebidos de animais resgatados ou alimentados, permitindo a criação de um diário visual e emocional.",
+        "monetization": "Freemium com IAP para armazenamento ilimitado de fotos/vídeos e temas personalizados.",
+        "theme": "Pet Welfare",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Route Protector",
+        "problem": "Ajuda administradores de rede e empresas a monitorar e garantir a segurança das suas rotas de internet (RPKI), oferecendo alertas proativos para possíveis anomalias e validações.",
+        "monetization": "SaaS B2B com planos anuais baseados no número de rotas monitoradas (a partir de $199/ano).",
+        "theme": "Network Security",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Function Invoker Pro",
+        "problem": "Para desenvolvedores que buscam otimizar a escrita de código, esta ferramenta explora e facilita a invocação de funções sem a necessidade de parênteses, focando em legibilidade e concisão.",
+        "monetization": "SaaS B2B com assinatura mensal para acesso a recursos avançados e integrações de IDE ($15/mês por desenvolvedor).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Opposer Tracker",
+        "problem": "Oferece a fundadores de startups um sistema para registrar e rastrear oposições de marca registrada por grandes empresas, com recursos para coletar evidências e notificar outros fundadores sobre padrões.",
+        "monetization": "Freemium com recursos básicos de registro e alertas, e um plano pago ($9.99/mês) para análise de tendências e acesso a consultoria (parceira).",
+        "theme": "Small Business Legal",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "News Scraping Monitor",
+        "problem": "Alerta proprietários de sites de notícias sobre possíveis raspagens de conteúdo pela Meta e outras plataformas, fornecendo um painel para monitorar o tráfego de bots e atividades suspeitas, e gerando relatórios de conformidade.",
+        "monetization": "SaaS B2B com planos baseados no número de sites monitorados e nível de detalhe dos relatórios (a partir de $49/mês).",
+        "theme": "Media Compliance",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Complex Economy Explorer",
+        "problem": "Para estudantes e entusiastas de história e economia, este app visualiza e explica as complexidades econômicas de impérios históricos (como o Romano) de forma interativa, com base em dados e modelos.",
+        "monetization": "Freemium com acesso a um império, e IAP para desbloquear pacotes de impérios adicionais ($2.99 por pacote).",
+        "theme": "Education Tech",
+        "trends_context": "[tech] Yet another way to invoke functions without parentheses\n[startup] Share your startup - quarterly post\n[tech] Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]\n[startup] Feedback Friday\n[tech] Meta’s new commercial terms will allow the scraping of news sites: experts\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] The Economic Complexity of the Western Roman Empire\n[startup] How do you know if you need a cofounder? I will not promote\n[tech] Muse Spark Open\n[startup] Founders, this is how I am spending in marketing. Am I burning money? i will not promote\n[tech] Two-Stack Sliding-Window Aggregation\n[startup] Big companies will oppose your trademark over remote similarities, happened to me twice (I will not promote)\n[tech] RPKI now protects 70% of internet routes\n[startup] Share Surrender - I WILL NOT PROMOTE\n[tech] Neural networks are clean\n[startup] A nuclear startup is suing its own seed investor. Who's right? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
