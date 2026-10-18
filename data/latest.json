@@ -1,71 +1,71 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T11:14:56+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T11:51:30+00:00",
   "trends": [
-    "[tech] DeepSeek: DeepSeek v4.1 Flash 1017",
+    "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests",
     "[startup] Share your startup - quarterly post",
-    "[tech] Ultramarine 1 Flash",
+    "[tech] Parser Combinators",
     "[startup] Feedback Friday",
-    "[tech] Tesla Roadster",
+    "[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote",
+    "[tech] How employment is changing at Anthropic",
+    "[startup] Are most technical co-founders technically competent? (I will not promote)",
+    "[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+    "[startup] Should i PAUSE or should i continue? (i will not promote)",
+    "[tech] Bleached corals thrive within days when touching healthy neighbour",
     "[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"",
-    "[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "[startup] Small production company looking for business model on books & movies - i will not promote",
-    "[tech] DeepSeek-v4.1-Flash-1017",
-    "[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)",
-    "[tech] Intuitive concurrent programming in any language",
-    "[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote",
-    "[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)",
-    "[tech] Tell HN: Remember to migrate away from .name domain",
-    "[startup] how can i get clients for a freelancing marketplace (i will not promote)"
+    "[tech] Teal – A statically-typed dialect of Lua",
+    "[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?",
+    "[tech] Lean now ships with verified kernels",
+    "[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)"
   ],
   "ideas": [
     {
-      "name": "LLM Hardware Advisor",
-      "problem": "Developers and enthusiasts struggle to choose the right hardware for local LLM deployment, facing uncertainty about performance and cost. This tool helps them evaluate hardware based on LLM speed before purchasing.",
-      "monetization": "Freemium model with advanced analytics and comparison tools for a monthly subscription (e.g., 15 USD/month).",
+      "name": "Coral Health Tracker",
+      "problem": "Aquaristas e gestores de recifes de coral precisam monitorar a saúde dos corais e identificar rapidamente sinais de estresse ou doença. A detecção precoce permite intervenções que previnem a perda de ecossistemas valiosos.",
+      "monetization": "Freemium com funcionalidades básicas, assinatura premium (19.99 USD/mês) para análises avançadas e alertas personalizados.",
+      "theme": "Marine Conservation",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+      "created_at": ""
+    },
+    {
+      "name": "Sphinx Code Verifier",
+      "problem": "Desenvolvedores de IA que usam ferramentas como Sphinx precisam de uma maneira confiável e automatizada para testar a qualidade e a segurança do código de IA antes do deploy. Isso garante que as 'hooks' funcionem corretamente e evitam bugs em produção.",
+      "monetization": "SaaS B2B com planos escaláveis baseados no volume de requisições e funcionalidades (a partir de 0.50 USD por 1000 requisições verificadas).",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
       "created_at": ""
     },
     {
-      "name": "Freelancer Client Match",
-      "problem": "New freelancers struggle to secure their first clients for specialized marketplaces, lacking a clear strategy to attract and onboard sellers. This app helps them identify and target potential clients effectively.",
-      "monetization": "Commission-based model on successful client acquisitions (e.g., 10% of the first project value).",
-      "theme": "Freelancer Marketplace",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Startup Business Model",
-      "problem": "Small production companies, particularly in creative industries like books and movies, need robust and adaptable business models to thrive. This app provides a structured framework and tools for developing and iterating on business models.",
-      "monetization": "SaaS with tiered subscription plans (e.g., 29 USD/month for basic, 99 USD/month for advanced features).",
+      "name": "Startup Social Adaptor",
+      "problem": "Fundadores de startups lutam para adaptar conteúdo de marketing para diferentes plataformas sociais (LinkedIn, Twitter, Instagram, etc.). Precisam de uma ferramenta que simplifique este processo, mantendo a mensagem consistente e otimizada para cada canal.",
+      "monetization": "Assinatura mensal (29 USD/mês) para acesso ilimitado a modelos e recursos de adaptação de conteúdo.",
       "theme": "Small Business Ops",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
       "created_at": ""
     },
     {
-      "name": "AI Investment Insight",
-      "problem": "Consumers are overwhelmed by the rapid advancements in AI and its potential impact on various industries, leading to confusion about which areas offer genuine benefit and investment opportunities. This tool helps users identify and understand AI's practical applications and benefits.",
-      "monetization": "Freemium with exclusive market analysis reports and personalized recommendations for a subscription (e.g., 9.99 USD/month).",
-      "theme": "Consumer Finance",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Concurrent Programming Helper",
-      "problem": "Developers across various languages find concurrent programming complex and error-prone. This tool offers intuitive explanations, debugging assistance, and best practice guidance to simplify the development of concurrent applications.",
-      "monetization": "Subscription-based access to advanced tutorials, code generation tools, and community support (e.g., 19 USD/month).",
+      "name": "Lua Type Checker",
+      "problem": "Desenvolvedores que utilizam dialetos de Lua como Teal precisam de um editor de código ou plugin que ofereça verificação estática de tipos robusta e integrada. Isso melhora a qualidade do código e reduz erros em tempo de execução.",
+      "monetization": "Plugin pago para IDEs populares (IDE como plugin: 9.99 USD), ou integrado numa ferramenta de build como serviço (pay-per-use).",
       "theme": "Developer Productivity",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
       "created_at": ""
     },
     {
-      "name": "Domain Migration Assistant",
-      "problem": "Website owners, especially those using older or less common domain extensions like .name, need a streamlined process to migrate their online presence to more reliable and modern domains. This tool guides users through the migration process, minimizing downtime and data loss.",
-      "monetization": "One-time service fee for guided migration, with optional add-ons for additional support and SEO optimization (e.g., 49 USD per migration).",
-      "theme": "Tech Utilities",
-      "trends_context": "[tech] DeepSeek: DeepSeek v4.1 Flash 1017\n[startup] Share your startup - quarterly post\n[tech] Ultramarine 1 Flash\n[startup] Feedback Friday\n[tech] Tesla Roadster\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware\n[startup] Small production company looking for business model on books & movies - i will not promote\n[tech] DeepSeek-v4.1-Flash-1017\n[startup] Random daily learning vs. goal-based learning: which one do people actually pay for? (I will not promote)\n[tech] Intuitive concurrent programming in any language\n[startup] How did you get your first 10 sellers for a two sided marketplace? i will not promote\n[tech] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console\n[startup] Suddenly, I have a clear vision who will get benefits from all these AI craziness (i will not promote)\n[tech] Tell HN: Remember to migrate away from .name domain\n[startup] how can i get clients for a freelancing marketplace (i will not promote)",
+      "name": "Anthropic Career Navigator",
+      "problem": "Profissionais interessados em carreiras em empresas de IA como a Anthropic precisam entender as mudanças no mercado de trabalho e as competências mais valorizadas. Uma ferramenta que mapeie trajetórias de carreira e habilidades necessárias seria valiosa.",
+      "monetization": "Assinatura premium (14.99 USD/mês) para acesso a análises aprofundadas, webinars e conexões com mentores.",
+      "theme": "Career Development",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+      "created_at": ""
+    },
+    {
+      "name": "B2B ROI Prover",
+      "problem": "Vendedores de software B2B que previnem problemas futuros (e.g., segurança, eficiência) enfrentam dificuldade em provar o ROI tangível aos clientes. Um app que ajude a construir e apresentar esses casos de uso de forma convincente é necessário.",
+      "monetization": "SaaS B2B com planos baseados no número de relatórios gerados e templates (a partir de 49 USD/mês).",
+      "theme": "Small Business Sales",
+      "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
       "created_at": ""
     }
   ]

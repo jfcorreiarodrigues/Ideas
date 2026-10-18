@@ -12648,5 +12648,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "generated_at": "2026-10-18T11:51:30+00:00",
+    "trends": [
+      "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Parser Combinators",
+      "[startup] Feedback Friday",
+      "[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote",
+      "[tech] How employment is changing at Anthropic",
+      "[startup] Are most technical co-founders technically competent? (I will not promote)",
+      "[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "[startup] Should i PAUSE or should i continue? (i will not promote)",
+      "[tech] Bleached corals thrive within days when touching healthy neighbour",
+      "[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"",
+      "[tech] Teal – A statically-typed dialect of Lua",
+      "[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?",
+      "[tech] Lean now ships with verified kernels",
+      "[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)"
+    ],
+    "ideas": [
+      {
+        "name": "Coral Health Tracker",
+        "problem": "Aquaristas e gestores de recifes de coral precisam monitorar a saúde dos corais e identificar rapidamente sinais de estresse ou doença. A detecção precoce permite intervenções que previnem a perda de ecossistemas valiosos.",
+        "monetization": "Freemium com funcionalidades básicas, assinatura premium (19.99 USD/mês) para análises avançadas e alertas personalizados.",
+        "theme": "Marine Conservation",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      },
+      {
+        "name": "Sphinx Code Verifier",
+        "problem": "Desenvolvedores de IA que usam ferramentas como Sphinx precisam de uma maneira confiável e automatizada para testar a qualidade e a segurança do código de IA antes do deploy. Isso garante que as 'hooks' funcionem corretamente e evitam bugs em produção.",
+        "monetization": "SaaS B2B com planos escaláveis baseados no volume de requisições e funcionalidades (a partir de 0.50 USD por 1000 requisições verificadas).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Social Adaptor",
+        "problem": "Fundadores de startups lutam para adaptar conteúdo de marketing para diferentes plataformas sociais (LinkedIn, Twitter, Instagram, etc.). Precisam de uma ferramenta que simplifique este processo, mantendo a mensagem consistente e otimizada para cada canal.",
+        "monetization": "Assinatura mensal (29 USD/mês) para acesso ilimitado a modelos e recursos de adaptação de conteúdo.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      },
+      {
+        "name": "Lua Type Checker",
+        "problem": "Desenvolvedores que utilizam dialetos de Lua como Teal precisam de um editor de código ou plugin que ofereça verificação estática de tipos robusta e integrada. Isso melhora a qualidade do código e reduz erros em tempo de execução.",
+        "monetization": "Plugin pago para IDEs populares (IDE como plugin: 9.99 USD), ou integrado numa ferramenta de build como serviço (pay-per-use).",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      },
+      {
+        "name": "Anthropic Career Navigator",
+        "problem": "Profissionais interessados em carreiras em empresas de IA como a Anthropic precisam entender as mudanças no mercado de trabalho e as competências mais valorizadas. Uma ferramenta que mapeie trajetórias de carreira e habilidades necessárias seria valiosa.",
+        "monetization": "Assinatura premium (14.99 USD/mês) para acesso a análises aprofundadas, webinars e conexões com mentores.",
+        "theme": "Career Development",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      },
+      {
+        "name": "B2B ROI Prover",
+        "problem": "Vendedores de software B2B que previnem problemas futuros (e.g., segurança, eficiência) enfrentam dificuldade em provar o ROI tangível aos clientes. Um app que ajude a construir e apresentar esses casos de uso de forma convincente é necessário.",
+        "monetization": "SaaS B2B com planos baseados no número de relatórios gerados e templates (a partir de 49 USD/mês).",
+        "theme": "Small Business Sales",
+        "trends_context": "[tech] DeepSeek search and fetch – $0.75 per 1000 successful requests\n[startup] Share your startup - quarterly post\n[tech] Parser Combinators\n[startup] Feedback Friday\n[tech] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\n[startup] How did you prove ROI for B2B software that prevents future problems? i will not promote\n[tech] How employment is changing at Anthropic\n[startup] Are most technical co-founders technically competent? (I will not promote)\n[tech] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving\n[startup] Should i PAUSE or should i continue? (i will not promote)\n[tech] Bleached corals thrive within days when touching healthy neighbour\n[startup] If you were building a startup today, what skills would you look for in a developer? (I will not promote\"\n[tech] Teal – A statically-typed dialect of Lua\n[startup] I will not promote - founders, how do you adapt one post for multiple social platforms?\n[tech] Lean now ships with verified kernels\n[startup] Open sourcing your idea in a world of AI? (I WILL NOT PROMOTE)",
+        "created_at": ""
+      }
+    ]
   }
 ]
