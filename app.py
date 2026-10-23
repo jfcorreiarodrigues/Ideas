@@ -27,6 +27,7 @@ from radar_core import (
     aggregate_trends,
     cluster_by_theme,
     dedupe_against_history,
+    filter_actionable,
     generate_ideas,
     load_history,
     load_latest,
@@ -109,11 +110,38 @@ def resolve_api_key(provider: str) -> tuple[str, bool]:
     return os.getenv(key_name, ""), False
 
 
+def _score_badge(score: int) -> str:
+    if score >= 5:
+        return "5/5 acionavel"
+    if score == 4:
+        return "4/5 forte"
+    if score == 3:
+        return "3/5 viavel"
+    if score == 0:
+        return "sem score"
+    return f"{score}/5 fraco"
+
+
 def render_idea_card(idea: Idea, key_suffix: str) -> None:
     with st.container(border=True):
-        st.caption(f"Tema: {idea.theme}")
+        header_bits = [f"Tema: {idea.theme}"]
+        if idea.actionability_score:
+            header_bits.append(_score_badge(idea.actionability_score))
+        if idea.effort:
+            header_bits.append(f"Esforco: {idea.effort}")
+        st.caption(" | ".join(header_bits))
         st.subheader(idea.name)
+        if idea.target_user:
+            st.markdown(f"**Utilizador alvo**  \n{idea.target_user}")
         st.markdown(f"**Problema**  \n{idea.problem}")
+        if idea.evidence:
+            st.markdown(f"**Evidencia**  \n> {idea.evidence}")
+        if idea.mvp_scope:
+            st.markdown("**MVP (1-2 semanas)**")
+            for step in idea.mvp_scope:
+                st.markdown(f"- {step}")
+        if idea.first_validation:
+            st.markdown(f"**Primeiro teste (<1 dia)**  \n{idea.first_validation}")
         st.markdown(f"**Monetizacao**  \n{idea.monetization}")
         if st.button("Guardar ideia", key=f"save-{key_suffix}"):
             save_favorite(idea)
@@ -154,7 +182,14 @@ def render_favorites_sidebar() -> None:
 # ---------------------------------------------------------------------------
 
 
-def tab_today(provider: str, api_key: str, model: str, num_ideas: int, sources: dict[str, bool]) -> None:
+def tab_today(
+    provider: str,
+    api_key: str,
+    model: str,
+    num_ideas: int,
+    sources: dict[str, bool],
+    min_score: int,
+) -> None:
     latest = load_latest()
     if latest:
         st.caption(
@@ -190,21 +225,32 @@ def tab_today(provider: str, api_key: str, model: str, num_ideas: int, sources: 
 
         history = load_history()
         avoid = past_idea_names(history, limit=80)
-        with st.spinner(f"A pedir ao {provider} {num_ideas} ideias frescas..."):
+        requested = num_ideas + 2
+        with st.spinner(f"A pedir ao {provider} {requested} ideias frescas..."):
             try:
                 ideas = generate_ideas(
-                    provider, trends, api_key, model, avoid_names=avoid, num_ideas=num_ideas
+                    provider, trends, api_key, model, avoid_names=avoid, num_ideas=requested
                 )
             except Exception as exc:
                 st.error(f"Falha ao gerar ideias: {exc}")
                 return
+        before_filter = len(ideas)
+        ideas = filter_actionable(ideas, min_score=min_score)
+        dropped = before_filter - len(ideas)
         ideas = dedupe_against_history(ideas, history)
+        ideas = ideas[:num_ideas]
         if not ideas:
-            st.warning("Todas as ideias geradas ja existiam no historico. Tenta de novo.")
+            st.warning(
+                "Sem ideias acionaveis apos filtros (score, dedup). "
+                "Baixa o score minimo ou tenta de novo."
+            )
             return
         run = persist_run(trends, ideas)
         st.session_state["latest_run"] = run
-        st.toast(f"{len(ideas)} novas ideias guardadas.")
+        msg = f"{len(ideas)} novas ideias guardadas."
+        if dropped:
+            msg += f" ({dropped} descartadas por score < {min_score})"
+        st.toast(msg)
 
     run = st.session_state.get("latest_run") or latest
     if run and run.get("ideas"):
@@ -267,24 +313,35 @@ def main() -> None:
         )
 
     num_ideas = st.sidebar.slider("Ideias por sondagem", 3, 10, 6)
+    min_score = st.sidebar.slider(
+        "Score minimo de acionabilidade",
+        1,
+        5,
+        3,
+        help="Ideias com actionability_score abaixo deste valor sao descartadas.",
+    )
 
     st.sidebar.subheader("Fontes de tendencias")
+    st.sidebar.caption(
+        "Problem-signals primeiro (subreddits com pedidos de apps, "
+        "r/startups, Google Trends). HN/Indie servem so como contexto."
+    )
     sources = {
-        "hacker_news": st.sidebar.checkbox("Hacker News (tech)", value=True),
-        "reddit_startups": st.sidebar.checkbox("Reddit /r/startups", value=True),
-        "indie_hackers": st.sidebar.checkbox("Indie Hackers", value=True),
         "everyday_problems": st.sidebar.checkbox(
             "Problemas do dia-a-dia (5 subreddits)", value=True
         ),
-        "product_hunt": st.sidebar.checkbox("Product Hunt", value=False),
-        "google_trends": st.sidebar.checkbox("Google Trends", value=False),
+        "reddit_startups": st.sidebar.checkbox("Reddit /r/startups", value=True),
+        "google_trends": st.sidebar.checkbox("Google Trends", value=True),
+        "hacker_news": st.sidebar.checkbox("Hacker News (contexto)", value=True),
+        "indie_hackers": st.sidebar.checkbox("Indie Hackers (contexto)", value=False),
+        "product_hunt": st.sidebar.checkbox("Product Hunt (contexto)", value=False),
     }
 
     render_favorites_sidebar()
 
     tab1, tab2 = st.tabs(["Hoje", "Historico por tema"])
     with tab1:
-        tab_today(provider, api_key, model, num_ideas, sources)
+        tab_today(provider, api_key, model, num_ideas, sources, min_score)
     with tab2:
         tab_history()
 

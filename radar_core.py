@@ -76,6 +76,15 @@ class Idea:
     theme: str = "Geral"
     trends_context: str = ""
     created_at: str = ""
+    # Campos de acionabilidade (adicionados em 2026-04: permitem medir se a
+    # ideia e exequivel por um solo dev e com que evidencia). Defaults vazios
+    # para compatibilidade com entradas antigas do historico.
+    evidence: str = ""
+    mvp_scope: list[str] = field(default_factory=list)
+    first_validation: str = ""
+    effort: str = ""
+    actionability_score: int = 0
+    target_user: str = ""
 
 
 @dataclass
@@ -132,19 +141,38 @@ def fetch_indie_hackers(limit: int = 10) -> list[str]:
     return [entry.title for entry in feed.entries[:limit]]
 
 
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _strip_html(text: str) -> str:
+    return _HTML_TAG_RE.sub(" ", text or "").replace("&#32;", " ").strip()
+
+
 def fetch_everyday_problems(per_sub: int = 4) -> list[str]:
-    """Combina multiplos subreddits focados em problemas utilitarios."""
+    """Combina multiplos subreddits focados em problemas utilitarios.
+
+    Em subreddits como r/SomebodyMakeThis e r/AppIdeas, o sinal de dor esta
+    no corpo do post, nao no titulo. Concatenamos titulo + primeira frase do
+    summary (limitado) para o LLM receber a descricao real do problema.
+    """
     if feedparser is None:
         raise RuntimeError("feedparser nao instalado.")
-    titles: list[str] = []
-    for sub, label in EVERYDAY_SUBREDDITS.items():
+    items: list[str] = []
+    for sub, _label in EVERYDAY_SUBREDDITS.items():
         try:
             feed = feedparser.parse(f"https://www.reddit.com/r/{sub}/hot/.rss")
             for entry in feed.entries[:per_sub]:
-                titles.append(f"[r/{sub}] {entry.title}")
+                title = entry.title.strip()
+                body = _strip_html(getattr(entry, "summary", ""))
+                # Primeiras ~280 chars do body; chega para captar a dor.
+                snippet = " ".join(body.split())[:280]
+                if snippet and snippet.lower() != title.lower():
+                    items.append(f"[r/{sub}] {title} — {snippet}")
+                else:
+                    items.append(f"[r/{sub}] {title}")
         except Exception as exc:
             print(f"[trends] r/{sub} falhou: {exc}")
-    return titles
+    return items
 
 
 def fetch_google_trends(limit: int = 10) -> list[str]:
@@ -163,43 +191,62 @@ def fetch_google_trends(limit: int = 10) -> list[str]:
 def aggregate_trends(
     sources: dict[str, bool], per_source: int = 8, total_cap: int = 20
 ) -> list[str]:
-    """Agrega tendencias. Prefixo entre parentesis indica a categoria."""
-    buckets: list[list[str]] = []
-    if sources.get("hacker_news"):
-        buckets.append(
-            [f"[tech] {t}" for t in _safe("hacker_news", fetch_hacker_news, per_source)]
-        )
-    if sources.get("reddit_startups"):
-        buckets.append(
-            [f"[startup] {t}" for t in _safe("reddit_startups", fetch_reddit_startups, per_source)]
-        )
-    if sources.get("product_hunt"):
-        buckets.append(
-            [f"[launch] {t}" for t in _safe("product_hunt", fetch_product_hunt, per_source)]
-        )
-    if sources.get("indie_hackers"):
-        buckets.append(
-            [f"[indie] {t}" for t in _safe("indie_hackers", fetch_indie_hackers, per_source)]
-        )
+    """Agrega tendencias. Prefixo entre parentesis indica a categoria.
+
+    Ordem de prioridade: problem-signals (r/SomebodyMakeThis, r/smallbusiness,
+    r/AppIdeas) primeiro; depois [consumer] e [startup]; e [tech]/[indie]/
+    [launch] apenas para contexto macro, capados a `tech_cap`. Isto evita que
+    o LLM gere ideias tipo "app sobre noticia do HN" por falta de sinais de
+    dor reais.
+    """
+    problem_buckets: list[list[str]] = []
+    context_buckets: list[list[str]] = []
+
     if sources.get("everyday_problems"):
-        buckets.append(
+        problem_buckets.append(
             _safe("everyday_problems", fetch_everyday_problems, per_source // 2 or 3)
         )
     if sources.get("google_trends"):
-        buckets.append(
+        problem_buckets.append(
             [f"[consumer] {t}" for t in _safe("google_trends", fetch_google_trends, per_source)]
         )
+    if sources.get("reddit_startups"):
+        problem_buckets.append(
+            [f"[startup] {t}" for t in _safe("reddit_startups", fetch_reddit_startups, per_source)]
+        )
 
-    # Intercala buckets por round-robin para garantir diversidade.
-    collected: list[str] = []
-    idx = 0
-    while any(buckets) and len(collected) < total_cap * 2:
-        bucket = buckets[idx % len(buckets)] if buckets else []
-        if bucket:
-            collected.append(bucket.pop(0))
-        idx += 1
-        if all(not b for b in buckets):
-            break
+    if sources.get("hacker_news"):
+        context_buckets.append(
+            [f"[tech] {t}" for t in _safe("hacker_news", fetch_hacker_news, per_source)]
+        )
+    if sources.get("indie_hackers"):
+        context_buckets.append(
+            [f"[indie] {t}" for t in _safe("indie_hackers", fetch_indie_hackers, per_source)]
+        )
+    if sources.get("product_hunt"):
+        context_buckets.append(
+            [f"[launch] {t}" for t in _safe("product_hunt", fetch_product_hunt, per_source)]
+        )
+
+    def drain(buckets: list[list[str]], cap: int) -> list[str]:
+        out: list[str] = []
+        idx = 0
+        while any(buckets) and len(out) < cap:
+            bucket = buckets[idx % len(buckets)]
+            if bucket:
+                out.append(bucket.pop(0))
+            idx += 1
+            if all(not b for b in buckets):
+                break
+        return out
+
+    # Problem-signals ocupam pelo menos 2/3 do pool; context preenche o resto.
+    problem_cap = max(1, (total_cap * 2) // 3)
+    context_cap = total_cap - problem_cap
+    collected = drain(problem_buckets, problem_cap)
+    # Se faltou problem-signal (RSS do Reddit caiu), reutiliza slots em context.
+    short_by = problem_cap - len(collected)
+    collected.extend(drain(context_buckets, context_cap + short_by))
 
     seen: set[str] = set()
     unique: list[str] = []
@@ -217,43 +264,87 @@ def aggregate_trends(
 
 
 PROMPT_TEMPLATE = """Analisa as seguintes tendencias capturadas hoje (cada linha
-comeca com [categoria], onde as categorias podem ser: tech, startup, launch,
-indie, r/<subreddit>, consumer):
+comeca com [categoria], onde as categorias podem ser: r/<subreddit>, consumer,
+startup, tech, indie, launch):
 
 {trends}
 
 {avoid_block}
 
-Gera {n} ideias de apps mobile ou webapps altamente monetizaveis.
+Vais gerar {n} ideias de apps para um SOLO developer construir. O objectivo
+e acionabilidade, nao criatividade. Cada ideia deve ser construivel em 1-2
+semanas e validavel em menos de 1 dia.
 
-Requisitos de DIVERSIDADE (criticos):
-- NO MAXIMO 1 ideia pode ser uma meta-ferramenta de AI/LLM/developer-tools.
-  As restantes devem resolver problemas utilitarios concretos de consumidores,
-  pequenos negocios, nichos profissionais ou tarefas do dia-a-dia.
-- Distribui as ideias por pelo menos {min_themes} temas diferentes.
-- Prefere trends com prefixo [r/...] e [consumer] como inspiracao para as
-  ideias nao-tech; usa [tech]/[indie] apenas como contexto macro.
-- Evita duplicar padroes (ex: "AI coach para X" em varias ideias).
+REGRAS DE EXCLUSAO (rejeita mentalmente ideias que batam nestas):
+- NAO gerar "app de noticias" nem ideias baseadas em um evento one-off
+  (ex: aquisicao X, crise Y, lancamento Z). Problemas recorrentes apenas.
+- NAO gerar ideias dependentes de hardware especializado que o utilizador
+  final nao tem hoje (ex: "lentes microfluidicas", "sensor X caro").
+- NAO gerar "coach de AI generico para <area>" nem meta-ferramentas de
+  developer tools, a menos que a trend seja uma dor explicita e especifica.
+- NAO gerar ideias que precisem de dados proprietarios, licencas medicas,
+  parcerias com instituicoes ou regulacao pesada para o MVP.
+- Se uma trend e apenas um titulo sem dor, IGNORA — nao forces uma ideia.
 
-Cada ideia deve ter um "theme" de 1-3 palavras reutilizavel
-(ex: "FinTech Consumer", "Small Business Ops", "Health Tracking",
-"Parenting", "Productivity", "Creator Economy", "AI Dev Tools").
+PRIORIDADES:
+- Pelo menos 2/3 das ideias devem derivar de [r/...] ou [consumer].
+- NO MAXIMO 1 ideia pode ser developer-tools ou meta-AI.
+- Distribui por pelo menos {min_themes} temas diferentes.
 
-Retorna estritamente JSON valido:
+Para CADA ideia, preenche rigorosamente este schema JSON:
+
 {{
   "ideas": [
-    {{"name": "...", "theme": "...", "problem": "...", "monetization": "..."}}
+    {{
+      "name": "...",
+      "theme": "...",
+      "target_user": "...",
+      "problem": "...",
+      "evidence": "...",
+      "mvp_scope": ["feature 1", "feature 2", "feature 3"],
+      "first_validation": "...",
+      "effort": "S|M|L",
+      "monetization": "...",
+      "actionability_score": 1-5
+    }}
   ]
 }}
 
-Regras de formato:
-- "name" curto e memoravel (max 4 palavras).
-- "problem" em 1-2 frases concretas, descrevendo o utilizador alvo.
-- "monetization" especifica (ex: "SaaS B2B 29USD/mes por utilizador",
-  "Freemium + IAP 4.99USD", "Marketplace 10% fee").
-- "theme" reutiliza labels existentes quando fizer sentido.
-- NAO repitas ideias semelhantes as listadas em "evita ideias".
-- Nao incluas texto fora do JSON.
+Instrucoes campo-a-campo:
+- "name": max 4 palavras, memoravel.
+- "theme": 1-3 palavras reutilizaveis (ex: "Small Business Ops",
+  "Parenting", "FinTech Consumer", "Creator Economy", "Productivity").
+- "target_user": perfil concreto em 6-12 palavras (ex: "Freelance lash
+  artist com 20-50 clientes recorrentes"), nao "pessoas que gostam de X".
+- "problem": 1-2 frases descrevendo a dor e com que frequencia acontece.
+- "evidence": cita textualmente (<=180 chars) o trecho da trend que prova
+  a dor, precedido pelo prefixo da categoria. Se nao houver evidencia
+  concreta na lista, ESCREVE "weak signal" — o score deve refletir isso.
+- "mvp_scope": array de EXACTAMENTE 3 bullets ultra-concretos (nao "AI",
+  nao "dashboard completo"; tem de ser features que um solo dev entrega
+  em 2 semanas com stack simples: Next.js/Supabase, Streamlit, Flutter+
+  Firebase, no-code). Ex: "Form Google + Airtable para captar pedidos",
+  "Calendario mensal com 2 lembretes por cliente", "Export CSV para SMS".
+- "first_validation": UM teste concreto para o solo dev fazer em <1 dia,
+  SEM escrever codigo. Ex: "Post em r/<sub> com mockup + link para
+  waitlist; alvo: 25 emails em 48h". Deve incluir um threshold de sucesso.
+- "effort": "S" = fim-de-semana, "M" = 1-2 semanas, "L" = 3-4 semanas.
+  Ideias L so sao aceitaveis se o actionability_score >= 4.
+- "monetization": especifica e realista para o nivel de dor descrito
+  (ex: "SaaS B2B 19USD/mes/loja", "IAP 4.99USD one-off", "Marketplace 8%").
+  NAO inventar "plano enterprise 1999USD/mes" sem base.
+- "actionability_score": inteiro 1-5 segundo esta rubrica:
+    5 = trend cita literalmente a dor + MVP 1 semana + canal de
+        distribuicao obvio.
+    4 = dor clara na trend + MVP curto + canal conhecido.
+    3 = dor plausivel + MVP feasible mas sem canal obvio.
+    2 = dor vaga OU MVP complexo.
+    1 = especulativo.
+  Se score < 3, NAO incluas a ideia — gera outra no lugar.
+
+Formato de saida:
+- JSON valido, UTF-8, SEM prefixo/sufixo, SEM markdown/code fences.
+- NAO repitas nem re-nomeies ideias em "evita ideias".
 """
 
 
@@ -268,16 +359,38 @@ def _parse_ideas_payload(raw: str, trends_context: str) -> list[Idea]:
     if start == -1 or end == -1:
         raise ValueError(f"Resposta sem JSON: {raw[:200]}")
     payload = json.loads(cleaned[start : end + 1])
-    return [
-        Idea(
-            name=item["name"],
-            problem=item["problem"],
-            monetization=item["monetization"],
-            theme=item.get("theme", "Geral"),
-            trends_context=trends_context,
+    ideas: list[Idea] = []
+    for item in payload.get("ideas", []):
+        mvp = item.get("mvp_scope") or []
+        if isinstance(mvp, str):
+            mvp = [mvp]
+        try:
+            score = int(item.get("actionability_score", 0))
+        except (TypeError, ValueError):
+            score = 0
+        ideas.append(
+            Idea(
+                name=item["name"],
+                problem=item["problem"],
+                monetization=item["monetization"],
+                theme=item.get("theme", "Geral"),
+                trends_context=trends_context,
+                evidence=item.get("evidence", ""),
+                mvp_scope=[str(x).strip() for x in mvp if str(x).strip()],
+                first_validation=item.get("first_validation", ""),
+                effort=item.get("effort", ""),
+                actionability_score=score,
+                target_user=item.get("target_user", ""),
+            )
         )
-        for item in payload.get("ideas", [])
-    ]
+    return ideas
+
+
+def filter_actionable(ideas: list[Idea], min_score: int = 3) -> list[Idea]:
+    """Remove ideias com score < min_score. Se o LLM nao preencheu score
+    (dados antigos ou falha do modelo), mantem as ideias (score==0 == unknown)
+    para nao perder tudo; so filtra quando existe sinal explicito."""
+    return [i for i in ideas if i.actionability_score == 0 or i.actionability_score >= min_score]
 
 
 def _build_prompt(trends: list[str], avoid_names: list[str], num_ideas: int = 6) -> str:
@@ -457,11 +570,13 @@ def cluster_by_theme(ideas: list[dict]) -> dict[str, list[dict]]:
 
 
 def default_sources() -> dict[str, bool]:
+    # Prioriza problem-signals; hacker_news/indie fornecem apenas contexto
+    # macro e sao capados pelo aggregate_trends.
     return {
-        "hacker_news": True,
-        "reddit_startups": True,
-        "indie_hackers": True,
         "everyday_problems": True,
+        "reddit_startups": True,
+        "google_trends": True,
+        "hacker_news": True,
+        "indie_hackers": False,
         "product_hunt": False,
-        "google_trends": False,
     }
