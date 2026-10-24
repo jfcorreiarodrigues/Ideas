@@ -13048,5 +13048,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "generated_at": "2026-10-24T11:42:35+00:00",
+    "trends": [
+      "[tech] I Don't Understand Quantum Physics (2018)",
+      "[startup] Share your startup - quarterly post",
+      "[tech] OBS Studio 33",
+      "[startup] Feedback Friday",
+      "[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "[startup] Contemplating leaving a successful startup [I will not promote]",
+      "[tech] Physicists trap a single antimatter particle for a month",
+      "[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]",
+      "[tech] Today, we hacked what we'd set out to hack: the iPhone",
+      "[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?",
+      "[tech] Around a dozen banking apps began specifically permitting GrapheneOS",
+      "[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]",
+      "[tech] Twelve years of distributed SQLite",
+      "[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)",
+      "[tech] How close can pure functional programming get to C?",
+      "[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Solar Panel Monitor",
+        "problem": "Proprietários de casas com painéis solares e baterias precisam de uma forma mais integrada e inteligente de monitorizar a sua produção, consumo e eficiência energética para otimizar o seu uso e poupanças. Visa ajudar a identificar falhas e maximizar o retorno do investimento.",
+        "monetization": "SaaS B2C 9.99USD/mes com plano gratuito limitado.",
+        "theme": "Home Energy",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "App Hacking Guide",
+        "problem": "Desenvolvedores e entusiastas de tecnologia que procuram aprender sobre a segurança e as vulnerabilidades de aplicações móveis, especialmente aquelas que rodam em sistemas operativos mais seguros como GrapheneOS. Oferece guias práticos e analíticos.",
+        "monetization": "Venda de cursos e tutoriais premium, subscrição para conteúdo avançado (29.99USD/mes).",
+        "theme": "Tech Education",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Antimatter Tracker",
+        "problem": "Físicos e investigadores de partículas que trabalham com antimatéria necessitam de uma ferramenta para monitorizar e analisar o comportamento de partículas em tempo real, especialmente durante experiências de longa duração como o aprisionamento de partículas por um mês. Auxilia na recolha e visualização de dados complexos.",
+        "monetization": "Licença de software por instituição de pesquisa (valor negociado) ou subscrição para acesso a funcionalidades avançadas.",
+        "theme": "Scientific Research",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Beatmaker Hub",
+        "problem": "Produtores musicais independentes e beatmakers lutam para ganhar visibilidade e os primeiros utilizadores para as suas criações. Oferece uma plataforma para descobrir novos talentos, colaborar e facilitar a monetização das suas batidas e samples.",
+        "monetization": "Marketplace com comissão de 5% por venda, planos premium para artistas com funcionalidades extras.",
+        "theme": "Creator Economy",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Functional Programming C",
+        "problem": "Programadores que exploram a pureza da programação funcional e querem entender o quão perto podem chegar da performance e baixo nível do C. Fornece um ambiente de experimentação, benchmarks e exemplos de código para comparar linguagens e paradigmas.",
+        "monetization": "SaaS B2D 49.99USD/mes para acesso a todas as ferramentas e funcionalidades avançadas de análise.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "LinkedIn Alternative",
+        "problem": "Profissionais que estão insatisfeitos com o LinkedIn e procuram uma alternativa mais focada em conexões genuínas e oportunidades de carreira, sem o 'ruído' das redes sociais convencionais. Ajuda a construir uma rede profissional mais significativa.",
+        "monetization": "Freemium com funcionalidades básicas gratuitas, subscrição premium para acesso a recursos avançados de busca e conexão (15.99USD/mes).",
+        "theme": "Professional Networking",
+        "trends_context": "[tech] I Don't Understand Quantum Physics (2018)\n[startup] Share your startup - quarterly post\n[tech] OBS Studio 33\n[startup] Feedback Friday\n[tech] Kimi K3.1 Pro and K3.1 Pro Highspeed\n[startup] Contemplating leaving a successful startup [I will not promote]\n[tech] Physicists trap a single antimatter particle for a month\n[startup] Startup idea: A monitoring platform for solar panels and batteries. Would this actually solve a real problem? [I will not promote]\n[tech] Today, we hacked what we'd set out to hack: the iPhone\n[startup] I will not promote. How does one get around IP concerns when starting a business after working in industry?\n[tech] Around a dozen banking apps began specifically permitting GrapheneOS\n[startup] A year building a LinkedIn alternative because we thought everyone hated LinkedIn as much as we did. Turns out, hating it and leaving it are two different things. [i will not promote]\n[tech] Twelve years of distributed SQLite\n[startup] Google Accelerator (UA and Growth) Thoughts? (I WILL NOT PROMOTE)\n[tech] How close can pure functional programming get to C?\n[startup] I spent months building a platform for beatmakers. Getting the first users is harder than I expected. (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
