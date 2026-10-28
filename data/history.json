@@ -13320,5 +13320,61 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "generated_at": "2026-10-28T13:38:59+00:00",
+    "trends": [
+      "[tech] Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Start Doing Graph Theory",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)",
+      "[tech] Git for the US Code",
+      "[startup] EV Fellowship - I will not promote",
+      "[tech] Two high-speed trains collide near Toledo, Spain",
+      "[startup] Can a minimal waitlist page actually convert? [i will not promote]",
+      "[tech] Genie 4",
+      "[startup] How do you preempt the “X already does that” reaction? (I will not promote)",
+      "[tech] Ghostty 1.4",
+      "[startup] Student first-time founder, 4 months in, swinging between “this will work” and “this is pointless”. How do you deal with it? (I will not promote)",
+      "[tech] Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "[startup] How building my startup almost wrecked me but got me my dream job (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Secure Git Audit",
+        "problem": "For developers working with Git, especially in enterprise environments, ensuring the integrity of code and trust in certificates is paramount. This tool helps identify and manage potential security risks related to compromised certificates.",
+        "monetization": "SaaS B2B, tiered pricing based on repository size and number of users, starting at $49/month.",
+        "theme": "Tech Security",
+        "trends_context": "[tech] Ten days later, Git on macOS still trusts the compromised eMudhra certificates\n[startup] Share your startup - quarterly post\n[tech] Start Doing Graph Theory\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Git for the US Code\n[startup] EV Fellowship - I will not promote\n[tech] Two high-speed trains collide near Toledo, Spain\n[startup] Can a minimal waitlist page actually convert? [i will not promote]\n[tech] Genie 4\n[startup] How do you preempt the “X already does that” reaction? (I will not promote)\n[tech] Ghostty 1.4\n[startup] Student first-time founder, 4 months in, swinging between “this will work” and “this is pointless”. How do you deal with it? (I will not promote)\n[tech] Amazon to buy satellite firm Globalstar in $11.57B deal\n[startup] How building my startup almost wrecked me but got me my dream job (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Graph Theory Visualizer",
+        "problem": "Students and professionals learning graph theory often find it abstract and difficult to grasp without visual aids. This tool allows users to create, manipulate, and visualize graph structures for better understanding and problem-solving.",
+        "monetization": "Freemium with advanced features for complex graph analysis and export options, one-time purchase of $19.99 or subscription for educational institutions.",
+        "theme": "Education Tech",
+        "trends_context": "[tech] Ten days later, Git on macOS still trusts the compromised eMudhra certificates\n[startup] Share your startup - quarterly post\n[tech] Start Doing Graph Theory\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Git for the US Code\n[startup] EV Fellowship - I will not promote\n[tech] Two high-speed trains collide near Toledo, Spain\n[startup] Can a minimal waitlist page actually convert? [i will not promote]\n[tech] Genie 4\n[startup] How do you preempt the “X already does that” reaction? (I will not promote)\n[tech] Ghostty 1.4\n[startup] Student first-time founder, 4 months in, swinging between “this will work” and “this is pointless”. How do you deal with it? (I will not promote)\n[tech] Amazon to buy satellite firm Globalstar in $11.57B deal\n[startup] How building my startup almost wrecked me but got me my dream job (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "ICE Surveillance Tracker",
+        "problem": "Citizens concerned about government surveillance and data privacy need a way to understand the extent and nature of these operations. This app aggregates publicly available data and news related to surveillance programs to inform the public.",
+        "monetization": "Donation-based model with optional premium content and deeper analysis reports for subscribers at $3/month.",
+        "theme": "Civic Tech",
+        "trends_context": "[tech] Ten days later, Git on macOS still trusts the compromised eMudhra certificates\n[startup] Share your startup - quarterly post\n[tech] Start Doing Graph Theory\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Git for the US Code\n[startup] EV Fellowship - I will not promote\n[tech] Two high-speed trains collide near Toledo, Spain\n[startup] Can a minimal waitlist page actually convert? [i will not promote]\n[tech] Genie 4\n[startup] How do you preempt the “X already does that” reaction? (I will not promote)\n[tech] Ghostty 1.4\n[startup] Student first-time founder, 4 months in, swinging between “this will work” and “this is pointless”. How do you deal with it? (I will not promote)\n[tech] Amazon to buy satellite firm Globalstar in $11.57B deal\n[startup] How building my startup almost wrecked me but got me my dream job (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Waitlist Conversion Optimizer",
+        "problem": "Small businesses and startups launching new products often rely on waitlists for early validation and customer acquisition, but struggle to convert these sign-ups into paying customers. This tool provides analytics and suggestions to optimize waitlist engagement and conversion rates.",
+        "monetization": "SaaS B2B, tiered pricing based on website traffic and features, starting at $39/month.",
+        "theme": "Small Business Growth",
+        "trends_context": "[tech] Ten days later, Git on macOS still trusts the compromised eMudhra certificates\n[startup] Share your startup - quarterly post\n[tech] Start Doing Graph Theory\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Git for the US Code\n[startup] EV Fellowship - I will not promote\n[tech] Two high-speed trains collide near Toledo, Spain\n[startup] Can a minimal waitlist page actually convert? [i will not promote]\n[tech] Genie 4\n[startup] How do you preempt the “X already does that” reaction? (I will not promote)\n[tech] Ghostty 1.4\n[startup] Student first-time founder, 4 months in, swinging between “this will work” and “this is pointless”. How do you deal with it? (I will not promote)\n[tech] Amazon to buy satellite firm Globalstar in $11.57B deal\n[startup] How building my startup almost wrecked me but got me my dream job (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
