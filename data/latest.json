@@ -1,71 +1,71 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T13:48:27+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T13:41:56+00:00",
   "trends": [
-    "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "[tech] elect.horse",
     "[startup] Share your startup - quarterly post",
-    "[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-    "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
-    "[tech] NetBSD adds a new beginner-friendly text editor called atto",
-    "[startup] Which to pursue? I will not promote",
-    "[tech] Google determines the names for bodies of water in Google Earth (2008)",
-    "[startup] Should i take Startup Offer? I will not promote",
-    "[tech] DoorDash to Acquire Instacart",
-    "[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]",
-    "[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-    "[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)",
-    "[tech] Zero click, silent, remote Android DoS",
-    "[startup] EV Fellowship - I will not promote",
-    "[tech] Why is this fingerprinting script creating bioweapons?",
-    "[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)"
+    "[tech] Backdoors in official Claude Code extensions",
+    "[startup] Feedback Friday",
+    "[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+    "[startup] Being the first employee at a startup (I will not promote)",
+    "[tech] Binance-hacker-1029 – $5.6B stolen from Binance",
+    "[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)",
+    "[tech] We're releasing the weights of Mistral Large 4",
+    "[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)",
+    "[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).",
+    "[tech] Anthropic hacked to deliver remote access trojan",
+    "[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote",
+    "[tech] How Do You Take a Picture of a Black Hole?",
+    "[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)"
   ],
   "ideas": [
     {
-      "name": "InstaChef Meal Planner",
-      "problem": "Consumers struggle to plan healthy and varied meals that fit their dietary restrictions and budget. This leads to food waste and unhealthy eating habits.",
-      "monetization": "Freemium with premium subscription for advanced dietary filters, personalized meal plans, and grocery list integration (5.99USD/month).",
-      "theme": "Consumer Health",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
+      "name": "Founder's First Contact",
+      "problem": "Startups running lean without sales teams struggle to consistently generate leads. This app automates and optimizes cold outreach for founders, turning scattered efforts into a structured, effective routine.",
+      "monetization": "SaaS B2B $19/mes por utilizador, com plano freemium para 10 contatos por semana.",
+      "theme": "Startup Outreach",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
       "created_at": ""
     },
     {
-      "name": "Local Biz Listing Pro",
-      "problem": "Small businesses, especially service-based ones, have difficulty managing their online presence across multiple platforms and ensuring accurate, up-to-date listings. This leads to lost customers.",
-      "monetization": "SaaS B2B with tiered pricing based on the number of platforms managed and features (e.g., 49USD/month for basic listing management, 99USD/month for advanced analytics and review management).",
-      "theme": "Small Business Tools",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Creator Collab Matcher",
-      "problem": "Independent creators (YouTubers, podcasters, artists) often struggle to find relevant collaborators for projects, leading to missed opportunities for growth and cross-promotion.",
-      "monetization": "Marketplace with a small success fee (e.g., 5% of project value) or a subscription model for premium search filters and direct messaging capabilities (19.99USD/month).",
-      "theme": "Creator Economy",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Rent Share Manager",
-      "problem": "Individuals living with roommates face challenges in accurately tracking and splitting shared expenses like rent, utilities, and household supplies, leading to disputes and financial stress.",
-      "monetization": "Freemium with advanced features like automated bill splitting reminders, expense categorization, and reporting available through a one-time purchase or small subscription (2.99USD/month).",
-      "theme": "Consumer Finance",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Tech Skill Certifier",
-      "problem": "Developers and IT professionals need a way to objectively showcase and verify their proficiency in specific technologies beyond just a resume. This hinders career advancement and hiring.",
-      "monetization": "Pay-per-certification model (e.g., 25-50USD per certification) with an optional subscription for access to practice labs and learning resources (39.99USD/month).",
-      "theme": "Professional Development",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "AI GPU Capacity Monitor",
-      "problem": "AI startups and research labs face significant challenges in accurately forecasting and securing sufficient GPU capacity for their training and inference needs. Inefficient resource allocation leads to costly delays and budget overruns.",
-      "monetization": "SaaS B2B with tiered pricing based on the number of projects monitored, historical data retention, and integration capabilities with cloud providers (e.g., 199USD/month for small teams, 499USD/month for larger enterprises).",
+      "name": "AI Security Audit",
+      "problem": "As AI models become more integrated, developers need robust tools to identify and mitigate vulnerabilities, including potential backdoors and unauthorized access. This platform offers automated code and extension security analysis for AI systems.",
+      "monetization": "SaaS B2B $99/mes para pequenas equipes, com planos corporativos customizados.",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5\n[startup] Share your startup - quarterly post\n[tech] Read the letter the FBI sent MLK to try to convince him to kill himself (2014)\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NetBSD adds a new beginner-friendly text editor called atto\n[startup] Which to pursue? I will not promote\n[tech] Google determines the names for bodies of water in Google Earth (2008)\n[startup] Should i take Startup Offer? I will not promote\n[tech] DoorDash to Acquire Instacart\n[startup] Saw the sync so CTO’s post asking for 256 H200s on a 1-year lease. Is GPU capacity really this tight, or is it normal for a video model lab? [ i will not promote ]\n[tech] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5\n[startup] Bootstrapped + a couple of SAFEs, met with a room of HNWI starting my seed round and left that meeting with $1.5 million (I will not promote)\n[tech] Zero click, silent, remote Android DoS\n[startup] EV Fellowship - I will not promote\n[tech] Why is this fingerprinting script creating bioweapons?\n[startup] Our bounce rate hit 66%, so we redesigned our website and added a live demo( i will not promote)",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Equity Bridge",
+      "problem": "Founders and early employees often face long waits for liquidity between Series B/C funding and an exit. This app helps identify and facilitate opportunities for private equity or secondary market transactions.",
+      "monetization": "Service Fee 5% sobre transações facilitadas.",
+      "theme": "Startup Finance",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Deep Tech Commercializer",
+      "problem": "Founders commercializing entirely new categories of deep technology often lack clear initial steps. This platform provides guided frameworks, expert advice access, and case studies tailored to deep tech innovation.",
+      "monetization": "Consultoria Premium sob demanda, com pacotes de mentoria a partir de $500.",
+      "theme": "Startup Strategy",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "Remote Access Guardian",
+      "problem": "With increasing reliance on remote access, users are vulnerable to Trojans and unauthorized access to their devices and data. This app provides real-time monitoring and alerts for suspicious remote access activities on personal devices.",
+      "monetization": "Freemium com notificações básicas, plano premium $4.99/mes para monitoramento avançado e histórico.",
+      "theme": "Consumer Security",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
+      "created_at": ""
+    },
+    {
+      "name": "AI Model Release Tracker",
+      "problem": "The rapid pace of AI model releases (like Mistral Large) makes it difficult for researchers and developers to stay updated on available weights and capabilities. This app aggregates and categorizes new model releases with direct links and key feature summaries.",
+      "monetization": "Freemium com alertas básicos, plano Pro $9.99/mes para alertas customizados e análises aprofundadas.",
+      "theme": "Tech Industry News",
+      "trends_context": "[tech] elect.horse\n[startup] Share your startup - quarterly post\n[tech] Backdoors in official Claude Code extensions\n[startup] Feedback Friday\n[tech] Azure's Weakest Link – Five Full Cross-Tenant Compromises\n[startup] Being the first employee at a startup (I will not promote)\n[tech] Binance-hacker-1029 – $5.6B stolen from Binance\n[startup] Founders who commercialised a completely new category of deep technology: what were your first moves? (I will not promote)\n[tech] We're releasing the weights of Mistral Large 4\n[startup] If you don't have a sales team, here's a 1-hour-a-week outreach routine (I will not promote)\n[tech] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech\n[startup] Bridging the equity gap - between Series B/C and liquidity? (I will not promote).\n[tech] Anthropic hacked to deliver remote access trojan\n[startup] From Startup to Service Business. How to survive as a startup if running out of money - I will not promote\n[tech] How Do You Take a Picture of a Black Hole?\n[startup] update: 2 b2b pilots out of ~25 cold calls (i will not promote)",
       "created_at": ""
     }
   ]
