@@ -13840,5 +13840,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "generated_at": "2026-11-05T15:01:12+00:00",
+    "trends": [
+      "[tech] Sshole",
+      "[startup] Share your startup - quarterly post",
+      "[tech] MCP Explained",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+      "[startup] What's the best way to code if you're not a Coder ( I will not promote )",
+      "[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote",
+      "[tech] Image of Our Satellite-Choked Night Skies",
+      "[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote",
+      "[tech] Residential proxies detected on White House network",
+      "[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?",
+      "[tech] Baidu released ERNIE 5.5 Flash Base",
+      "[startup] How can you handle distributions? I will not promote",
+      "[tech] Download your favourite YouTube videos",
+      "[startup] Best Resources for First-Time SaaS Founders? - I will not promote"
+    ],
+    "ideas": [
+      {
+        "name": "OpenSSH Security Guard",
+        "problem": "Administradores de sistemas precisam de uma forma automatizada e simplificada de monitorizar e gerir vulnerabilidades em configurações de OpenSSH em múltiplos servidores, como as mencionadas na Alpine Linux Security advisory.",
+        "monetization": "SaaS B2B com planos escalonados a partir de 49 USD/mês com base no número de servidores monitorizados.",
+        "theme": "Tech Security",
+        "trends_context": "[tech] Sshole\n[startup] Share your startup - quarterly post\n[tech] MCP Explained\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass\n[startup] What's the best way to code if you're not a Coder ( I will not promote )\n[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM\n[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote\n[tech] Image of Our Satellite-Choked Night Skies\n[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote\n[tech] Residential proxies detected on White House network\n[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?\n[tech] Baidu released ERNIE 5.5 Flash Base\n[startup] How can you handle distributions? I will not promote\n[tech] Download your favourite YouTube videos\n[startup] Best Resources for First-Time SaaS Founders? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Traction Booster",
+        "problem": "Fundadores de startups B2B SaaS que experimentaram tração inicial e depois estagnaram necessitam de orientação estratégica e ferramentas para identificar e capitalizar novas oportunidades de crescimento, em vez de desistir.",
+        "monetization": "Serviço de consultoria premium por hora (150 USD/hora) ou pacotes de aceleração com métricas claras.",
+        "theme": "Startup Growth",
+        "trends_context": "[tech] Sshole\n[startup] Share your startup - quarterly post\n[tech] MCP Explained\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass\n[startup] What's the best way to code if you're not a Coder ( I will not promote )\n[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM\n[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote\n[tech] Image of Our Satellite-Choked Night Skies\n[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote\n[tech] Residential proxies detected on White House network\n[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?\n[tech] Baidu released ERNIE 5.5 Flash Base\n[startup] How can you handle distributions? I will not promote\n[tech] Download your favourite YouTube videos\n[startup] Best Resources for First-Time SaaS Founders? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "AI Compliance Assistant",
+        "problem": "Desenvolvedores de apps mobile, especialmente no Reino Unido, enfrentam dificuldades em passar nas verificações de organização da Apple/Google sem expor dados pessoais, necessitando de uma ferramenta que simplifique este processo.",
+        "monetization": "Freemium com funcionalidade básica e uma subscrição paga de 29 USD/mês para acesso a recursos avançados e suporte dedicado.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Sshole\n[startup] Share your startup - quarterly post\n[tech] MCP Explained\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass\n[startup] What's the best way to code if you're not a Coder ( I will not promote )\n[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM\n[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote\n[tech] Image of Our Satellite-Choked Night Skies\n[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote\n[tech] Residential proxies detected on White House network\n[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?\n[tech] Baidu released ERNIE 5.5 Flash Base\n[startup] How can you handle distributions? I will not promote\n[tech] Download your favourite YouTube videos\n[startup] Best Resources for First-Time SaaS Founders? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "YouTube Download Manager",
+        "problem": "Utilizadores que desejam descarregar vídeos do YouTube para visualização offline, seja por conveniência, para evitar consumo de dados ou para arquivamento, procuram uma ferramenta fiável e fácil de usar.",
+        "monetization": "Freemium com limites diários de download, com uma compra única de 9.99 USD para downloads ilimitados e funcionalidades premium.",
+        "theme": "Consumer Productivity",
+        "trends_context": "[tech] Sshole\n[startup] Share your startup - quarterly post\n[tech] MCP Explained\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass\n[startup] What's the best way to code if you're not a Coder ( I will not promote )\n[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM\n[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote\n[tech] Image of Our Satellite-Choked Night Skies\n[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote\n[tech] Residential proxies detected on White House network\n[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?\n[tech] Baidu released ERNIE 5.5 Flash Base\n[startup] How can you handle distributions? I will not promote\n[tech] Download your favourite YouTube videos\n[startup] Best Resources for First-Time SaaS Founders? - I will not promote",
+        "created_at": ""
+      },
+      {
+        "name": "SaaS Founder Toolkit",
+        "problem": "Fundadores de SaaS de primeira viagem procuram recursos curados e testados para ajudar a navegar os desafios desde a codificação sem ser programador, passando pela gestão de distribuição, até à obtenção de recursos.",
+        "monetization": "Assinatura mensal de 19 USD para acesso a um repositório completo de guias, templates e fóruns comunitários exclusivos.",
+        "theme": "Startup Resource",
+        "trends_context": "[tech] Sshole\n[startup] Share your startup - quarterly post\n[tech] MCP Explained\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Alpine Linux Security advisory: OpenSSH-server password authentication bypass\n[startup] What's the best way to code if you're not a Coder ( I will not promote )\n[tech] OpenSSH 10.6p2 Critical workaround for alpine without PAM\n[startup] My Reddit posts got 3,000+ upvotes. My only paying customer came from a Telegram channel. I will not promote\n[tech] Image of Our Satellite-Choked Night Skies\n[startup] 8 months into our B2B SaaS startup. Early traction, then nothing. When do you know it's time to quit? - I will not promote\n[tech] Residential proxies detected on White House network\n[startup] I will not promote | UK App Developers: How are you passing Apple/Google org verification without revealing your home address?\n[tech] Baidu released ERNIE 5.5 Flash Base\n[startup] How can you handle distributions? I will not promote\n[tech] Download your favourite YouTube videos\n[startup] Best Resources for First-Time SaaS Founders? - I will not promote",
+        "created_at": ""
+      }
+    ]
   }
 ]
