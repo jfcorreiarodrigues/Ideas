@@ -1,71 +1,71 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T13:38:35+00:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T13:57:16+00:00",
   "trends": [
-    "[tech] Need for Speed Underground 2 online in the browser",
+    "[tech] Person of Interest",
     "[startup] Share your startup - quarterly post",
-    "[tech] Libghostty 1.0",
+    "[tech] Petered (what happens after the Peter Principle)",
     "[startup] Feedback Friday",
-    "[tech] Upload Your RAM",
-    "[startup] My path to finding a partner - I will not promote",
-    "[tech] Every Mac comes with an (undocumented) family member classifier",
-    "[startup] How do solo technical founders get better at sales? I will not promote",
-    "[tech] Tesla to wind down Cybertruck production",
-    "[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote",
-    "[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote",
-    "[tech] Running a law firm on Free software",
-    "[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)",
-    "[tech] The Components of Agent Memory",
-    "[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)"
+    "[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.",
+    "[tech] Goodbye Claude, Hello Pi",
+    "[startup] Looking for a US based cofounder to handle sales (i will not promote)",
+    "[tech] JIT bitmap text rendering for microcontrollers",
+    "[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote",
+    "[tech] Porting Android 16 to my blind mother's keypad phone",
+    "[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.",
+    "[tech] What I run on my $10 USD OpenStick homelab",
+    "[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?",
+    "[tech] Clj.rs – a Clojure dialect implemented in Rust",
+    "[startup] How much equity should I offer an early employee? I will not promote."
   ],
   "ideas": [
     {
-      "name": "Opus Cost Optimizer",
-      "problem": "Developers integrating large language models like Opus struggle with high costs. This tool helps them find more affordable alternatives or optimize API calls to reduce expenses while maintaining accuracy.",
-      "monetization": "SaaS B2B 49USD/mes por equipa",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
+      "name": "Port Monitor",
+      "problem": "Users with multiple devices, especially older ones or those with specific hardware needs, struggle to track and manage their device performance and compatibility. This app helps them understand what runs where and how efficiently.",
+      "monetization": "Freemium with premium features for advanced diagnostics and compatibility reports (e.g., $2.99/month or $29.99/year).",
+      "theme": "Consumer Tech",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
       "created_at": ""
     },
     {
-      "name": "RAM Upload Assistant",
-      "problem": "Users often have unused RAM that could be leveraged for passive income or distributed computing tasks. This app simplifies the process of safely and efficiently uploading RAM for profit.",
-      "monetization": "Freemium + 5% das receitas geradas",
-      "theme": "Consumer Utility",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Cybertruck Production Monitor",
-      "problem": "Enthusiasts and potential buyers of the Tesla Cybertruck want up-to-date information on production status and any changes. This app aggregates official announcements and reliable community reports.",
-      "monetization": "Freemium com anúncios discretos, opção de subscrição para ad-free",
-      "theme": "Consumer News",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
-      "created_at": ""
-    },
-    {
-      "name": "Law Firm FOSS Manager",
-      "problem": "Small law firms looking to reduce costs and increase control over their data are exploring free and open-source software. This platform helps them discover, configure, and manage FOSS solutions for their operations.",
-      "monetization": "SaaS B2B 39USD/mes por escritório + serviços de consultoria",
+      "name": "Micro-Logistics Planner",
+      "problem": "Small businesses operating in niche markets often face complex, cross-border logistical challenges with limited capital. This app simplifies micro-bootstrapping by connecting local execution with micro-capital opportunities.",
+      "monetization": "SaaS, tiered pricing based on transaction volume and feature set (e.g., $49/month for basic, $199/month for premium).",
       "theme": "Small Business Ops",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
       "created_at": ""
     },
     {
-      "name": "Teleradiology India",
-      "problem": "Indian teleradiology startups need to navigate regulatory hurdles and build trust with hospitals. This platform connects them with experienced founders and provides AI-driven insights for compliance and market entry.",
-      "monetization": "Marketplace de consultoria 15% fee, subscrição para acesso a dados de mercado",
-      "theme": "Health Tech",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
+      "name": "DeepSeek Optimizer",
+      "problem": "Developers and researchers working with large language models like DeepSeek often face hardware limitations (e.g., running large models on limited RAM without expensive GPUs). This tool provides optimized configurations and workflow suggestions.",
+      "monetization": "One-time purchase for the software ($99) with optional premium support/updates ($49/year).",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
       "created_at": ""
     },
     {
-      "name": "B2B Dealership Validation",
-      "problem": "Founders struggle with validating B2B ideas for car dealerships without causing discomfort or awkwardness. This tool provides structured frameworks and anonymized feedback mechanisms for effective validation.",
-      "monetization": "SaaS B2B 79USD/mes por utilizador",
-      "theme": "Small Business Sales",
-      "trends_context": "[tech] Need for Speed Underground 2 online in the browser\n[startup] Share your startup - quarterly post\n[tech] Libghostty 1.0\n[startup] Feedback Friday\n[tech] Upload Your RAM\n[startup] My path to finding a partner - I will not promote\n[tech] Every Mac comes with an (undocumented) family member classifier\n[startup] How do solo technical founders get better at sales? I will not promote\n[tech] Tesla to wind down Cybertruck production\n[startup] Entrepreneurship is brutal. I've been working for free for a year. - i will not promote\n[tech] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost\n[startup] Building an AI-first teleradiology startup in India, looking for advice from founders/insiders. I will not promote\n[tech] Running a law firm on Free software\n[startup] how do you validate a b2b idea for car dealerships without it being awkward? (I will not promote)\n[tech] The Components of Agent Memory\n[startup] Consumer learning apps that grew through schools, employers or banks instead of the app store: did it work for anyone? (i will not promote)",
+      "name": "Feedback Friday Manager",
+      "problem": "Startups and development teams need a streamlined way to collect, organize, and act upon customer feedback, especially during critical early stages. This app centralizes feedback collection and prioritizes actionable insights.",
+      "monetization": "SaaS, $19/month per team for core features, $49/month for advanced analytics and integrations.",
+      "theme": "Startup Productivity",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
+      "created_at": ""
+    },
+    {
+      "name": "Equity Navigator",
+      "problem": "Founders and early employees often grapple with determining fair equity distribution. This app provides a guided framework and scenario modeling to help negotiate and allocate equity equitably.",
+      "monetization": "Freemium: basic calculators free, advanced scenario planning and documentation tools for $7.99/month.",
+      "theme": "Startup Finance",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
+      "created_at": ""
+    },
+    {
+      "name": "Enterprise AI Search",
+      "problem": "Many enterprise websites incorrectly approach AI search visibility, missing out on crucial organic traffic. This tool analyzes website structure and content for AI search engine optimization best practices.",
+      "monetization": "Consulting services package ($499 one-time analysis) or a subscription for ongoing monitoring and recommendations ($99/month).",
+      "theme": "Small Business SEO",
+      "trends_context": "[tech] Person of Interest\n[startup] Share your startup - quarterly post\n[tech] Petered (what happens after the Peter Principle)\n[startup] Feedback Friday\n[tech] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU\n[startup] Having at least one paying customer is enough jet fuel needed (if you enjoy the journey) to continue. I will not promote.\n[tech] Goodbye Claude, Hello Pi\n[startup] Looking for a US based cofounder to handle sales (i will not promote)\n[tech] JIT bitmap text rendering for microcontrollers\n[startup] most enterprise sites get this backwards when trying to show up in AI search - i will not promote\n[tech] Porting Android 16 to my blind mother's keypad phone\n[startup] How many $100M deep-tech companies never get built because our startup ecosystem is broken? I will not promote.\n[tech] What I run on my $10 USD OpenStick homelab\n[startup] [I will not promote] Cross-border micro-bootstrapping: Trading local execution & sweat equity for micro-capital?\n[tech] Clj.rs – a Clojure dialect implemented in Rust\n[startup] How much equity should I offer an early employee? I will not promote.",
       "created_at": ""
     }
   ]
