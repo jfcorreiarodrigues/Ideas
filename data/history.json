@@ -14240,5 +14240,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "generated_at": "2026-11-11T14:47:37+00:00",
+    "trends": [
+      "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Can a Linear Program Do Weight-Space Programming?",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] Pharo in the Browser with WebAssembly",
+      "[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)",
+      "[tech] Using voltage glitching to unleash the A100 in my mining card",
+      "[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote",
+      "[tech] Atuin Threads: All your agent sessions on every machine",
+      "[startup] Which biz would you pursue as solo founder? I will not promote",
+      "[tech] Protecting SSH Keys with macOS Secure Enclave",
+      "[startup] Yall. It’s WORKING (I will not promote)",
+      "[tech] We need more goat sacrifices",
+      "[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)",
+      "[tech] Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Maya Pyramid Tracker",
+        "problem": "Archaeologists and researchers struggle to efficiently identify and map unmapped historical sites like Mayan pyramids. This tool leverages AI-powered analysis of Lidar data to automate and speed up discovery.",
+        "monetization": "SaaS subscription for research institutions and universities, tiered pricing based on data volume and features ($500/month+).",
+        "theme": "Archaeology Tech",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Founder Meeting Booker",
+        "problem": "Startup founders spend excessive time and effort trying to secure high-intent meetings with potential investors, partners, or clients. This app automates the scheduling and qualification process using advanced AI.",
+        "monetization": "Freemium model: basic scheduling free, advanced AI qualification and intent scoring for a subscription ($99/month).",
+        "theme": "Startup Ops",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Pharo Browser IDE",
+        "problem": "Developers need a lightweight and accessible way to work with the Pharo Smalltalk environment without complex installations. This web app brings Pharo to the browser via WebAssembly, offering a portable development experience.",
+        "monetization": "One-time purchase for enhanced features and cloud storage ($49.99), or a tiered subscription for team collaboration ($20/user/month).",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Client Value Adjuster",
+        "problem": "Small business owners often face clients who only want a fraction of the full product or service. This tool helps founders systematically identify and offer value-aligned, scaled-down versions of their offerings, ensuring fair compensation.",
+        "monetization": "SaaS subscription for small businesses ($79/month), with premium tiers for advanced analytics and client segmentation.",
+        "theme": "Small Business Pricing",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Secure SSH Guardian",
+        "problem": "Individual users and small teams find it challenging to adequately protect their SSH keys from compromise on personal devices. This app integrates with hardware security modules like macOS Secure Enclave for robust key management.",
+        "monetization": "One-time purchase for the application ($29.99) with optional cloud backup and sync service ($4.99/month).",
+        "theme": "Cybersecurity Consumer",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Agent Session Sync",
+        "problem": "Managing AI agent sessions across multiple machines and contexts is fragmented and inefficient for power users. This app synchronizes all agent sessions and states across every device, ensuring continuity and seamless workflow.",
+        "monetization": "SaaS subscription with tiered plans based on the number of connected devices and storage ($15/month for individuals, $50/month for small teams).",
+        "theme": "Productivity Tech",
+        "trends_context": "[tech] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h\n[startup] Share your startup - quarterly post\n[tech] Can a Linear Program Do Weight-Space Programming?\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] Pharo in the Browser with WebAssembly\n[startup] How did you choose your email provider, and did you outgrow it? (I WILL NOT PROMOTE)\n[tech] Using voltage glitching to unleash the A100 in my mining card\n[startup] Has anyone genuinley gotten high intent meetings from any of those AI booking services? i will not promote\n[tech] Atuin Threads: All your agent sessions on every machine\n[startup] Which biz would you pursue as solo founder? I will not promote\n[tech] Protecting SSH Keys with macOS Secure Enclave\n[startup] Yall. It’s WORKING (I will not promote)\n[tech] We need more goat sacrifices\n[startup] How to cope with the fact that clients only want 10% of my product (i will not promote)\n[tech] Next-Level Benchmarking Overfitting – Thomas Neumann\n[startup] Founders at Series A–C: how are you handling QA before you hire a dedicated QA person? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
