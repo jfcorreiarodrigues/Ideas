@@ -14312,5 +14312,77 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "generated_at": "2026-11-12T15:39:55+00:00",
+    "trends": [
+      "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Abandoned Quake 4 expansion finished by modders and now playable",
+      "[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread",
+      "[tech] NVIDIA Announces CEO Transition",
+      "[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]",
+      "[tech] Jensen Huang resigns as Nvidia CEO immediately",
+      "[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE",
+      "[tech] Why Writing Correct Software Is Hard",
+      "[startup] How to bully myself into making calls “I will not promote”",
+      "[tech] Jane Street – Our software engineering interviews are changing (a little)",
+      "[startup] How do you pay for compute when customers pay net 60? I will not promote",
+      "[tech] Libreagi – Save OSS Models",
+      "[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)",
+      "[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Nvidia Modder Hub",
+        "problem": "Gamers and modders are looking for a central platform to discover, share, and collaborate on abandoned game expansions, like the Quake 4 example. This caters to a passionate niche within the gaming community.",
+        "monetization": "Freemium with premium features for creators (e.g., advanced analytics, larger storage), marketplace for exclusive mods (revenue share), and potential partnerships with game developers.",
+        "theme": "Gaming Community",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Startup Compute Saver",
+        "problem": "Startups struggle with unpredictable compute costs, especially when customers have long payment terms (net 60). This app helps them manage and forecast compute expenses, finding cost-effective solutions.",
+        "monetization": "SaaS B2B with tiered pricing based on compute usage ($50-$500/month) and a consulting option for optimization strategies.",
+        "theme": "Startup Operations",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Investor List Builder",
+        "problem": "Founders need efficient ways to identify and filter potential investors based on specific criteria, beyond generic databases. This tool streamlines the investor research process.",
+        "monetization": "Subscription-based access ($29-$99/month) with premium features like advanced filtering and direct contact insights.",
+        "theme": "Startup Funding",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Remote Pallet Logistics",
+        "problem": "Remote businesses face challenges receiving and managing physical shipments, like pallet deliveries, without on-site staff. This app connects them with local receiving services and manages inventory.",
+        "monetization": "Marketplace model connecting businesses with local logistics providers, taking a 15% commission on each transaction. Optional subscription for advanced tracking and management features.",
+        "theme": "Small Business Ops",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Email Validation API",
+        "problem": "SaaS builders require reliable and affordable email validation APIs to reduce fake signups and improve deliverability, especially when dealing with cost-sensitive free tiers.",
+        "monetization": "Pay-as-you-go API calls with tiered pricing based on volume, starting from $0.001 per validation. Bulk discounts and enterprise solutions available.",
+        "theme": "SaaS Tools",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Software Correctness Helper",
+        "problem": "Writing correct and robust software is inherently difficult. This meta-tool assists developers by integrating with their workflow, suggesting potential errors, and aiding in verification.",
+        "monetization": "SaaS B2B with tiered subscriptions for individual developers and teams, offering advanced code analysis, automated testing assistance, and integration with CI/CD pipelines ($15-$75/month per user).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Talking Zen 6 with Mike Clark at AMD In-Depth\n[startup] Share your startup - quarterly post\n[tech] Abandoned Quake 4 expansion finished by modders and now playable\n[startup] [Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread\n[tech] NVIDIA Announces CEO Transition\n[startup] If you have a free tier on your product, how much do fake or multi-account signups actually cost you? [i will not promote]\n[tech] Jensen Huang resigns as Nvidia CEO immediately\n[startup] The 4 filters I use to build investor lists - I WILL NOT PROMOTE\n[tech] Why Writing Correct Software Is Hard\n[startup] How to bully myself into making calls “I will not promote”\n[tech] Jane Street – Our software engineering interviews are changing (a little)\n[startup] How do you pay for compute when customers pay net 60? I will not promote\n[tech] Libreagi – Save OSS Models\n[startup] Looking for creative solutions for receiving pallets shipments while being remote (I will not promote)\n[tech] Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal\n[startup] building a SaaS - need a reliable email validation API. recommendations? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
