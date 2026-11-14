@@ -14456,5 +14456,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "generated_at": "2026-11-14T13:51:11+00:00",
+    "trends": [
+      "[tech] Why get an expensive Pi when I have an old phone?",
+      "[startup] Share your startup - quarterly post",
+      "[tech] Generative AI uses more energy on non-English text",
+      "[startup] Feedback Friday",
+      "[tech] Ggml v1.0.0",
+      "[startup] How to convince a VC to give you money [I will not promote]",
+      "[tech] Monkey Island: all 13 versions side by side",
+      "[startup] Imposter syndrome. (I will not promote)",
+      "[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)",
+      "[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)",
+      "[tech] Terminal borders that don't cost a cell",
+      "[startup] did you actually check security before launching your vibe coded app? i will not promote",
+      "[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "[startup] Why don’t consultants dominate? (I will not promote)"
+    ],
+    "ideas": [
+      {
+        "name": "Phone Reclaim",
+        "problem": "Many individuals have old smartphones lying around that could be repurposed, but lack a clear, easy way to identify and set up useful functions for them.  This app guides users in turning old phones into dedicated devices.",
+        "monetization": "Freemium with premium guides and advanced setup features for a one-time purchase of $4.99.",
+        "theme": "Consumer Tech Reuse",
+        "trends_context": "[tech] Why get an expensive Pi when I have an old phone?\n[startup] Share your startup - quarterly post\n[tech] Generative AI uses more energy on non-English text\n[startup] Feedback Friday\n[tech] Ggml v1.0.0\n[startup] How to convince a VC to give you money [I will not promote]\n[tech] Monkey Island: all 13 versions side by side\n[startup] Imposter syndrome. (I will not promote)\n[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)\n[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)\n[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs\n[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)\n[tech] Terminal borders that don't cost a cell\n[startup] did you actually check security before launching your vibe coded app? i will not promote\n[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update\n[startup] Why don’t consultants dominate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Energy Text Optimizer",
+        "problem": "Generative AI models consume significant energy, especially with non-English text. This tool helps optimize prompts and outputs for different languages to reduce computational load and energy consumption for developers and businesses using AI.",
+        "monetization": "SaaS B2B, tiered pricing based on API usage (e.g., $29/month for up to 1000 optimizations).",
+        "theme": "AI Language Efficiency",
+        "trends_context": "[tech] Why get an expensive Pi when I have an old phone?\n[startup] Share your startup - quarterly post\n[tech] Generative AI uses more energy on non-English text\n[startup] Feedback Friday\n[tech] Ggml v1.0.0\n[startup] How to convince a VC to give you money [I will not promote]\n[tech] Monkey Island: all 13 versions side by side\n[startup] Imposter syndrome. (I will not promote)\n[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)\n[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)\n[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs\n[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)\n[tech] Terminal borders that don't cost a cell\n[startup] did you actually check security before launching your vibe coded app? i will not promote\n[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update\n[startup] Why don’t consultants dominate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "VC Pitch Navigator",
+        "problem": "Entrepreneurs find it challenging to navigate the complex and often opaque process of securing Venture Capital funding, particularly when seeking advice without feeling pressured for promotion. This app offers curated resources, checklists, and anonymous peer advice.",
+        "monetization": "Freemium with premium content, templates, and expert Q&A sessions for $9.99/month.",
+        "theme": "Startup Fundraising",
+        "trends_context": "[tech] Why get an expensive Pi when I have an old phone?\n[startup] Share your startup - quarterly post\n[tech] Generative AI uses more energy on non-English text\n[startup] Feedback Friday\n[tech] Ggml v1.0.0\n[startup] How to convince a VC to give you money [I will not promote]\n[tech] Monkey Island: all 13 versions side by side\n[startup] Imposter syndrome. (I will not promote)\n[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)\n[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)\n[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs\n[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)\n[tech] Terminal borders that don't cost a cell\n[startup] did you actually check security before launching your vibe coded app? i will not promote\n[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update\n[startup] Why don’t consultants dominate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Privacy Shift Monitor",
+        "problem": "Tech companies are constantly evolving their approaches to user privacy, often in ways that are not immediately clear to consumers. This app tracks and explains these shifts, empowering users to understand and manage their digital footprint.",
+        "monetization": "Subscription service for detailed reports and alerts ($2.99/month).",
+        "theme": "Consumer Privacy",
+        "trends_context": "[tech] Why get an expensive Pi when I have an old phone?\n[startup] Share your startup - quarterly post\n[tech] Generative AI uses more energy on non-English text\n[startup] Feedback Friday\n[tech] Ggml v1.0.0\n[startup] How to convince a VC to give you money [I will not promote]\n[tech] Monkey Island: all 13 versions side by side\n[startup] Imposter syndrome. (I will not promote)\n[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)\n[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)\n[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs\n[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)\n[tech] Terminal borders that don't cost a cell\n[startup] did you actually check security before launching your vibe coded app? i will not promote\n[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update\n[startup] Why don’t consultants dominate? (I will not promote)",
+        "created_at": ""
+      },
+      {
+        "name": "Cofounder Equity Guide",
+        "problem": "Founders and early employees in startups face complex decisions regarding equity, especially when roles change or individuals leave the company. This tool provides clear, scenario-based guidance on equity distribution and implications.",
+        "monetization": "One-time purchase for comprehensive guides and calculators ($19.99).",
+        "theme": "Startup Equity",
+        "trends_context": "[tech] Why get an expensive Pi when I have an old phone?\n[startup] Share your startup - quarterly post\n[tech] Generative AI uses more energy on non-English text\n[startup] Feedback Friday\n[tech] Ggml v1.0.0\n[startup] How to convince a VC to give you money [I will not promote]\n[tech] Monkey Island: all 13 versions side by side\n[startup] Imposter syndrome. (I will not promote)\n[tech] Tech Companies Are Trying to Shift the Concept of Privacy (Again)\n[startup] Need advice - leaving as CTO/Cofounder and equity (I will not promote)\n[tech] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs\n[startup] Built the MVP, deck is locked, outbound is running, how do you actually structure your downtime while fundraising? (I will not promote)\n[tech] Terminal borders that don't cost a cell\n[startup] did you actually check security before launching your vibe coded app? i will not promote\n[tech] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update\n[startup] Why don’t consultants dominate? (I will not promote)",
+        "created_at": ""
+      }
+    ]
   }
 ]
