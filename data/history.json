@@ -14724,5 +14724,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "generated_at": "2026-11-18T16:01:52+00:00",
+    "trends": [
+      "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "[tech] Pre-auth RCE in Nginx HTTP/2 handling",
+      "[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "[tech] Energy-Based Reasoners: 385x more efficient inference",
+      "[tech] Deutsche Bank",
+      "[tech] A Perfect SimCity",
+      "[tech] The x86 CPU: From 4004 to 486",
+      "[tech] Google's AI answers reducing search traffic by 40%"
+    ],
+    "ideas": [
+      {
+        "name": "Piracy Shield Advisor",
+        "problem": "Usuários de internet preocupados com o combate à pirataria e a privacidade de seus dados. A necessidade de entender como serviços como DNS resolvers afetam a segurança e a liberdade online.",
+        "monetization": "Freemium com assinatura premium para relatórios detalhados de segurança e VPN integrada por 5.99 USD/mês.",
+        "theme": "Consumer Privacy",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      },
+      {
+        "name": "CPU History Explorer",
+        "problem": "Entusiastas de tecnologia e estudantes que desejam aprender sobre a evolução da arquitetura de CPUs, desde os primórdios até os processadores modernos. Falta de recursos interativos e acessíveis para explorar essa história.",
+        "monetization": "App pago único por 7.99 USD, com opção de compras in-app para módulos avançados de simulação.",
+        "theme": "Tech Education",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      },
+      {
+        "name": "AI Search Insight",
+        "problem": "Desenvolvedores e pesquisadores que buscam entender o impacto real das respostas geradas por IA no tráfego de busca. A necessidade de ferramentas para analisar a eficácia e o comportamento do usuário em resposta a essas novas funcionalidades.",
+        "monetization": "SaaS B2B com planos a partir de 49 USD/mês para acesso a dashboards analíticos e relatórios customizados.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      },
+      {
+        "name": "Nostalgic City Builder",
+        "problem": "Fãs de jogos de simulação clássicos que sentem falta da experiência de construção e gerenciamento de cidades, mas com mecânicas modernas e acessíveis em dispositivos móveis. Desejo por uma experiência de jogo envolvente e relaxante.",
+        "monetization": "Freemium com compras in-app para expansões de mapas, pacotes de edifícios e aceleração de progresso (0.99 USD - 19.99 USD).",
+        "theme": "Gaming & Nostalgia",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      },
+      {
+        "name": "Energy Efficiency Guru",
+        "problem": "Proprietários de residências que buscam reduzir o consumo de energia e os custos associados. Falta de uma ferramenta simples e intuitiva para identificar áreas de desperdício e receber recomendações personalizadas de eficiência.",
+        "monetization": "Freemium com assinatura para análises detalhadas e recomendações personalizadas de otimização de energia (3.99 USD/mês).",
+        "theme": "Home Energy Savings",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      },
+      {
+        "name": "Word of Year Tracker",
+        "problem": "Entusiastas de linguística, educadores e curiosos que desejam acompanhar as palavras mais influentes e significativas de cada ano, com contexto histórico e social. A falta de um agregador centralizado e interativo para essa informação.",
+        "monetization": "App pago único por 2.99 USD, com atualizações anuais gratuitas e opção de pacotes temáticos para assinaturas (linguística, cultura pop).",
+        "theme": "Linguistic Trends",
+        "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+        "created_at": ""
+      }
+    ]
   }
 ]
