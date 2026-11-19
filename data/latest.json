@@ -1,63 +1,55 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T16:01:52+00:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:08:41+00:00",
   "trends": [
-    "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-    "[tech] Pre-auth RCE in Nginx HTTP/2 handling",
-    "[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026",
-    "[tech] Energy-Based Reasoners: 385x more efficient inference",
-    "[tech] Deutsche Bank",
-    "[tech] A Perfect SimCity",
-    "[tech] The x86 CPU: From 4004 to 486",
-    "[tech] Google's AI answers reducing search traffic by 40%"
+    "[tech] How the European Commission rolled out Matrix to more than 40k staff",
+    "[tech] Everything you need to survive and rebuild society",
+    "[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+    "[tech] Garage Door Spam",
+    "[tech] Cooling buildings is overtaking heating them as an energy need, IEA says",
+    "[tech] Making 8-page foldable zines from a single A4 sheet in the browser",
+    "[tech] Nintendo takes Picofly firmware down from GitHub [video]",
+    "[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest"
   ],
   "ideas": [
     {
-      "name": "Piracy Shield Advisor",
-      "problem": "Usuários de internet preocupados com o combate à pirataria e a privacidade de seus dados. A necessidade de entender como serviços como DNS resolvers afetam a segurança e a liberdade online.",
-      "monetization": "Freemium com assinatura premium para relatórios detalhados de segurança e VPN integrada por 5.99 USD/mês.",
-      "theme": "Consumer Privacy",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
-      "created_at": ""
-    },
-    {
-      "name": "CPU History Explorer",
-      "problem": "Entusiastas de tecnologia e estudantes que desejam aprender sobre a evolução da arquitetura de CPUs, desde os primórdios até os processadores modernos. Falta de recursos interativos e acessíveis para explorar essa história.",
-      "monetization": "App pago único por 7.99 USD, com opção de compras in-app para módulos avançados de simulação.",
-      "theme": "Tech Education",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
-      "created_at": ""
-    },
-    {
-      "name": "AI Search Insight",
-      "problem": "Desenvolvedores e pesquisadores que buscam entender o impacto real das respostas geradas por IA no tráfego de busca. A necessidade de ferramentas para analisar a eficácia e o comportamento do usuário em resposta a essas novas funcionalidades.",
-      "monetization": "SaaS B2B com planos a partir de 49 USD/mês para acesso a dashboards analíticos e relatórios customizados.",
+      "name": "Local AI Dev",
+      "problem": "Developers want to leverage local AI models for speed and privacy but struggle with setup and management. This app simplifies deploying and orchestrating various local AI models.",
+      "monetization": "SaaS B2B tiered subscription (e.g., $49/month for individuals, $199/month for teams)",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
       "created_at": ""
     },
     {
-      "name": "Nostalgic City Builder",
-      "problem": "Fãs de jogos de simulação clássicos que sentem falta da experiência de construção e gerenciamento de cidades, mas com mecânicas modernas e acessíveis em dispositivos móveis. Desejo por uma experiência de jogo envolvente e relaxante.",
-      "monetization": "Freemium com compras in-app para expansões de mapas, pacotes de edifícios e aceleração de progresso (0.99 USD - 19.99 USD).",
-      "theme": "Gaming & Nostalgia",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+      "name": "Small Biz Energy",
+      "problem": "Small businesses (retail, offices) are facing rising energy costs for cooling. This app analyzes their space and provides actionable, cost-effective cooling solutions and product recommendations.",
+      "monetization": "Freemium with premium analytics and supplier marketplace referrals (commission-based).",
+      "theme": "Small Business Ops",
+      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
       "created_at": ""
     },
     {
-      "name": "Energy Efficiency Guru",
-      "problem": "Proprietários de residências que buscam reduzir o consumo de energia e os custos associados. Falta de uma ferramenta simples e intuitiva para identificar áreas de desperdício e receber recomendações personalizadas de eficiência.",
-      "monetization": "Freemium com assinatura para análises detalhadas e recomendações personalizadas de otimização de energia (3.99 USD/mês).",
-      "theme": "Home Energy Savings",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+      "name": "Niche Zine Creator",
+      "problem": "Independent creators and artists want to easily design and produce physical zines from digital content without complex software. This web app offers intuitive templates for foldable zines.",
+      "monetization": "Freemium with premium templates and print-on-demand integration (revenue share).",
+      "theme": "Creator Economy",
+      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
       "created_at": ""
     },
     {
-      "name": "Word of Year Tracker",
-      "problem": "Entusiastas de linguística, educadores e curiosos que desejam acompanhar as palavras mais influentes e significativas de cada ano, com contexto histórico e social. A falta de um agregador centralizado e interativo para essa informação.",
-      "monetization": "App pago único por 2.99 USD, com atualizações anuais gratuitas e opção de pacotes temáticos para assinaturas (linguística, cultura pop).",
-      "theme": "Linguistic Trends",
-      "trends_context": "[tech] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy\n[tech] Pre-auth RCE in Nginx HTTP/2 handling\n[tech] 'Human' Is Cambridge Dictionary's Word of the Year 2026\n[tech] Energy-Based Reasoners: 385x more efficient inference\n[tech] Deutsche Bank\n[tech] A Perfect SimCity\n[tech] The x86 CPU: From 4004 to 486\n[tech] Google's AI answers reducing search traffic by 40%",
+      "name": "Smart Home Repair",
+      "problem": "Homeowners need a reliable way to find and schedule vetted local professionals for home repairs, especially for common issues like garage door malfunctions.",
+      "monetization": "Marketplace model with a 15% service fee on each completed job.",
+      "theme": "Home Services",
+      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "created_at": ""
+    },
+    {
+      "name": "Community News Hub",
+      "problem": "People want to stay informed about hyper-local news and events specific to their region, often underserved by national media. This platform aggregates and curates news for specific geographic areas.",
+      "monetization": "Local business advertising and sponsored content opportunities.",
+      "theme": "Local News",
+      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
       "created_at": ""
     }
   ]
