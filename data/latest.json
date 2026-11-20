@@ -1,55 +1,63 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T16:08:41+00:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T15:49:08+00:00",
   "trends": [
-    "[tech] How the European Commission rolled out Matrix to more than 40k staff",
-    "[tech] Everything you need to survive and rebuild society",
-    "[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-    "[tech] Garage Door Spam",
-    "[tech] Cooling buildings is overtaking heating them as an energy need, IEA says",
-    "[tech] Making 8-page foldable zines from a single A4 sheet in the browser",
-    "[tech] Nintendo takes Picofly firmware down from GitHub [video]",
-    "[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest"
+    "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "[tech] If you can't explain something in simple terms, you don't understand it (2017)",
+    "[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "[tech] Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+    "[tech] Signal Is Serious About Protecting Your Privacy",
+    "[tech] The Making of Oxygene",
+    "[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data"
   ],
   "ideas": [
     {
-      "name": "Local AI Dev",
-      "problem": "Developers want to leverage local AI models for speed and privacy but struggle with setup and management. This app simplifies deploying and orchestrating various local AI models.",
-      "monetization": "SaaS B2B tiered subscription (e.g., $49/month for individuals, $199/month for teams)",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "name": "Riemann Hypothesis Helper",
+      "problem": "Estudantes e pesquisadores de matemática lutam para entender e visualizar conceitos complexos como a Hipótese de Riemann. Este app oferece explicações interativas e ferramentas de visualização para facilitar o aprendizado.",
+      "monetization": "Freemium com assinatura premium para recursos avançados de visualização e tutoriais (9.99USD/mês)",
+      "theme": "Math Education",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
       "created_at": ""
     },
     {
-      "name": "Small Biz Energy",
-      "problem": "Small businesses (retail, offices) are facing rising energy costs for cooling. This app analyzes their space and provides actionable, cost-effective cooling solutions and product recommendations.",
-      "monetization": "Freemium with premium analytics and supplier marketplace referrals (commission-based).",
-      "theme": "Small Business Ops",
-      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "name": "Simple Terms Explainer",
+      "problem": "Profissionais e estudantes frequentemente precisam explicar tópicos técnicos ou complexos para um público leigo. Este webapp utiliza IA para gerar explicações claras e concisas, adaptadas ao nível de compreensão do utilizador.",
+      "monetization": "SaaS B2B com diferentes tiers de uso baseados em volume de requisições (a partir de 49USD/mês)",
+      "theme": "Knowledge Simplification",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
       "created_at": ""
     },
     {
-      "name": "Niche Zine Creator",
-      "problem": "Independent creators and artists want to easily design and produce physical zines from digital content without complex software. This web app offers intuitive templates for foldable zines.",
-      "monetization": "Freemium with premium templates and print-on-demand integration (revenue share).",
-      "theme": "Creator Economy",
-      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "name": "AI CPU Architect",
+      "problem": "Desenvolvedores de hardware procuram otimizar a criação de arquiteturas de CPU, mas o processo é demorado e complexo. Este app usa IA para auxiliar no design e verificação de novas arquiteturas de CPU, acelerando o ciclo de desenvolvimento.",
+      "monetization": "Licença de software única ou assinatura para atualizações e suporte contínuo (1999USD licença, 49USD/mês assinatura)",
+      "theme": "Hardware Design",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
       "created_at": ""
     },
     {
-      "name": "Smart Home Repair",
-      "problem": "Homeowners need a reliable way to find and schedule vetted local professionals for home repairs, especially for common issues like garage door malfunctions.",
-      "monetization": "Marketplace model with a 15% service fee on each completed job.",
-      "theme": "Home Services",
-      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "name": "Audio-MIDI Converter",
+      "problem": "Músicos e produtores precisam converter áudio em MIDI de forma eficiente para edições e arranjos. Este app oferece conversão 60x mais rápida e precisa, permitindo fluxos de trabalho mais ágeis.",
+      "monetization": "Freemium com um limite de conversões por mês; assinatura paga para conversões ilimitadas e recursos adicionais (7.99USD/mês)",
+      "theme": "Music Production",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
       "created_at": ""
     },
     {
-      "name": "Community News Hub",
-      "problem": "People want to stay informed about hyper-local news and events specific to their region, often underserved by national media. This platform aggregates and curates news for specific geographic areas.",
-      "monetization": "Local business advertising and sponsored content opportunities.",
-      "theme": "Local News",
-      "trends_context": "[tech] How the European Commission rolled out Matrix to more than 40k staff\n[tech] Everything you need to survive and rebuild society\n[tech] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)\n[tech] Garage Door Spam\n[tech] Cooling buildings is overtaking heating them as an energy need, IEA says\n[tech] Making 8-page foldable zines from a single A4 sheet in the browser\n[tech] Nintendo takes Picofly firmware down from GitHub [video]\n[tech] I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "name": "Floppy NAS Creator",
+      "problem": "Entusiastas de tecnologia antiga e curiosos desejam experimentar com hardware 'vintage' de forma acessível. Este app guia os utilizadores na construção de um NAS portátil usando um disquete de 3.5 polegadas e WiFi.",
+      "monetization": "Venda de kits DIY ou um manual detalhado com lista de componentes (29.99USD manual, 149USD kit)",
+      "theme": "Retro Tech",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "created_at": ""
+    },
+    {
+      "name": "OpenStreetMap Search",
+      "problem": "Desenvolvedores e pesquisadores precisam de buscas rápidas e determinísticas em grandes volumes de dados do OpenStreetMap. Este app oferece uma solução otimizada para consultas eficientes e confiáveis.",
+      "monetization": "API com pagamento por uso e planos de assinatura para volumes maiores de consultas (0.01USD por consulta, a partir de 29USD/mês)",
+      "theme": "Geospatial Data",
+      "trends_context": "[tech] Anthropic employee claims general proof of the Riemann Hypothesis [pdf]\n[tech] If you can't explain something in simple terms, you don't understand it (2017)\n[tech] Frostbite: A new CPU architecture discovered, designed and verified by AI\n[tech] Show HN: I made an audio-to-MIDI model 60x more efficient\n[tech] Floppy3.5: A portable 3.5-inch floppy WiFi NAS\n[tech] Signal Is Serious About Protecting Your Privacy\n[tech] The Making of Oxygene\n[tech] Show HN: Fast deterministic natural language search for OpenStreetMap data",
       "created_at": ""
     }
   ]
