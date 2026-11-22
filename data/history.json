@@ -14972,5 +14972,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "generated_at": "2026-11-22T14:57:30+00:00",
+    "trends": [
+      "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "[tech] A real Linux kernel, compiled to WebAssembly",
+      "[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "[tech] Show HN: I built a game where you are an LLM's subagent",
+      "[tech] Lean verification of the Riemann Hypothesis",
+      "[tech] Sandwich Simulator",
+      "[tech] Self-hosted library branch over public web OPDS",
+      "[tech] Inkling-2-Mini in 5.4 GB Memory"
+    ],
+    "ideas": [
+      {
+        "name": "Car Parts Saver",
+        "problem": "Automotive owners looking to reduce repair costs by finding standardized, affordable parts for Toyota, Nissan, and Honda vehicles.",
+        "monetization": "Affiliate marketing with auto parts retailers, premium subscription for advanced part compatibility checks and warranty tracking.",
+        "theme": "Automotive Consumer",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      },
+      {
+        "name": "Cancer Breakthrough Tracker",
+        "problem": "Individuals and families seeking reliable, easy-to-understand updates on significant medical breakthroughs like the pancreatic cancer pill.",
+        "monetization": "Freemium model: basic news feed free, premium subscription for in-depth analysis, expert interviews, and research paper summaries.",
+        "theme": "Health News Consumer",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Agent Showcase",
+        "problem": "Developers interested in showcasing and discovering novel applications of LLM subagents in games and interactive experiences.",
+        "monetization": "Platform fee for featured showcases, premium features for developers to promote their projects, potential for in-app purchases for featured games.",
+        "theme": "AI Developer Tools",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      },
+      {
+        "name": "WebAssembly Dev Hub",
+        "problem": "Developers needing a centralized platform to explore, share, and learn about WebAssembly applications, including real Linux kernels compiled for it.",
+        "monetization": "Subscription for advanced features (e.g., private repositories, collaboration tools), marketplace for WebAssembly modules.",
+        "theme": "Developer Productivity",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      },
+      {
+        "name": "Digital Library Manager",
+        "problem": "Users with large digital book collections who want to organize and access them easily through a self-hosted, web-accessible library branch.",
+        "monetization": "One-time purchase for the core software, optional cloud sync service subscription, premium themes and customization options.",
+        "theme": "Consumer Productivity",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      },
+      {
+        "name": "Lean Memory AI",
+        "problem": "Researchers and developers working with large AI models like Inkling-2-Mini who need to optimize memory usage and inference speed for smaller devices.",
+        "monetization": "SaaS for businesses and research institutions, tiered pricing based on model size and usage, consulting services for model optimization.",
+        "theme": "AI Efficiency",
+        "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+        "created_at": ""
+      }
+    ]
   }
 ]
