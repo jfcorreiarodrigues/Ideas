@@ -15036,5 +15036,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "generated_at": "2026-11-23T18:50:29+00:00",
+    "trends": [
+      "[tech] Nvidia Reinstates Jensen Huang as CEO",
+      "[tech] Ladybird is now in alpha",
+      "[tech] GLM-5.4: Toward generalized coding with our first loop transformer",
+      "[tech] Kagi Mail (public beta)",
+      "[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file"
+    ],
+    "ideas": [
+      {
+        "name": "Mercury Mission Tracker",
+        "problem": "Amantes de astronomia e entusiastas espaciais perdem detalhes e atualizações sobre missões espaciais complexas como a que alcançou Mercúrio. Este app agregaria informações oficiais e análises.",
+        "monetization": "Freemium com conteúdo premium (análises detalhadas, acesso antecipado a dados) via assinatura mensal de 3.99USD.",
+        "theme": "Space Exploration",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      },
+      {
+        "name": "Linux Desktop Manager",
+        "problem": "Usuários de Linux que precisam executar aplicações Windows frequentemente enfrentam dificuldades de configuração e compatibilidade. Win4wine simplifica isso, mas um app gerenciador visual seria mais acessível.",
+        "monetization": "SaaS B2B com diferentes níveis de licenciamento para empresas e usuários individuais, a partir de 19.99USD/mês.",
+        "theme": "Developer Tools",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      },
+      {
+        "name": "MacBook Haptic Feedback",
+        "problem": "Usuários com dificuldades visuais ou que preferem interação tátil no Mac não possuem ferramentas intuitivas para usar o trackpad para feedback sonoro ou comandos. Nospeaker endereça isso, mas um app focado em navegação e produtividade seria útil.",
+        "monetization": "Compra única de 9.99USD com atualizações futuras gratuitas.",
+        "theme": "Accessibility Tech",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      },
+      {
+        "name": "Coding Assistant Pro",
+        "problem": "Desenvolvedores de IA e machine learning buscam ativamente os modelos mais avançados e eficientes para tarefas de codificação. GLM-5.4 e NariQ mostram o avanço, mas um agregador visual com comparações de performance e requisitos seria valioso.",
+        "monetization": "SaaS B2B 49.99USD/mês por desenvolvedor, com planos empresariais customizados.",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      },
+      {
+        "name": "Nvidia Executive Watch",
+        "problem": "Investidores, analistas e entusiastas da indústria de tecnologia querem acompanhar de perto as decisões estratégicas e liderança de empresas chave como a Nvidia. Este app traria notícias consolidadas, análises e impacto no mercado.",
+        "monetization": "Assinatura Freemium: conteúdo básico gratuito, análises aprofundadas e relatórios exclusivos por 7.99USD/mês.",
+        "theme": "Tech Industry",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      },
+      {
+        "name": "Kagi Mail Helper",
+        "problem": "Usuários que utilizam serviços de e-mail alternativos (como o Kagi Mail) buscam otimizar a organização e o fluxo de trabalho. Este app ofereceria recursos adicionais de filtragem inteligente, agendamento e integração com outras ferramentas de produtividade.",
+        "monetization": "Freemium com funcionalidades avançadas (automações complexas, integração com CRM) via assinatura de 5.99USD/mês.",
+        "theme": "Productivity Consumer",
+        "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+        "created_at": ""
+      }
+    ]
   }
 ]

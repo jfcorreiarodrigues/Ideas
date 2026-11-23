@@ -1,63 +1,63 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T14:57:30+00:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T18:50:29+00:00",
   "trends": [
-    "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs",
-    "[tech] A real Linux kernel, compiled to WebAssembly",
-    "[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-    "[tech] Show HN: I built a game where you are an LLM's subagent",
-    "[tech] Lean verification of the Riemann Hypothesis",
-    "[tech] Sandwich Simulator",
-    "[tech] Self-hosted library branch over public web OPDS",
-    "[tech] Inkling-2-Mini in 5.4 GB Memory"
+    "[tech] Nvidia Reinstates Jensen Huang as CEO",
+    "[tech] Ladybird is now in alpha",
+    "[tech] GLM-5.4: Toward generalized coding with our first loop transformer",
+    "[tech] Kagi Mail (public beta)",
+    "[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+    "[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+    "[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file"
   ],
   "ideas": [
     {
-      "name": "Car Parts Saver",
-      "problem": "Automotive owners looking to reduce repair costs by finding standardized, affordable parts for Toyota, Nissan, and Honda vehicles.",
-      "monetization": "Affiliate marketing with auto parts retailers, premium subscription for advanced part compatibility checks and warranty tracking.",
-      "theme": "Automotive Consumer",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "Mercury Mission Tracker",
+      "problem": "Amantes de astronomia e entusiastas espaciais perdem detalhes e atualizações sobre missões espaciais complexas como a que alcançou Mercúrio. Este app agregaria informações oficiais e análises.",
+      "monetization": "Freemium com conteúdo premium (análises detalhadas, acesso antecipado a dados) via assinatura mensal de 3.99USD.",
+      "theme": "Space Exploration",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     },
     {
-      "name": "Cancer Breakthrough Tracker",
-      "problem": "Individuals and families seeking reliable, easy-to-understand updates on significant medical breakthroughs like the pancreatic cancer pill.",
-      "monetization": "Freemium model: basic news feed free, premium subscription for in-depth analysis, expert interviews, and research paper summaries.",
-      "theme": "Health News Consumer",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "Linux Desktop Manager",
+      "problem": "Usuários de Linux que precisam executar aplicações Windows frequentemente enfrentam dificuldades de configuração e compatibilidade. Win4wine simplifica isso, mas um app gerenciador visual seria mais acessível.",
+      "monetization": "SaaS B2B com diferentes níveis de licenciamento para empresas e usuários individuais, a partir de 19.99USD/mês.",
+      "theme": "Developer Tools",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     },
     {
-      "name": "LLM Agent Showcase",
-      "problem": "Developers interested in showcasing and discovering novel applications of LLM subagents in games and interactive experiences.",
-      "monetization": "Platform fee for featured showcases, premium features for developers to promote their projects, potential for in-app purchases for featured games.",
-      "theme": "AI Developer Tools",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "MacBook Haptic Feedback",
+      "problem": "Usuários com dificuldades visuais ou que preferem interação tátil no Mac não possuem ferramentas intuitivas para usar o trackpad para feedback sonoro ou comandos. Nospeaker endereça isso, mas um app focado em navegação e produtividade seria útil.",
+      "monetization": "Compra única de 9.99USD com atualizações futuras gratuitas.",
+      "theme": "Accessibility Tech",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     },
     {
-      "name": "WebAssembly Dev Hub",
-      "problem": "Developers needing a centralized platform to explore, share, and learn about WebAssembly applications, including real Linux kernels compiled for it.",
-      "monetization": "Subscription for advanced features (e.g., private repositories, collaboration tools), marketplace for WebAssembly modules.",
-      "theme": "Developer Productivity",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "Coding Assistant Pro",
+      "problem": "Desenvolvedores de IA e machine learning buscam ativamente os modelos mais avançados e eficientes para tarefas de codificação. GLM-5.4 e NariQ mostram o avanço, mas um agregador visual com comparações de performance e requisitos seria valioso.",
+      "monetization": "SaaS B2B 49.99USD/mês por desenvolvedor, com planos empresariais customizados.",
+      "theme": "AI Dev Tools",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     },
     {
-      "name": "Digital Library Manager",
-      "problem": "Users with large digital book collections who want to organize and access them easily through a self-hosted, web-accessible library branch.",
-      "monetization": "One-time purchase for the core software, optional cloud sync service subscription, premium themes and customization options.",
-      "theme": "Consumer Productivity",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "Nvidia Executive Watch",
+      "problem": "Investidores, analistas e entusiastas da indústria de tecnologia querem acompanhar de perto as decisões estratégicas e liderança de empresas chave como a Nvidia. Este app traria notícias consolidadas, análises e impacto no mercado.",
+      "monetization": "Assinatura Freemium: conteúdo básico gratuito, análises aprofundadas e relatórios exclusivos por 7.99USD/mês.",
+      "theme": "Tech Industry",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     },
     {
-      "name": "Lean Memory AI",
-      "problem": "Researchers and developers working with large AI models like Inkling-2-Mini who need to optimize memory usage and inference speed for smaller devices.",
-      "monetization": "SaaS for businesses and research institutions, tiered pricing based on model size and usage, consulting services for model optimization.",
-      "theme": "AI Efficiency",
-      "trends_context": "[tech] Toyota, Nissan, and Honda to standardize parts to lower costs\n[tech] A real Linux kernel, compiled to WebAssembly\n[tech] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\n[tech] Show HN: I built a game where you are an LLM's subagent\n[tech] Lean verification of the Riemann Hypothesis\n[tech] Sandwich Simulator\n[tech] Self-hosted library branch over public web OPDS\n[tech] Inkling-2-Mini in 5.4 GB Memory",
+      "name": "Kagi Mail Helper",
+      "problem": "Usuários que utilizam serviços de e-mail alternativos (como o Kagi Mail) buscam otimizar a organização e o fluxo de trabalho. Este app ofereceria recursos adicionais de filtragem inteligente, agendamento e integração com outras ferramentas de produtividade.",
+      "monetization": "Freemium com funcionalidades avançadas (automações complexas, integração com CRM) via assinatura de 5.99USD/mês.",
+      "theme": "Productivity Consumer",
+      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "created_at": ""
     }
   ]
