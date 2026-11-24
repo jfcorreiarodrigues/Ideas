@@ -1,63 +1,63 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T18:50:29+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T18:26:50+00:00",
   "trends": [
-    "[tech] Nvidia Reinstates Jensen Huang as CEO",
-    "[tech] Ladybird is now in alpha",
-    "[tech] GLM-5.4: Toward generalized coding with our first loop transformer",
-    "[tech] Kagi Mail (public beta)",
-    "[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-    "[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-    "[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-    "[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file"
+    "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations",
+    "[tech] Jetty Pro",
+    "[tech] Mechanical Pencil: Spray Bottle",
+    "[tech] Splitting USB-C: USB 3 and USB 2 on One Port",
+    "[tech] How to Make a Lovable City",
+    "[tech] A training engine for your local model, using your idle compute",
+    "[tech] 2035 came early",
+    "[tech] The KL Divergence Is Never Negative, Except in PyTorch"
   ],
   "ideas": [
     {
-      "name": "Mercury Mission Tracker",
-      "problem": "Amantes de astronomia e entusiastas espaciais perdem detalhes e atualizações sobre missões espaciais complexas como a que alcançou Mercúrio. Este app agregaria informações oficiais e análises.",
-      "monetization": "Freemium com conteúdo premium (análises detalhadas, acesso antecipado a dados) via assinatura mensal de 3.99USD.",
-      "theme": "Space Exploration",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "name": "Check Point Shield",
+      "problem": "Usuários de Check Point e outras ferramentas de segurança precisam de um agregador de alertas de ameaças e uma forma simplificada de entender o impacto potencial dos ciberataques em suas organizações.",
+      "monetization": "Freemium com recursos avançados de análise e relatórios para empresas (SaaS B2B, tiers a partir de $49/mês).",
+      "theme": "Cybersecurity Consumer",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
       "created_at": ""
     },
     {
-      "name": "Linux Desktop Manager",
-      "problem": "Usuários de Linux que precisam executar aplicações Windows frequentemente enfrentam dificuldades de configuração e compatibilidade. Win4wine simplifica isso, mas um app gerenciador visual seria mais acessível.",
-      "monetization": "SaaS B2B com diferentes níveis de licenciamento para empresas e usuários individuais, a partir de 19.99USD/mês.",
-      "theme": "Developer Tools",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "created_at": ""
-    },
-    {
-      "name": "MacBook Haptic Feedback",
-      "problem": "Usuários com dificuldades visuais ou que preferem interação tátil no Mac não possuem ferramentas intuitivas para usar o trackpad para feedback sonoro ou comandos. Nospeaker endereça isso, mas um app focado em navegação e produtividade seria útil.",
-      "monetization": "Compra única de 9.99USD com atualizações futuras gratuitas.",
-      "theme": "Accessibility Tech",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "created_at": ""
-    },
-    {
-      "name": "Coding Assistant Pro",
-      "problem": "Desenvolvedores de IA e machine learning buscam ativamente os modelos mais avançados e eficientes para tarefas de codificação. GLM-5.4 e NariQ mostram o avanço, mas um agregador visual com comparações de performance e requisitos seria valioso.",
-      "monetization": "SaaS B2B 49.99USD/mês por desenvolvedor, com planos empresariais customizados.",
+      "name": "Local Compute Engine",
+      "problem": "Desenvolvedores e pesquisadores que trabalham com modelos de IA locais precisam de uma maneira eficiente de utilizar o poder de processamento ocioso de seus computadores para treinamento, otimizando custos e tempo.",
+      "monetization": "SaaS B2B com diferentes níveis de acesso e recursos de escalabilidade (a partir de $20/mês por máquina conectada).",
       "theme": "AI Dev Tools",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
       "created_at": ""
     },
     {
-      "name": "Nvidia Executive Watch",
-      "problem": "Investidores, analistas e entusiastas da indústria de tecnologia querem acompanhar de perto as decisões estratégicas e liderança de empresas chave como a Nvidia. Este app traria notícias consolidadas, análises e impacto no mercado.",
-      "monetization": "Assinatura Freemium: conteúdo básico gratuito, análises aprofundadas e relatórios exclusivos por 7.99USD/mês.",
-      "theme": "Tech Industry",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "name": "USB-C Splitter Hub",
+      "problem": "Usuários de dispositivos com poucas portas USB-C e diferentes necessidades de transferência de dados (USB 3 vs. USB 2) precisam de uma solução simples para expandir a funcionalidade de uma única porta sem perda de performance.",
+      "monetization": "Venda direta de hardware com margem de lucro; modelo de e-commerce com programa de afiliados.",
+      "theme": "Consumer Electronics Utility",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
       "created_at": ""
     },
     {
-      "name": "Kagi Mail Helper",
-      "problem": "Usuários que utilizam serviços de e-mail alternativos (como o Kagi Mail) buscam otimizar a organização e o fluxo de trabalho. Este app ofereceria recursos adicionais de filtragem inteligente, agendamento e integração com outras ferramentas de produtividade.",
-      "monetization": "Freemium com funcionalidades avançadas (automações complexas, integração com CRM) via assinatura de 5.99USD/mês.",
-      "theme": "Productivity Consumer",
-      "trends_context": "[tech] Nvidia Reinstates Jensen Huang as CEO\n[tech] Ladybird is now in alpha\n[tech] GLM-5.4: Toward generalized coding with our first loop transformer\n[tech] Kagi Mail (public beta)\n[tech] Spacecraft reaches Mercury on second-ever mission to enter its orbit\n[tech] Win4wine – Run Windows Shell as the Linux Desktop on Wine\n[tech] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor\n[tech] NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "name": "City Lovability Score",
+      "problem": "Cidadãos e planejadores urbanos buscam dados e métricas transparentes para avaliar e melhorar a qualidade de vida e a 'amabilidade' de suas cidades, com base em indicadores sociais, ambientais e de infraestrutura.",
+      "monetization": "Assinatura para acesso a relatórios detalhados e ferramentas de benchmarking para governos locais e consultorias (SaaS B2G, $199/mês).",
+      "theme": "Urban Planning Insights",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+      "created_at": ""
+    },
+    {
+      "name": "Mechanical Pencil Pro",
+      "problem": "Artistas, designers e estudantes que preferem a sensibilidade do desenho a lápis, mas buscam a consistência e durabilidade de um lápis mecânico de alta qualidade, com design inovador e funcional.",
+      "monetization": "Venda direta de produto premium em lojas especializadas e online, com margens de lucro significativas.",
+      "theme": "Creative Tools Consumer",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+      "created_at": ""
+    },
+    {
+      "name": "Idle Compute AI",
+      "problem": "Indivíduos e pequenas empresas com poder de computação ocioso (CPUs, GPUs) querem monetizá-lo de forma segura e fácil, enquanto desenvolvedores de IA buscam recursos de computação descentralizada e acessível.",
+      "monetization": "Marketplace com comissão sobre transações (5-10%); taxas para provedores de serviços de segurança e validação.",
+      "theme": "Decentralized Compute Marketplace",
+      "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
       "created_at": ""
     }
   ]

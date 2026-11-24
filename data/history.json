@@ -15100,5 +15100,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "generated_at": "2026-11-24T18:26:50+00:00",
+    "trends": [
+      "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "[tech] Jetty Pro",
+      "[tech] Mechanical Pencil: Spray Bottle",
+      "[tech] Splitting USB-C: USB 3 and USB 2 on One Port",
+      "[tech] How to Make a Lovable City",
+      "[tech] A training engine for your local model, using your idle compute",
+      "[tech] 2035 came early",
+      "[tech] The KL Divergence Is Never Negative, Except in PyTorch"
+    ],
+    "ideas": [
+      {
+        "name": "Check Point Shield",
+        "problem": "Usuários de Check Point e outras ferramentas de segurança precisam de um agregador de alertas de ameaças e uma forma simplificada de entender o impacto potencial dos ciberataques em suas organizações.",
+        "monetization": "Freemium com recursos avançados de análise e relatórios para empresas (SaaS B2B, tiers a partir de $49/mês).",
+        "theme": "Cybersecurity Consumer",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      },
+      {
+        "name": "Local Compute Engine",
+        "problem": "Desenvolvedores e pesquisadores que trabalham com modelos de IA locais precisam de uma maneira eficiente de utilizar o poder de processamento ocioso de seus computadores para treinamento, otimizando custos e tempo.",
+        "monetization": "SaaS B2B com diferentes níveis de acesso e recursos de escalabilidade (a partir de $20/mês por máquina conectada).",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      },
+      {
+        "name": "USB-C Splitter Hub",
+        "problem": "Usuários de dispositivos com poucas portas USB-C e diferentes necessidades de transferência de dados (USB 3 vs. USB 2) precisam de uma solução simples para expandir a funcionalidade de uma única porta sem perda de performance.",
+        "monetization": "Venda direta de hardware com margem de lucro; modelo de e-commerce com programa de afiliados.",
+        "theme": "Consumer Electronics Utility",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      },
+      {
+        "name": "City Lovability Score",
+        "problem": "Cidadãos e planejadores urbanos buscam dados e métricas transparentes para avaliar e melhorar a qualidade de vida e a 'amabilidade' de suas cidades, com base em indicadores sociais, ambientais e de infraestrutura.",
+        "monetization": "Assinatura para acesso a relatórios detalhados e ferramentas de benchmarking para governos locais e consultorias (SaaS B2G, $199/mês).",
+        "theme": "Urban Planning Insights",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      },
+      {
+        "name": "Mechanical Pencil Pro",
+        "problem": "Artistas, designers e estudantes que preferem a sensibilidade do desenho a lápis, mas buscam a consistência e durabilidade de um lápis mecânico de alta qualidade, com design inovador e funcional.",
+        "monetization": "Venda direta de produto premium em lojas especializadas e online, com margens de lucro significativas.",
+        "theme": "Creative Tools Consumer",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      },
+      {
+        "name": "Idle Compute AI",
+        "problem": "Indivíduos e pequenas empresas com poder de computação ocioso (CPUs, GPUs) querem monetizá-lo de forma segura e fácil, enquanto desenvolvedores de IA buscam recursos de computação descentralizada e acessível.",
+        "monetization": "Marketplace com comissão sobre transações (5-10%); taxas para provedores de serviços de segurança e validação.",
+        "theme": "Decentralized Compute Marketplace",
+        "trends_context": "[tech] Cyberattack campaign compromising Check Point servers across 22 organizations\n[tech] Jetty Pro\n[tech] Mechanical Pencil: Spray Bottle\n[tech] Splitting USB-C: USB 3 and USB 2 on One Port\n[tech] How to Make a Lovable City\n[tech] A training engine for your local model, using your idle compute\n[tech] 2035 came early\n[tech] The KL Divergence Is Never Negative, Except in PyTorch",
+        "created_at": ""
+      }
+    ]
   }
 ]
