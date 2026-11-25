@@ -15164,5 +15164,69 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "generated_at": "2026-11-25T17:41:23+00:00",
+    "trends": [
+      "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "[tech] Investigating degraded experiences across GitHub products",
+      "[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "[tech] Predicting LoRA size for any dataset",
+      "[tech] I checked Clojure's core with Lean and found unreported bugs",
+      "[tech] Button Sounds – collection of professionally-recorded button clicks and presses",
+      "[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs"
+    ],
+    "ideas": [
+      {
+        "name": "GitHub Bug Detector",
+        "problem": "Developers using GitHub often face unexpected bugs due to complex codebases. This app analyzes GitHub project commits and issues to proactively identify potential bugs and suggest fixes, saving developers time and preventing production issues.",
+        "monetization": "SaaS B2B 19USD/mes por repositório",
+        "theme": "Tech Dev Tools",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      },
+      {
+        "name": "MP3 Player Companion",
+        "problem": "Enthusiasts with older MP3 players often struggle with firmware updates or finding compatible software. This webapp provides a curated repository of custom firmware, tools, and guides for obscure MP3 players, enabling users to revive and enhance their devices.",
+        "monetization": "Freemium + Doações",
+        "theme": "Consumer Retro Tech",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      },
+      {
+        "name": "PipeWire Audio Tuner",
+        "problem": "Users of PipeWire on Linux often desire fine-grained control over audio equalization and loudness settings. This mobile app offers an intuitive interface to adjust and save custom PipeWire audio profiles, mimicking the functionality of advanced desktop audio software.",
+        "monetization": "Freemium + IAP 2.99USD para perfis avançados",
+        "theme": "Tech Audio",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      },
+      {
+        "name": "Clojure Bug Finder",
+        "problem": "Clojure developers seeking robust code verification can benefit from automated static analysis. This tool integrates with Clojure projects, leveraging formal verification techniques to detect subtle, unreported bugs in core libraries and user code.",
+        "monetization": "SaaS B2B 25USD/mes por projeto",
+        "theme": "Tech Dev Tools",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      },
+      {
+        "name": "Home Depot Gardener",
+        "problem": "Amateur gardeners who purchase plants from big-box stores like Home Depot may lack specific care instructions tailored to their purchases. This app uses image recognition to identify plants and provide detailed watering, sunlight, and fertilizer recommendations based on common retention pond conditions.",
+        "monetization": "Freemium + Patrocínio de marcas de jardinagem",
+        "theme": "Consumer DIY",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      },
+      {
+        "name": "LLM Dataset Predictor",
+        "problem": "Machine learning practitioners working with LoRA models need to estimate dataset sizes for optimal training. This tool allows users to input dataset characteristics and desired model performance, providing an accurate prediction of the required LoRA model size and training duration.",
+        "monetization": "SaaS B2B 10USD/previsão",
+        "theme": "AI Dev Tools",
+        "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "created_at": ""
+      }
+    ]
   }
 ]
