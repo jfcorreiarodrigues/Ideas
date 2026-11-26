@@ -15228,5 +15228,61 @@
         "created_at": ""
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "generated_at": "2026-11-26T17:24:24+00:00",
+    "trends": [
+      "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "[tech] NP_R ≠ PAR_R",
+      "[tech] AMD Specific Patches for Llama.cpp",
+      "[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "[tech] Intel One Mono font",
+      "[tech] Tell HN: Happy Thanksgiving",
+      "[tech] Curiosity Is No Solo Act",
+      "[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser"
+    ],
+    "ideas": [
+      {
+        "name": "NixOS Package Manager",
+        "problem": "Usuários do NixOS frequentemente buscam pacotes específicos ou configuram ambientes complexos. Um aplicativo móvel para gerenciar pacotes, configurar sistemas e verificar dependências de forma intuitiva.",
+        "monetization": "Freemium com recursos avançados de sincronização e gerenciamento remoto via assinatura mensal (5.99 USD).",
+        "theme": "Linux Utility",
+        "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "created_at": ""
+      },
+      {
+        "name": "Font Explorer Pro",
+        "problem": "Designers e desenvolvedores que utilizam fontes personalizadas como a Intel One Mono enfrentam o desafio de gerenciar, pré-visualizar e comparar diferentes tipografias em seus projetos. Um app para organizar, testar e encontrar novas fontes.",
+        "monetization": "Assinatura anual para acesso a bibliotecas premium de fontes e ferramentas avançadas de comparação (24.99 USD/ano).",
+        "theme": "Design Tools",
+        "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "created_at": ""
+      },
+      {
+        "name": "Llama.cpp Tuner",
+        "problem": "Entusiastas de IA que rodam modelos como Llama.cpp localmente precisam otimizar o desempenho em hardware específico, como GPUs AMD. Um app que permite ajustes finos de parâmetros e monitoramento de performance em tempo real.",
+        "monetization": "Assinatura premium para acesso a perfis de otimização pré-configurados e suporte prioritário (9.99 USD/mês).",
+        "theme": "AI Performance",
+        "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "created_at": ""
+      },
+      {
+        "name": "Nextcloud Sync Manager",
+        "problem": "Usuários do Nextcloud que precisam gerenciar múltiplos dispositivos e sincronizar arquivos de forma eficiente. Um app que oferece controle granular sobre pastas sincronizadas, status de upload/download e gerenciamento de espaço.",
+        "monetization": "Freemium com limite de dispositivos, e um plano pago para sincronização ilimitada e backups automáticos (4.99 USD/mês).",
+        "theme": "Cloud Sync",
+        "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "created_at": ""
+      },
+      {
+        "name": "Curiosity Journal",
+        "problem": "Indivíduos interessados em aprender e explorar novas ideias, como sugerido pela tendência 'Curiosity Is No Solo Act'. Um aplicativo para capturar, organizar e revisitar pensamentos curiosos, links interessantes e aprendizados diários.",
+        "monetization": "Assinatura para recursos de IA que geram prompts de exploração baseados em entradas e para colaboração em grupo (3.99 USD/mês).",
+        "theme": "Personal Growth",
+        "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "created_at": ""
+      }
+    ]
   }
 ]

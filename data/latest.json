@@ -1,63 +1,55 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:41:23+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T17:24:24+00:00",
   "trends": [
-    "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond",
-    "[tech] Investigating degraded experiences across GitHub products",
-    "[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-    "[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-    "[tech] Predicting LoRA size for any dataset",
-    "[tech] I checked Clojure's core with Lean and found unreported bugs",
-    "[tech] Button Sounds – collection of professionally-recorded button clicks and presses",
-    "[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs"
+    "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+    "[tech] NP_R ≠ PAR_R",
+    "[tech] AMD Specific Patches for Llama.cpp",
+    "[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "[tech] Intel One Mono font",
+    "[tech] Tell HN: Happy Thanksgiving",
+    "[tech] Curiosity Is No Solo Act",
+    "[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser"
   ],
   "ideas": [
     {
-      "name": "GitHub Bug Detector",
-      "problem": "Developers using GitHub often face unexpected bugs due to complex codebases. This app analyzes GitHub project commits and issues to proactively identify potential bugs and suggest fixes, saving developers time and preventing production issues.",
-      "monetization": "SaaS B2B 19USD/mes por repositório",
-      "theme": "Tech Dev Tools",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "name": "NixOS Package Manager",
+      "problem": "Usuários do NixOS frequentemente buscam pacotes específicos ou configuram ambientes complexos. Um aplicativo móvel para gerenciar pacotes, configurar sistemas e verificar dependências de forma intuitiva.",
+      "monetization": "Freemium com recursos avançados de sincronização e gerenciamento remoto via assinatura mensal (5.99 USD).",
+      "theme": "Linux Utility",
+      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "created_at": ""
     },
     {
-      "name": "MP3 Player Companion",
-      "problem": "Enthusiasts with older MP3 players often struggle with firmware updates or finding compatible software. This webapp provides a curated repository of custom firmware, tools, and guides for obscure MP3 players, enabling users to revive and enhance their devices.",
-      "monetization": "Freemium + Doações",
-      "theme": "Consumer Retro Tech",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "name": "Font Explorer Pro",
+      "problem": "Designers e desenvolvedores que utilizam fontes personalizadas como a Intel One Mono enfrentam o desafio de gerenciar, pré-visualizar e comparar diferentes tipografias em seus projetos. Um app para organizar, testar e encontrar novas fontes.",
+      "monetization": "Assinatura anual para acesso a bibliotecas premium de fontes e ferramentas avançadas de comparação (24.99 USD/ano).",
+      "theme": "Design Tools",
+      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "created_at": ""
     },
     {
-      "name": "PipeWire Audio Tuner",
-      "problem": "Users of PipeWire on Linux often desire fine-grained control over audio equalization and loudness settings. This mobile app offers an intuitive interface to adjust and save custom PipeWire audio profiles, mimicking the functionality of advanced desktop audio software.",
-      "monetization": "Freemium + IAP 2.99USD para perfis avançados",
-      "theme": "Tech Audio",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "name": "Llama.cpp Tuner",
+      "problem": "Entusiastas de IA que rodam modelos como Llama.cpp localmente precisam otimizar o desempenho em hardware específico, como GPUs AMD. Um app que permite ajustes finos de parâmetros e monitoramento de performance em tempo real.",
+      "monetization": "Assinatura premium para acesso a perfis de otimização pré-configurados e suporte prioritário (9.99 USD/mês).",
+      "theme": "AI Performance",
+      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "created_at": ""
     },
     {
-      "name": "Clojure Bug Finder",
-      "problem": "Clojure developers seeking robust code verification can benefit from automated static analysis. This tool integrates with Clojure projects, leveraging formal verification techniques to detect subtle, unreported bugs in core libraries and user code.",
-      "monetization": "SaaS B2B 25USD/mes por projeto",
-      "theme": "Tech Dev Tools",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "name": "Nextcloud Sync Manager",
+      "problem": "Usuários do Nextcloud que precisam gerenciar múltiplos dispositivos e sincronizar arquivos de forma eficiente. Um app que oferece controle granular sobre pastas sincronizadas, status de upload/download e gerenciamento de espaço.",
+      "monetization": "Freemium com limite de dispositivos, e um plano pago para sincronização ilimitada e backups automáticos (4.99 USD/mês).",
+      "theme": "Cloud Sync",
+      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "created_at": ""
     },
     {
-      "name": "Home Depot Gardener",
-      "problem": "Amateur gardeners who purchase plants from big-box stores like Home Depot may lack specific care instructions tailored to their purchases. This app uses image recognition to identify plants and provide detailed watering, sunlight, and fertilizer recommendations based on common retention pond conditions.",
-      "monetization": "Freemium + Patrocínio de marcas de jardinagem",
-      "theme": "Consumer DIY",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-      "created_at": ""
-    },
-    {
-      "name": "LLM Dataset Predictor",
-      "problem": "Machine learning practitioners working with LoRA models need to estimate dataset sizes for optimal training. This tool allows users to input dataset characteristics and desired model performance, providing an accurate prediction of the required LoRA model size and training duration.",
-      "monetization": "SaaS B2B 10USD/previsão",
-      "theme": "AI Dev Tools",
-      "trends_context": "[tech] A few questions for the guy who went snorkeling in a Home Depot retention pond\n[tech] Investigating degraded experiences across GitHub products\n[tech] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More\n[tech] Windows Loudness Equalization, reverse-engineered and ported to PipeWire\n[tech] Predicting LoRA size for any dataset\n[tech] I checked Clojure's core with Lean and found unreported bugs\n[tech] Button Sounds – collection of professionally-recorded button clicks and presses\n[tech] Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "name": "Curiosity Journal",
+      "problem": "Indivíduos interessados em aprender e explorar novas ideias, como sugerido pela tendência 'Curiosity Is No Solo Act'. Um aplicativo para capturar, organizar e revisitar pensamentos curiosos, links interessantes e aprendizados diários.",
+      "monetization": "Assinatura para recursos de IA que geram prompts de exploração baseados em entradas e para colaboração em grupo (3.99 USD/mês).",
+      "theme": "Personal Growth",
+      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
       "created_at": ""
     }
   ]
