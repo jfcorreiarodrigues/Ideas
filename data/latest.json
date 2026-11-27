@@ -1,55 +1,63 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T17:24:24+00:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:03:08+00:00",
   "trends": [
-    "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-    "[tech] NP_R ≠ PAR_R",
-    "[tech] AMD Specific Patches for Llama.cpp",
-    "[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-    "[tech] Intel One Mono font",
-    "[tech] Tell HN: Happy Thanksgiving",
-    "[tech] Curiosity Is No Solo Act",
-    "[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser"
+    "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "[tech] Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "[tech] First images of the impact of DART asteroid deflection experiment",
+    "[tech] False Computer-Checked Proofs",
+    "[tech] Kimi for Science: More scientific ideas, made possible",
+    "[tech] The group chat where your AI talks behind your back",
+    "[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "[tech] AI made self-hosting fun again"
   ],
   "ideas": [
     {
-      "name": "NixOS Package Manager",
-      "problem": "Usuários do NixOS frequentemente buscam pacotes específicos ou configuram ambientes complexos. Um aplicativo móvel para gerenciar pacotes, configurar sistemas e verificar dependências de forma intuitiva.",
-      "monetization": "Freemium com recursos avançados de sincronização e gerenciamento remoto via assinatura mensal (5.99 USD).",
-      "theme": "Linux Utility",
-      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "name": "Asteroid Impact Tracker",
+      "problem": "Educators and space enthusiasts want an engaging way to visualize and understand the science behind asteroid deflection missions. Provides interactive simulations and data visualization based on real mission results.",
+      "monetization": "Freemium with premium educational content for schools (Subscription $10/month/school).",
+      "theme": "Science Education",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
       "created_at": ""
     },
     {
-      "name": "Font Explorer Pro",
-      "problem": "Designers e desenvolvedores que utilizam fontes personalizadas como a Intel One Mono enfrentam o desafio de gerenciar, pré-visualizar e comparar diferentes tipografias em seus projetos. Um app para organizar, testar e encontrar novas fontes.",
-      "monetization": "Assinatura anual para acesso a bibliotecas premium de fontes e ferramentas avançadas de comparação (24.99 USD/ano).",
-      "theme": "Design Tools",
-      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "name": "WebRTC Skimming Detector",
+      "problem": "Online store owners are concerned about sophisticated credit card skimming attacks targeting their websites. This app scans for and alerts them to malicious WebRTC scripts and suspicious code patterns.",
+      "monetization": "SaaS B2B (Subscription $49/month for small businesses, $199/month for larger e-commerce platforms).",
+      "theme": "E-commerce Security",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
       "created_at": ""
     },
     {
-      "name": "Llama.cpp Tuner",
-      "problem": "Entusiastas de IA que rodam modelos como Llama.cpp localmente precisam otimizar o desempenho em hardware específico, como GPUs AMD. Um app que permite ajustes finos de parâmetros e monitoramento de performance em tempo real.",
-      "monetization": "Assinatura premium para acesso a perfis de otimização pré-configurados e suporte prioritário (9.99 USD/mês).",
-      "theme": "AI Performance",
-      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "name": "AI Behind the Scenes",
+      "problem": "Users of AI-powered group chats and assistants want transparency and understanding of how their AI agents communicate and learn from each other. This tool visualizes AI interactions and potential biases.",
+      "monetization": "Freemium with advanced analytics and custom AI interaction rules (Subscription $5/month).",
+      "theme": "AI Ethics",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
       "created_at": ""
     },
     {
-      "name": "Nextcloud Sync Manager",
-      "problem": "Usuários do Nextcloud que precisam gerenciar múltiplos dispositivos e sincronizar arquivos de forma eficiente. Um app que oferece controle granular sobre pastas sincronizadas, status de upload/download e gerenciamento de espaço.",
-      "monetization": "Freemium com limite de dispositivos, e um plano pago para sincronização ilimitada e backups automáticos (4.99 USD/mês).",
-      "theme": "Cloud Sync",
-      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "name": "Proof Checker Pro",
+      "problem": "Researchers and students working with formal proofs struggle with errors in computer-checked verification. This app provides advanced tools for identifying subtle logical flaws and inconsistencies in proofs.",
+      "monetization": "One-time purchase ($29.99) or Subscription for advanced features ($7.99/month).",
+      "theme": "Academic Tools",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
       "created_at": ""
     },
     {
-      "name": "Curiosity Journal",
-      "problem": "Indivíduos interessados em aprender e explorar novas ideias, como sugerido pela tendência 'Curiosity Is No Solo Act'. Um aplicativo para capturar, organizar e revisitar pensamentos curiosos, links interessantes e aprendizados diários.",
-      "monetization": "Assinatura para recursos de IA que geram prompts de exploração baseados em entradas e para colaboração em grupo (3.99 USD/mês).",
-      "theme": "Personal Growth",
-      "trends_context": "[tech] Euro-Office comes to your desktop with the Nextcloud Office Desktop app\n[tech] NP_R ≠ PAR_R\n[tech] AMD Specific Patches for Llama.cpp\n[tech] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening\n[tech] Intel One Mono font\n[tech] Tell HN: Happy Thanksgiving\n[tech] Curiosity Is No Solo Act\n[tech] Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "name": "Hobbyist Prediction Market",
+      "problem": "Individuals enjoy engaging in playful predictions about everyday events or niche interests without real financial risk. This app creates a fun, accessible prediction market for users to test their foresight.",
+      "monetization": "Freemium with cosmetic upgrades and participation in premium prediction challenges (IAP $1.99-$9.99).",
+      "theme": "Gamified Prediction",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
+      "created_at": ""
+    },
+    {
+      "name": "Self-Hosting Companion",
+      "problem": "Developers and tech enthusiasts looking to self-host applications find the process complex and time-consuming. This app simplifies setup, monitoring, and maintenance of self-hosted services with user-friendly guides and automation.",
+      "monetization": "Subscription ($15/month for basic, $45/month for advanced features and community support).",
+      "theme": "Developer Productivity",
+      "trends_context": "[tech] Show HN: bouncemarket – a live prediction market game for a bouncing ball\n[tech] Credit card skimming scripts using WebRTC found on popular shopping sites\n[tech] First images of the impact of DART asteroid deflection experiment\n[tech] False Computer-Checked Proofs\n[tech] Kimi for Science: More scientific ideas, made possible\n[tech] The group chat where your AI talks behind your back\n[tech] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]\n[tech] AI made self-hosting fun again",
       "created_at": ""
     }
   ]
